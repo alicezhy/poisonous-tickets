@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从安阳开往商丘的K5392快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K5392 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 安阳  
+发车时间 | 11:20  
+到站时间 | 16:37  
+全程时间 | 5小时17分  
+终点站 | 商丘  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [安阳](/huoche/zhan/anyang.htm)| -| 11:20| 0分| -  
+2| [新乡](/huoche/zhan/xinxiang2.htm)| 12:32| 12:39| 7分| -  
+3| [郑州](/huoche/zhan/zhengzhou.htm)| 13:40| 14:00| 20分| -  
+4| [开封](/huoche/zhan/kaifeng.htm)| 14:46| 14:51| 5分| -  
+5| [兰考](/huoche/zhan/lankao.htm)| 15:19| 15:24| 5分| -  
+6| [民权](/huoche/zhan/minquan.htm)| 15:46| 15:50| 4分| -  
+7| [宁陵县](/huoche/zhan/ninglingxian.htm)| 16:05| 16:09| 4分| -  
+8| [商丘](/huoche/zhan/shangqiu.htm)| 16:37| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

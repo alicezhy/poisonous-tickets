@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从青岛开往天津西的G172高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G172 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 青岛  
+发车时间 | 09:00  
+到站时间 | 13:25  
+全程时间 | 4小时25分  
+终点站 | 天津西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [青岛](/huoche/zhan/qingdao.htm)| \----| 09:00| 0分| -  
+2| [潍坊](/huoche/zhan/weifang.htm)| 10:09| 10:12| 3分| -  
+3| [淄博](/huoche/zhan/zibo.htm)| 10:47| 10:49| 2分| -  
+4| [章丘](/huoche/zhan/zhangqiu.htm)| 11:14| 11:16| 2分| -  
+5| [济南](/huoche/zhan/jinan.htm)| 11:42| 11:45| 3分| -  
+6| [济南西](/huoche/zhan/jinanxi.htm)| 12:01| 12:07| 6分| -  
+7| [德州东](/huoche/zhan/dezhoudong.htm)| 12:31| 12:34| 3分| -  
+8| [天津西](/huoche/zhan/tianjinxi.htm)| 13:25| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

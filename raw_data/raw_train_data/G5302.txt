@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从厦门开往武夷山东的G5302高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G5302 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 厦门  
+发车时间 | 07:01  
+到站时间 | 10:27  
+全程时间 | 3小时26分  
+终点站 | 武夷山东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [厦门](/huoche/zhan/xiamen.htm)| -| 07:01| 0分| -  
+2| [厦门北](/huoche/zhan/xiamenbei.htm)| 07:23| 07:25| 2分| -  
+3| [晋江](/huoche/zhan/jinjiang.htm)| 07:43| 07:45| 2分| -  
+4| [惠安](/huoche/zhan/huian.htm)| 08:03| 08:06| 3分| -  
+5| [涵江](/huoche/zhan/hanjiang.htm)| 08:33| 08:35| 2分| -  
+6| [福清](/huoche/zhan/fuqing.htm)| 08:49| 08:51| 2分| -  
+7| [福州](/huoche/zhan/fuzhou.htm)| 09:17| 09:23| 6分| -  
+8| [闽清北](/huoche/zhan/minqingbei.htm)| 09:42| 09:44| 2分| -  
+9| [武夷山东](/huoche/zhan/wuyishandong.htm)| 10:27| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

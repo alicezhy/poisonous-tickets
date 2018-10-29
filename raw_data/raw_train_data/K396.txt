@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从乌海西开往北京西的K396快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K396 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 乌海西  
+发车时间 | 17:07  
+到站时间 | 09:55  
+全程时间 | 16小时48分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [乌海西](/huoche/zhan/wuhaixi.htm)| -| 17:07| 0分| -  
+2| [乌海](/huoche/zhan/wuhai.htm)| 17:28| 17:32| 4分| -  
+3| [巴彦高勒](/huoche/zhan/bayangaole.htm)| 18:28| 18:30| 2分| -  
+4| [临河](/huoche/zhan/linhe.htm)| 19:11| 19:17| 6分| -  
+5| [乌拉特前旗](/huoche/zhan/wulateqianqi.htm)| 20:23| 20:25| 2分| -  
+6| [包头](/huoche/zhan/baotou.htm)| 21:34| 21:54| 20分| -  
+7| [包头东](/huoche/zhan/baotoudong.htm)| 22:09| 22:13| 4分| -  
+8| [呼和浩特](/huoche/zhan/huhehaote.htm)| 23:42| 23:52| 10分| -  
+9| [集宁南](/huoche/zhan/jiningnan.htm)| 01:24| 01:33| 9分| -  
+10| [丰镇](/huoche/zhan/fengzhen.htm)| 02:42| 02:59| 17分| -  
+11| [大同](/huoche/zhan/datong.htm)| 03:43| 03:55| 12分| -  
+12| [沙岭子西](/huoche/zhan/shalingzixi.htm)| 06:23| 06:29| 6分| -  
+13| [宣化](/huoche/zhan/xuanhua.htm)| 06:48| 06:51| 3分| -  
+14| [沙城](/huoche/zhan/shacheng.htm)| 07:34| 07:40| 6分| -  
+15| [北京西](/huoche/zhan/beijingxi.htm)| 09:55| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

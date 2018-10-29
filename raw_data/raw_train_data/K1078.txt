@@ -1,0 +1,62 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从宁波开往重庆北的K1078快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1078 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 宁波  
+发车时间 | 08:40  
+到站时间 | 15:29  
+全程时间 | 30小时49分  
+终点站 | 重庆北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [宁波](/huoche/zhan/ningbo.htm)| -| 08:40| 0分| -  
+2| [余姚](/huoche/zhan/yuyao.htm)| 09:19| 09:22| 3分| -  
+3| [上虞](/huoche/zhan/shangyu.htm)| 09:46| 09:49| 3分| -  
+4| [绍兴](/huoche/zhan/shaoxing.htm)| 10:13| 10:16| 3分| -  
+5| [义乌](/huoche/zhan/yiwu.htm)| 11:56| 11:59| 3分| -  
+6| [衢州](/huoche/zhan/quzhou.htm)| 13:45| 13:48| 3分| -  
+7| [上饶](/huoche/zhan/shangrao.htm)| 15:19| 15:25| 6分| -  
+8| [鹰潭](/huoche/zhan/yingtan.htm)| 16:40| 16:48| 8分| -  
+9| [东乡](/huoche/zhan/dongxiang.htm)| 17:13| 17:17| 4分| -  
+10| [进贤](/huoche/zhan/jinxian.htm)| 17:45| 17:56| 11分| -  
+11| [丰城](/huoche/zhan/fengcheng.htm)| 18:33| 18:37| 4分| -  
+12| [新余](/huoche/zhan/xinyu.htm)| 19:38| 19:42| 4分| -  
+13| [分宜](/huoche/zhan/fenyi.htm)| 20:02| 20:05| 3分| -  
+14| [宜春](/huoche/zhan/yichun.htm)| 20:23| 20:27| 4分| -  
+15| [萍乡](/huoche/zhan/pingxiang.htm)| 21:11| 21:15| 4分| -  
+16| [醴陵](/huoche/zhan/liling.htm)| 21:40| 21:44| 4分| -  
+17| [株洲](/huoche/zhan/zhuzhou.htm)| 22:26| 22:46| 20分| -  
+18| [湘潭](/huoche/zhan/xiangtan2.htm)| 23:12| 23:21| 9分| -  
+19| [娄底](/huoche/zhan/loudi.htm)| 00:28| 00:34| 6分| -  
+20| [怀化](/huoche/zhan/huaihua.htm)| 04:45| 05:10| 25分| -  
+21| [铜仁](/huoche/zhan/tongren.htm)| 06:59| 07:05| 6分| -  
+22| [松桃](/huoche/zhan/songtao.htm)| 08:02| 08:09| 7分| -  
+23| [秀山](/huoche/zhan/xiushan.htm)| 08:50| 08:56| 6分| -  
+24| [酉阳](/huoche/zhan/youyang.htm)| 09:39| 09:45| 6分| -  
+25| [彭水](/huoche/zhan/pengshui.htm)| 11:39| 11:42| 3分| -  
+26| [武隆](/huoche/zhan/wulong.htm)| 12:28| 12:34| 6分| -  
+27| [涪陵](/huoche/zhan/fuling.htm)| 13:23| 13:30| 7分| -  
+28| [重庆北](/huoche/zhan/chongqingbei.htm)| 15:29| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

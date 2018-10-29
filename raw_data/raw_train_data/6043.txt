@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从邯郸开往长治北的6043普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 6043 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 邯郸  
+发车时间 | 12:48  
+到站时间 | 18:58  
+全程时间 | 6小时10分  
+终点站 | 长治北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [邯郸](/huoche/zhan/handan.htm)| -| 12:48| 0分| -  
+2| [武安](/huoche/zhan/wuan.htm)| 13:28| 13:30| 2分| -  
+3| [午汲](/huoche/zhan/wuji5.htm)| 13:39| 13:41| 2分| -  
+4| [磁山](/huoche/zhan/cishan.htm)| 13:51| 13:57| 6分| -  
+5| [徘徊北](/huoche/zhan/paihuaibei.htm)| 14:11| 14:13| 2分| -  
+6| [新固镇](/huoche/zhan/XinGuZhen.htm)| 14:21| 14:23| 2分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

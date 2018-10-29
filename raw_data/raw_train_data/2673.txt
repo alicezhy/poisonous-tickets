@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从太原开往晋城的2673普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 2673 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 太原  
+发车时间 | 07:00  
+到站时间 | 14:15  
+全程时间 | 7小时15分  
+终点站 | 晋城  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [太原](/huoche/zhan/taiyuan.htm)| \----| 07:00| 0分| -  
+2| [榆次](/huoche/zhan/yuci.htm)| 07:25| 07:29| 4分| -  
+3| [榆社](/huoche/zhan/yushe.htm)| 09:30| 09:33| 3分| -  
+4| [武乡](/huoche/zhan/wuxiang.htm)| 10:08| 10:11| 3分| -  
+5| [沁县](/huoche/zhan/qinxian.htm)| 10:37| 10:40| 3分| -  
+6| [襄垣](/huoche/zhan/xiangyuan.htm)| 11:37| 11:39| 2分| -  
+7| [长治北](/huoche/zhan/changzhibei.htm)| 12:06| 12:12| 6分| -  
+8| [长治](/huoche/zhan/changzhi.htm)| 12:26| 12:30| 4分| -  
+9| [高平](/huoche/zhan/gaoping2.htm)| 13:20| 13:24| 4分| -  
+10| [晋城](/huoche/zhan/jincheng2.htm)| 14:15| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

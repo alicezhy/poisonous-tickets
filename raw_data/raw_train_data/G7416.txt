@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从黄山北开往合肥南的G7416高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7416 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 黄山北  
+发车时间 | 13:55  
+到站时间 | 15:57  
+全程时间 | 2小时2分  
+终点站 | 合肥南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [黄山北](/huoche/zhan/huangshanbei.htm)| \----| 13:55| 0分| -  
+2| [歙县北](/huoche/zhan/shexianbei.htm)| 14:03| 14:05| 2分| -  
+3| [绩溪北](/huoche/zhan/jixibei.htm)| 14:16| 14:18| 2分| -  
+4| [泾县](/huoche/zhan/jingxian.htm)| 14:38| 14:40| 2分| -  
+5| [铜陵北](/huoche/zhan/tonglingbei.htm)| 14:57| 14:59| 2分| -  
+6| [无为](/huoche/zhan/mowei.htm)| 15:11| 15:13| 2分| -  
+7| [巢湖东](/huoche/zhan/chaohudong.htm)| 15:26| 15:28| 2分| -  
+8| [长临河](/huoche/zhan/changlinhe.htm)| 15:43| 15:45| 2分| -  
+9| [合肥南](/huoche/zhan/hefeinan.htm)| 15:57| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从荣成开往青岛北的C6576城际高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | C6576 |  
+---|---|---|---  
+车型 | 城际高铁  
+始发站 | 荣成  
+发车时间 | 19:30  
+到站时间 | 21:42  
+全程时间 | 2小时12分  
+终点站 | 青岛北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [荣成](/huoche/zhan/rongcheng.htm)| -| 19:30| 0分| -  
+2| [文登东](/huoche/zhan/wendengdong.htm)| 19:42| 19:44| 2分| -  
+3| [威海](/huoche/zhan/weihai.htm)| 19:56| 19:58| 2分| -  
+4| [烟台南](/huoche/zhan/yantainan.htm)| 20:25| 20:27| 2分| -  
+5| [莱阳](/huoche/zhan/laiyang.htm)| 21:00| 21:02| 2分| -  
+6| [青岛北](/huoche/zhan/qingdaobei.htm)| 21:42| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从乌海西开往天津的1135普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 1135 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 乌海西  
+发车时间 | 14:54  
+到站时间 | 11:30  
+全程时间 | 20小时36分  
+终点站 | 天津  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [乌海西](/huoche/zhan/wuhaixi.htm)| \----| 14:54| 0分| -  
+2| [乌海](/huoche/zhan/wuhai.htm)| 15:15| 15:19| 4分| -  
+3| [巴彦高勒](/huoche/zhan/bayangaole.htm)| 16:15| 16:17| 2分| -  
+4| [临河](/huoche/zhan/linhe.htm)| 16:58| 17:06| 8分| -  
+5| [五原](/huoche/zhan/wuyuan.htm)| 17:41| 17:43| 2分| -  
+6| [乌拉特前旗](/huoche/zhan/wulateqianqi.htm)| 18:17| 18:21| 4分| -  
+7| [包头](/huoche/zhan/baotou.htm)| 19:30| 19:42| 12分| -  
+8| [包头东](/huoche/zhan/baotoudong.htm)| 19:57| 20:01| 4分| -  
+9| [萨拉齐](/huoche/zhan/salaqi.htm)| 20:46| 20:50| 4分| -  
+10| [呼和浩特](/huoche/zhan/huhehaote.htm)| 21:55| 22:23| 28分| -  
+11| [集宁南](/huoche/zhan/jiningnan.htm)| 00:09| 00:17| 8分| -  
+12| [丰镇](/huoche/zhan/fengzhen.htm)| 01:32| 01:48| 16分| -  
+13| [大同](/huoche/zhan/datong.htm)| 02:34| 02:45| 11分| -  
+14| [阳高](/huoche/zhan/yanggao.htm)| 03:28| 03:30| 2分| -  
+15| [沙岭子西](/huoche/zhan/shalingzixi.htm)| 05:19| 05:25| 6分| -  
+16| [宣化](/huoche/zhan/xuanhua.htm)| 05:44| 05:46| 2分| -  
+17| [下花园](/huoche/zhan/xiahuayuan.htm)| 06:06| 06:08| 2分| -  
+18| [黄村](/huoche/zhan/huangcun.htm)| 09:33| 09:35| 2分| -  
+19| [廊坊北](/huoche/zhan/langfangbei.htm)| 10:17| 10:28| 11分| -  
+20| [杨村](/huoche/zhan/yangcun.htm)| 10:51| 10:57| 6分| -  
+21| [天津](/huoche/zhan/tianjin.htm)| 11:30| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

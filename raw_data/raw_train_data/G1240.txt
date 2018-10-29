@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从石家庄开往哈尔滨西的G1240高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1240 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 石家庄  
+发车时间 | 08:52  
+到站时间 | 17:28  
+全程时间 | 8小时36分  
+终点站 | 哈尔滨西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [石家庄](/huoche/zhan/shijiazhuang2.htm)| \----| 08:52| 0分| -  
+2| [保定东](/huoche/zhan/baodingdong.htm)| 09:28| 09:30| 2分| -  
+3| [白洋淀](/huoche/zhan/baiyangdian.htm)| 09:44| 09:46| 2分| -  
+4| [天津西](/huoche/zhan/tianjinxi.htm)| 10:28| 10:44| 16分| -  
+5| [天津](/huoche/zhan/tianjin.htm)| 10:52| 10:54| 2分| -  
+6| [滨海](/huoche/zhan/binhai.htm)| 11:10| 11:12| 2分| -  
+7| [唐山](/huoche/zhan/tangshan.htm)| 11:33| 11:36| 3分| -  
+8| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 12:13| 12:22| 9分| -  
+9| [山海关](/huoche/zhan/shanhaiguan.htm)| 12:36| 12:39| 3分| -  
+10| [葫芦岛北](/huoche/zhan/huludaobei.htm)| 13:24| 13:26| 2分| -  
+11| [盘锦北](/huoche/zhan/panjinbei.htm)| 14:05| 14:06| 1分| -  
+12| [沈阳北](/huoche/zhan/shenyangbei.htm)| 15:07| 15:10| 3分| -  
+13| [铁岭西](/huoche/zhan/tielingxi.htm)| 15:28| 15:30| 2分| -  
+14| [四平东](/huoche/zhan/sipingdong.htm)| 16:01| 16:03| 2分| -  
+15| [长春西](/huoche/zhan/changchunxi.htm)| 16:29| 16:31| 2分| -  
+16| [哈尔滨西](/huoche/zhan/haerbinxi.htm)| 17:28| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

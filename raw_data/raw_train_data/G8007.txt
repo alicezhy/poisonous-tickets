@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从大连开往吉林的G8007高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G8007 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 大连  
+发车时间 | 09:15  
+到站时间 | 13:36  
+全程时间 | 4小时21分  
+终点站 | 吉林  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [大连](/huoche/zhan/dalian.htm)| -| 09:15| 0分| -  
+2| [瓦房店西](/huoche/zhan/wafangdianxi.htm)| 09:56| 09:58| 2分| -  
+3| [鲅鱼圈](/huoche/zhan/bayuquan.htm)| 10:17| 10:19| 2分| -  
+4| [辽阳](/huoche/zhan/liaoyang.htm)| 10:59| 11:00| 1分| -  
+5| [沈阳北](/huoche/zhan/shenyangbei.htm)| 11:28| 11:31| 3分| -  
+6| [四平东](/huoche/zhan/sipingdong.htm)| 12:17| 12:19| 2分| -  
+7| [长春](/huoche/zhan/changchun.htm)| 12:53| 12:56| 3分| -  
+8| [吉林](/huoche/zhan/jilin.htm)| 13:36| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,41 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从哈尔滨西开往齐齐哈尔的D6915动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D6915 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 哈尔滨西  
+发车时间 | 11:40  
+到站时间 | 13:40  
+全程时间 | 2小时0分  
+终点站 | 齐齐哈尔  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [哈尔滨西](/huoche/zhan/haerbinxi.htm)| -| 11:40| 0分| -  
+2| [哈尔滨](/huoche/zhan/haerbin.htm)| 11:50| 11:52| 2分| -  
+4| [肇东](/huoche/zhan/zhaodong2.htm)| 12:16| 12:18| 2分| -  
+5| [安达](/huoche/zhan/anda.htm)| 12:38| 12:40| 2分| -  
+6| [大庆西](/huoche/zhan/daqingxi.htm)| 12:55| 12:57| 2分| -  
+7| [齐齐哈尔南](/huoche/zhan/qiqihaernan.htm)| 13:28| 13:31| 3分| -  
+8| [齐齐哈尔](/huoche/zhan/qiqihaer.htm)| 13:40| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

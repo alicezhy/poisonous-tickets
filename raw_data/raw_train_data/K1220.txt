@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从宁波开往南昌的K1220快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1220 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 宁波  
+发车时间 | 13:55  
+到站时间 | 05:35  
+全程时间 | 15小时40分  
+终点站 | 南昌  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [宁波](/huoche/zhan/ningbo.htm)| -| 13:55| 0分| -  
+2| [余姚](/huoche/zhan/yuyao.htm)| 14:34| 14:38| 4分| -  
+3| [上虞](/huoche/zhan/shangyu.htm)| 15:04| 15:07| 3分| -  
+4| [绍兴](/huoche/zhan/shaoxing.htm)| 15:31| 15:34| 3分| -  
+5| [杭州](/huoche/zhan/hangzhou.htm)| 16:44| 16:58| 14分| -  
+6| [德清西](/huoche/zhan/deqingxi.htm)| 17:43| 17:46| 3分| -  
+7| [长兴南](/huoche/zhan/changxingnan.htm)| 18:26| 18:31| 5分| -  
+8| [广德](/huoche/zhan/guangde.htm)| 19:06| 19:11| 5分| -  
+9| [宣城](/huoche/zhan/xuancheng.htm)| 20:02| 20:05| 3分| -  
+10| [芜湖](/huoche/zhan/wuhu.htm)| 21:00| 21:25| 25分| -  
+11| [铜陵](/huoche/zhan/tongling2.htm)| 23:01| 23:06| 5分| -  
+12| [池州](/huoche/zhan/chizhou.htm)| 23:47| 23:53| 6分| -  
+13| [东至](/huoche/zhan/dongzhi.htm)| 00:54| 01:30| 36分| -  
+14| [彭泽](/huoche/zhan/pengze.htm)| 02:24| 02:27| 3分| -  
+16| [九江](/huoche/zhan/jiujiang.htm)| 03:13| 03:21| 8分| -  
+17| [南昌](/huoche/zhan/nanchang.htm)| 05:35| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

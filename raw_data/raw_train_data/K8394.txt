@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从如东开往南京的K8394快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K8394 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 如东  
+发车时间 | 14:10  
+到站时间 | 18:06  
+全程时间 | 3小时56分  
+终点站 | 南京  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [如东](/huoche/zhan/rudong.htm)| -| 14:10| 0分| -  
+2| [栟茶](/huoche/zhan/bencha.htm)| 14:32| 14:36| 4分| -  
+3| [海安县](/huoche/zhan/haianxian.htm)| 15:04| 15:11| 7分| -  
+4| [泰州](/huoche/zhan/taizhou.htm)| 15:45| 15:51| 6分| -  
+5| [扬州](/huoche/zhan/yangzhou.htm)| 16:31| 16:36| 5分| -  
+6| [南京](/huoche/zhan/nanjing.htm)| 18:06| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

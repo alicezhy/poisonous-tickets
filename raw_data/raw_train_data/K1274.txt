@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从杭州开往成都的K1274快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1274 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 杭州  
+发车时间 | 12:21  
+到站时间 | 06:14  
+全程时间 | 41小时53分  
+终点站 | 成都  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [杭州](/huoche/zhan/hangzhou.htm)| -| 12:21| 0分| -  
+2| [义乌](/huoche/zhan/yiwu.htm)| 13:39| 13:42| 3分| -  
+3| [龙游](/huoche/zhan/longyou.htm)| 15:01| 15:10| 9分| -  
+4| [衢州](/huoche/zhan/quzhou.htm)| 15:33| 15:36| 3分| -  
+5| [玉山](/huoche/zhan/yushan.htm)| 17:06| 17:10| 4分| -  
+6| [上饶](/huoche/zhan/shangrao.htm)| 17:32| 17:36| 4分| -  
+7| [鹰潭](/huoche/zhan/yingtan.htm)| 19:00| 19:06| 6分| -  
+8| [东乡](/huoche/zhan/dongxiang.htm)| 19:31| 19:35| 4分| -  
+9| [新余](/huoche/zhan/xinyu.htm)| 21:42| 21:46| 4分| -  
+10| [宜春](/huoche/zhan/yichun.htm)| 22:26| 22:29| 3分| -  
+11| [萍乡](/huoche/zhan/pingxiang.htm)| 23:13| 23:17| 4分| -  
+12| [株洲](/huoche/zhan/zhuzhou.htm)| 00:21| 00:45| 24分| -  
+13| [溆浦](/huoche/zhan/xupu.htm)| 04:58| 05:01| 3分| -  
+14| [怀化](/huoche/zhan/huaihua.htm)| 06:26| 06:38| 12分| -  
+15| [凯里](/huoche/zhan/kaili.htm)| 10:33| 10:37| 4分| -  
+16| [贵阳](/huoche/zhan/guiyang.htm)| 13:04| 13:38| 34分| -  
+17| [六枝](/huoche/zhan/liuzhi.htm)| 15:33| 15:38| 5分| -  
+18| [六盘水](/huoche/zhan/liupanshui.htm)| 17:14| 17:23| 9分| -  
+19| [昭通](/huoche/zhan/zhaotong.htm)| 19:56| 20:03| 7分| -  
+20| [宜宾](/huoche/zhan/yibin.htm)| 00:02| 00:07| 5分| -  
+21| [自贡](/huoche/zhan/zigong.htm)| 01:34| 01:37| 3分| -  
+22| [内江](/huoche/zhan/najiang.htm)| 02:22| 02:30| 8分| -  
+23| [成都](/huoche/zhan/chengdu.htm)| 06:14| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

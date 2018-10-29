@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京西开往重庆北的G309高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G309 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 北京西  
+发车时间 | 08:23  
+到站时间 | 20:28  
+全程时间 | 12小时5分  
+终点站 | 重庆北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京西](/huoche/zhan/beijingxi.htm)| -| 08:23| 0分| -  
+2| [涿州东](/huoche/zhan/zhuozhoudong.htm)| 08:48| 08:50| 2分| -  
+3| [保定东](/huoche/zhan/baodingdong.htm)| 09:11| 09:17| 6分| -  
+4| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 09:53| 09:55| 2分| -  
+5| [邯郸东](/huoche/zhan/handandong.htm)| 10:34| 10:53| 19分| -  
+6| [安阳东](/huoche/zhan/anyangdong.htm)| 11:10| 11:12| 2分| -  
+7| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 11:54| 11:57| 3分| -  
+8| [汉口](/huoche/zhan/hankou.htm)| 13:49| 13:55| 6分| -  
+9| [潜江](/huoche/zhan/qianjiang2.htm)| 14:46| 14:50| 4分| -  
+10| [宜昌东](/huoche/zhan/yichangdong.htm)| 15:46| 15:53| 7分| -  
+11| [建始](/huoche/zhan/jianshi.htm)| 17:18| 17:27| 9分| -  
+12| [恩施](/huoche/zhan/enshi.htm)| 17:50| 17:55| 5分| -  
+13| [利川](/huoche/zhan/lichuan.htm)| 18:29| 18:31| 2分| -  
+14| [丰都](/huoche/zhan/fengdu.htm)| 19:26| 19:28| 2分| -  
+15| [涪陵北](/huoche/zhan/fulingbei.htm)| 19:49| 19:51| 2分| -  
+16| [重庆北](/huoche/zhan/chongqingbei.htm)| 20:28| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从运城北开往原平西的D5310动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D5310 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 运城北  
+发车时间 | 14:02  
+到站时间 | 17:28  
+全程时间 | 3小时26分  
+终点站 | 原平西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [运城北](/huoche/zhan/yunchengbei.htm)| \----| 14:02| 0分| -  
+2| [侯马西](/huoche/zhan/houmaxi.htm)| 14:24| 14:26| 2分| -  
+3| [临汾西](/huoche/zhan/linfenxi.htm)| 14:46| 14:48| 2分| -  
+4| [灵石东](/huoche/zhan/lingshidong.htm)| 15:22| 15:24| 2分| -  
+5| [太谷西](/huoche/zhan/taiguxi.htm)| 15:52| 15:54| 2分| -  
+6| [太原南](/huoche/zhan/taiyuannan.htm)| 16:14| 16:29| 15分| -  
+7| [阳曲西](/huoche/zhan/yangquxi.htm)| 16:53| 16:56| 3分| -  
+8| [忻州西](/huoche/zhan/xinzhouxi.htm)| 17:11| 17:14| 3分| -  
+9| [原平西](/huoche/zhan/yuanpingxi.htm)| 17:28| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

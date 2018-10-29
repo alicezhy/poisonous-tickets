@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从安庆开往上海虹桥的G7143高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7143 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 安庆  
+发车时间 | 13:52  
+到站时间 | 17:53  
+全程时间 | 4小时1分  
+终点站 | 上海虹桥  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [安庆](/huoche/zhan/anqing2.htm)| -| 13:52| 0分| -  
+2| [池州](/huoche/zhan/chizhou.htm)| 14:11| 14:13| 2分| -  
+3| [铜陵](/huoche/zhan/tongling2.htm)| 14:33| 14:35| 2分| -  
+4| [芜湖](/huoche/zhan/wuhu.htm)| 15:06| 15:08| 2分| -  
+5| [马鞍山东](/huoche/zhan/maanshandong.htm)| 15:26| 15:28| 2分| -  
+6| [南京南](/huoche/zhan/nanjingnan.htm)| 15:46| 15:49| 3分| -  
+7| [镇江](/huoche/zhan/zhenjiang.htm)| 16:15| 16:21| 6分| -  
+8| [常州](/huoche/zhan/changzhou.htm)| 16:44| 16:46| 2分| -  
+9| [无锡](/huoche/zhan/wuxi.htm)| 17:00| 17:02| 2分| -  
+10| [苏州](/huoche/zhan/suzhou.htm)| 17:17| 17:19| 2分| -  
+11| [昆山南](/huoche/zhan/kunshannan.htm)| 17:31| 17:35| 4分| -  
+12| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 17:53| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

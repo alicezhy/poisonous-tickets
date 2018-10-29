@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南京开往衢州的G7355高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7355 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 南京  
+发车时间 | 07:35  
+到站时间 | 12:00  
+全程时间 | 4小时25分  
+终点站 | 衢州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南京](/huoche/zhan/nanjing.htm)| -| 07:35| 0分| -  
+2| [镇江](/huoche/zhan/zhenjiang.htm)| 07:55| 07:57| 2分| -  
+3| [丹阳](/huoche/zhan/danyang.htm)| 08:10| 08:12| 2分| -  
+4| [常州](/huoche/zhan/changzhou.htm)| 08:27| 08:29| 2分| -  
+5| [惠山](/huoche/zhan/huishan.htm)| 08:40| 08:41| 1分| -  
+6| [无锡](/huoche/zhan/wuxi.htm)| 08:49| 08:51| 2分| -  
+7| [苏州](/huoche/zhan/suzhou.htm)| 09:06| 09:08| 2分| -  
+8| [昆山南](/huoche/zhan/kunshannan.htm)| 09:20| 09:26| 6分| -  
+9| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 09:44| 09:46| 2分| -  
+10| [嘉兴南](/huoche/zhan/jiaxingnan.htm)| 10:14| 10:16| 2分| -  
+11| [杭州东](/huoche/zhan/hangzhoudong.htm)| 10:40| 10:46| 6分| -  
+12| [诸暨](/huoche/zhan/zhuji.htm)| 11:09| 11:11| 2分| -  
+13| [金华](/huoche/zhan/jinhua.htm)| 11:36| 11:38| 2分| -  
+14| [衢州](/huoche/zhan/quzhou.htm)| 12:00| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

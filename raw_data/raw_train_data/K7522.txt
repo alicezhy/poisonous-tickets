@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从通化开往四平的K7522快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7522 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 通化  
+发车时间 | 06:27  
+到站时间 | 12:32  
+全程时间 | 6小时5分  
+终点站 | 四平  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [通化](/huoche/zhan/tonghua.htm)| -| 06:27| 0分| -  
+2| [三源浦](/huoche/zhan/sanyuanpu.htm)| 07:39| 07:43| 4分| -  
+3| [五道沟](/huoche/zhan/wudaogou.htm)| 08:01| 08:04| 3分| -  
+4| [驼腰岭](/huoche/zhan/tuoyaoling.htm)| 08:14| 08:17| 3分| -  
+5| [柳河](/huoche/zhan/liuhe2.htm)| 08:41| 08:48| 7分| -  
+6| [梅河口](/huoche/zhan/meihekou.htm)| 09:32| 09:42| 10分| -  
+7| [东丰](/huoche/zhan/dongfeng.htm)| 10:06| 10:14| 8分| -  
+8| [辽源](/huoche/zhan/liaoyuan.htm)| 10:55| 11:03| 8分| -  
+9| [白泉](/huoche/zhan/baiquan.htm)| 11:15| 11:17| 2分| -  
+10| [石岭](/huoche/zhan/shiling.htm)| 11:48| 11:51| 3分| -  
+11| [四平](/huoche/zhan/siping.htm)| 12:32| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

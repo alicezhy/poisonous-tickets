@@ -1,0 +1,61 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从厦门北开往北京南的G356高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G356 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 厦门北  
+发车时间 | 10:59  
+到站时间 | 22:24  
+全程时间 | 11小时25分  
+终点站 | 北京南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [厦门北](/huoche/zhan/xiamenbei.htm)| \----| 10:59| 0分| -  
+2| [泉州](/huoche/zhan/quanzhou2.htm)| 11:24| 11:26| 2分| -  
+3| [仙游](/huoche/zhan/xianyou.htm)| 11:44| 11:46| 2分| -  
+4| [莆田](/huoche/zhan/putian.htm)| 11:57| 11:59| 2分| -  
+5| [福清](/huoche/zhan/fuqing.htm)| 12:18| 12:20| 2分| -  
+6| [福州](/huoche/zhan/fuzhou.htm)| 12:47| 12:52| 5分| -  
+7| [南平北](/huoche/zhan/nanpingbei.htm)| 13:26| 13:28| 2分| -  
+8| [武夷山东](/huoche/zhan/wuyishandong.htm)| 13:55| 13:57| 2分| -  
+9| [上饶](/huoche/zhan/shangrao.htm)| 14:26| 14:28| 2分| -  
+10| [德兴](/huoche/zhan/dexing.htm)| 14:45| 14:47| 2分| -  
+11| [黄山北](/huoche/zhan/huangshanbei.htm)| 15:17| 15:22| 5分| -  
+12| [歙县北](/huoche/zhan/shexianbei.htm)| 15:30| 15:32| 2分| -  
+13| [旌德](/huoche/zhan/jingde.htm)| 15:49| 15:51| 2分| -  
+14| [铜陵北](/huoche/zhan/tonglingbei.htm)| 16:17| 16:20| 3分| -  
+15| [巢湖东](/huoche/zhan/chaohudong.htm)| 16:40| 16:42| 2分| -  
+16| [合肥南](/huoche/zhan/hefeinan.htm)| 17:04| 17:10| 6分| -  
+17| [水家湖](/huoche/zhan/shuijiahu.htm)| 17:44| 17:46| 2分| -  
+18| [淮南东](/huoche/zhan/huainandong.htm)| 17:55| 17:57| 2分| -  
+19| [蚌埠南](/huoche/zhan/bengbunan.htm)| 18:14| 18:16| 2分| -  
+20| [徐州东](/huoche/zhan/xuzhoudong.htm)| 18:53| 18:55| 2分| -  
+21| [枣庄](/huoche/zhan/zaozhuang.htm)| 19:13| 19:15| 2分| -  
+22| [滕州东](/huoche/zhan/tengzhoudong.htm)| 19:28| 19:42| 14分| -  
+23| [泰安](/huoche/zhan/taian2.htm)| 20:13| 20:17| 4分| -  
+24| [德州东](/huoche/zhan/dezhoudong.htm)| 20:53| 20:56| 3分| -  
+25| [沧州西](/huoche/zhan/cangzhouxi.htm)| 21:23| 21:26| 3分| -  
+26| [廊坊](/huoche/zhan/langfang.htm)| 22:01| 22:03| 2分| -  
+27| [北京南](/huoche/zhan/beijingnan.htm)| 22:24| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

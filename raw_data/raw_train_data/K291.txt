@@ -1,0 +1,58 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海开往成都的K291快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K291 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 上海  
+发车时间 | 08:51  
+到站时间 | 18:30  
+全程时间 | 33小时39分  
+终点站 | 成都  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海](/huoche/zhan/shanghai.htm)| -| 08:51| 0分| -  
+2| [苏州](/huoche/zhan/suzhou.htm)| 09:54| 09:58| 4分| -  
+3| [无锡](/huoche/zhan/wuxi.htm)| 10:27| 10:31| 4分| -  
+4| [常州](/huoche/zhan/changzhou.htm)| 10:58| 11:01| 3分| -  
+5| [南京](/huoche/zhan/nanjing.htm)| 12:41| 12:47| 6分| -  
+6| [滁州北](/huoche/zhan/chuzhoubei.htm)| 13:33| 13:37| 4分| -  
+7| [蚌埠](/huoche/zhan/bengbu.htm)| 15:05| 15:14| 9分| -  
+8| [宿州](/huoche/zhan/suzhou2.htm)| 16:16| 16:19| 3分| -  
+9| [徐州](/huoche/zhan/xuzhou.htm)| 17:27| 17:41| 14分| -  
+10| [夏邑县](/huoche/zhan/xiayixian.htm)| 18:52| 18:56| 4分| -  
+11| [商丘](/huoche/zhan/shangqiu.htm)| 19:21| 19:24| 3分| -  
+12| [兰考](/huoche/zhan/lankao.htm)| 20:20| 20:23| 3分| -  
+13| [开封](/huoche/zhan/kaifeng.htm)| 20:55| 20:58| 3分| -  
+14| [郑州](/huoche/zhan/zhengzhou.htm)| 21:44| 21:59| 15分| -  
+15| [洛阳](/huoche/zhan/luoyang.htm)| 23:34| 23:40| 6分| -  
+16| [西安南](/huoche/zhan/xiannan.htm)| 04:41| 04:49| 8分| -  
+17| [安康](/huoche/zhan/ankang.htm)| 07:56| 08:16| 20分| -  
+18| [宣汉](/huoche/zhan/xuanhan.htm)| 11:39| 11:43| 4分| -  
+19| [达州](/huoche/zhan/dazhou.htm)| 12:35| 13:10| 35分| -  
+20| [营山](/huoche/zhan/yingshan2.htm)| 14:20| 14:40| 20分| -  
+21| [蓬安](/huoche/zhan/pengan.htm)| 14:53| 14:56| 3分| -  
+22| [南充](/huoche/zhan/nanchong.htm)| 15:23| 15:32| 9分| -  
+23| [遂宁](/huoche/zhan/suining.htm)| 16:13| 16:27| 14分| -  
+24| [成都](/huoche/zhan/chengdu.htm)| 18:30| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

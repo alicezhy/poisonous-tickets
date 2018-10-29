@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海虹桥开往南昌西的G1387高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1387 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 上海虹桥  
+发车时间 | 12:20  
+到站时间 | 16:13  
+全程时间 | 3小时53分  
+终点站 | 南昌西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| -| 12:20| 0分| -  
+2| [嘉兴南](/huoche/zhan/jiaxingnan.htm)| 12:47| 12:50| 3分| -  
+3| [海宁西](/huoche/zhan/hainingxi.htm)| 13:05| 13:07| 2分| -  
+4| [杭州东](/huoche/zhan/hangzhoudong.htm)| 13:21| 13:23| 2分| -  
+5| [义乌](/huoche/zhan/yiwu.htm)| 13:55| 13:57| 2分| -  
+6| [龙游](/huoche/zhan/longyou.htm)| 14:23| 14:27| 4分| -  
+7| [上饶](/huoche/zhan/shangrao.htm)| 15:00| 15:02| 2分| -  
+8| [鹰潭北](/huoche/zhan/yingtanbei.htm)| 15:28| 15:30| 2分| -  
+9| [进贤南](/huoche/zhan/jinxiannan.htm)| 15:52| 15:54| 2分| -  
+10| [南昌西](/huoche/zhan/nanchangxi.htm)| 16:13| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

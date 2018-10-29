@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从兰州开往成都的K2618快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K2618 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 兰州  
+发车时间 | 08:16  
+到站时间 | 19:15  
+全程时间 | 10小时59分  
+终点站 | 成都  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [兰州](/huoche/zhan/lanzhou.htm)| -| 08:16| 0分| -  
+2| [渭源](/huoche/zhan/weiyuan.htm)| 09:42| 09:45| 3分| -  
+3| [漳县](/huoche/zhan/zhangxian2.htm)| 10:15| 10:18| 3分| -  
+4| [岷县](/huoche/zhan/minxian.htm)| 10:43| 10:46| 3分| -  
+5| [陇南](/huoche/zhan/longnan2.htm)| 12:20| 12:30| 10分| -  
+7| [广元](/huoche/zhan/guangyuan.htm)| 14:02| 14:13| 11分| -  
+8| [江油](/huoche/zhan/jiangyou.htm)| 16:51| 16:57| 6分| -  
+9| [绵阳](/huoche/zhan/mianyang.htm)| 17:34| 17:40| 6分| -  
+10| [德阳](/huoche/zhan/deyang.htm)| 18:22| 18:27| 5分| -  
+11| [成都](/huoche/zhan/chengdu.htm)| 19:15| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

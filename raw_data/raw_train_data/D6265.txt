@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南昌开往南昌的D6265动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D6265 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 南昌  
+发车时间 | 15:23  
+到站时间 | 21:34  
+全程时间 | 6小时11分  
+终点站 | 南昌  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南昌](/huoche/zhan/nanchang.htm)| \----| 15:23| 0分| -  
+2| [进贤南](/huoche/zhan/jinxiannan.htm)| 15:50| 15:56| 6分| -  
+3| [鹰潭北](/huoche/zhan/yingtanbei.htm)| 16:20| 16:22| 2分| -  
+4| [弋阳](/huoche/zhan/yiyang3.htm)| 16:36| 16:47| 11分| -  
+5| [上饶](/huoche/zhan/shangrao.htm)| 17:23| 17:44| 21分| -  
+6| [德兴](/huoche/zhan/dexing.htm)| 18:03| 18:08| 5分| -  
+7| [婺源](/huoche/zhan/wuyuan2.htm)| 18:20| 18:22| 2分| -  
+8| [景德镇北](/huoche/zhan/jingdezhenbei.htm)| 18:50| 18:54| 4分| -  
+9| [鄱阳](/huoche/zhan/poyang.htm)| 19:13| 19:15| 2分| -  
+10| [都昌](/huoche/zhan/duchang.htm)| 19:36| 19:38| 2分| -  
+11| [湖口](/huoche/zhan/hukou.htm)| 19:54| 19:56| 2分| -  
+12| [九江](/huoche/zhan/jiujiang.htm)| 20:14| 20:20| 6分| -  
+13| [德安](/huoche/zhan/dean.htm)| 20:43| 20:45| 2分| -  
+14| [共青城](/huoche/zhan/gongqingcheng.htm)| 20:51| 20:53| 2分| -  
+15| [永修](/huoche/zhan/yongxiu.htm)| 21:05| 21:12| 7分| -  
+16| [南昌](/huoche/zhan/nanchang.htm)| 21:34| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

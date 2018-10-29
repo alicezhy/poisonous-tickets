@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从柳州开往广州南的D2955动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D2955 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 柳州  
+发车时间 | 12:36  
+到站时间 | 17:10  
+全程时间 | 4小时34分  
+终点站 | 广州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [柳州](/huoche/zhan/liuzhou.htm)| -| 12:36| 0分| -  
+2| [鹿寨北](/huoche/zhan/luzhaibei.htm)| 13:04| 13:06| 2分| -  
+3| [永福南](/huoche/zhan/yongfunan.htm)| 13:28| 13:30| 2分| -  
+4| [桂林](/huoche/zhan/guilin.htm)| 13:53| 14:03| 10分| -  
+5| [桂林北](/huoche/zhan/guilinbei.htm)| 14:14| 14:22| 8分| -  
+6| [恭城](/huoche/zhan/gongcheng.htm)| 14:55| 14:58| 3分| -  
+7| [贺州](/huoche/zhan/hezhou.htm)| 15:27| 15:29| 2分| -  
+8| [肇庆东](/huoche/zhan/zhaoqingdong.htm)| 16:26| 16:28| 2分| -  
+9| [佛山西](/huoche/zhan/foshanxi.htm)| 16:47| 16:49| 2分| -  
+10| [广州南](/huoche/zhan/guangzhounan.htm)| 17:10| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

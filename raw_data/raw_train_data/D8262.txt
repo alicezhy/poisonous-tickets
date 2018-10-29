@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从贺州开往南宁东的D8262动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D8262 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 贺州  
+发车时间 | 08:06  
+到站时间 | 12:14  
+全程时间 | 4小时8分  
+终点站 | 南宁东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [贺州](/huoche/zhan/hezhou.htm)| \----| 08:06| 0分| -  
+2| [钟山西](/huoche/zhan/zhongshanxi.htm)| 08:18| 08:20| 2分| -  
+3| [恭城](/huoche/zhan/gongcheng.htm)| 08:41| 08:43| 2分| -  
+4| [阳朔](/huoche/zhan/yangshuo.htm)| 08:57| 08:59| 2分| -  
+5| [桂林北](/huoche/zhan/guilinbei.htm)| 09:25| 09:29| 4分| -  
+6| [桂林](/huoche/zhan/guilin.htm)| 09:40| 09:43| 3分| -  
+7| [永福南](/huoche/zhan/yongfunan.htm)| 10:05| 10:07| 2分| -  
+8| [柳州](/huoche/zhan/liuzhou.htm)| 10:54| 10:58| 4分| -  
+9| [来宾北](/huoche/zhan/laibinbei.htm)| 11:23| 11:25| 2分| -  
+10| [宾阳](/huoche/zhan/binyang.htm)| 11:46| 11:48| 2分| -  
+11| [南宁东](/huoche/zhan/nanningdong.htm)| 12:14| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

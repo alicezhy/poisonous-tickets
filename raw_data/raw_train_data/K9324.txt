@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从博白开往南宁的K9324快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K9324 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 博白  
+发车时间 | 15:15  
+到站时间 | 20:10  
+全程时间 | 4小时55分  
+终点站 | 南宁  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [博白](/huoche/zhan/bobai.htm)| -| 15:15| 0分| -  
+2| [玉林](/huoche/zhan/yulin.htm)| 15:57| 16:17| 20分| -  
+3| [贵港](/huoche/zhan/guigang.htm)| 17:18| 17:23| 5分| -  
+4| [黎塘](/huoche/zhan/litang.htm)| 18:10| 18:15| 5分| -  
+5| [南宁东](/huoche/zhan/nanningdong.htm)| 19:48| 19:56| 8分| -  
+6| [南宁](/huoche/zhan/nanning.htm)| 20:10| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

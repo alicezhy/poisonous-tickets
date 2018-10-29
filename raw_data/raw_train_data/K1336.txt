@@ -1,0 +1,62 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从济南开往伊宁的K1336快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1336 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 济南  
+发车时间 | 16:10  
+到站时间 | 17:05  
+全程时间 | 48小时55分  
+终点站 | 伊宁  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [济南](/huoche/zhan/jinan.htm)| -| 16:10| 0分| -  
+2| [晏城](/huoche/zhan/yancheng.htm)| 16:41| 16:50| 9分| -  
+3| [禹城](/huoche/zhan/yucheng.htm)| 17:03| 17:07| 4分| -  
+4| [平原](/huoche/zhan/pingyuan.htm)| 17:31| 17:35| 4分| -  
+5| [德州](/huoche/zhan/dezhou.htm)| 18:08| 18:13| 5分| -  
+6| [衡水](/huoche/zhan/hengshui.htm)| 19:02| 19:08| 6分| -  
+7| [辛集](/huoche/zhan/xinji.htm)| 19:40| 19:42| 2分| -  
+8| [晋州](/huoche/zhan/jinzhou4.htm)| 19:57| 19:59| 2分| -  
+9| [石家庄北](/huoche/zhan/shijiazhuangbei.htm)| 20:49| 21:37| 48分| -  
+10| [太原](/huoche/zhan/taiyuan.htm)| 23:33| 23:51| 18分| -  
+14| [吕梁](/huoche/zhan/lvliang.htm)| 01:49| 02:14| 25分| -  
+15| [定边](/huoche/zhan/dingbian2.htm)| 05:47| 06:06| 19分| -  
+16| [中卫](/huoche/zhan/zhongwei.htm)| 08:42| 08:57| 15分| -  
+17| [武威](/huoche/zhan/wuwei.htm)| 12:27| 12:33| 6分| -  
+18| [金昌](/huoche/zhan/jinchang.htm)| 13:16| 13:22| 6分| -  
+19| [张掖](/huoche/zhan/zhangye.htm)| 15:37| 15:43| 6分| -  
+20| [酒泉](/huoche/zhan/jiuquan.htm)| 18:07| 18:09| 2分| -  
+21| [疏勒河](/huoche/zhan/shulehe.htm)| 20:20| 20:26| 6分| -  
+22| [柳园](/huoche/zhan/liuyuan.htm)| 22:09| 22:29| 20分| -  
+23| [哈密](/huoche/zhan/hami.htm)| 02:16| 02:24| 8分| -  
+24| [鄯善](/huoche/zhan/shanshan.htm)| 05:40| 05:46| 6分| -  
+25| [吐鲁番](/huoche/zhan/tulufan.htm)| 07:27| 07:33| 6分| -  
+27| [乌鲁木齐](/huoche/zhan/wulumuqi.htm)| 09:17| 09:39| 22分| -  
+28| [玛纳斯](/huoche/zhan/manasi.htm)| 11:03| 11:05| 2分| -  
+29| [石河子](/huoche/zhan/shihezi.htm)| 11:18| 11:21| 3分| -  
+30| [沙湾县](/huoche/zhan/shawanxian.htm)| 12:15| 12:17| 2分| -  
+31| [奎屯](/huoche/zhan/kuitun.htm)| 12:53| 13:02| 9分| -  
+32| [伊宁](/huoche/zhan/yining.htm)| 17:05| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

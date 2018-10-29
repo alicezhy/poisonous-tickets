@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从西安开往太原的2096普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 2096 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 西安  
+发车时间 | 19:00  
+到站时间 | 05:38  
+全程时间 | 10小时38分  
+终点站 | 太原  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [西安](/huoche/zhan/xian.htm)| \----| 19:00| 0分| -  
+2| [韦庄](/huoche/zhan/weizhuang.htm)| 20:47| 20:50| 3分| -  
+3| [合阳北](/huoche/zhan/heyangbei.htm)| 21:28| 21:32| 4分| -  
+4| [韩城](/huoche/zhan/hancheng.htm)| 22:13| 22:37| 24分| -  
+5| [河津](/huoche/zhan/hejin2.htm)| 23:27| 23:30| 3分| -  
+6| [稷山](/huoche/zhan/jishan.htm)| 23:52| 23:55| 3分| -  
+7| [新绛](/huoche/zhan/xinjiang2.htm)| 00:12| 00:15| 3分| -  
+8| [侯马](/huoche/zhan/houma.htm)| 00:33| 00:38| 5分| -  
+9| [临汾](/huoche/zhan/linfen.htm)| 01:26| 01:34| 8分| -  
+10| [霍州](/huoche/zhan/huozhou.htm)| 02:27| 02:30| 3分| -  
+11| [介休](/huoche/zhan/jiexiu.htm)| 03:30| 03:35| 5分| -  
+12| [平遥](/huoche/zhan/pingyao.htm)| 03:57| 04:01| 4分| -  
+13| [祁县](/huoche/zhan/qixian.htm)| 04:16| 04:19| 3分| -  
+14| [太谷](/huoche/zhan/taigu.htm)| 04:38| 04:41| 3分| -  
+15| [榆次](/huoche/zhan/yuci.htm)| 05:08| 05:12| 4分| -  
+16| [太原](/huoche/zhan/taiyuan.htm)| 05:38| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

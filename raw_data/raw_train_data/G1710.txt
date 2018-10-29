@@ -1,0 +1,56 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从重庆西开往天津西的G1710高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1710 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 重庆西  
+发车时间 | 10:40  
+到站时间 | 22:43  
+全程时间 | 12小时3分  
+终点站 | 天津西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [重庆西](/huoche/zhan/chongqingxi.htm)| -| 10:40| 0分| -  
+2| [永川东](/huoche/zhan/yongchuandong.htm)| 11:03| 11:05| 2分| -  
+3| [内江北](/huoche/zhan/neijiangbei.htm)| 11:29| 11:33| 4分| -  
+4| [成都东](/huoche/zhan/chengdudong.htm)| 12:14| 12:28| 14分| -  
+5| [德阳](/huoche/zhan/deyang.htm)| 12:52| 12:54| 2分| -  
+6| [绵阳](/huoche/zhan/mianyang.htm)| 13:11| 13:14| 3分| -  
+7| [广元](/huoche/zhan/guangyuan.htm)| 14:07| 14:11| 4分| -  
+8| [汉中](/huoche/zhan/hanzhong.htm)| 14:54| 14:59| 5分| -  
+9| [阿房宫](/huoche/zhan/epanggong.htm)| 16:03| 16:05| 2分| -  
+10| [西安北](/huoche/zhan/xianbei.htm)| 16:21| 16:33| 12分| -  
+11| [渭南北](/huoche/zhan/weinanbei.htm)| 16:50| 16:52| 2分| -  
+12| [华山北](/huoche/zhan/huashanbei.htm)| 17:11| 17:13| 2分| -  
+13| [三门峡南](/huoche/zhan/sanmenxianan.htm)| 17:39| 17:41| 2分| -  
+14| [洛阳龙门](/huoche/zhan/luoyanglongmen.htm)| 18:12| 18:14| 2分| -  
+15| [巩义南](/huoche/zhan/gongyinan.htm)| 18:28| 18:30| 2分| -  
+16| [郑州西](/huoche/zhan/zhengzhouxi.htm)| 18:46| 18:48| 2分| -  
+17| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 19:06| 19:19| 13分| -  
+18| [新乡东](/huoche/zhan/xinxiangdong.htm)| 19:39| 19:42| 3分| -  
+19| [邢台东](/huoche/zhan/xingtaidong.htm)| 20:36| 20:38| 2分| -  
+20| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 21:06| 21:10| 4分| -  
+21| [保定东](/huoche/zhan/baodingdong.htm)| 21:45| 21:48| 3分| -  
+22| [天津西](/huoche/zhan/tianjinxi.htm)| 22:43| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

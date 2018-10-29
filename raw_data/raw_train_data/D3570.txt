@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北海开往贵阳北的D3570动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D3570 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 北海  
+发车时间 | 15:25  
+到站时间 | 22:48  
+全程时间 | 7小时23分  
+终点站 | 贵阳北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北海](/huoche/zhan/beihai.htm)| -| 15:25| 0分| -  
+2| [合浦](/huoche/zhan/hepu.htm)| 15:38| 15:40| 2分| -  
+3| [钦州东](/huoche/zhan/qinzhoudong.htm)| 16:06| 16:08| 2分| -  
+4| [南宁](/huoche/zhan/nanning.htm)| 16:58| 17:18| 20分| -  
+5| [来宾北](/huoche/zhan/laibinbei.htm)| 18:07| 18:09| 2分| -  
+6| [柳州](/huoche/zhan/liuzhou.htm)| 18:35| 18:40| 5分| -  
+7| [永福南](/huoche/zhan/yongfunan.htm)| 19:26| 19:28| 2分| -  
+8| [桂林](/huoche/zhan/guilin.htm)| 19:51| 19:54| 3分| -  
+9| [桂林北](/huoche/zhan/guilinbei.htm)| 20:05| 20:15| 10分| -  
+10| [三江南](/huoche/zhan/sanjiangnan.htm)| 20:52| 20:54| 2分| -  
+11| [从江](/huoche/zhan/congjiang.htm)| 21:15| 21:17| 2分| -  
+12| [贵阳北](/huoche/zhan/guiyangbei.htm)| 22:48| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

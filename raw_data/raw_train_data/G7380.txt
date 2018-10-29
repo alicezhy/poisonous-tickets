@@ -1,0 +1,41 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从丽水开往杭州东的G7380高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7380 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 丽水  
+发车时间 | 13:19  
+到站时间 | 15:16  
+全程时间 | 1小时57分  
+终点站 | 杭州东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [丽水](/huoche/zhan/lishui.htm)| -| 13:19| 0分| -  
+2| [缙云西](/huoche/zhan/jinyunxi.htm)| 13:31| 13:40| 9分| -  
+3| [永康南](/huoche/zhan/yongkangnan.htm)| 13:51| 13:54| 3分| -  
+4| [武义北](/huoche/zhan/wuyibei.htm)| 14:05| 14:07| 2分| -  
+5| [金华南](/huoche/zhan/jinhuanan.htm)| 14:18| 14:21| 3分| -  
+6| [义乌](/huoche/zhan/yiwu.htm)| 14:40| 14:43| 3分| -  
+7| [杭州东](/huoche/zhan/hangzhoudong.htm)| 15:16| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

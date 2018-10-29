@@ -1,0 +1,66 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京西开往厦门的K571快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K571 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 北京西  
+发车时间 | 16:53  
+到站时间 | 21:58  
+全程时间 | 29小时5分  
+终点站 | 厦门  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京西](/huoche/zhan/beijingxi.htm)| -| 16:53| 0分| -  
+2| [霸州](/huoche/zhan/bazhou.htm)| 17:50| 17:52| 2分| -  
+3| [任丘](/huoche/zhan/renqiu.htm)| 18:28| 18:30| 2分| -  
+4| [肃宁](/huoche/zhan/suning.htm)| 18:59| 19:01| 2分| -  
+5| [饶阳](/huoche/zhan/raoyang.htm)| 19:17| 19:19| 2分| -  
+6| [深州](/huoche/zhan/shenzhou.htm)| 19:38| 19:40| 2分| -  
+7| [衡水](/huoche/zhan/hengshui.htm)| 20:10| 20:20| 10分| -  
+8| [清河城](/huoche/zhan/qinghecheng.htm)| 21:16| 21:19| 3分| -  
+9| [临清](/huoche/zhan/linqing.htm)| 21:44| 21:46| 2分| -  
+10| [聊城](/huoche/zhan/liaocheng.htm)| 22:19| 22:25| 6分| -  
+11| [菏泽](/huoche/zhan/heze.htm)| 00:17| 00:34| 17分| -  
+12| [商丘南](/huoche/zhan/shangqiunan.htm)| 01:58| 02:01| 3分| -  
+13| [亳州](/huoche/zhan/bozhou.htm)| 02:42| 02:45| 3分| -  
+14| [阜阳](/huoche/zhan/fuyang.htm)| 03:56| 04:09| 13分| -  
+15| [潢川](/huoche/zhan/huangchuan.htm)| 05:27| 05:30| 3分| -  
+16| [光山](/huoche/zhan/guangshan.htm)| 05:45| 05:54| 9分| -  
+17| [麻城](/huoche/zhan/macheng.htm)| 06:57| 07:03| 6分| -  
+18| [蕲春](/huoche/zhan/qinchun.htm)| 08:21| 08:24| 3分| -  
+19| [九江](/huoche/zhan/jiujiang.htm)| 09:26| 09:30| 4分| -  
+20| [南昌](/huoche/zhan/nanchang.htm)| 11:06| 11:32| 26分| -  
+21| [新干](/huoche/zhan/xingan2.htm)| 12:59| 13:02| 3分| -  
+22| [吉安](/huoche/zhan/jian6.htm)| 13:57| 14:01| 4分| -  
+23| [兴国](/huoche/zhan/xingguo.htm)| 15:14| 15:25| 11分| -  
+24| [赣州](/huoche/zhan/ganzhou.htm)| 16:13| 16:36| 23分| -  
+25| [于都](/huoche/zhan/yudu.htm)| 17:11| 17:15| 4分| -  
+26| [瑞金](/huoche/zhan/ruijin.htm)| 17:58| 18:02| 4分| -  
+27| [长汀南](/huoche/zhan/changtingnan.htm)| 18:26| 18:30| 4分| -  
+28| [冠豸山](/huoche/zhan/guanzhishan.htm)| 18:59| 19:03| 4分| -  
+29| [古田会址](/huoche/zhan/gutianhuizhi.htm)| 19:29| 19:33| 4分| -  
+30| [龙岩](/huoche/zhan/longyan.htm)| 19:55| 20:01| 6分| -  
+31| [漳州](/huoche/zhan/zhangzhou.htm)| 21:10| 21:13| 3分| -  
+32| [厦门](/huoche/zhan/xiamen.htm)| 21:58| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

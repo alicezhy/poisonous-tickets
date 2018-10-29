@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从青岛开往荣成的C6506城际高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | C6506 |  
+---|---|---|---  
+车型 | 城际高铁  
+始发站 | 青岛  
+发车时间 | 13:06  
+到站时间 | 15:32  
+全程时间 | 2小时26分  
+终点站 | 荣成  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [青岛](/huoche/zhan/qingdao.htm)| -| 13:06| 0分| -  
+2| [青岛北](/huoche/zhan/qingdaobei.htm)| 13:24| 13:27| 3分| -  
+3| [莱阳](/huoche/zhan/laiyang.htm)| 14:06| 14:07| 1分| -  
+4| [烟台南](/huoche/zhan/yantainan.htm)| 14:40| 14:42| 2分| -  
+5| [威海](/huoche/zhan/weihai.htm)| 15:09| 15:11| 2分| -  
+6| [荣成](/huoche/zhan/rongcheng.htm)| 15:32| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

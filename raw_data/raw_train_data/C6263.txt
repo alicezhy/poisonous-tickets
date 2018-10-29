@@ -1,0 +1,41 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从成都南开往乐山的C6263城际高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | C6263 |  
+---|---|---|---  
+车型 | 城际高铁  
+始发站 | 成都南  
+发车时间 | 09:05  
+到站时间 | 10:20  
+全程时间 | 1小时15分  
+终点站 | 乐山  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [成都南](/huoche/zhan/chengdunan.htm)| -| 09:05| 0分| -  
+2| [双流机场](/huoche/zhan/shuangliujichang.htm)| 09:15| 09:17| 2分| -  
+3| [新津](/huoche/zhan/xinjin.htm)| 09:27| 09:29| 2分| -  
+4| [彭山北](/huoche/zhan/pengshanbei.htm)| 09:41| 09:43| 2分| -  
+5| [眉山东](/huoche/zhan/meishandong.htm)| 09:51| 09:53| 2分| -  
+6| [青神](/huoche/zhan/qingshen.htm)| 10:04| 10:07| 3分| -  
+7| [乐山](/huoche/zhan/leshan.htm)| 10:20| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

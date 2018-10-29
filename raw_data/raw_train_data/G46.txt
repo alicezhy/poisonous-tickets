@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从江山开往北京南的G46高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G46 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 江山  
+发车时间 | 08:03  
+到站时间 | 15:43  
+全程时间 | 7小时40分  
+终点站 | 北京南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [江山](/huoche/zhan/jiangshan.htm)| \----| 08:03| 0分| -  
+2| [衢州](/huoche/zhan/quzhou.htm)| 08:14| 08:16| 2分| -  
+3| [龙游](/huoche/zhan/longyou.htm)| 08:27| 08:29| 2分| -  
+4| [金华](/huoche/zhan/jinhua.htm)| 08:44| 08:46| 2分| -  
+5| [义乌](/huoche/zhan/yiwu.htm)| 09:02| 09:04| 2分| -  
+6| [诸暨](/huoche/zhan/zhuji.htm)| 09:18| 09:20| 2分| -  
+7| [杭州东](/huoche/zhan/hangzhoudong.htm)| 09:44| 09:50| 6分| -  
+8| [湖州](/huoche/zhan/huzhou.htm)| 10:11| 10:13| 2分| -  
+9| [长兴](/huoche/zhan/changxing.htm)| 10:22| 10:24| 2分| -  
+10| [宜兴](/huoche/zhan/yixing.htm)| 10:37| 10:39| 2分| -  
+11| [南京南](/huoche/zhan/nanjingnan.htm)| 11:13| 11:17| 4分| -  
+12| [徐州东](/huoche/zhan/xuzhoudong.htm)| 12:34| 12:36| 2分| -  
+13| [泰安](/huoche/zhan/taian2.htm)| 13:27| 13:29| 2分| -  
+14| [济南西](/huoche/zhan/jinanxi.htm)| 13:47| 13:49| 2分| -  
+15| [沧州西](/huoche/zhan/cangzhouxi.htm)| 14:34| 14:41| 7分| -  
+16| [廊坊](/huoche/zhan/langfang.htm)| 15:17| 15:22| 5分| -  
+17| [北京南](/huoche/zhan/beijingnan.htm)| 15:43| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

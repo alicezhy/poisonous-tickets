@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南昌西开往北京南的G38高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G38 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 南昌西  
+发车时间 | 08:30  
+到站时间 | 18:09  
+全程时间 | 9小时39分  
+终点站 | 北京南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南昌西](/huoche/zhan/nanchangxi.htm)| \----| 08:30| 0分| -  
+2| [进贤南](/huoche/zhan/jinxiannan.htm)| 08:48| 08:50| 2分| -  
+3| [鹰潭北](/huoche/zhan/yingtanbei.htm)| 09:11| 09:17| 6分| -  
+4| [上饶](/huoche/zhan/shangrao.htm)| 09:43| 09:45| 2分| -  
+5| [玉山南](/huoche/zhan/yushannan.htm)| 09:58| 10:00| 2分| -  
+6| [金华](/huoche/zhan/jinhua.htm)| 10:36| 10:38| 2分| -  
+7| [义乌](/huoche/zhan/yiwu.htm)| 10:54| 10:56| 2分| -  
+8| [杭州东](/huoche/zhan/hangzhoudong.htm)| 11:30| 11:34| 4分| -  
+9| [湖州](/huoche/zhan/huzhou.htm)| 11:55| 11:57| 2分| -  
+10| [宜兴](/huoche/zhan/yixing.htm)| 12:14| 12:16| 2分| -  
+11| [溧水](/huoche/zhan/lishui2.htm)| 12:38| 12:40| 2分| -  
+12| [南京南](/huoche/zhan/nanjingnan.htm)| 12:56| 13:02| 6分| -  
+13| [滁州](/huoche/zhan/chuzhou.htm)| 13:20| 13:26| 6分| -  
+14| [蚌埠南](/huoche/zhan/bengbunan.htm)| 13:55| 13:57| 2分| -  
+15| [徐州东](/huoche/zhan/xuzhoudong.htm)| 14:35| 14:41| 6分| -  
+16| [枣庄](/huoche/zhan/zaozhuang.htm)| 14:59| 15:01| 2分| -  
+17| [济南西](/huoche/zhan/jinanxi.htm)| 15:52| 16:16| 24分| -  
+18| [德州东](/huoche/zhan/dezhoudong.htm)| 16:40| 16:42| 2分| -  
+19| [天津南](/huoche/zhan/tianjinnan.htm)| 17:26| 17:28| 2分| -  
+20| [廊坊](/huoche/zhan/langfang.htm)| 17:46| 17:48| 2分| -  
+21| [北京南](/huoche/zhan/beijingnan.htm)| 18:09| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从太原开往连云港东的1554普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 1554 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 太原  
+发车时间 | 19:10  
+到站时间 | 14:38  
+全程时间 | 19小时28分  
+终点站 | 连云港东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [太原](/huoche/zhan/taiyuan.htm)| -| 19:10| 0分| -  
+2| [榆次](/huoche/zhan/yuci.htm)| 19:32| 19:36| 4分| -  
+3| [榆社](/huoche/zhan/yushe.htm)| 21:50| 21:53| 3分| -  
+4| [武乡](/huoche/zhan/wuxiang.htm)| 22:29| 22:32| 3分| -  
+5| [沁县](/huoche/zhan/qinxian.htm)| 23:01| 23:04| 3分| -  
+6| [襄垣](/huoche/zhan/xiangyuan.htm)| 00:04| 00:06| 2分| -  
+7| [长治北](/huoche/zhan/changzhibei.htm)| 00:33| 00:50| 17分| -  
+8| [长治](/huoche/zhan/changzhi.htm)| 01:06| 01:10| 4分| -  
+9| [高平](/huoche/zhan/gaoping2.htm)| 02:04| 02:07| 3分| -  
+10| [晋城](/huoche/zhan/jincheng2.htm)| 02:54| 02:58| 4分| -  
+11| [新乡](/huoche/zhan/xinxiang2.htm)| 04:50| 05:12| 22分| -  
+12| [郑州](/huoche/zhan/zhengzhou.htm)| 06:12| 06:20| 8分| -  
+13| [开封](/huoche/zhan/kaifeng.htm)| 07:06| 07:09| 3分| -  
+14| [兰考](/huoche/zhan/lankao.htm)| 07:38| 07:41| 3分| -  
+15| [商丘](/huoche/zhan/shangqiu.htm)| 08:40| 08:51| 11分| -  
+16| [虞城县](/huoche/zhan/yuchengxian.htm)| 09:11| 09:15| 4分| -  
+17| [徐州](/huoche/zhan/xuzhou.htm)| 10:46| 11:20| 34分| -  
+18| [邳州](/huoche/zhan/pizhou.htm)| 12:12| 12:16| 4分| -  
+19| [新沂](/huoche/zhan/xinyi.htm)| 12:45| 12:49| 4分| -  
+20| [东海县](/huoche/zhan/donghaixian.htm)| 13:19| 13:23| 4分| -  
+21| [连云港东](/huoche/zhan/lianyungangdong.htm)| 14:38| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海虹桥开往合肥南的G9435高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G9435 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 上海虹桥  
+发车时间 | 19:50  
+到站时间 | 22:17  
+全程时间 | 2小时27分  
+终点站 | 合肥南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| \----| 19:50| 0分| -  
+2| [苏州北](/huoche/zhan/suzhoubei.htm)| 20:13| 20:15| 2分| -  
+3| [无锡东](/huoche/zhan/wuxidong.htm)| 20:25| 20:27| 2分| -  
+4| [常州北](/huoche/zhan/changzhoubei.htm)| 20:44| 20:46| 2分| -  
+5| [南京南](/huoche/zhan/nanjingnan.htm)| 21:19| 21:25| 6分| -  
+6| [合肥南](/huoche/zhan/hefeinan.htm)| 22:17| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从丹东开往山海关的K7592快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7592 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 丹东  
+发车时间 | 07:28  
+到站时间 | 19:29  
+全程时间 | 12小时1分  
+终点站 | 山海关  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [丹东](/huoche/zhan/dandong.htm)| \----| 07:28| 0分| -  
+2| [五龙背](/huoche/zhan/wulongbei.htm)| 07:49| 07:55| 6分| -  
+3| [凤凰城](/huoche/zhan/fenghuangcheng.htm)| 08:25| 08:31| 6分| -  
+4| [草河口](/huoche/zhan/caohekou.htm)| 09:19| 09:21| 2分| -  
+5| [祁家堡](/huoche/zhan/qijiabao.htm)| 09:34| 09:36| 2分| -  
+6| [连山关](/huoche/zhan/lianshanguan.htm)| 09:47| 09:49| 2分| -  
+7| [下马塘](/huoche/zhan/xiamatang.htm)| 09:58| 10:00| 2分| -  
+8| [南芬](/huoche/zhan/nanfen.htm)| 10:12| 10:14| 2分| -  
+9| [本溪](/huoche/zhan/benxi.htm)| 10:40| 10:50| 10分| -  
+10| [石桥子](/huoche/zhan/shiqiaozi.htm)| 11:10| 11:13| 3分| -  
+12| [沈阳](/huoche/zhan/shenyang3.htm)| 12:22| 12:48| 26分| -  
+13| [苏家屯](/huoche/zhan/sujiatun.htm)| 13:04| 13:06| 2分| -  
+14| [灯塔](/huoche/zhan/dengta.htm)| 13:24| 13:26| 2分| -  
+15| [辽阳](/huoche/zhan/liaoyang.htm)| 13:43| 13:46| 3分| -  
+16| [鞍山](/huoche/zhan/anshan.htm)| 14:05| 14:09| 4分| -  
+17| [海城](/huoche/zhan/haicheng.htm)| 14:35| 14:38| 3分| -  
+18| [西柳](/huoche/zhan/xiliu.htm)| 14:52| 14:55| 3分| -  
+19| [盘锦](/huoche/zhan/panjin.htm)| 15:37| 15:40| 3分| -  
+20| [沟帮子](/huoche/zhan/goubangzi.htm)| 16:07| 16:18| 11分| -  
+21| [羊圈子](/huoche/zhan/YangQuanZi.htm)| 16:30| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

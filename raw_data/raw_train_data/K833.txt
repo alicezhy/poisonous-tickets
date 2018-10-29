@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海南开往贵阳的K833快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K833 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 上海南  
+发车时间 | 07:31  
+到站时间 | 10:07  
+全程时间 | 26小时36分  
+终点站 | 贵阳  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海南](/huoche/zhan/shanghainan.htm)| \----| 07:31| 0分| -  
+2| [松江](/huoche/zhan/songjiang.htm)| 07:53| 07:56| 3分| -  
+3| [嘉兴](/huoche/zhan/jiaxing.htm)| 08:29| 08:32| 3分| -  
+4| [杭州东](/huoche/zhan/hangzhoudong.htm)| 09:34| 09:40| 6分| -  
+5| [诸暨](/huoche/zhan/zhuji.htm)| 10:31| 10:40| 9分| -  
+6| [义乌](/huoche/zhan/yiwu.htm)| 11:06| 11:09| 3分| -  
+7| [衢州](/huoche/zhan/quzhou.htm)| 12:58| 13:01| 3分| -  
+8| [江山](/huoche/zhan/jiangshan.htm)| 13:26| 13:29| 3分| -  
+9| [上饶](/huoche/zhan/shangrao.htm)| 14:41| 14:45| 4分| -  
+10| [鹰潭](/huoche/zhan/yingtan.htm)| 15:54| 16:02| 8分| -  
+11| [樟树](/huoche/zhan/zhangshu.htm)| 17:39| 17:43| 4分| -  
+12| [新余](/huoche/zhan/xinyu.htm)| 18:30| 18:36| 6分| -  
+13| [萍乡](/huoche/zhan/pingxiang.htm)| 19:52| 19:56| 4分| -  
+14| [株洲](/huoche/zhan/zhuzhou.htm)| 21:05| 21:28| 23分| -  
+15| [湘潭](/huoche/zhan/xiangtan2.htm)| 21:54| 21:58| 4分| -  
+16| [娄底](/huoche/zhan/loudi.htm)| 23:11| 23:17| 6分| -  
+17| [怀化](/huoche/zhan/huaihua.htm)| 03:25| 03:40| 15分| -  
+18| [凯里](/huoche/zhan/kaili.htm)| 07:33| 07:39| 6分| -  
+19| [贵阳](/huoche/zhan/guiyang.htm)| 10:07| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

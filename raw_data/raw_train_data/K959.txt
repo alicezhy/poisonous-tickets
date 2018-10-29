@@ -1,0 +1,66 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从临汾开往沈阳北的K959快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K959 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 临汾  
+发车时间 | 12:35  
+到站时间 | 14:46  
+全程时间 | 26小时11分  
+终点站 | 沈阳北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [临汾](/huoche/zhan/linfen.htm)| -| 12:35| 0分| -  
+2| [洪洞](/huoche/zhan/hongdong.htm)| 12:53| 12:56| 3分| -  
+3| [霍州](/huoche/zhan/huozhou.htm)| 13:34| 13:37| 3分| -  
+4| [灵石](/huoche/zhan/lingshi.htm)| 14:13| 14:16| 3分| -  
+5| [介休](/huoche/zhan/jiexiu.htm)| 14:46| 14:52| 6分| -  
+6| [平遥](/huoche/zhan/pingyao.htm)| 15:14| 15:19| 5分| -  
+7| [祁县](/huoche/zhan/qixian.htm)| 15:35| 15:38| 3分| -  
+8| [太谷](/huoche/zhan/taigu.htm)| 15:59| 16:02| 3分| -  
+9| [榆次](/huoche/zhan/yuci.htm)| 16:30| 16:35| 5分| -  
+10| [太原](/huoche/zhan/taiyuan.htm)| 17:02| 17:18| 16分| -  
+11| [忻州](/huoche/zhan/xinzhou.htm)| 18:32| 18:36| 4分| -  
+12| [原平](/huoche/zhan/yuanping.htm)| 19:08| 19:25| 17分| -  
+13| [山阴](/huoche/zhan/shanyin.htm)| 20:18| 20:21| 3分| -  
+14| [应县](/huoche/zhan/yingxian.htm)| 20:37| 20:40| 3分| -  
+15| [怀仁东](/huoche/zhan/huanrendong.htm)| 20:57| 21:00| 3分| -  
+16| [大同](/huoche/zhan/datong.htm)| 21:45| 22:13| 28分| -  
+17| [阳高](/huoche/zhan/yanggao.htm)| 22:56| 22:58| 2分| -  
+19| [沙岭子西](/huoche/zhan/shalingzixi.htm)| 00:50| 00:56| 6分| -  
+20| [宣化](/huoche/zhan/xuanhua.htm)| 01:15| 01:18| 3分| -  
+21| [北京](/huoche/zhan/beijing.htm)| 04:37| 04:57| 20分| -  
+22| [玉田县](/huoche/zhan/yutianxian.htm)| 06:17| 06:20| 3分| -  
+23| [唐山北](/huoche/zhan/tangshanbei.htm)| 06:46| 06:49| 3分| -  
+24| [滦县](/huoche/zhan/luanxian.htm)| 07:28| 07:30| 2分| -  
+25| [北戴河](/huoche/zhan/beidaihe.htm)| 08:17| 08:48| 31分| -  
+26| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 09:06| 09:08| 2分| -  
+27| [山海关](/huoche/zhan/shanhaiguan.htm)| 09:33| 09:39| 6分| -  
+28| [兴城](/huoche/zhan/xingcheng.htm)| 10:50| 10:53| 3分| -  
+29| [葫芦岛](/huoche/zhan/huludao.htm)| 11:10| 11:13| 3分| -  
+30| [锦州](/huoche/zhan/jinzhou.htm)| 11:52| 11:57| 5分| -  
+31| [凌海](/huoche/zhan/linghai.htm)| 12:14| 12:16| 2分| -  
+32| [大虎山](/huoche/zhan/dahushan.htm)| 13:07| 13:11| 4分| -  
+33| [沈阳北](/huoche/zhan/shenyangbei.htm)| 14:46| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

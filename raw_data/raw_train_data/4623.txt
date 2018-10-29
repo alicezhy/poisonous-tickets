@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从蔡家崖开往太原的4623普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 4623 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 蔡家崖  
+发车时间 | 16:30  
+到站时间 | 21:03  
+全程时间 | 4小时33分  
+终点站 | 太原  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [蔡家崖](/huoche/zhan/caijiaya.htm)| 00:00| 16:30| 0分| -  
+2| [白文东](/huoche/zhan/baiwendong.htm)| 17:10| 17:13| 3分| -  
+3| [岚县](/huoche/zhan/lanxian.htm)| 18:07| 18:10| 3分| -  
+4| [娄烦](/huoche/zhan/loufan.htm)| 18:58| 19:02| 4分| -  
+5| [镇城底](/huoche/zhan/zhenchengdi.htm)| 19:25| 19:30| 5分| -  
+6| [古交](/huoche/zhan/gujiao.htm)| 19:43| 19:48| 5分| -  
+7| [古东](/huoche/zhan/gudong.htm)| 19:58| 20:01| 3分| -  
+8| [汾河](/huoche/zhan/fenhe.htm)| 20:38| 20:40| 2分| -  
+9| [太原东](/huoche/zhan/taiyuandong.htm)| 20:55| 20:57| 2分| -  
+10| [太原](/huoche/zhan/taiyuan.htm)| 21:03| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

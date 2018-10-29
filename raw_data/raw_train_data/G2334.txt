@@ -1,0 +1,59 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从贵阳北开往宁波的G2334高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G2334 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 贵阳北  
+发车时间 | 08:55  
+到站时间 | 19:05  
+全程时间 | 10小时10分  
+终点站 | 宁波  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [贵阳北](/huoche/zhan/guiyangbei.htm)| \----| 08:55| 0分| -  
+2| [贵定北](/huoche/zhan/guidingbei.htm)| 09:15| 09:17| 2分| -  
+3| [凯里南](/huoche/zhan/kailinan.htm)| 09:40| 09:42| 2分| -  
+4| [怀化南](/huoche/zhan/huaihuanan.htm)| 10:41| 10:44| 3分| -  
+5| [新化南](/huoche/zhan/xinhuanan.htm)| 11:16| 11:18| 2分| -  
+6| [娄底南](/huoche/zhan/loudinan.htm)| 11:42| 11:44| 2分| -  
+7| [湘潭北](/huoche/zhan/xiangtanbei.htm)| 12:10| 12:12| 2分| -  
+8| [长沙南](/huoche/zhan/changshanan.htm)| 12:25| 12:31| 6分| -  
+9| [醴陵东](/huoche/zhan/lilingdong.htm)| 12:55| 12:57| 2分| -  
+10| [萍乡北](/huoche/zhan/pingxiangbei2.htm)| 13:07| 13:09| 2分| -  
+11| [宜春](/huoche/zhan/yichun.htm)| 13:27| 13:29| 2分| -  
+12| [新余北](/huoche/zhan/xinyubei.htm)| 13:44| 13:46| 2分| -  
+13| [南昌西](/huoche/zhan/nanchangxi.htm)| 14:18| 14:22| 4分| -  
+14| [抚州东](/huoche/zhan/fuzhoudong.htm)| 14:48| 14:54| 6分| -  
+15| [鹰潭北](/huoche/zhan/yingtanbei.htm)| 15:08| 15:11| 3分| -  
+16| [上饶](/huoche/zhan/shangrao.htm)| 15:37| 15:39| 2分| -  
+17| [衢州](/huoche/zhan/quzhou.htm)| 16:07| 16:10| 3分| -  
+18| [龙游](/huoche/zhan/longyou.htm)| 16:21| 16:28| 7分| -  
+19| [金华](/huoche/zhan/jinhua.htm)| 16:43| 16:45| 2分| -  
+20| [义乌](/huoche/zhan/yiwu.htm)| 17:01| 17:03| 2分| -  
+21| [诸暨](/huoche/zhan/zhuji.htm)| 17:17| 17:18| 1分| -  
+22| [杭州东](/huoche/zhan/hangzhoudong.htm)| 17:43| 18:05| 22分| -  
+23| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 18:23| 18:26| 3分| -  
+24| [余姚北](/huoche/zhan/yuyaobei.htm)| 18:44| 18:46| 2分| -  
+25| [宁波](/huoche/zhan/ningbo.htm)| 19:05| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

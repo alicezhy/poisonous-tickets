@@ -1,0 +1,56 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从昆明开往攀枝花的6162普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 6162 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 昆明  
+发车时间 | 06:45  
+到站时间 | 14:40  
+全程时间 | 7小时55分  
+终点站 | 攀枝花  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [昆明](/huoche/zhan/kunming.htm)| -| 06:45| 0分| -  
+2| [禄丰南](/huoche/zhan/lufengnan.htm)| 07:36| 08:15| 39分| -  
+3| [广通北](/huoche/zhan/guangtongbei.htm)| 08:42| 09:01| 19分| -  
+4| [龙塘坝](/huoche/zhan/longtangba.htm)| 09:20| 09:23| 3分| -  
+5| [甸心](/huoche/zhan/dianxin.htm)| 09:33| 09:35| 2分| -  
+6| [黑井](/huoche/zhan/heijing.htm)| 09:42| 09:51| 9分| -  
+7| [龙骨甸](/huoche/zhan/longgudian.htm)| 10:01| 10:03| 2分| -  
+8| [阿南庄](/huoche/zhan/ananzhuang.htm)| 10:16| 10:18| 2分| -  
+9| [小村](/huoche/zhan/xiaocun.htm)| 10:30| 10:32| 2分| -  
+10| [羊臼河](/huoche/zhan/yangjiuhe.htm)| 10:44| 10:49| 5分| -  
+11| [小月旧](/huoche/zhan/xiaoyuejiu.htm)| 11:01| 11:03| 2分| -  
+12| [尹地](/huoche/zhan/yindi.htm)| 11:13| 11:15| 2分| -  
+13| [元谋](/huoche/zhan/yuanmou.htm)| 11:28| 11:31| 3分| -  
+14| [黄瓜园](/huoche/zhan/huangguayuan.htm)| 11:43| 11:45| 2分| -  
+15| [红江](/huoche/zhan/hongjiang.htm)| 11:56| 12:04| 8分| -  
+16| [大湾子](/huoche/zhan/dawanzi.htm)| 12:16| 12:20| 4分| -  
+17| [师庄](/huoche/zhan/shizhuang.htm)| 12:31| 13:11| 40分| -  
+18| [新江](/huoche/zhan/xinjiang.htm)| 13:22| 13:35| 13分| -  
+19| [花棚子](/huoche/zhan/huapengzi.htm)| 13:48| 13:50| 2分| -  
+20| [拉鲊](/huoche/zhan/lazha.htm)| 14:03| 14:05| 2分| -  
+21| [迤资](/huoche/zhan/yizi.htm)| 14:17| 14:29| 12分| -  
+22| [攀枝花](/huoche/zhan/panzhihua.htm)| 14:40| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

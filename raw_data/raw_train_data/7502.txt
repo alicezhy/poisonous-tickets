@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从兰州开往陇西的7502普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 7502 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 兰州  
+发车时间 | 09:57  
+到站时间 | 14:22  
+全程时间 | 4小时25分  
+终点站 | 陇西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [兰州](/huoche/zhan/lanzhou.htm)| -| 09:57| 0分| -  
+5| [夏官营](/huoche/zhan/xiaguanying.htm)| 10:25| 10:32| 7分| -  
+6| [许家台](/huoche/zhan/xujiatai.htm)| 10:40| 10:43| 3分| -  
+7| [甘草店](/huoche/zhan/gancaodian.htm)| 11:12| 11:17| 5分| -  
+8| [李家坪](/huoche/zhan/lijiaping.htm)| 11:32| 11:45| 13分| -  
+9| [定西](/huoche/zhan/dingxi.htm)| 12:32| 12:34| 2分| -  
+10| [通安驿](/huoche/zhan/tonganyi.htm)| 13:36| 13:50| 14分| -  
+11| [陇西](/huoche/zhan/longxi.htm)| 14:22| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

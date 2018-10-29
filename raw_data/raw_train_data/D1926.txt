@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从成都东开往西安北的D1926动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D1926 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 成都东  
+发车时间 | 12:11  
+到站时间 | 16:28  
+全程时间 | 4小时17分  
+终点站 | 西安北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [成都东](/huoche/zhan/chengdudong.htm)| -| 12:11| 0分| -  
+2| [广汉北](/huoche/zhan/guanghanbei.htm)| 12:29| 12:31| 2分| -  
+3| [德阳](/huoche/zhan/deyang.htm)| 12:40| 12:42| 2分| -  
+4| [江油北](/huoche/zhan/jiangyoubei.htm)| 13:24| 13:26| 2分| -  
+5| [剑门关](/huoche/zhan/jianmenguan.htm)| 13:44| 13:46| 2分| -  
+6| [广元](/huoche/zhan/guangyuan.htm)| 14:00| 14:04| 4分| -  
+7| [汉中](/huoche/zhan/hanzhong.htm)| 14:47| 14:51| 4分| -  
+8| [城固北](/huoche/zhan/chenggubei.htm)| 15:02| 15:13| 11分| -  
+9| [鄠邑](/huoche/zhan/huyi.htm)| 16:03| 16:07| 4分| -  
+10| [西安北](/huoche/zhan/xianbei.htm)| 16:28| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

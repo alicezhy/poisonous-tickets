@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从长沙南开往宁波的G1418高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1418 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 长沙南  
+发车时间 | 15:42  
+到站时间 | 21:21  
+全程时间 | 5小时39分  
+终点站 | 宁波  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [长沙南](/huoche/zhan/changshanan.htm)| -| 15:42| 0分| -  
+2| [萍乡北](/huoche/zhan/pingxiangbei2.htm)| 16:11| 16:13| 2分| -  
+3| [宜春](/huoche/zhan/yichun.htm)| 16:31| 16:33| 2分| -  
+4| [高安](/huoche/zhan/gaoan.htm)| 17:05| 17:07| 2分| -  
+5| [南昌西](/huoche/zhan/nanchangxi.htm)| 17:22| 17:25| 3分| -  
+6| [上饶](/huoche/zhan/shangrao.htm)| 18:21| 18:24| 3分| -  
+7| [衢州](/huoche/zhan/quzhou.htm)| 18:52| 18:54| 2分| -  
+8| [金华](/huoche/zhan/jinhua.htm)| 19:15| 19:17| 2分| -  
+9| [杭州东](/huoche/zhan/hangzhoudong.htm)| 20:01| 20:22| 21分| -  
+10| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 20:40| 20:42| 2分| -  
+12| [余姚北](/huoche/zhan/yuyaobei.htm)| 21:00| 21:02| 2分| -  
+13| [宁波](/huoche/zhan/ningbo.htm)| 21:21| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

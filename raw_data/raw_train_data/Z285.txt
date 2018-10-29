@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京西开往南宁的Z285直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z285 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 北京西  
+发车时间 | 21:10  
+到站时间 | 21:02  
+全程时间 | 23小时52分  
+终点站 | 南宁  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京西](/huoche/zhan/beijingxi.htm)| -| 21:10| 0分| -  
+2| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 23:34| 23:40| 6分| -  
+3| [郑州](/huoche/zhan/zhengzhou.htm)| 03:03| 03:09| 6分| -  
+4| [武昌](/huoche/zhan/wuchang.htm)| 07:48| 07:55| 7分| -  
+5| [岳阳](/huoche/zhan/yueyang.htm)| 09:53| 09:56| 3分| -  
+6| [长沙](/huoche/zhan/changsha.htm)| 11:17| 11:23| 6分| -  
+7| [衡阳](/huoche/zhan/hengyang.htm)| 13:17| 13:23| 6分| -  
+8| [桂林北](/huoche/zhan/guilinbei.htm)| 16:19| 16:29| 10分| -  
+9| [柳州](/huoche/zhan/liuzhou.htm)| 18:36| 18:43| 7分| -  
+10| [南宁东](/huoche/zhan/nanningdong.htm)| 20:40| 20:48| 8分| -  
+11| [南宁](/huoche/zhan/nanning.htm)| 21:02| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

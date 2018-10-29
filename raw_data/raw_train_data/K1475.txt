@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从烟台开往汉口的K1475快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1475 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 烟台  
+发车时间 | 21:14  
+到站时间 | 21:00  
+全程时间 | 23小时46分  
+终点站 | 汉口  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [烟台](/huoche/zhan/yantai.htm)| \----| 21:14| 0分| -  
+2| [海阳](/huoche/zhan/haiyang.htm)| 22:16| 22:26| 10分| -  
+3| [蓝村](/huoche/zhan/lancun.htm)| 00:21| 00:27| 6分| -  
+4| [胶州](/huoche/zhan/jiaozhou.htm)| 00:45| 00:48| 3分| -  
+5| [临沂北](/huoche/zhan/linyibei.htm)| 03:59| 04:05| 6分| -  
+6| [郯城](/huoche/zhan/tancheng.htm)| 04:58| 05:04| 6分| -  
+7| [新沂](/huoche/zhan/xinyi.htm)| 06:48| 07:31| 43分| -  
+8| [邳州](/huoche/zhan/pizhou.htm)| 08:00| 08:05| 5分| -  
+9| [徐州](/huoche/zhan/xuzhou.htm)| 09:26| 09:38| 12分| -  
+10| [砀山](/huoche/zhan/dangshan.htm)| 10:59| 11:07| 8分| -  
+11| [商丘](/huoche/zhan/shangqiu.htm)| 11:49| 11:54| 5分| -  
+12| [民权](/huoche/zhan/minquan.htm)| 12:31| 12:35| 4分| -  
+13| [开封](/huoche/zhan/kaifeng.htm)| 13:25| 13:30| 5分| -  
+14| [郑州](/huoche/zhan/zhengzhou.htm)| 14:16| 14:35| 19分| -  
+15| [许昌](/huoche/zhan/xuchang.htm)| 15:30| 15:35| 5分| -  
+16| [漯河](/huoche/zhan/luohe.htm)| 16:13| 16:30| 17分| -  
+17| [驻马店](/huoche/zhan/zhumadian.htm)| 17:09| 17:12| 3分| -  
+18| [广水](/huoche/zhan/guangshui.htm)| 18:59| 19:02| 3分| -  
+19| [花园](/huoche/zhan/huayuan.htm)| 19:33| 19:43| 10分| -  
+20| [孝感](/huoche/zhan/xiaogan.htm)| 20:04| 20:07| 3分| -  
+21| [汉口](/huoche/zhan/hankou.htm)| 21:00| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

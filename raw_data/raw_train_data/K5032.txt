@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从长春开往大连的K5032快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K5032 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 长春  
+发车时间 | 19:30  
+到站时间 | 05:03  
+全程时间 | 9小时33分  
+终点站 | 大连  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [长春](/huoche/zhan/changchun.htm)| \----| 19:30| 0分| -  
+2| [公主岭](/huoche/zhan/gongzhuling.htm)| 20:08| 20:10| 2分| -  
+3| [四平](/huoche/zhan/siping.htm)| 20:49| 20:52| 3分| -  
+4| [昌图](/huoche/zhan/changtu.htm)| 21:25| 21:27| 2分| -  
+5| [铁岭](/huoche/zhan/tieling.htm)| 22:06| 22:08| 2分| -  
+6| [沈阳](/huoche/zhan/shenyang3.htm)| 23:02| 23:10| 8分| -  
+7| [辽阳](/huoche/zhan/liaoyang.htm)| 23:54| 23:56| 2分| -  
+8| [鞍山](/huoche/zhan/anshan.htm)| 00:15| 00:18| 3分| -  
+9| [海城](/huoche/zhan/haicheng.htm)| 00:44| 00:47| 3分| -  
+10| [大石桥](/huoche/zhan/dashiqiao.htm)| 01:21| 01:30| 9分| -  
+11| [熊岳城](/huoche/zhan/xiongyuecheng.htm)| 02:15| 02:18| 3分| -  
+12| [瓦房店](/huoche/zhan/wafangdian.htm)| 03:15| 03:18| 3分| -  
+13| [普兰店](/huoche/zhan/pulandian.htm)| 03:38| 03:41| 3分| -  
+14| [金州](/huoche/zhan/jinzhou3.htm)| 04:15| 04:29| 14分| -  
+15| [大连](/huoche/zhan/dalian.htm)| 05:03| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

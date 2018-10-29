@@ -1,0 +1,41 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从济南西开往荣成的D9459动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D9459 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 济南西  
+发车时间 | 11:38  
+到站时间 | 16:07  
+全程时间 | 4小时29分  
+终点站 | 荣成  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [济南西](/huoche/zhan/jinanxi.htm)| \----| 11:38| 0分| -  
+2| [济南](/huoche/zhan/jinan.htm)| 11:55| 11:58| 3分| -  
+3| [淄博](/huoche/zhan/zibo.htm)| 12:40| 12:43| 3分| -  
+4| [潍坊](/huoche/zhan/weifang.htm)| 13:18| 13:21| 3分| -  
+6| [烟台南](/huoche/zhan/yantainan.htm)| 15:05| 15:07| 2分| -  
+7| [威海](/huoche/zhan/weihai.htm)| 15:34| 15:46| 12分| -  
+8| [荣成](/huoche/zhan/rongcheng.htm)| 16:07| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

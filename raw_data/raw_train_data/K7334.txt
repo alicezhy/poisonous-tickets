@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从延吉开往大连的K7334快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7334 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 延吉  
+发车时间 | 12:50  
+到站时间 | 06:47  
+全程时间 | 17小时57分  
+终点站 | 大连  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [延吉](/huoche/zhan/yanji3.htm)| \----| 12:50| 0分| -  
+2| [安图](/huoche/zhan/antu.htm)| 13:53| 13:57| 4分| -  
+3| [大石头](/huoche/zhan/dashitou.htm)| 14:45| 14:48| 3分| -  
+4| [敦化](/huoche/zhan/dunhua.htm)| 15:10| 15:18| 8分| -  
+5| [黄泥河](/huoche/zhan/huangnihe.htm)| 15:53| 15:56| 3分| -  
+6| [蛟河](/huoche/zhan/jiaohe.htm)| 17:03| 17:07| 4分| -  
+7| [吉林](/huoche/zhan/jilin.htm)| 18:39| 18:54| 15分| -  
+8| [九台](/huoche/zhan/jiutai.htm)| 19:49| 19:54| 5分| -  
+9| [长春](/huoche/zhan/changchun.htm)| 20:32| 20:59| 27分| -  
+10| [公主岭](/huoche/zhan/gongzhuling.htm)| 21:37| 21:40| 3分| -  
+11| [四平](/huoche/zhan/siping.htm)| 22:19| 22:22| 3分| -  
+12| [昌图](/huoche/zhan/changtu.htm)| 22:55| 23:06| 11分| -  
+13| [沈阳](/huoche/zhan/shenyang3.htm)| 01:29| 01:37| 8分| -  
+14| [鞍山](/huoche/zhan/anshan.htm)| 02:36| 02:39| 3分| -  
+15| [盖州](/huoche/zhan/gaizhou.htm)| 04:00| 04:02| 2分| -  
+16| [熊岳城](/huoche/zhan/xiongyuecheng.htm)| 04:23| 04:26| 3分| -  
+17| [瓦房店](/huoche/zhan/wafangdian.htm)| 05:16| 05:20| 4分| -  
+18| [普兰店](/huoche/zhan/pulandian.htm)| 05:41| 05:44| 3分| -  
+19| [大连](/huoche/zhan/dalian.htm)| 06:47| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

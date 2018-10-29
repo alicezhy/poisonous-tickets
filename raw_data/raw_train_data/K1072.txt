@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从安庆开往北京西的K1072快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1072 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 安庆  
+发车时间 | 18:00  
+到站时间 | 10:59  
+全程时间 | 16小时59分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [安庆](/huoche/zhan/anqing2.htm)| -| 18:00| 0分| -  
+2| [安庆西](/huoche/zhan/anqingxi.htm)| 18:53| 18:57| 4分| -  
+3| [桐城](/huoche/zhan/tongcheng.htm)| 19:23| 19:29| 6分| -  
+4| [庐江](/huoche/zhan/lujiang.htm)| 19:54| 19:57| 3分| -  
+5| [合肥](/huoche/zhan/hefei.htm)| 20:59| 21:16| 17分| -  
+6| [淮南](/huoche/zhan/huainan.htm)| 22:26| 22:31| 5分| -  
+7| [阜阳](/huoche/zhan/fuyang.htm)| 00:07| 00:21| 14分| -  
+8| [亳州](/huoche/zhan/bozhou.htm)| 01:33| 02:02| 29分| -  
+9| [菏泽](/huoche/zhan/heze.htm)| 03:49| 03:52| 3分| -  
+10| [聊城](/huoche/zhan/liaocheng.htm)| 05:55| 06:01| 6分| -  
+11| [衡水](/huoche/zhan/hengshui.htm)| 07:45| 07:53| 8分| -  
+12| [任丘](/huoche/zhan/renqiu.htm)| 09:05| 09:07| 2分| -  
+13| [霸州](/huoche/zhan/bazhou.htm)| 09:43| 09:46| 3分| -  
+14| [北京西](/huoche/zhan/beijingxi.htm)| 10:59| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

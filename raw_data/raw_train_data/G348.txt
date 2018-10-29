@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从福州开往济南西的G348高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G348 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 福州  
+发车时间 | 14:54  
+到站时间 | 22:40  
+全程时间 | 7小时46分  
+终点站 | 济南西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [福州](/huoche/zhan/fuzhou.htm)| \----| 14:54| 0分| -  
+2| [古田北](/huoche/zhan/gutianbei.htm)| 15:19| 15:21| 2分| -  
+3| [建瓯西](/huoche/zhan/jianouxi.htm)| 15:46| 15:49| 3分| -  
+4| [武夷山北](/huoche/zhan/wuyishanbei.htm)| 16:12| 16:14| 2分| -  
+5| [上饶](/huoche/zhan/shangrao.htm)| 16:36| 16:39| 3分| -  
+6| [德兴](/huoche/zhan/dexing.htm)| 16:56| 16:58| 2分| -  
+7| [黄山北](/huoche/zhan/huangshanbei.htm)| 17:28| 17:31| 3分| -  
+8| [绩溪北](/huoche/zhan/jixibei.htm)| 17:45| 17:48| 3分| -  
+9| [南陵](/huoche/zhan/naling.htm)| 18:13| 18:15| 2分| -  
+10| [铜陵北](/huoche/zhan/tonglingbei.htm)| 18:27| 18:29| 2分| -  
+11| [无为](/huoche/zhan/mowei.htm)| 18:41| 18:43| 2分| -  
+12| [合肥南](/huoche/zhan/hefeinan.htm)| 19:13| 19:21| 8分| -  
+13| [蚌埠南](/huoche/zhan/bengbunan.htm)| 20:11| 20:13| 2分| -  
+14| [宿州东](/huoche/zhan/suzhoudong.htm)| 20:35| 20:37| 2分| -  
+15| [徐州东](/huoche/zhan/xuzhoudong.htm)| 20:56| 21:15| 19分| -  
+16| [滕州东](/huoche/zhan/tengzhoudong.htm)| 21:41| 21:43| 2分| -  
+17| [曲阜东](/huoche/zhan/qufudong.htm)| 21:59| 22:01| 2分| -  
+18| [泰安](/huoche/zhan/taian2.htm)| 22:20| 22:22| 2分| -  
+19| [济南西](/huoche/zhan/jinanxi.htm)| 22:40| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

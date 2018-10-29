@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从运城北开往济南西的D1643动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D1643 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 运城北  
+发车时间 | 16:36  
+到站时间 | 22:32  
+全程时间 | 5小时56分  
+终点站 | 济南西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [运城北](/huoche/zhan/yunchengbei.htm)| \----| 16:36| 0分| -  
+2| [闻喜西](/huoche/zhan/wenxixi.htm)| 16:50| 16:52| 2分| -  
+3| [灵石东](/huoche/zhan/lingshidong.htm)| 17:48| 17:50| 2分| -  
+4| [介休东](/huoche/zhan/jiexiudong.htm)| 18:02| 18:04| 2分| -  
+5| [平遥古城](/huoche/zhan/pingyaogucheng.htm)| 18:14| 18:16| 2分| -  
+6| [祁县东](/huoche/zhan/qixiandong.htm)| 18:29| 18:31| 2分| -  
+7| [太原南](/huoche/zhan/taiyuannan.htm)| 18:56| 19:21| 25分| -  
+8| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 20:41| 20:46| 5分| -  
+9| [衡水北](/huoche/zhan/hengshuibei.htm)| 21:25| 21:28| 3分| -  
+10| [德州东](/huoche/zhan/dezhoudong.htm)| 21:55| 21:58| 3分| -  
+11| [济南西](/huoche/zhan/jinanxi.htm)| 22:32| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从和田开往喀什的5810普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 5810 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 和田  
+发车时间 | 12:08  
+到站时间 | 18:23  
+全程时间 | 6小时15分  
+终点站 | 喀什  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [和田](/huoche/zhan/hetian.htm)| -| 12:08| 0分| -  
+2| [墨玉](/huoche/zhan/muyu.htm)| 12:26| 12:28| 2分| -  
+3| [皮山](/huoche/zhan/pishang.htm)| 13:56| 13:58| 2分| -  
+4| [叶城](/huoche/zhan/yecheng.htm)| 14:54| 14:58| 4分| -  
+5| [泽普](/huoche/zhan/zhepu.htm)| 15:22| 15:24| 2分| -  
+6| [莎车](/huoche/zhan/shache.htm)| 15:42| 15:44| 2分| -  
+7| [英吉沙](/huoche/zhan/yingjiesha.htm)| 17:32| 17:36| 4分| -  
+9| [喀什](/huoche/zhan/kashi.htm)| 18:23| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从周口开往恩施的K8096快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K8096 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 周口  
+发车时间 | 18:41  
+到站时间 | 07:36  
+全程时间 | 12小时55分  
+终点站 | 恩施  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [周口](/huoche/zhan/zhoukou.htm)| \----| 18:41| 0分| -  
+2| [漯河](/huoche/zhan/luohe.htm)| 19:36| 20:09| 33分| -  
+3| [驻马店](/huoche/zhan/zhumadian.htm)| 20:49| 20:53| 4分| -  
+4| [信阳](/huoche/zhan/xinyang.htm)| 21:52| 22:12| 20分| -  
+5| [襄阳](/huoche/zhan/xiangyang2.htm)| 01:14| 01:45| 31分| -  
+6| [荆门](/huoche/zhan/jingmen.htm)| 03:24| 03:27| 3分| -  
+7| [宜昌东](/huoche/zhan/yichangdong.htm)| 04:52| 05:12| 20分| -  
+8| [恩施](/huoche/zhan/enshi.htm)| 07:36| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

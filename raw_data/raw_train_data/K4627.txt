@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从乌鲁木齐开往安康的K4627快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K4627 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 乌鲁木齐  
+发车时间 | 20:51  
+到站时间 | 11:18  
+全程时间 | 38小时27分  
+终点站 | 安康  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [乌鲁木齐](/huoche/zhan/wulumuqi.htm)| \----| 20:51| 0分| -  
+2| [吐鲁番](/huoche/zhan/tulufan.htm)| 22:51| 22:57| 6分| -  
+3| [鄯善](/huoche/zhan/shanshan.htm)| 00:33| 00:39| 6分| -  
+4| [哈密](/huoche/zhan/hami.htm)| 03:43| 04:03| 20分| -  
+5| [柳园](/huoche/zhan/liuyuan.htm)| 07:56| 08:08| 12分| -  
+6| [嘉峪关](/huoche/zhan/jiayuguan.htm)| 11:43| 11:51| 8分| -  
+7| [酒泉](/huoche/zhan/jiuquan.htm)| 12:10| 12:14| 4分| -  
+8| [张掖](/huoche/zhan/zhangye.htm)| 14:18| 14:24| 6分| -  
+9| [金昌](/huoche/zhan/jinchang.htm)| 16:18| 16:21| 3分| -  
+10| [武威](/huoche/zhan/wuwei.htm)| 17:12| 17:18| 6分| -  
+11| [兰州](/huoche/zhan/lanzhou.htm)| 20:46| 21:01| 15分| -  
+12| [定西](/huoche/zhan/dingxi.htm)| 22:17| 22:21| 4分| -  
+13| [陇西](/huoche/zhan/longxi.htm)| 23:14| 23:18| 4分| -  
+14| [天水](/huoche/zhan/tianshui.htm)| 01:40| 01:46| 6分| -  
+15| [宝鸡](/huoche/zhan/baoji.htm)| 04:25| 04:37| 12分| -  
+16| [蔡家坡](/huoche/zhan/caijiapo.htm)| 05:07| 05:16| 9分| -  
+17| [杨陵](/huoche/zhan/yangling.htm)| 05:44| 05:46| 2分| -  
+18| [咸阳](/huoche/zhan/xianyang.htm)| 06:25| 06:27| 2分| -  
+19| [西安](/huoche/zhan/xian.htm)| 06:51| 07:26| 35分| -  
+20| [旬阳北](/huoche/zhan/xunyangbei.htm)| 10:35| 10:37| 2分| -  
+21| [安康](/huoche/zhan/ankang.htm)| 11:18| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

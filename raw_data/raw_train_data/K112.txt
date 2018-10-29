@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从贵阳开往上海南的K112快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K112 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 贵阳  
+发车时间 | 09:34  
+到站时间 | 12:47  
+全程时间 | 27小时13分  
+终点站 | 上海南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [贵阳](/huoche/zhan/guiyang.htm)| \----| 09:34| 0分| -  
+2| [福泉](/huoche/zhan/fuquan.htm)| 11:06| 11:10| 4分| -  
+3| [凯里](/huoche/zhan/kaili.htm)| 12:03| 12:08| 5分| -  
+4| [施秉](/huoche/zhan/shibing.htm)| 12:49| 12:54| 5分| -  
+5| [镇远](/huoche/zhan/zhenyuan.htm)| 13:30| 13:36| 6分| -  
+6| [玉屏](/huoche/zhan/yuping.htm)| 14:35| 14:41| 6分| -  
+7| [新晃](/huoche/zhan/xinhuang.htm)| 15:14| 15:17| 3分| -  
+8| [怀化](/huoche/zhan/huaihua.htm)| 16:26| 16:35| 9分| -  
+9| [娄底](/huoche/zhan/loudi.htm)| 20:39| 20:45| 6分| -  
+10| [湘潭](/huoche/zhan/xiangtan2.htm)| 21:58| 22:03| 5分| -  
+11| [株洲](/huoche/zhan/zhuzhou.htm)| 22:46| 23:01| 15分| -  
+12| [上饶](/huoche/zhan/shangrao.htm)| 05:31| 05:35| 4分| -  
+13| [衢州](/huoche/zhan/quzhou.htm)| 07:22| 07:25| 3分| -  
+15| [义乌](/huoche/zhan/yiwu.htm)| 09:09| 09:12| 3分| -  
+16| [杭州东](/huoche/zhan/hangzhoudong.htm)| 10:31| 10:37| 6分| -  
+17| [海宁](/huoche/zhan/haining.htm)| 11:13| 11:16| 3分| -  
+18| [嘉兴](/huoche/zhan/jiaxing.htm)| 11:35| 11:38| 3分| -  
+19| [松江](/huoche/zhan/songjiang.htm)| 12:15| 12:18| 3分| -  
+20| [上海南](/huoche/zhan/shanghainan.htm)| 12:47| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

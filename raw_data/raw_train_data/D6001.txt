@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从济南开往青岛的D6001动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D6001 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 济南  
+发车时间 | 05:53  
+到站时间 | 09:00  
+全程时间 | 3小时7分  
+终点站 | 青岛  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [济南](/huoche/zhan/jinan.htm)| -| 05:53| 0分| -  
+2| [章丘](/huoche/zhan/zhangqiu.htm)| 06:16| 06:18| 2分| -  
+3| [淄博](/huoche/zhan/zibo.htm)| 06:41| 06:43| 2分| -  
+4| [青州市](/huoche/zhan/qingzhoushi.htm)| 07:01| 07:03| 2分| -  
+5| [潍坊](/huoche/zhan/weifang.htm)| 07:24| 07:26| 2分| -  
+6| [高密](/huoche/zhan/gaomi.htm)| 07:53| 08:03| 10分| -  
+7| [青岛北](/huoche/zhan/qingdaobei.htm)| 08:37| 08:39| 2分| -  
+8| [青岛](/huoche/zhan/qingdao.htm)| 09:00| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

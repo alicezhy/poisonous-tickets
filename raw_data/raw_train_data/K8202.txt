@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从神木开往安康的K8202快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K8202 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 神木  
+发车时间 | 19:36  
+到站时间 | 10:58  
+全程时间 | 15小时22分  
+终点站 | 安康  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [神木](/huoche/zhan/shenmu.htm)| 19:26| 19:36| 0分| -  
+2| [锦界](/huoche/zhan/jinjie.htm)| 20:40| 20:46| 6分| -  
+3| [榆林](/huoche/zhan/yulin2.htm)| 22:07| 22:32| 25分| -  
+4| [米脂](/huoche/zhan/mizhi.htm)| 23:24| 23:29| 5分| -  
+5| [绥德](/huoche/zhan/suide.htm)| 23:50| 23:54| 4分| -  
+6| [延安](/huoche/zhan/yanan.htm)| 02:01| 02:07| 6分| -  
+7| [蒲城东](/huoche/zhan/puchengdong.htm)| 04:15| 04:20| 5分| -  
+8| [西安](/huoche/zhan/xian.htm)| 05:42| 06:12| 30分| -  
+9| [西安南](/huoche/zhan/xiannan.htm)| 06:59| 07:09| 10分| -  
+10| [镇安](/huoche/zhan/zhenan.htm)| 08:28| 08:31| 3分| -  
+11| [旬阳北](/huoche/zhan/xunyangbei.htm)| 09:58| 10:04| 6分| -  
+12| [安康](/huoche/zhan/ankang.htm)| 10:58| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

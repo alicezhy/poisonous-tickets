@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从大连开往包头的K1568快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1568 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 大连  
+发车时间 | 21:06  
+到站时间 | 00:28  
+全程时间 | 27小时22分  
+终点站 | 包头  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [大连](/huoche/zhan/dalian.htm)| \----| 21:06| 0分| -  
+2| [金州](/huoche/zhan/jinzhou3.htm)| 21:32| 21:34| 2分| -  
+3| [大石桥](/huoche/zhan/dashiqiao.htm)| 23:45| 23:51| 6分| -  
+4| [沈阳](/huoche/zhan/shenyang3.htm)| 01:40| 02:03| 23分| -  
+5| [彰武](/huoche/zhan/zhangwu.htm)| 04:08| 04:11| 3分| -  
+6| [甘旗卡](/huoche/zhan/ganqika.htm)| 05:00| 05:03| 3分| -  
+7| [通辽](/huoche/zhan/tongliao.htm)| 06:01| 06:24| 23分| -  
+8| [开鲁](/huoche/zhan/kailu.htm)| 07:34| 07:37| 3分| -  
+9| [查布嘎](/huoche/zhan/chabuga.htm)| 08:58| 09:01| 3分| -  
+10| [林东](/huoche/zhan/lindong.htm)| 09:53| 09:55| 2分| -  
+11| [大板](/huoche/zhan/daban2.htm)| 11:12| 11:32| 20分| -  
+12| [林西](/huoche/zhan/linxi.htm)| 12:19| 12:21| 2分| -  
+13| [经棚](/huoche/zhan/jingpeng.htm)| 13:46| 13:48| 2分| -  
+14| [桑根达来](/huoche/zhan/sanggendalai.htm)| 15:47| 15:53| 6分| -  
+15| [正镶白旗](/huoche/zhan/zhengxiangbaiqi.htm)| 17:03| 17:09| 6分| -  
+16| [化德](/huoche/zhan/huade.htm)| 18:25| 18:27| 2分| -  
+17| [商都](/huoche/zhan/shangdu.htm)| 19:15| 19:17| 2分| -  
+18| [集宁南](/huoche/zhan/jiningnan.htm)| 20:33| 20:50| 17分| -  
+19| [呼和浩特东](/huoche/zhan/huhehaotedong.htm)| 22:12| 22:32| 20分| -  
+20| [包头东](/huoche/zhan/baotoudong.htm)| 00:07| 00:11| 4分| -  
+21| [包头](/huoche/zhan/baotou.htm)| 00:28| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

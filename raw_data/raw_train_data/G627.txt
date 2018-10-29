@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京西开往运城北的G627高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G627 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 北京西  
+发车时间 | 08:05  
+到站时间 | 13:50  
+全程时间 | 5小时45分  
+终点站 | 运城北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京西](/huoche/zhan/beijingxi.htm)| -| 08:05| 0分| -  
+2| [保定东](/huoche/zhan/baodingdong.htm)| 08:46| 08:48| 2分| -  
+3| [正定机场](/huoche/zhan/zhengdingjichang.htm)| 09:15| 09:17| 2分| -  
+4| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 09:31| 09:34| 3分| -  
+5| [阳泉北](/huoche/zhan/yangquanbei.htm)| 10:14| 10:17| 3分| -  
+6| [太原南](/huoche/zhan/taiyuannan.htm)| 11:03| 11:13| 10分| -  
+7| [晋中](/huoche/zhan/jingzhong2.htm)| 11:24| 11:26| 2分| -  
+8| [太谷西](/huoche/zhan/taiguxi.htm)| 11:39| 11:41| 2分| -  
+9| [平遥古城](/huoche/zhan/pingyaogucheng.htm)| 11:59| 12:01| 2分| -  
+10| [介休东](/huoche/zhan/jiexiudong.htm)| 12:11| 12:13| 2分| -  
+11| [洪洞西](/huoche/zhan/hongtongxi.htm)| 12:48| 12:50| 2分| -  
+12| [临汾西](/huoche/zhan/linfenxi.htm)| 13:01| 13:04| 3分| -  
+13| [侯马西](/huoche/zhan/houmaxi.htm)| 13:24| 13:27| 3分| -  
+14| [运城北](/huoche/zhan/yunchengbei.htm)| 13:50| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

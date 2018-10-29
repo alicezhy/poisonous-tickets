@@ -1,0 +1,38 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从宋城路开往新郑机场的C2805城际高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | C2805 |  
+---|---|---|---  
+车型 | 城际高铁  
+始发站 | 宋城路  
+发车时间 | 11:30  
+到站时间 | 12:27  
+全程时间 | 0小时57分  
+终点站 | 新郑机场  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [宋城路](/huoche/zhan/songchenglu.htm)| -| 11:30| 0分| -  
+2| [绿博园](/huoche/zhan/lvboyuan.htm)| 11:48| 11:50| 2分| -  
+3| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 12:03| 12:10| 7分| -  
+4| [新郑机场](/huoche/zhan/xinzhengjichang.htm)| 12:27| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

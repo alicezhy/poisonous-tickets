@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从长春开往厦门的Z103直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z103 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 长春  
+发车时间 | 16:15  
+到站时间 | 20:01  
+全程时间 | 27小时46分  
+终点站 | 厦门  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [长春](/huoche/zhan/changchun.htm)| \----| 16:15| 0分| -  
+2| [四平](/huoche/zhan/siping.htm)| 17:13| 17:15| 2分| -  
+3| [沈阳北](/huoche/zhan/shenyangbei.htm)| 18:44| 19:00| 16分| -  
+4| [锦州南](/huoche/zhan/jinzhounan.htm)| 20:38| 20:40| 2分| -  
+5| [绥中北](/huoche/zhan/suizhongbei.htm)| 21:27| 21:37| 10分| -  
+6| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 22:28| 22:31| 3分| -  
+7| [天津](/huoche/zhan/tianjin.htm)| 01:07| 01:15| 8分| -  
+8| [阜阳](/huoche/zhan/fuyang.htm)| 08:35| 09:00| 25分| -  
+9| [九江](/huoche/zhan/jiujiang.htm)| 12:53| 12:57| 4分| -  
+10| [南昌西](/huoche/zhan/nanchangxi.htm)| 14:01| 14:12| 11分| -  
+11| [抚州](/huoche/zhan/fuzhou2.htm)| 14:58| 15:01| 3分| -  
+12| [泰宁](/huoche/zhan/taining.htm)| 16:09| 16:13| 4分| -  
+13| [三明北](/huoche/zhan/sanmingbei.htm)| 16:55| 16:58| 3分| -  
+14| [莆田](/huoche/zhan/putian.htm)| 18:26| 18:30| 4分| -  
+15| [厦门](/huoche/zhan/xiamen.htm)| 20:01| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

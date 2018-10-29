@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从大连北开往天津西的G4768高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G4768 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 大连北  
+发车时间 | 14:23  
+到站时间 | 19:37  
+全程时间 | 5小时14分  
+终点站 | 天津西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [大连北](/huoche/zhan/dalianbei.htm)| \----| 14:23| 0分| -  
+2| [普湾](/huoche/zhan/puwan.htm)| 14:42| 14:50| 8分| -  
+3| [鲅鱼圈](/huoche/zhan/bayuquan.htm)| 15:19| 15:21| 2分| -  
+4| [营口东](/huoche/zhan/yingkoudong.htm)| 15:39| 15:41| 2分| -  
+5| [锦州南](/huoche/zhan/jinzhounan.htm)| 16:39| 16:40| 1分| -  
+6| [葫芦岛北](/huoche/zhan/huludaobei.htm)| 16:56| 16:57| 1分| -  
+7| [山海关](/huoche/zhan/shanhaiguan.htm)| 17:40| 17:43| 3分| -  
+8| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 17:55| 17:57| 2分| -  
+9| [唐山](/huoche/zhan/tangshan.htm)| 18:35| 18:39| 4分| -  
+10| [滨海](/huoche/zhan/binhai.htm)| 19:00| 19:10| 10分| -  
+11| [天津](/huoche/zhan/tianjin.htm)| 19:26| 19:29| 3分| -  
+12| [天津西](/huoche/zhan/tianjinxi.htm)| 19:37| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

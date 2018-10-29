@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从干塘开往兰州的7509普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 7509 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 干塘  
+发车时间 | 15:13  
+到站时间 | 23:32  
+全程时间 | 8小时19分  
+终点站 | 兰州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [干塘](/huoche/zhan/gantang.htm)| -| 15:13| 0分| -  
+2| [营盘水](/huoche/zhan/yingpanshui.htm)| 15:36| 15:41| 5分| -  
+3| [长城](/huoche/zhan/changcheng.htm)| 16:19| 16:21| 2分| -  
+4| [景泰](/huoche/zhan/jingtai.htm)| 16:33| 16:35| 2分| -  
+5| [兴泉堡](/huoche/zhan/xingquanbao.htm)| 16:46| 16:47| 1分| -  
+6| [红岘台](/huoche/zhan/hongxiantai.htm)| 17:51| 17:52| 1分| -  
+7| [红砂岘](/huoche/zhan/hongshaxian.htm)| 18:52| 18:53| 1分| -  
+8| [白银西](/huoche/zhan/baiyinxi.htm)| 19:04| 20:39| 95分| -  
+9| [朱家窑](/huoche/zhan/zhujiayao.htm)| 21:01| 21:02| 1分| -  
+10| [丰水村](/huoche/zhan/fengshuicun.htm)| 21:13| 21:18| 5分| -  
+11| [皋兰](/huoche/zhan/gaolan.htm)| 21:41| 21:43| 2分| -  
+12| [邵家堂](/huoche/zhan/shaojiatang.htm)| 22:27| 22:29| 2分| -  
+13| [水源](/huoche/zhan/shuiyuan.htm)| 22:41| 22:48| 7分| -  
+14| [兰州东](/huoche/zhan/lanzhoudong.htm)| 23:22| 23:24| 2分| -  
+15| [兰州](/huoche/zhan/lanzhou.htm)| 23:32| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

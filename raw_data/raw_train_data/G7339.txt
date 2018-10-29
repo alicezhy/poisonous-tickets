@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海虹桥开往苍南的G7339高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7339 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 上海虹桥  
+发车时间 | 18:35  
+到站时间 | 22:51  
+全程时间 | 4小时16分  
+终点站 | 苍南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| -| 18:35| 0分| -  
+2| [金山北](/huoche/zhan/jinshanbei.htm)| 18:53| 18:55| 2分| -  
+3| [嘉兴南](/huoche/zhan/jiaxingnan.htm)| 19:09| 19:11| 2分| -  
+4| [杭州东](/huoche/zhan/hangzhoudong.htm)| 19:35| 19:40| 5分| -  
+5| [诸暨](/huoche/zhan/zhuji.htm)| 20:03| 20:05| 2分| -  
+6| [义乌](/huoche/zhan/yiwu.htm)| 20:19| 20:21| 2分| -  
+7| [永康南](/huoche/zhan/yongkangnan.htm)| 20:53| 20:55| 2分| -  
+8| [缙云西](/huoche/zhan/jinyunxi.htm)| 21:05| 21:07| 2分| -  
+9| [丽水](/huoche/zhan/lishui.htm)| 21:20| 21:22| 2分| -  
+10| [青田](/huoche/zhan/qingtian.htm)| 21:42| 21:44| 2分| -  
+11| [温州南](/huoche/zhan/wenzhounan.htm)| 22:04| 22:16| 12分| -  
+12| [鳌江](/huoche/zhan/aojiang.htm)| 22:32| 22:39| 7分| -  
+13| [苍南](/huoche/zhan/cangnan.htm)| 22:51| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

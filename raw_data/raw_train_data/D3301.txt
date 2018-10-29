@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从宁波开往南昌西的D3301动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D3301 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 宁波  
+发车时间 | 15:19  
+到站时间 | 22:57  
+全程时间 | 7小时38分  
+终点站 | 南昌西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [宁波](/huoche/zhan/ningbo.htm)| -| 15:19| 0分| -  
+2| [临海](/huoche/zhan/linhai.htm)| 16:05| 16:07| 2分| -  
+3| [温岭](/huoche/zhan/wenling.htm)| 16:26| 16:28| 2分| -  
+4| [乐清](/huoche/zhan/yueqing.htm)| 16:52| 16:54| 2分| -  
+5| [温州南](/huoche/zhan/wenzhounan.htm)| 17:09| 17:11| 2分| -  
+6| [瑞安](/huoche/zhan/ruian.htm)| 17:22| 17:23| 1分| -  
+7| [福鼎](/huoche/zhan/fuding.htm)| 17:51| 17:53| 2分| -  
+8| [宁德](/huoche/zhan/ningde.htm)| 18:30| 18:32| 2分| -  
+9| [福州](/huoche/zhan/fuzhou.htm)| 19:15| 19:19| 4分| -  
+10| [尤溪](/huoche/zhan/youxi2.htm)| 20:14| 20:16| 2分| -  
+11| [三明北](/huoche/zhan/sanmingbei.htm)| 20:35| 20:37| 2分| -  
+12| [将乐](/huoche/zhan/jiangle.htm)| 20:56| 20:59| 3分| -  
+13| [泰宁](/huoche/zhan/taining.htm)| 21:17| 21:19| 2分| -  
+14| [建宁县北](/huoche/zhan/jianningxianbei.htm)| 21:32| 21:34| 2分| -  
+15| [抚州](/huoche/zhan/fuzhou2.htm)| 22:18| 22:20| 2分| -  
+16| [南昌西](/huoche/zhan/nanchangxi.htm)| 22:57| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,60 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从温州开往青岛北的K1051快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1051 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 温州  
+发车时间 | 23:00  
+到站时间 | 06:12  
+全程时间 | 31小时12分  
+终点站 | 青岛北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [温州](/huoche/zhan/wenzhou.htm)| -| 23:00| 0分| -  
+2| [青田](/huoche/zhan/qingtian.htm)| 23:52| 23:54| 2分| -  
+3| [丽水](/huoche/zhan/lishui.htm)| 02:12| 02:16| 4分| -  
+4| [缙云](/huoche/zhan/jinyun.htm)| 02:48| 02:50| 2分| -  
+5| [永康](/huoche/zhan/yongkang.htm)| 03:21| 03:23| 2分| -  
+6| [武义](/huoche/zhan/wuyi2.htm)| 03:43| 04:01| 18分| -  
+7| [金华南](/huoche/zhan/jinhuanan.htm)| 04:34| 04:55| 21分| -  
+8| [义乌](/huoche/zhan/yiwu.htm)| 05:58| 06:04| 6分| -  
+9| [诸暨](/huoche/zhan/zhuji.htm)| 06:30| 06:35| 5分| -  
+10| [杭州](/huoche/zhan/hangzhou.htm)| 07:56| 08:19| 23分| -  
+11| [长兴南](/huoche/zhan/changxingnan.htm)| 09:56| 10:01| 5分| -  
+12| [广德](/huoche/zhan/guangde.htm)| 10:36| 10:39| 3分| -  
+13| [宣城](/huoche/zhan/xuancheng.htm)| 11:35| 11:38| 3分| -  
+14| [芜湖](/huoche/zhan/wuhu.htm)| 12:39| 12:45| 6分| -  
+15| [巢湖](/huoche/zhan/chaohu.htm)| 13:51| 13:55| 4分| -  
+16| [合肥](/huoche/zhan/hefei.htm)| 14:57| 15:16| 19分| -  
+17| [淮南](/huoche/zhan/huainan.htm)| 16:30| 16:33| 3分| -  
+18| [阜阳](/huoche/zhan/fuyang.htm)| 18:11| 18:28| 17分| -  
+19| [涡阳](/huoche/zhan/guoyang.htm)| 19:25| 19:29| 4分| -  
+20| [淮北](/huoche/zhan/huaibei.htm)| 20:34| 20:38| 4分| -  
+21| [徐州](/huoche/zhan/xuzhou.htm)| 22:36| 22:48| 12分| -  
+22| [枣庄西](/huoche/zhan/zaozhuangxi.htm)| 23:56| 23:59| 3分| -  
+23| [枣庄东](/huoche/zhan/zaozhuangdong.htm)| 00:29| 00:38| 9分| -  
+24| [临沂](/huoche/zhan/linyi.htm)| 01:54| 02:00| 6分| -  
+25| [胶州](/huoche/zhan/jiaozhou.htm)| 05:13| 05:17| 4分| -  
+26| [青岛北](/huoche/zhan/qingdaobei.htm)| 06:12| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

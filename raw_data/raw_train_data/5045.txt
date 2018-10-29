@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从菏泽开往青岛的5045普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 5045 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 菏泽  
+发车时间 | 06:49  
+到站时间 | 17:56  
+全程时间 | 11小时7分  
+终点站 | 青岛  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [菏泽](/huoche/zhan/heze.htm)| -| 06:49| 0分| -  
+2| [济宁](/huoche/zhan/jining2.htm)| 07:55| 07:58| 3分| -  
+3| [兖州](/huoche/zhan/yanzhou.htm)| 08:27| 08:33| 6分| -  
+4| [曲阜](/huoche/zhan/qufu.htm)| 09:01| 09:05| 4分| -  
+5| [泗水](/huoche/zhan/sishui.htm)| 09:50| 09:55| 5分| -  
+6| [平邑](/huoche/zhan/pingyi.htm)| 10:21| 10:28| 7分| -  
+7| [临沂](/huoche/zhan/linyi.htm)| 11:25| 11:32| 7分| -  
+8| [临沂北](/huoche/zhan/linyibei.htm)| 11:50| 11:56| 6分| -  
+9| [沂水](/huoche/zhan/yishui.htm)| 12:35| 12:41| 6分| -  
+10| [莒县](/huoche/zhan/juxian.htm)| 12:51| 12:57| 6分| -  
+11| [五莲](/huoche/zhan/wulian.htm)| 13:24| 13:30| 6分| -  
+12| [诸城](/huoche/zhan/zhucheng.htm)| 14:22| 14:28| 6分| -  
+13| [蓝村](/huoche/zhan/lancun.htm)| 16:20| 16:28| 8分| -  
+14| [青岛](/huoche/zhan/qingdao.htm)| 17:56| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

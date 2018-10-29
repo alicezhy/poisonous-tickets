@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南宁东开往成都东的D1783动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D1783 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 南宁东  
+发车时间 | 07:10  
+到站时间 | 18:00  
+全程时间 | 10小时50分  
+终点站 | 成都东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南宁东](/huoche/zhan/nanningdong.htm)| -| 07:10| 0分| -  
+2| [宾阳](/huoche/zhan/binyang.htm)| 07:36| 07:38| 2分| -  
+3| [来宾北](/huoche/zhan/laibinbei.htm)| 07:58| 08:00| 2分| -  
+4| [柳州](/huoche/zhan/liuzhou.htm)| 08:26| 08:29| 3分| -  
+5| [鹿寨北](/huoche/zhan/luzhaibei.htm)| 08:57| 08:59| 2分| -  
+6| [永福南](/huoche/zhan/yongfunan.htm)| 09:21| 09:23| 2分| -  
+7| [桂林](/huoche/zhan/guilin.htm)| 09:46| 09:49| 3分| -  
+8| [桂林北](/huoche/zhan/guilinbei.htm)| 10:00| 10:05| 5分| -  
+9| [五通](/huoche/zhan/wutong.htm)| 10:20| 10:22| 2分| -  
+10| [榕江](/huoche/zhan/rongjiang.htm)| 11:24| 11:36| 12分| -  
+11| [都匀东](/huoche/zhan/duyundong.htm)| 12:08| 12:17| 9分| -  
+12| [贵阳东](/huoche/zhan/guiyangdong.htm)| 12:59| 13:03| 4分| -  
+13| [遵义南](/huoche/zhan/zunyinan.htm)| 13:44| 13:46| 2分| -  
+14| [遵义](/huoche/zhan/zunyi.htm)| 13:58| 14:00| 2分| -  
+15| [桐梓北](/huoche/zhan/tongzibei.htm)| 14:32| 14:34| 2分| -  
+16| [綦江东](/huoche/zhan/qijiangdong.htm)| 15:03| 15:05| 2分| -  
+17| [重庆西](/huoche/zhan/chongqingxi.htm)| 15:31| 15:39| 8分| -  
+18| [潼南](/huoche/zhan/tongnan.htm)| 16:26| 16:28| 2分| -  
+19| [遂宁](/huoche/zhan/suining.htm)| 16:59| 17:02| 3分| -  
+20| [成都东](/huoche/zhan/chengdudong.htm)| 18:00| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

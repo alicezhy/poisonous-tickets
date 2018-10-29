@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上饶开往深圳北的D2325动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D2325 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 上饶  
+发车时间 | 07:57  
+到站时间 | 15:53  
+全程时间 | 7小时56分  
+终点站 | 深圳北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上饶](/huoche/zhan/shangrao.htm)| \----| 07:57| 0分| -  
+2| [五府山](/huoche/zhan/wufushan.htm)| 08:09| 08:11| 2分| -  
+3| [武夷山北](/huoche/zhan/wuyishanbei.htm)| 08:28| 08:30| 2分| -  
+4| [武夷山东](/huoche/zhan/wuyishandong.htm)| 08:43| 08:45| 2分| -  
+5| [建瓯西](/huoche/zhan/jianouxi.htm)| 09:03| 09:05| 2分| -  
+6| [南平北](/huoche/zhan/nanpingbei.htm)| 09:23| 09:25| 2分| -  
+7| [古田北](/huoche/zhan/gutianbei.htm)| 09:41| 09:43| 2分| -  
+8| [闽清北](/huoche/zhan/minqingbei.htm)| 09:55| 09:57| 2分| -  
+9| [福州](/huoche/zhan/fuzhou.htm)| 10:16| 10:22| 6分| -  
+10| [福清](/huoche/zhan/fuqing.htm)| 10:49| 10:52| 3分| -  
+11| [莆田](/huoche/zhan/putian.htm)| 11:11| 11:13| 2分| -  
+12| [泉州](/huoche/zhan/quanzhou2.htm)| 11:38| 11:40| 2分| -  
+13| [晋江](/huoche/zhan/jinjiang.htm)| 11:51| 11:53| 2分| -  
+14| [厦门北](/huoche/zhan/xiamenbei.htm)| 12:11| 12:16| 5分| -  
+15| [云霄](/huoche/zhan/yunxiao.htm)| 12:59| 13:01| 2分| -  
+16| [饶平](/huoche/zhan/raoping.htm)| 13:22| 13:24| 2分| -  
+17| [潮汕](/huoche/zhan/chaoshan.htm)| 13:41| 13:44| 3分| -  
+18| [葵潭](/huoche/zhan/kuitan.htm)| 14:20| 14:22| 2分| -  
+19| [惠州南](/huoche/zhan/huizhounan.htm)| 15:18| 15:20| 2分| -  
+20| [深圳北](/huoche/zhan/shenzhenbei.htm)| 15:53| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

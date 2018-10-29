@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从通化开往松江河的4245普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 4245 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 通化  
+发车时间 | 13:46  
+到站时间 | 18:40  
+全程时间 | 4小时54分  
+终点站 | 松江河  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [通化](/huoche/zhan/tonghua.htm)| -| 13:46| 0分| -  
+2| [鸭园](/huoche/zhan/yayuan.htm)| 14:20| 14:22| 2分| -  
+3| [菇园](/huoche/zhan/guyuan2.htm)| 14:32| 14:34| 2分| -  
+4| [道清](/huoche/zhan/daoqing.htm)| 14:44| 14:46| 2分| -  
+5| [老营](/huoche/zhan/laoying.htm)| 14:56| 14:58| 2分| -  
+6| [白山市](/huoche/zhan/baishanshi.htm)| 15:14| 15:19| 5分| -  
+7| [江源](/huoche/zhan/jiangyuan.htm)| 15:47| 15:49| 2分| -  
+8| [大东](/huoche/zhan/DaDong.htm)| 16:16| 16:18| 2分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

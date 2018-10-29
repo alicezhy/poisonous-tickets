@@ -1,0 +1,65 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从太原开往温州的K1395快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1395 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 太原  
+发车时间 | 21:14  
+到站时间 | 05:30  
+全程时间 | 32小时16分  
+终点站 | 温州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [太原](/huoche/zhan/taiyuan.htm)| -| 21:14| 0分| -  
+2| [阳泉北](/huoche/zhan/yangquanbei.htm)| 22:18| 22:20| 2分| -  
+3| [石家庄北](/huoche/zhan/shijiazhuangbei.htm)| 23:28| 23:40| 12分| -  
+4| [晋州](/huoche/zhan/jinzhou4.htm)| 00:19| 00:32| 13分| -  
+5| [辛集](/huoche/zhan/xinji.htm)| 00:47| 00:49| 2分| -  
+6| [衡水](/huoche/zhan/hengshui.htm)| 02:19| 02:25| 6分| -  
+7| [清河城](/huoche/zhan/qinghecheng.htm)| 03:42| 03:44| 2分| -  
+8| [聊城](/huoche/zhan/liaocheng.htm)| 04:40| 04:47| 7分| -  
+9| [梁山](/huoche/zhan/liangshan.htm)| 05:33| 05:49| 16分| -  
+10| [菏泽](/huoche/zhan/heze.htm)| 06:36| 06:46| 10分| -  
+11| [商丘南](/huoche/zhan/shangqiunan.htm)| 07:58| 08:04| 6分| -  
+12| [亳州](/huoche/zhan/bozhou.htm)| 08:45| 08:49| 4分| -  
+13| [阜阳](/huoche/zhan/fuyang.htm)| 09:58| 10:20| 22分| -  
+14| [淮南](/huoche/zhan/huainan.htm)| 11:52| 11:56| 4分| -  
+15| [合肥](/huoche/zhan/hefei.htm)| 13:14| 13:32| 18分| -  
+16| [巢湖](/huoche/zhan/chaohu.htm)| 14:22| 14:26| 4分| -  
+17| [芜湖](/huoche/zhan/wuhu.htm)| 15:29| 15:35| 6分| -  
+18| [宣城](/huoche/zhan/xuancheng.htm)| 16:34| 16:38| 4分| -  
+19| [广德](/huoche/zhan/guangde.htm)| 17:22| 17:26| 4分| -  
+20| [长兴南](/huoche/zhan/changxingnan.htm)| 18:01| 18:05| 4分| -  
+21| [德清西](/huoche/zhan/deqingxi.htm)| 18:46| 18:49| 3分| -  
+22| [杭州](/huoche/zhan/hangzhou.htm)| 20:07| 20:19| 12分| -  
+23| [诸暨](/huoche/zhan/zhuji.htm)| 21:26| 21:29| 3分| -  
+24| [义乌](/huoche/zhan/yiwu.htm)| 21:55| 21:58| 3分| -  
+25| [金华南](/huoche/zhan/jinhuanan.htm)| 22:31| 23:00| 29分| -  
+26| [武义](/huoche/zhan/wuyi2.htm)| 23:48| 00:10| 22分| -  
+27| [永康](/huoche/zhan/yongkang.htm)| 00:30| 00:56| 26分| -  
+28| [缙云](/huoche/zhan/jinyun.htm)| 01:27| 01:35| 8分| -  
+29| [丽水](/huoche/zhan/lishui.htm)| 02:38| 02:43| 5分| -  
+30| [青田](/huoche/zhan/qingtian.htm)| 03:55| 04:05| 10分| -  
+31| [温州](/huoche/zhan/wenzhou.htm)| 05:30| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

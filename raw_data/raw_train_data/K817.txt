@@ -1,0 +1,56 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京西开往成都的K817快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K817 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 北京西  
+发车时间 | 08:01  
+到站时间 | 12:41  
+全程时间 | 28小时40分  
+终点站 | 成都  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京西](/huoche/zhan/beijingxi.htm)| \----| 08:01| 0分| -  
+2| [保定](/huoche/zhan/baoding.htm)| 09:31| 09:34| 3分| -  
+3| [定州](/huoche/zhan/dingzhou.htm)| 10:11| 10:13| 2分| -  
+4| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 11:05| 11:22| 17分| -  
+5| [邢台](/huoche/zhan/xingtai.htm)| 12:25| 12:27| 2分| -  
+6| [邯郸](/huoche/zhan/handan.htm)| 13:22| 13:26| 4分| -  
+7| [安阳](/huoche/zhan/anyang.htm)| 14:23| 14:32| 9分| -  
+8| [鹤壁](/huoche/zhan/hebi2.htm)| 15:01| 15:33| 32分| -  
+9| [新乡](/huoche/zhan/xinxiang2.htm)| 16:12| 16:15| 3分| -  
+10| [郑州](/huoche/zhan/zhengzhou.htm)| 17:16| 17:32| 16分| -  
+11| [洛阳东](/huoche/zhan/luoyangdong.htm)| 19:00| 19:04| 4分| -  
+12| [洛阳](/huoche/zhan/luoyang.htm)| 19:12| 19:15| 3分| -  
+13| [三门峡](/huoche/zhan/sanmenxia2.htm)| 21:01| 21:04| 3分| -  
+14| [安康](/huoche/zhan/ankang.htm)| 03:48| 04:03| 15分| -  
+15| [宣汉](/huoche/zhan/xuanhan.htm)| 06:47| 06:49| 2分| -  
+16| [达州](/huoche/zhan/dazhou.htm)| 07:35| 07:47| 12分| -  
+17| [营山](/huoche/zhan/yingshan2.htm)| 08:51| 08:54| 3分| -  
+18| [蓬安](/huoche/zhan/pengan.htm)| 09:07| 09:10| 3分| -  
+19| [南充](/huoche/zhan/nanchong.htm)| 09:37| 09:50| 13分| -  
+20| [遂宁](/huoche/zhan/suining.htm)| 10:37| 10:42| 5分| -  
+21| [大英东](/huoche/zhan/dayingdong.htm)| 11:03| 11:15| 12分| -  
+22| [成都](/huoche/zhan/chengdu.htm)| 12:41| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

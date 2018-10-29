@@ -1,0 +1,56 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从重庆开往北京西的K590快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K590 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 重庆  
+发车时间 | 21:58  
+到站时间 | 05:18  
+全程时间 | 31小时20分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [重庆](/huoche/zhan/chongqing.htm)| -| 21:58| 0分| -  
+2| [达州](/huoche/zhan/dazhou.htm)| 02:58| 03:14| 16分| -  
+3| [安康](/huoche/zhan/ankang.htm)| 06:39| 06:53| 14分| -  
+4| [十堰](/huoche/zhan/shiyan.htm)| 09:47| 09:50| 3分| -  
+5| [武当山](/huoche/zhan/wudangshan.htm)| 10:08| 10:10| 2分| -  
+6| [谷城](/huoche/zhan/gucheng.htm)| 11:01| 11:03| 2分| -  
+7| [襄阳](/huoche/zhan/xiangyang2.htm)| 12:03| 12:37| 34分| -  
+8| [邓州](/huoche/zhan/dengzhou.htm)| 13:36| 13:39| 3分| -  
+9| [南召](/huoche/zhan/nanzhao.htm)| 15:13| 15:16| 3分| -  
+10| [平顶山西](/huoche/zhan/pingdingshanxi.htm)| 16:08| 16:11| 3分| -  
+11| [汝州](/huoche/zhan/ruzhou.htm)| 16:48| 16:51| 3分| -  
+12| [济源](/huoche/zhan/jiyuan.htm)| 19:25| 19:28| 3分| -  
+13| [沁阳](/huoche/zhan/qinyang.htm)| 20:05| 20:08| 3分| -  
+14| [焦作](/huoche/zhan/jiaozuo.htm)| 20:37| 20:43| 6分| -  
+15| [新乡](/huoche/zhan/xinxiang2.htm)| 21:55| 22:18| 23分| -  
+16| [鹤壁](/huoche/zhan/hebi2.htm)| 22:57| 23:01| 4分| -  
+17| [安阳](/huoche/zhan/anyang.htm)| 23:30| 23:34| 4分| -  
+18| [邯郸](/huoche/zhan/handan.htm)| 00:09| 00:21| 12分| -  
+19| [邢台](/huoche/zhan/xingtai.htm)| 00:52| 00:56| 4分| -  
+20| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 02:07| 02:13| 6分| -  
+21| [保定](/huoche/zhan/baoding.htm)| 03:33| 03:37| 4分| -  
+22| [北京西](/huoche/zhan/beijingxi.htm)| 05:18| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

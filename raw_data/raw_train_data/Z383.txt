@@ -1,0 +1,62 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从三亚开往长春的Z383直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z383 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 三亚  
+发车时间 | 07:10  
+到站时间 | 11:43  
+全程时间 | 52小时33分  
+终点站 | 长春  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [三亚](/huoche/zhan/sanya.htm)| -| 07:10| 0分| -  
+2| [东方](/huoche/zhan/dongfang.htm)| 08:26| 08:30| 4分| -  
+3| [海口](/huoche/zhan/haikou.htm)| 10:05| 10:35| 30分| -  
+4| [湛江西](/huoche/zhan/zhanjiangxi.htm)| 15:29| 15:35| 6分| -  
+5| [茂名](/huoche/zhan/maoming2.htm)| 16:24| 16:30| 6分| -  
+6| [肇庆](/huoche/zhan/zhaoqing.htm)| 19:48| 19:54| 6分| -  
+7| [佛山](/huoche/zhan/foshan.htm)| 21:06| 21:12| 6分| -  
+8| [广州](/huoche/zhan/guangzhou.htm)| 22:25| 22:55| 30分| -  
+9| [韶关东](/huoche/zhan/shaoguandong.htm)| 01:15| 01:21| 6分| -  
+10| [衡阳](/huoche/zhan/hengyang.htm)| 04:41| 05:01| 20分| -  
+11| [井冈山](/huoche/zhan/jinggangshan.htm)| 07:22| 07:28| 6分| -  
+12| [吉安](/huoche/zhan/jian6.htm)| 08:25| 08:29| 4分| -  
+13| [南昌](/huoche/zhan/nanchang.htm)| 10:41| 10:56| 15分| -  
+14| [九江](/huoche/zhan/jiujiang.htm)| 12:26| 12:30| 4分| -  
+15| [阜阳](/huoche/zhan/fuyang.htm)| 16:27| 16:58| 31分| -  
+16| [亳州](/huoche/zhan/bozhou.htm)| 17:52| 17:58| 6分| -  
+17| [商丘南](/huoche/zhan/shangqiunan.htm)| 18:34| 18:40| 6分| -  
+18| [菏泽](/huoche/zhan/heze.htm)| 19:33| 19:35| 2分| -  
+19| [聊城](/huoche/zhan/liaocheng.htm)| 20:42| 20:48| 6分| -  
+20| [衡水](/huoche/zhan/hengshui.htm)| 22:21| 22:27| 6分| -  
+21| [任丘](/huoche/zhan/renqiu.htm)| 23:38| 23:42| 4分| -  
+22| [天津](/huoche/zhan/tianjin.htm)| 01:43| 02:00| 17分| -  
+23| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 05:26| 05:30| 4分| -  
+24| [山海关](/huoche/zhan/shanhaiguan.htm)| 05:54| 06:00| 6分| -  
+25| [锦州南](/huoche/zhan/jinzhounan.htm)| 07:15| 07:23| 8分| -  
+26| [沈阳北](/huoche/zhan/shenyangbei.htm)| 09:07| 09:13| 6分| -  
+27| [四平](/huoche/zhan/siping.htm)| 10:43| 10:45| 2分| -  
+28| [长春](/huoche/zhan/changchun.htm)| 11:43| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

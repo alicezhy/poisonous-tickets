@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从珠海开往广州南的C7628城际高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | C7628 |  
+---|---|---|---  
+车型 | 城际高铁  
+始发站 | 珠海  
+发车时间 | 12:10  
+到站时间 | 13:19  
+全程时间 | 1小时9分  
+终点站 | 广州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [珠海](/huoche/zhan/zhuhai.htm)| -| 12:10| 0分| -  
+2| [中山](/huoche/zhan/zhongshan.htm)| 12:33| 12:35| 2分| -  
+3| [中山北](/huoche/zhan/zhongshanbei.htm)| 12:40| 12:42| 2分| -  
+4| [小榄](/huoche/zhan/xiaolan.htm)| 12:51| 12:53| 2分| -  
+5| [北滘](/huoche/zhan/beijiao.htm)| 13:07| 13:09| 2分| -  
+6| [广州南](/huoche/zhan/guangzhounan.htm)| 13:19| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

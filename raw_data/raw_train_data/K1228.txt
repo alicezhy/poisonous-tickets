@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从佳木斯开往沈阳的K1228快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1228 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 佳木斯  
+发车时间 | 18:40  
+到站时间 | 09:24  
+全程时间 | 14小时44分  
+终点站 | 沈阳  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [佳木斯](/huoche/zhan/jiamusi.htm)| \----| 18:40| 0分| -  
+2| [浩良河](/huoche/zhan/haolianghe.htm)| 19:32| 19:34| 2分| -  
+3| [南岔](/huoche/zhan/nancha2.htm)| 20:25| 20:29| 4分| -  
+4| [带岭](/huoche/zhan/dailing.htm)| 20:56| 20:58| 2分| -  
+5| [朗乡](/huoche/zhan/langxiang.htm)| 21:10| 21:12| 2分| -  
+6| [铁力](/huoche/zhan/tieli2.htm)| 22:08| 22:13| 5分| -  
+7| [庆安](/huoche/zhan/qingan.htm)| 22:44| 22:48| 4分| -  
+8| [绥化](/huoche/zhan/suihua.htm)| 23:32| 23:44| 12分| -  
+9| [哈尔滨东](/huoche/zhan/haerbindong.htm)| 01:01| 01:46| 45分| -  
+11| [长春](/huoche/zhan/changchun.htm)| 05:24| 05:32| 8分| -  
+12| [公主岭](/huoche/zhan/gongzhuling.htm)| 06:10| 06:12| 2分| -  
+13| [郭家店](/huoche/zhan/guojiadian.htm)| 06:29| 06:31| 2分| -  
+14| [四平](/huoche/zhan/siping.htm)| 06:56| 07:00| 4分| -  
+15| [昌图](/huoche/zhan/changtu.htm)| 07:36| 07:39| 3分| -  
+16| [开原](/huoche/zhan/kaiyuan.htm)| 07:59| 08:02| 3分| -  
+17| [铁岭](/huoche/zhan/tieling.htm)| 08:24| 08:27| 3分| -  
+18| [沈阳](/huoche/zhan/shenyang3.htm)| 09:24| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

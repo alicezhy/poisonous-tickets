@@ -1,0 +1,58 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从长春开往上海虹桥的G1234高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1234 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 长春  
+发车时间 | 10:30  
+到站时间 | 22:16  
+全程时间 | 11小时46分  
+终点站 | 上海虹桥  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [长春](/huoche/zhan/changchun.htm)| \----| 10:30| 0分| -  
+2| [四平东](/huoche/zhan/sipingdong.htm)| 11:03| 11:05| 2分| -  
+3| [昌图西](/huoche/zhan/changtuxi.htm)| 11:21| 11:22| 1分| -  
+4| [开原西](/huoche/zhan/kaiyuanxi.htm)| 11:33| 11:35| 2分| -  
+5| [沈阳北](/huoche/zhan/shenyangbei.htm)| 12:04| 12:06| 2分| -  
+6| [盘锦北](/huoche/zhan/panjinbei.htm)| 13:06| 13:07| 1分| -  
+7| [锦州南](/huoche/zhan/jinzhounan.htm)| 13:31| 13:32| 1分| -  
+8| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 14:45| 14:52| 7分| -  
+9| [北戴河](/huoche/zhan/beidaihe.htm)| 15:03| 15:05| 2分| -  
+10| [滦河](/huoche/zhan/luanhe.htm)| 15:23| 15:25| 2分| -  
+11| [唐山](/huoche/zhan/tangshan.htm)| 15:43| 15:45| 2分| -  
+12| [滨海北](/huoche/zhan/binhaibei.htm)| 16:01| 16:03| 2分| -  
+13| [天津](/huoche/zhan/tianjin.htm)| 16:24| 16:29| 5分| -  
+14| [天津西](/huoche/zhan/tianjinxi.htm)| 16:37| 16:43| 6分| -  
+15| [沧州西](/huoche/zhan/cangzhouxi.htm)| 17:13| 17:15| 2分| -  
+16| [德州东](/huoche/zhan/dezhoudong.htm)| 17:42| 17:44| 2分| -  
+17| [济南西](/huoche/zhan/jinanxi.htm)| 18:08| 18:13| 5分| -  
+18| [枣庄](/huoche/zhan/zaozhuang.htm)| 19:03| 19:09| 6分| -  
+19| [徐州东](/huoche/zhan/xuzhoudong.htm)| 19:27| 19:30| 3分| -  
+20| [南京南](/huoche/zhan/nanjingnan.htm)| 20:46| 20:48| 2分| -  
+21| [常州北](/huoche/zhan/changzhoubei.htm)| 21:20| 21:22| 2分| -  
+22| [苏州北](/huoche/zhan/suzhoubei.htm)| 21:44| 21:46| 2分| -  
+23| [昆山南](/huoche/zhan/kunshannan.htm)| 21:57| 21:59| 2分| -  
+24| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 22:16| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

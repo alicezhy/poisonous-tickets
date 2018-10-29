@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从怀化开往澧县的7266普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 7266 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 怀化  
+发车时间 | 07:00  
+到站时间 | 15:57  
+全程时间 | 8小时57分  
+终点站 | 澧县  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [怀化](/huoche/zhan/huaihua.htm)| -| 07:00| 0分| -  
+2| [麻阳](/huoche/zhan/mayang.htm)| 07:51| 07:54| 3分| -  
+3| [吉首](/huoche/zhan/jishou.htm)| 09:06| 09:12| 6分| -  
+4| [猛洞河](/huoche/zhan/mengdonghe.htm)| 10:29| 10:33| 4分| -  
+5| [张家界](/huoche/zhan/zhangjiajie.htm)| 11:57| 12:06| 9分| -  
+6| [慈利](/huoche/zhan/cili.htm)| 14:10| 14:14| 4分| -  
+7| [石门县北](/huoche/zhan/shimenxianbei.htm)| 15:16| 15:22| 6分| -  
+8| [澧县](/huoche/zhan/lixian.htm)| 15:57| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

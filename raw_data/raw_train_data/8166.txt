@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从风陵渡开往临汾的8166普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 8166 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 风陵渡  
+发车时间 | 13:20  
+到站时间 | 19:12  
+全程时间 | 5小时52分  
+终点站 | 临汾  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [风陵渡](/huoche/zhan/fenglingdu.htm)| -| 13:20| 0分| -  
+2| [永济](/huoche/zhan/yongji2.htm)| 14:08| 14:11| 3分| -  
+3| [运城](/huoche/zhan/yuncheng.htm)| 15:26| 15:36| 10分| -  
+4| [闻喜](/huoche/zhan/wenxi.htm)| 16:55| 17:03| 8分| -  
+5| [东镇](/huoche/zhan/dongzhen.htm)| 17:16| 17:20| 4分| -  
+6| [侯马](/huoche/zhan/houma.htm)| 17:55| 18:03| 8分| -  
+7| [襄汾](/huoche/zhan/xiangfen.htm)| 18:46| 18:48| 2分| -  
+8| [临汾](/huoche/zhan/linfen.htm)| 19:12| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

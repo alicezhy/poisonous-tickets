@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从合肥南开往广州南的G635高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G635 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 合肥南  
+发车时间 | 14:03  
+到站时间 | 22:52  
+全程时间 | 8小时49分  
+终点站 | 广州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [合肥南](/huoche/zhan/hefeinan.htm)| -| 14:03| 0分| -  
+2| [巢湖东](/huoche/zhan/chaohudong.htm)| 14:24| 14:26| 2分| -  
+3| [无为](/huoche/zhan/mowei.htm)| 14:39| 14:41| 2分| -  
+4| [铜陵北](/huoche/zhan/tonglingbei.htm)| 14:53| 14:55| 2分| -  
+5| [泾县](/huoche/zhan/jingxian.htm)| 15:12| 15:14| 2分| -  
+6| [旌德](/huoche/zhan/jingde.htm)| 15:28| 15:30| 2分| -  
+7| [绩溪北](/huoche/zhan/jixibei.htm)| 15:41| 15:43| 2分| -  
+8| [黄山北](/huoche/zhan/huangshanbei.htm)| 15:58| 16:01| 3分| -  
+9| [婺源](/huoche/zhan/wuyuan2.htm)| 16:22| 16:24| 2分| -  
+10| [德兴](/huoche/zhan/dexing.htm)| 16:35| 16:37| 2分| -  
+11| [上饶](/huoche/zhan/shangrao.htm)| 16:56| 17:19| 23分| -  
+12| [鹰潭北](/huoche/zhan/yingtanbei.htm)| 17:49| 17:52| 3分| -  
+13| [南昌西](/huoche/zhan/nanchangxi.htm)| 18:27| 18:31| 4分| -  
+14| [高安](/huoche/zhan/gaoan.htm)| 18:47| 18:49| 2分| -  
+15| [新余北](/huoche/zhan/xinyubei.htm)| 19:11| 19:13| 2分| -  
+16| [宜春](/huoche/zhan/yichun.htm)| 19:28| 19:31| 3分| -  
+17| [长沙南](/huoche/zhan/changshanan.htm)| 20:14| 20:21| 7分| -  
+18| [衡阳东](/huoche/zhan/hengyangdong.htm)| 20:58| 21:00| 2分| -  
+19| [广州南](/huoche/zhan/guangzhounan.htm)| 22:52| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

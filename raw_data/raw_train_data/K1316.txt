@@ -1,0 +1,68 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从福州开往呼和浩特东的K1316快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1316 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 福州  
+发车时间 | 11:50  
+到站时间 | 06:53  
+全程时间 | 43小时3分  
+终点站 | 呼和浩特东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [福州](/huoche/zhan/fuzhou.htm)| \----| 11:50| 0分| -  
+2| [尤溪](/huoche/zhan/youxi2.htm)| 13:26| 13:36| 10分| -  
+3| [三明北](/huoche/zhan/sanmingbei.htm)| 14:02| 14:04| 2分| -  
+4| [泰宁](/huoche/zhan/taining.htm)| 15:00| 15:10| 10分| -  
+5| [南昌西](/huoche/zhan/nanchangxi.htm)| 18:13| 18:43| 30分| -  
+6| [庐山](/huoche/zhan/lushan.htm)| 19:51| 19:55| 4分| -  
+7| [瑞昌](/huoche/zhan/ruichang.htm)| 20:14| 20:18| 4分| -  
+8| [阳新](/huoche/zhan/yangxin.htm)| 21:17| 21:20| 3分| -  
+9| [黄石](/huoche/zhan/huangshi.htm)| 21:48| 21:51| 3分| -  
+10| [鄂州](/huoche/zhan/ezhou.htm)| 22:26| 22:29| 3分| -  
+11| [武昌](/huoche/zhan/wuchang.htm)| 00:01| 00:21| 20分| -  
+12| [孝感](/huoche/zhan/xiaogan.htm)| 01:24| 01:27| 3分| -  
+13| [信阳](/huoche/zhan/xinyang.htm)| 03:01| 03:04| 3分| -  
+14| [驻马店](/huoche/zhan/zhumadian.htm)| 04:04| 04:21| 17分| -  
+15| [漯河](/huoche/zhan/luohe.htm)| 05:12| 05:18| 6分| -  
+16| [平顶山](/huoche/zhan/pingdingshan2.htm)| 06:34| 06:41| 7分| -  
+17| [平顶山西](/huoche/zhan/pingdingshanxi.htm)| 07:16| 07:21| 5分| -  
+18| [汝州](/huoche/zhan/ruzhou.htm)| 07:58| 08:02| 4分| -  
+19| [洛阳](/huoche/zhan/luoyang.htm)| 09:30| 09:49| 19分| -  
+20| [三门峡](/huoche/zhan/sanmenxia2.htm)| 11:36| 11:39| 3分| -  
+21| [华山](/huoche/zhan/huashan.htm)| 13:29| 13:31| 2分| -  
+22| [渭南](/huoche/zhan/weinan.htm)| 14:21| 14:24| 3分| -  
+23| [西安](/huoche/zhan/xian.htm)| 15:24| 15:42| 18分| -  
+24| [蒲城东](/huoche/zhan/puchengdong.htm)| 16:53| 16:55| 2分| -  
+25| [富县东](/huoche/zhan/fuxiandong.htm)| 18:20| 18:22| 2分| -  
+26| [延安](/huoche/zhan/yanan.htm)| 19:04| 19:08| 4分| -  
+27| [子长](/huoche/zhan/zichang.htm)| 20:35| 20:38| 3分| -  
+28| [清涧县](/huoche/zhan/qingjianxian.htm)| 21:05| 21:09| 4分| -  
+29| [绥德](/huoche/zhan/suide.htm)| 22:11| 22:17| 6分| -  
+30| [米脂](/huoche/zhan/mizhi.htm)| 22:38| 22:41| 3分| -  
+31| [榆林](/huoche/zhan/yulin2.htm)| 23:41| 23:51| 10分| -  
+32| [东胜西](/huoche/zhan/dongshengxi.htm)| 02:41| 02:51| 10分| -  
+33| [包头](/huoche/zhan/baotou.htm)| 04:55| 05:03| 8分| -  
+34| [呼和浩特东](/huoche/zhan/huhehaotedong.htm)| 06:53| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从广州东开往厦门的K300快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K300 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 广州东  
+发车时间 | 20:42  
+到站时间 | 07:57  
+全程时间 | 11小时15分  
+终点站 | 厦门  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [广州东](/huoche/zhan/guangzhoudong.htm)| -| 20:42| 0分| -  
+3| [东莞东](/huoche/zhan/dongguandong.htm)| 21:38| 21:44| 6分| -  
+4| [惠州](/huoche/zhan/huizhou.htm)| 22:27| 22:32| 5分| -  
+5| [河源](/huoche/zhan/heyuan.htm)| 23:25| 23:28| 3分| -  
+6| [龙川](/huoche/zhan/longchuan.htm)| 00:25| 00:41| 16分| -  
+7| [兴宁](/huoche/zhan/xingning.htm)| 01:34| 01:38| 4分| -  
+9| [梅州](/huoche/zhan/meizhou.htm)| 02:26| 02:34| 8分| -  
+10| [大埔](/huoche/zhan/dapu.htm)| 03:39| 03:43| 4分| -  
+12| [永定](/huoche/zhan/yongding.htm)| 04:36| 04:40| 4分| -  
+16| [厦门](/huoche/zhan/xiamen.htm)| 07:57| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

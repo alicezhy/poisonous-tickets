@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从玉山开往南昌的K8721快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K8721 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 玉山  
+发车时间 | 12:20  
+到站时间 | 16:02  
+全程时间 | 3小时42分  
+终点站 | 南昌  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [玉山](/huoche/zhan/yushan.htm)| -| 12:20| 0分| -  
+2| [上饶](/huoche/zhan/shangrao.htm)| 12:42| 12:46| 4分| -  
+3| [横峰](/huoche/zhan/hengfeng.htm)| 13:14| 13:17| 3分| -  
+4| [弋阳](/huoche/zhan/yiyang3.htm)| 13:30| 13:33| 3分| -  
+5| [贵溪](/huoche/zhan/guixi.htm)| 13:53| 13:56| 3分| -  
+6| [鹰潭](/huoche/zhan/yingtan.htm)| 14:13| 14:19| 6分| -  
+7| [东乡](/huoche/zhan/dongxiang.htm)| 14:44| 14:47| 3分| -  
+8| [进贤](/huoche/zhan/jinxian.htm)| 15:15| 15:18| 3分| -  
+9| [南昌](/huoche/zhan/nanchang.htm)| 16:02| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

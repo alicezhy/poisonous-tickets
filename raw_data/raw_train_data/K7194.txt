@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从绥芬河开往海拉尔的K7194快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7194 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 绥芬河  
+发车时间 | 21:38  
+到站时间 | 16:43  
+全程时间 | 19小时5分  
+终点站 | 海拉尔  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [绥芬河](/huoche/zhan/suifenhe.htm)| \----| 21:38| 0分| -  
+2| [绥阳](/huoche/zhan/suiyang.htm)| 21:54| 21:57| 3分| -  
+3| [穆棱](/huoche/zhan/muling.htm)| 22:29| 22:31| 2分| -  
+4| [牡丹江](/huoche/zhan/mudanjiang.htm)| 23:13| 23:32| 19分| -  
+6| [哈尔滨东](/huoche/zhan/haerbindong.htm)| 04:02| 04:28| 26分| -  
+8| [肇东](/huoche/zhan/zhaodong2.htm)| 05:28| 05:30| 2分| -  
+9| [安达](/huoche/zhan/anda.htm)| 06:09| 06:15| 6分| -  
+11| [大庆](/huoche/zhan/daqing.htm)| 06:41| 06:46| 5分| -  
+13| [杜尔伯特](/huoche/zhan/duerbote.htm)| 07:23| 07:28| 5分| -  
+14| [昂昂溪](/huoche/zhan/angangxi.htm)| 08:12| 08:18| 6分| -  
+15| [富拉尔基](/huoche/zhan/fulaerji.htm)| 08:34| 08:39| 5分| -  
+16| [碾子山](/huoche/zhan/nianzishan.htm)| 09:36| 09:39| 3分| -  
+17| [扎兰屯](/huoche/zhan/zhalantun.htm)| 10:34| 10:37| 3分| -  
+18| [哈拉苏](/huoche/zhan/halasu.htm)| 11:05| 11:07| 2分| -  
+19| [南木](/huoche/zhan/nanmu.htm)| 11:19| 11:21| 2分| -  
+20| [巴林](/huoche/zhan/balin.htm)| 11:42| 11:44| 2分| -  
+21| [喇嘛山](/huoche/zhan/LaMaShan.htm)| 11:56| 11:58| 2分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

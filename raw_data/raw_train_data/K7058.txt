@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从满洲里开往哈尔滨西的K7058快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7058 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 满洲里  
+发车时间 | 20:30  
+到站时间 | 10:34  
+全程时间 | 14小时4分  
+终点站 | 哈尔滨西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [满洲里](/huoche/zhan/manzhouli.htm)| -| 20:30| 0分| -  
+2| [扎赉诺尔西](/huoche/zhan/zhalainuoerxi.htm)| 20:53| 20:56| 3分| -  
+3| [嵯岗](/huoche/zhan/cigang.htm)| 21:21| 21:23| 2分| -  
+4| [海拉尔](/huoche/zhan/hailaer.htm)| 22:43| 22:53| 10分| -  
+5| [牙克石](/huoche/zhan/yakeshi.htm)| 23:58| 00:05| 7分| -  
+6| [博克图](/huoche/zhan/boketu.htm)| 01:44| 01:47| 3分| -  
+7| [扎兰屯](/huoche/zhan/zhalantun.htm)| 03:31| 03:34| 3分| -  
+8| [碾子山](/huoche/zhan/nianzishan.htm)| 04:18| 04:20| 2分| -  
+9| [龙江](/huoche/zhan/longjiang.htm)| 04:46| 04:48| 2分| -  
+10| [富拉尔基](/huoche/zhan/fulaerji.htm)| 05:20| 05:22| 2分| -  
+11| [齐齐哈尔](/huoche/zhan/qiqihaer.htm)| 06:02| 06:37| 35分| -  
+13| [大庆西](/huoche/zhan/daqingxi.htm)| 07:55| 08:01| 6分| -  
+14| [安达](/huoche/zhan/anda.htm)| 08:31| 08:34| 3分| -  
+15| [宋](/huoche/zhan/song16.htm)| 08:54| 09:10| 16分| -  
+16| [肇东](/huoche/zhan/zhaodong2.htm)| 09:33| 09:35| 2分| -  
+17| [哈尔滨西](/huoche/zhan/haerbinxi.htm)| 10:34| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

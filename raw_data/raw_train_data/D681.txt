@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从莆田开往深圳北的D681动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D681 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 莆田  
+发车时间 | 06:57  
+到站时间 | 11:52  
+全程时间 | 4小时55分  
+终点站 | 深圳北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [莆田](/huoche/zhan/putian.htm)| -| 06:57| 0分| -  
+2| [晋江](/huoche/zhan/jinjiang.htm)| 07:29| 07:31| 2分| -  
+3| [厦门北](/huoche/zhan/xiamenbei.htm)| 07:49| 08:00| 11分| -  
+4| [漳州](/huoche/zhan/zhangzhou.htm)| 08:19| 08:23| 4分| -  
+5| [诏安](/huoche/zhan/zhaoan.htm)| 09:03| 09:05| 2分| -  
+6| [潮汕](/huoche/zhan/chaoshan.htm)| 09:28| 09:31| 3分| -  
+7| [潮阳](/huoche/zhan/chaoyang2.htm)| 09:43| 09:45| 2分| -  
+8| [陆丰](/huoche/zhan/lufeng2.htm)| 10:22| 10:24| 2分| -  
+9| [鲘门](/huoche/zhan/houmen.htm)| 10:50| 10:52| 2分| -  
+10| [深圳坪山](/huoche/zhan/shenzhenpingshan.htm)| 11:23| 11:25| 2分| -  
+11| [深圳北](/huoche/zhan/shenzhenbei.htm)| 11:52| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

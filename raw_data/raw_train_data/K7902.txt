@@ -1,0 +1,41 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从乌海西开往包头的K7902快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7902 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 乌海西  
+发车时间 | 08:28  
+到站时间 | 13:03  
+全程时间 | 4小时35分  
+终点站 | 包头  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [乌海西](/huoche/zhan/wuhaixi.htm)| -| 08:28| 0分| -  
+2| [乌海](/huoche/zhan/wuhai.htm)| 08:51| 08:55| 4分| -  
+3| [巴彦高勒](/huoche/zhan/bayangaole.htm)| 09:51| 09:53| 2分| -  
+4| [临河](/huoche/zhan/linhe.htm)| 10:34| 10:41| 7分| -  
+5| [五原](/huoche/zhan/wuyuan.htm)| 11:16| 11:18| 2分| -  
+6| [乌拉特前旗](/huoche/zhan/wulateqianqi.htm)| 11:52| 11:54| 2分| -  
+7| [包头](/huoche/zhan/baotou.htm)| 13:03| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

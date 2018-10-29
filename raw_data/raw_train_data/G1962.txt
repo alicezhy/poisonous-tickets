@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从宁波开往郑州东的G1962高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1962 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 宁波  
+发车时间 | 14:01  
+到站时间 | 19:58  
+全程时间 | 5小时57分  
+终点站 | 郑州东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [宁波](/huoche/zhan/ningbo.htm)| -| 14:01| 0分| -  
+2| [余姚北](/huoche/zhan/yuyaobei.htm)| 14:21| 14:23| 2分| -  
+3| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 14:41| 14:43| 2分| -  
+4| [杭州东](/huoche/zhan/hangzhoudong.htm)| 15:01| 15:03| 2分| -  
+5| [湖州](/huoche/zhan/huzhou.htm)| 15:24| 15:26| 2分| -  
+6| [宜兴](/huoche/zhan/yixing.htm)| 15:44| 15:46| 2分| -  
+7| [南京南](/huoche/zhan/nanjingnan.htm)| 16:21| 16:33| 12分| -  
+8| [徐州东](/huoche/zhan/xuzhoudong.htm)| 17:48| 17:55| 7分| -  
+9| [萧县北](/huoche/zhan/xiaoxianbei.htm)| 18:13| 18:15| 2分| -  
+10| [商丘](/huoche/zhan/shangqiu.htm)| 18:47| 18:50| 3分| -  
+11| [民权北](/huoche/zhan/minquanbei.htm)| 19:05| 19:08| 3分| -  
+12| [开封北](/huoche/zhan/kaifengbei.htm)| 19:34| 19:37| 3分| -  
+13| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 19:58| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

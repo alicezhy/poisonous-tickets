@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从哈尔滨西开往盘锦的G764高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G764 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 哈尔滨西  
+发车时间 | 13:21  
+到站时间 | 17:20  
+全程时间 | 3小时59分  
+终点站 | 盘锦  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [哈尔滨西](/huoche/zhan/haerbinxi.htm)| \----| 13:21| 0分| -  
+2| [扶余北](/huoche/zhan/fuyubei.htm)| 13:47| 13:55| 8分| -  
+3| [德惠西](/huoche/zhan/dehuixi.htm)| 14:12| 14:14| 2分| -  
+4| [长春西](/huoche/zhan/changchunxi.htm)| 14:37| 14:39| 2分| -  
+5| [四平东](/huoche/zhan/sipingdong.htm)| 15:05| 15:07| 2分| -  
+6| [铁岭西](/huoche/zhan/tielingxi.htm)| 15:38| 15:40| 2分| -  
+7| [沈阳](/huoche/zhan/shenyang3.htm)| 16:02| 16:05| 3分| -  
+8| [辽阳](/huoche/zhan/liaoyang.htm)| 16:29| 16:31| 2分| -  
+9| [鞍山西](/huoche/zhan/anshanxi.htm)| 16:42| 16:44| 2分| -  
+10| [海城西](/huoche/zhan/haichengxi.htm)| 16:56| 16:58| 2分| -  
+11| [盘锦](/huoche/zhan/panjin.htm)| 17:20| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

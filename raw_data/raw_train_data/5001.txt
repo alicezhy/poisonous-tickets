@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从济南东开往陵城的5001普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 5001 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 济南东  
+发车时间 | 07:35  
+到站时间 | 13:45  
+全程时间 | 6小时10分  
+终点站 | 陵城  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [济南东](/huoche/zhan/jinandong.htm)| -| 07:35| 0分| -  
+2| [章丘](/huoche/zhan/zhangqiu.htm)| 08:03| 08:06| 3分| -  
+3| [淄博](/huoche/zhan/zibo.htm)| 08:42| 08:45| 3分| -  
+4| [博兴](/huoche/zhan/boxing.htm)| 09:34| 09:37| 3分| -  
+6| [东营](/huoche/zhan/dongying.htm)| 10:45| 11:09| 24分| -  
+9| [利津南](/huoche/zhan/lijinnan.htm)| 11:41| 11:43| 2分| -  
+10| 11:57| 12:03| 6分| -  
+11| [阳信](/huoche/zhan/yangxin2.htm)| 12:28| 12:31| 3分| -  
+12| [商河](/huoche/zhan/shanghe.htm)| 13:03| 13:06| 3分| -  
+13| [临邑](/huoche/zhan/linyi2.htm)| 13:25| 13:28| 3分| -  
+14| [陵城](/huoche/zhan/lingcheng.htm)| 13:45| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

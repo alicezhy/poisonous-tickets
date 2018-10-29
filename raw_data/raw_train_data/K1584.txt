@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从乌鲁木齐开往重庆的K1584快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1584 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 乌鲁木齐  
+发车时间 | 12:38  
+到站时间 | 23:28  
+全程时间 | 34小时50分  
+终点站 | 重庆  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [乌鲁木齐](/huoche/zhan/wulumuqi.htm)| -| 12:38| 0分| -  
+3| [吐鲁番北](/huoche/zhan/tulufanbei.htm)| 14:21| 14:24| 3分| -  
+4| [鄯善北](/huoche/zhan/shanshanbei.htm)| 15:37| 15:40| 3分| -  
+5| [哈密](/huoche/zhan/hami.htm)| 18:32| 18:56| 24分| -  
+7| [玉门](/huoche/zhan/yumen2.htm)| 00:11| 00:15| 4分| -  
+8| [嘉峪关](/huoche/zhan/jiayuguan.htm)| 01:51| 01:59| 8分| -  
+9| [张掖](/huoche/zhan/zhangye.htm)| 04:19| 04:25| 6分| -  
+10| [金昌](/huoche/zhan/jinchang.htm)| 06:46| 06:53| 7分| -  
+11| [武威](/huoche/zhan/wuwei.htm)| 07:44| 07:50| 6分| -  
+12| [兰州](/huoche/zhan/lanzhou.htm)| 11:34| 11:50| 16分| -  
+13| [渭源](/huoche/zhan/weiyuan.htm)| 13:16| 13:20| 4分| -  
+14| [漳县](/huoche/zhan/zhangxian2.htm)| 13:52| 13:56| 4分| -  
+15| [哈达铺](/huoche/zhan/hadapu.htm)| 14:41| 14:45| 4分| -  
+16| [陇南](/huoche/zhan/longnan2.htm)| 16:04| 16:08| 4分| -  
+17| [广元](/huoche/zhan/guangyuan.htm)| 17:55| 18:25| 30分| -  
+18| [南充北](/huoche/zhan/nanchongbei.htm)| 20:14| 20:17| 3分| -  
+19| [重庆](/huoche/zhan/chongqing.htm)| 23:28| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从福州开往上饶的G5106高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G5106 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 福州  
+发车时间 | 19:49  
+到站时间 | 21:52  
+全程时间 | 2小时3分  
+终点站 | 上饶  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [福州](/huoche/zhan/fuzhou.htm)| -| 19:49| 0分| -  
+2| [闽清北](/huoche/zhan/minqingbei.htm)| 20:08| 20:10| 2分| -  
+3| [古田北](/huoche/zhan/gutianbei.htm)| 20:21| 20:23| 2分| -  
+4| [南平北](/huoche/zhan/nanpingbei.htm)| 20:37| 20:39| 2分| -  
+5| [建瓯西](/huoche/zhan/jianouxi.htm)| 20:55| 20:57| 2分| -  
+6| [武夷山东](/huoche/zhan/wuyishandong.htm)| 21:12| 21:14| 2分| -  
+7| [武夷山北](/huoche/zhan/wuyishanbei.htm)| 21:27| 21:29| 2分| -  
+9| [上饶](/huoche/zhan/shangrao.htm)| 21:52| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从济南开往温州南的G63高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G63 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 济南  
+发车时间 | 07:23  
+到站时间 | 14:49  
+全程时间 | 7小时26分  
+终点站 | 温州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [济南](/huoche/zhan/jinan.htm)| -| 07:23| 0分| -  
+2| [曲阜东](/huoche/zhan/qufudong.htm)| 08:01| 08:03| 2分| -  
+3| [滕州东](/huoche/zhan/tengzhoudong.htm)| 08:19| 08:21| 2分| -  
+4| [枣庄](/huoche/zhan/zaozhuang.htm)| 08:34| 08:36| 2分| -  
+5| [徐州东](/huoche/zhan/xuzhoudong.htm)| 08:55| 08:57| 2分| -  
+6| [宿州东](/huoche/zhan/suzhoudong.htm)| 09:15| 09:17| 2分| -  
+7| [蚌埠南](/huoche/zhan/bengbunan.htm)| 09:40| 09:42| 2分| -  
+8| [南京南](/huoche/zhan/nanjingnan.htm)| 10:24| 10:29| 5分| -  
+9| [宜兴](/huoche/zhan/yixing.htm)| 11:03| 11:05| 2分| -  
+10| [湖州](/huoche/zhan/huzhou.htm)| 11:22| 11:25| 3分| -  
+11| [德清](/huoche/zhan/deqing.htm)| 11:38| 11:40| 2分| -  
+12| [杭州东](/huoche/zhan/hangzhoudong.htm)| 11:53| 11:56| 3分| -  
+13| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 12:14| 12:16| 2分| -  
+14| [宁波](/huoche/zhan/ningbo.htm)| 12:48| 12:51| 3分| -  
+15| [三门县](/huoche/zhan/sanmenxian.htm)| 13:30| 13:32| 2分| -  
+16| [台州](/huoche/zhan/taizhou2.htm)| 13:51| 13:53| 2分| -  
+17| [温岭](/huoche/zhan/wenling.htm)| 14:04| 14:06| 2分| -  
+18| [乐清](/huoche/zhan/yueqing.htm)| 14:32| 14:33| 1分| -  
+19| [温州南](/huoche/zhan/wenzhounan.htm)| 14:49| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

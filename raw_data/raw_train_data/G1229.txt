@@ -1,0 +1,56 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海虹桥开往丹东的G1229高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1229 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 上海虹桥  
+发车时间 | 07:34  
+到站时间 | 19:25  
+全程时间 | 11小时51分  
+终点站 | 丹东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| -| 07:34| 0分| -  
+2| [昆山南](/huoche/zhan/kunshannan.htm)| 07:51| 07:53| 2分| -  
+3| [苏州北](/huoche/zhan/suzhoubei.htm)| 08:04| 08:21| 17分| -  
+4| [无锡东](/huoche/zhan/wuxidong.htm)| 08:31| 08:33| 2分| -  
+5| [丹阳北](/huoche/zhan/danyangbei.htm)| 08:58| 09:00| 2分| -  
+6| [南京南](/huoche/zhan/nanjingnan.htm)| 09:25| 09:30| 5分| -  
+7| [滁州](/huoche/zhan/chuzhou.htm)| 09:48| 09:50| 2分| -  
+8| [宿州东](/huoche/zhan/suzhoudong.htm)| 10:36| 10:55| 19分| -  
+9| [徐州东](/huoche/zhan/xuzhoudong.htm)| 11:14| 11:16| 2分| -  
+10| [泰安](/huoche/zhan/taian2.htm)| 12:07| 12:09| 2分| -  
+11| [济南西](/huoche/zhan/jinanxi.htm)| 12:27| 12:29| 2分| -  
+12| [沧州西](/huoche/zhan/cangzhouxi.htm)| 13:14| 13:16| 2分| -  
+13| [天津西](/huoche/zhan/tianjinxi.htm)| 13:45| 13:52| 7分| -  
+14| [滨海](/huoche/zhan/binhai.htm)| 14:13| 14:22| 9分| -  
+15| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 15:15| 15:18| 3分| -  
+16| [锦州南](/huoche/zhan/jinzhounan.htm)| 16:27| 16:28| 1分| -  
+17| [辽中](/huoche/zhan/liaozhong.htm)| 17:19| 17:20| 1分| -  
+18| [沈阳](/huoche/zhan/shenyang3.htm)| 17:53| 17:56| 3分| -  
+19| [沈阳南](/huoche/zhan/shenyangnan.htm)| 18:08| 18:10| 2分| -  
+20| [本溪](/huoche/zhan/benxi.htm)| 18:34| 18:36| 2分| -  
+21| [凤城东](/huoche/zhan/fengchengdong.htm)| 19:06| 19:08| 2分| -  
+22| [丹东](/huoche/zhan/dandong.htm)| 19:25| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

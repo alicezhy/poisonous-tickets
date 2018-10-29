@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从淮北开往上海的K8431快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K8431 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 淮北  
+发车时间 | 21:40  
+到站时间 | 06:19  
+全程时间 | 8小时39分  
+终点站 | 上海  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [淮北](/huoche/zhan/huaibei.htm)| -| 21:40| 0分| -  
+2| [宿州](/huoche/zhan/suzhou2.htm)| 22:56| 23:05| 9分| -  
+3| [蚌埠](/huoche/zhan/bengbu.htm)| 00:04| 00:19| 15分| -  
+4| [南京](/huoche/zhan/nanjing.htm)| 02:38| 02:44| 6分| -  
+5| [苏州](/huoche/zhan/suzhou.htm)| 05:01| 05:06| 5分| -  
+6| [上海](/huoche/zhan/shanghai.htm)| 06:19| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

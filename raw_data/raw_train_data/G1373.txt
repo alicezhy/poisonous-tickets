@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海虹桥开往昆明南的G1373高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1373 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 上海虹桥  
+发车时间 | 08:55  
+到站时间 | 19:34  
+全程时间 | 10小时39分  
+终点站 | 昆明南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| \----| 08:55| 0分| -  
+2| [杭州东](/huoche/zhan/hangzhoudong.htm)| 09:42| 09:44| 2分| -  
+3| [金华](/huoche/zhan/jinhua.htm)| 10:28| 10:30| 2分| -  
+4| [鹰潭北](/huoche/zhan/yingtanbei.htm)| 11:37| 11:41| 4分| -  
+5| [南昌西](/huoche/zhan/nanchangxi.htm)| 12:16| 12:23| 7分| -  
+6| [宜春](/huoche/zhan/yichun.htm)| 13:05| 13:08| 3分| -  
+7| [长沙南](/huoche/zhan/changshanan.htm)| 13:51| 13:54| 3分| -  
+8| [娄底南](/huoche/zhan/loudinan.htm)| 14:29| 14:31| 2分| -  
+9| [怀化南](/huoche/zhan/huaihuanan.htm)| 15:23| 15:27| 4分| -  
+10| [三穗](/huoche/zhan/sansui.htm)| 16:07| 16:09| 2分| -  
+11| [凯里南](/huoche/zhan/kailinan.htm)| 16:34| 16:36| 2分| -  
+12| [贵阳北](/huoche/zhan/guiyangbei.htm)| 17:14| 17:19| 5分| -  
+13| [安顺西](/huoche/zhan/anshunxi.htm)| 17:49| 17:51| 2分| -  
+14| [曲靖北](/huoche/zhan/qujingbei.htm)| 18:57| 18:59| 2分| -  
+15| [昆明南](/huoche/zhan/kunmingnan.htm)| 19:34| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

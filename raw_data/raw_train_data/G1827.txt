@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海虹桥开往郑州东的G1827高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1827 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 上海虹桥  
+发车时间 | 18:20  
+到站时间 | 23:28  
+全程时间 | 5小时8分  
+终点站 | 郑州东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| \----| 18:20| 0分| -  
+2| [昆山南](/huoche/zhan/kunshannan.htm)| 18:37| 18:39| 2分| -  
+3| [苏州北](/huoche/zhan/suzhoubei.htm)| 18:50| 18:52| 2分| -  
+4| [无锡东](/huoche/zhan/wuxidong.htm)| 19:02| 19:04| 2分| -  
+5| [常州北](/huoche/zhan/changzhoubei.htm)| 19:21| 19:23| 2分| -  
+6| [丹阳北](/huoche/zhan/danyangbei.htm)| 19:35| 19:40| 5分| -  
+7| [镇江南](/huoche/zhan/zhenjiangnan.htm)| 19:51| 19:53| 2分| -  
+8| [南京南](/huoche/zhan/nanjingnan.htm)| 20:13| 20:15| 2分| -  
+9| [滁州](/huoche/zhan/chuzhou.htm)| 20:33| 20:35| 2分| -  
+10| [蚌埠南](/huoche/zhan/bengbunan.htm)| 21:03| 21:10| 7分| -  
+11| [徐州东](/huoche/zhan/xuzhoudong.htm)| 21:48| 21:51| 3分| -  
+12| [砀山南](/huoche/zhan/dangshannan.htm)| 22:23| 22:25| 2分| -  
+13| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 23:28| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

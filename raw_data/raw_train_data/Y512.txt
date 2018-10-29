@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从邯郸开往承德的Y512普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Y512 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 邯郸  
+发车时间 | 06:12  
+到站时间 | 18:34  
+全程时间 | 12小时22分  
+终点站 | 承德  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [邯郸](/huoche/zhan/handan.htm)| -| 06:12| 0分| -  
+2| [沙河市](/huoche/zhan/shaheshi.htm)| 06:31| 06:42| 11分| -  
+3| [邢台](/huoche/zhan/xingtai.htm)| 06:58| 07:00| 2分| -  
+4| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 08:50| 08:56| 6分| -  
+5| [保定](/huoche/zhan/baoding.htm)| 10:16| 10:20| 4分| -  
+6| [涿州](/huoche/zhan/zhuozhou.htm)| 11:12| 11:28| 16分| -  
+7| [北京东](/huoche/zhan/beijingdong.htm)| 12:39| 13:04| 25分| -  
+8| [通州西](/huoche/zhan/tongzhouxi.htm)| 13:19| 13:22| 3分| -  
+9| [怀柔](/huoche/zhan/huairou.htm)| 14:06| 14:12| 6分| -  
+10| [密云北](/huoche/zhan/miyunbei.htm)| 14:34| 14:38| 4分| -  
+11| [兴隆县](/huoche/zhan/xinglongxian.htm)| 16:12| 16:16| 4分| -  
+12| [鹰手营子](/huoche/zhan/yingshouyingzi.htm)| 16:40| 16:45| 5分| -  
+13| [下台子](/huoche/zhan/xiataizi.htm)| 17:00| 17:05| 5分| -  
+14| [承德](/huoche/zhan/chengde.htm)| 18:34| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

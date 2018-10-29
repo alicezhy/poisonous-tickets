@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从厦门开往福州的D6234动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D6234 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 厦门  
+发车时间 | 20:31  
+到站时间 | 22:41  
+全程时间 | 2小时10分  
+终点站 | 福州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [厦门](/huoche/zhan/xiamen.htm)| \----| 20:31| 0分| -  
+2| [厦门北](/huoche/zhan/xiamenbei.htm)| 20:54| 20:58| 4分| -  
+3| [晋江](/huoche/zhan/jinjiang.htm)| 21:16| 21:18| 2分| -  
+4| [涵江](/huoche/zhan/hanjiang.htm)| 21:56| 21:58| 2分| -  
+5| [福清](/huoche/zhan/fuqing.htm)| 22:11| 22:14| 3分| -  
+7| [福州](/huoche/zhan/fuzhou.htm)| 22:41| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

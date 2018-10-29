@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从厦门开往上海南的K1210快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1210 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 厦门  
+发车时间 | 10:08  
+到站时间 | 09:06  
+全程时间 | 22小时58分  
+终点站 | 上海南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [厦门](/huoche/zhan/xiamen.htm)| -| 10:08| 0分| -  
+2| [漳州东](/huoche/zhan/zhangzhoudong.htm)| 11:07| 11:19| 12分| -  
+3| [漳平](/huoche/zhan/zhangping.htm)| 13:33| 13:37| 4分| -  
+4| [永安](/huoche/zhan/yongan.htm)| 15:34| 15:40| 6分| -  
+5| [三明](/huoche/zhan/sanming.htm)| 16:30| 16:45| 15分| -  
+6| [顺昌](/huoche/zhan/shunchang.htm)| 19:06| 19:10| 4分| -  
+7| [邵武](/huoche/zhan/shaowu.htm)| 20:37| 20:43| 6分| -  
+8| [光泽](/huoche/zhan/guangze.htm)| 21:14| 21:18| 4分| -  
+9| [资溪](/huoche/zhan/zixi.htm)| 22:08| 22:12| 4分| -  
+10| [鹰潭](/huoche/zhan/yingtan.htm)| 23:18| 23:37| 19分| -  
+11| [上饶](/huoche/zhan/shangrao.htm)| 00:45| 00:49| 4分| -  
+12| [玉山](/huoche/zhan/yushan.htm)| 01:10| 01:13| 3分| -  
+13| [义乌](/huoche/zhan/yiwu.htm)| 04:02| 04:05| 3分| -  
+14| [诸暨](/huoche/zhan/zhuji.htm)| 04:33| 04:49| 16分| -  
+15| [杭州](/huoche/zhan/hangzhou.htm)| 06:07| 06:36| 29分| -  
+16| [海宁](/huoche/zhan/haining.htm)| 07:27| 07:30| 3分| -  
+17| [嘉兴](/huoche/zhan/jiaxing.htm)| 07:50| 07:53| 3分| -  
+18| [嘉善](/huoche/zhan/jiashan.htm)| 08:09| 08:12| 3分| -  
+19| [上海南](/huoche/zhan/shanghainan.htm)| 09:06| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

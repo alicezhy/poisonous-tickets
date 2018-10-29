@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从成都东开往杭州的K531快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K531 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 成都东  
+发车时间 | 22:43  
+到站时间 | 05:04  
+全程时间 | 30小时21分  
+终点站 | 杭州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [成都东](/huoche/zhan/chengdudong.htm)| -| 22:43| 0分| -  
+2| [遂宁](/huoche/zhan/suining.htm)| 00:08| 00:11| 3分| -  
+3| [南充](/huoche/zhan/nanchong.htm)| 00:54| 00:58| 4分| -  
+4| [达州](/huoche/zhan/dazhou.htm)| 02:34| 02:45| 11分| -  
+5| [万州](/huoche/zhan/wanzhou.htm)| 05:08| 05:20| 12分| -  
+6| [恩施](/huoche/zhan/enshi.htm)| 07:30| 07:38| 8分| -  
+7| [巴东](/huoche/zhan/badong.htm)| 09:00| 09:20| 20分| -  
+8| [宜昌东](/huoche/zhan/yichangdong.htm)| 10:33| 10:43| 10分| -  
+9| [当阳](/huoche/zhan/dangyang.htm)| 11:24| 11:27| 3分| -  
+10| [荆门](/huoche/zhan/jingmen.htm)| 12:04| 12:08| 4分| -  
+11| [钟祥](/huoche/zhan/zhongxiang.htm)| 12:46| 12:53| 7分| -  
+12| [京山](/huoche/zhan/jingshan.htm)| 13:53| 14:00| 7分| -  
+13| [应城](/huoche/zhan/yingcheng.htm)| 14:54| 14:59| 5分| -  
+14| [武昌](/huoche/zhan/wuchang.htm)| 16:27| 16:59| 32分| -  
+15| [鄂州](/huoche/zhan/ezhou.htm)| 17:59| 18:03| 4分| -  
+16| [黄石](/huoche/zhan/huangshi.htm)| 18:25| 18:29| 4分| -  
+17| [阳新](/huoche/zhan/yangxin.htm)| 18:57| 19:01| 4分| -  
+18| [瑞昌](/huoche/zhan/ruichang.htm)| 19:45| 19:48| 3分| -  
+19| [九江](/huoche/zhan/jiujiang.htm)| 20:34| 20:40| 6分| -  
+20| [景德镇北](/huoche/zhan/jingdezhenbei.htm)| 22:07| 22:11| 4分| -  
+21| [衢州](/huoche/zhan/quzhou.htm)| 00:41| 00:49| 8分| -  
+22| [义乌](/huoche/zhan/yiwu.htm)| 03:14| 03:19| 5分| -  
+23| [杭州](/huoche/zhan/hangzhou.htm)| 05:04| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

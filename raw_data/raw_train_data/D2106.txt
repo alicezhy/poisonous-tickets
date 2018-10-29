@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南昌开往衢州的D2106动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D2106 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 南昌  
+发车时间 | 11:47  
+到站时间 | 15:59  
+全程时间 | 4小时12分  
+终点站 | 衢州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南昌](/huoche/zhan/nanchang.htm)| -| 11:47| 0分| -  
+2| [永修](/huoche/zhan/yongxiu.htm)| 12:09| 12:11| 2分| -  
+3| [德安](/huoche/zhan/dean.htm)| 12:26| 12:28| 2分| -  
+4| [九江](/huoche/zhan/jiujiang.htm)| 12:49| 12:52| 3分| -  
+5| [湖口](/huoche/zhan/hukou.htm)| 13:10| 13:12| 2分| -  
+6| [都昌](/huoche/zhan/duchang.htm)| 13:29| 13:31| 2分| -  
+7| [鄱阳](/huoche/zhan/poyang.htm)| 13:52| 13:54| 2分| -  
+8| [景德镇北](/huoche/zhan/jingdezhenbei.htm)| 14:12| 14:16| 4分| -  
+9| [婺源](/huoche/zhan/wuyuan2.htm)| 14:43| 14:47| 4分| -  
+10| [德兴东](/huoche/zhan/dexingdong.htm)| 14:57| 15:00| 3分| -  
+11| [开化](/huoche/zhan/kaihua.htm)| 15:21| 15:25| 4分| -  
+12| [常山](/huoche/zhan/changshan.htm)| 15:37| 15:40| 3分| -  
+13| [衢州](/huoche/zhan/quzhou.htm)| 15:59| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

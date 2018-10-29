@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海虹桥开往福州的G1633高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1633 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 上海虹桥  
+发车时间 | 12:25  
+到站时间 | 17:18  
+全程时间 | 4小时53分  
+终点站 | 福州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| -| 12:25| 0分| -  
+2| [金山北](/huoche/zhan/jinshanbei.htm)| 12:43| 12:45| 2分| -  
+3| [桐乡](/huoche/zhan/tongxiang.htm)| 13:05| 13:07| 2分| -  
+4| [杭州东](/huoche/zhan/hangzhoudong.htm)| 13:25| 13:28| 3分| -  
+5| [义乌](/huoche/zhan/yiwu.htm)| 14:00| 14:02| 2分| -  
+6| [金华](/huoche/zhan/jinhua.htm)| 14:18| 14:21| 3分| -  
+7| [上饶](/huoche/zhan/shangrao.htm)| 15:09| 15:11| 2分| -  
+8| [五府山](/huoche/zhan/wufushan.htm)| 15:23| 15:32| 9分| -  
+9| [武夷山东](/huoche/zhan/wuyishandong.htm)| 15:55| 15:57| 2分| -  
+10| [建瓯西](/huoche/zhan/jianouxi.htm)| 16:13| 16:15| 2分| -  
+11| [南平北](/huoche/zhan/nanpingbei.htm)| 16:31| 16:33| 2分| -  
+12| [古田北](/huoche/zhan/gutianbei.htm)| 16:48| 16:50| 2分| -  
+13| [福州](/huoche/zhan/fuzhou.htm)| 17:18| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

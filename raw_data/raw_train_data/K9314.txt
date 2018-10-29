@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从湛江开往南宁的K9314快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K9314 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 湛江  
+发车时间 | 08:10  
+到站时间 | 15:06  
+全程时间 | 6小时56分  
+终点站 | 南宁  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [湛江](/huoche/zhan/zhanjiang2.htm)| -| 08:10| 0分| -  
+2| [遂溪](/huoche/zhan/suixi2.htm)| 08:33| 08:36| 3分| -  
+3| [廉江](/huoche/zhan/lianjiang2.htm)| 08:54| 08:57| 3分| -  
+4| [河唇](/huoche/zhan/hechun.htm)| 09:08| 09:11| 3分| -  
+5| [文地](/huoche/zhan/wendi.htm)| 09:37| 09:40| 3分| -  
+6| [陆川](/huoche/zhan/luchuan.htm)| 10:10| 10:13| 3分| -  
+7| [玉林](/huoche/zhan/yulin.htm)| 10:44| 10:54| 10分| -  
+8| [兴业](/huoche/zhan/xingye.htm)| 11:19| 11:22| 3分| -  
+9| [贵港](/huoche/zhan/guigang.htm)| 12:01| 12:05| 4分| -  
+10| [黎塘](/huoche/zhan/litang.htm)| 12:54| 12:58| 4分| -  
+11| [南宁东](/huoche/zhan/nanningdong.htm)| 14:35| 14:52| 17分| -  
+12| [南宁](/huoche/zhan/nanning.htm)| 15:06| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

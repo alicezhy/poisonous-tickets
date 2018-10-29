@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从佳木斯开往哈尔滨的K7132快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7132 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 佳木斯  
+发车时间 | 09:23  
+到站时间 | 16:28  
+全程时间 | 7小时5分  
+终点站 | 哈尔滨  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [佳木斯](/huoche/zhan/jiamusi.htm)| -| 09:23| 0分| -  
+2| [香兰](/huoche/zhan/xianglan.htm)| 10:05| 10:08| 3分| -  
+3| [浩良河](/huoche/zhan/haolianghe.htm)| 10:21| 10:24| 3分| -  
+4| [南岔](/huoche/zhan/nancha2.htm)| 11:15| 11:23| 8分| -  
+5| [带岭](/huoche/zhan/dailing.htm)| 11:50| 11:52| 2分| -  
+6| [朗乡](/huoche/zhan/langxiang.htm)| 12:04| 12:06| 2分| -  
+7| [神树](/huoche/zhan/shenshu.htm)| 12:41| 12:43| 2分| -  
+9| [铁力](/huoche/zhan/tieli2.htm)| 13:07| 13:11| 4分| -  
+10| [庆安](/huoche/zhan/qingan.htm)| 13:42| 13:45| 3分| -  
+11| [绥化](/huoche/zhan/suihua.htm)| 14:28| 14:38| 10分| -  
+12| [白奎堡](/huoche/zhan/baikuibao.htm)| 15:04| 15:19| 15分| -  
+13| [呼兰](/huoche/zhan/hulan.htm)| 15:51| 15:53| 2分| -  
+14| [徐家](/huoche/zhan/xujia.htm)| 16:03| 16:04| 1分| -  
+15| [哈尔滨](/huoche/zhan/haerbin.htm)| 16:28| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

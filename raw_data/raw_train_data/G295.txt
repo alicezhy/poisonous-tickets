@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从天津西开往广州南的G295高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G295 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 天津西  
+发车时间 | 12:42  
+到站时间 | 23:25  
+全程时间 | 10小时43分  
+终点站 | 广州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [天津西](/huoche/zhan/tianjinxi.htm)| \----| 12:42| 0分| -  
+2| [白洋淀](/huoche/zhan/baiyangdian.htm)| 13:25| 13:27| 2分| -  
+3| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 14:22| 14:24| 2分| -  
+4| [高邑西](/huoche/zhan/gaoyixi.htm)| 14:39| 14:53| 14分| -  
+5| [邯郸东](/huoche/zhan/handandong.htm)| 15:22| 15:25| 3分| -  
+6| [安阳东](/huoche/zhan/anyangdong.htm)| 15:42| 15:50| 8分| -  
+7| [鹤壁东](/huoche/zhan/hebidong.htm)| 16:05| 16:07| 2分| -  
+8| [新乡东](/huoche/zhan/xinxiangdong.htm)| 16:23| 16:25| 2分| -  
+9| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 16:45| 16:51| 6分| -  
+10| [许昌东](/huoche/zhan/xuchangdong.htm)| 17:13| 17:15| 2分| -  
+11| [漯河西](/huoche/zhan/luohexi.htm)| 17:31| 17:33| 2分| -  
+12| [信阳东](/huoche/zhan/xinyangdong.htm)| 18:12| 18:14| 2分| -  
+13| [武汉](/huoche/zhan/wuhan.htm)| 18:58| 19:02| 4分| -  
+14| [岳阳东](/huoche/zhan/yueyangdong.htm)| 19:51| 19:53| 2分| -  
+15| [汨罗东](/huoche/zhan/miluodong.htm)| 20:13| 20:15| 2分| -  
+16| [长沙南](/huoche/zhan/changshanan.htm)| 20:34| 20:37| 3分| -  
+17| [衡阳东](/huoche/zhan/hengyangdong.htm)| 21:14| 21:16| 2分| -  
+18| [郴州西](/huoche/zhan/chenzhouxi.htm)| 21:49| 21:55| 6分| -  
+19| [韶关](/huoche/zhan/shaoguan.htm)| 22:26| 22:28| 2分| -  
+20| [广州南](/huoche/zhan/guangzhounan.htm)| 23:25| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

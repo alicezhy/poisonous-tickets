@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从洛阳龙门开往广州南的G847高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G847 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 洛阳龙门  
+发车时间 | 07:53  
+到站时间 | 15:55  
+全程时间 | 8小时2分  
+终点站 | 广州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [洛阳龙门](/huoche/zhan/luoyanglongmen.htm)| \----| 07:53| 0分| -  
+2| [巩义南](/huoche/zhan/gongyinan.htm)| 08:07| 08:15| 8分| -  
+3| [郑州西](/huoche/zhan/zhengzhouxi.htm)| 08:31| 08:33| 2分| -  
+4| [郑州](/huoche/zhan/zhengzhou.htm)| 08:49| 08:55| 6分| -  
+5| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 09:12| 09:31| 19分| -  
+6| [驻马店西](/huoche/zhan/zhumadianxi.htm)| 10:17| 10:19| 2分| -  
+7| [信阳东](/huoche/zhan/xinyangdong.htm)| 10:44| 10:46| 2分| -  
+8| [武汉](/huoche/zhan/wuhan.htm)| 11:30| 11:34| 4分| -  
+9| [岳阳东](/huoche/zhan/yueyangdong.htm)| 12:25| 12:27| 2分| -  
+10| [汨罗东](/huoche/zhan/miluodong.htm)| 12:47| 12:49| 2分| -  
+11| [长沙南](/huoche/zhan/changshanan.htm)| 13:08| 13:11| 3分| -  
+12| [耒阳西](/huoche/zhan/leiyangxi.htm)| 14:00| 14:02| 2分| -  
+13| [乐昌东](/huoche/zhan/lechangdong.htm)| 14:41| 14:43| 2分| -  
+14| [韶关](/huoche/zhan/shaoguan.htm)| 14:57| 14:59| 2分| -  
+15| [广州南](/huoche/zhan/guangzhounan.htm)| 15:55| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

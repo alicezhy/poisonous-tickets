@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从重庆北开往上海南的K73快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K73 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 重庆北  
+发车时间 | 07:00  
+到站时间 | 12:15  
+全程时间 | 29小时15分  
+终点站 | 上海南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [重庆北](/huoche/zhan/chongqingbei.htm)| -| 07:00| 0分| -  
+2| [涪陵](/huoche/zhan/fuling.htm)| 08:10| 08:15| 5分| -  
+3| [武隆](/huoche/zhan/wulong.htm)| 09:14| 09:22| 8分| -  
+5| [黔江](/huoche/zhan/qianjiang.htm)| 10:47| 10:52| 5分| -  
+6| [酉阳](/huoche/zhan/youyang.htm)| 12:01| 12:07| 6分| -  
+7| [秀山](/huoche/zhan/xiushan.htm)| 13:10| 13:16| 6分| -  
+8| [松桃](/huoche/zhan/songtao.htm)| 13:45| 13:48| 3分| -  
+9| [铜仁](/huoche/zhan/tongren.htm)| 14:28| 14:34| 6分| -  
+10| [怀化](/huoche/zhan/huaihua.htm)| 15:36| 15:50| 14分| -  
+11| [娄底](/huoche/zhan/loudi.htm)| 19:41| 19:47| 6分| -  
+12| [株洲](/huoche/zhan/zhuzhou.htm)| 21:49| 22:22| 33分| -  
+13| [衢州](/huoche/zhan/quzhou.htm)| 06:05| 06:08| 3分| -  
+14| [义乌](/huoche/zhan/yiwu.htm)| 07:45| 07:55| 10分| -  
+15| [诸暨](/huoche/zhan/zhuji.htm)| 08:47| 08:50| 3分| -  
+16| [杭州东](/huoche/zhan/hangzhoudong.htm)| 09:48| 09:54| 6分| -  
+17| [海宁](/huoche/zhan/haining.htm)| 10:30| 10:34| 4分| -  
+18| [嘉兴](/huoche/zhan/jiaxing.htm)| 10:56| 10:59| 3分| -  
+19| [松江](/huoche/zhan/songjiang.htm)| 11:37| 11:40| 3分| -  
+20| [上海南](/huoche/zhan/shanghainan.htm)| 12:15| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

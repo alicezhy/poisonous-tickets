@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从长沙南开往上海虹桥的G1362高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1362 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 长沙南  
+发车时间 | 13:25  
+到站时间 | 19:04  
+全程时间 | 5小时39分  
+终点站 | 上海虹桥  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [长沙南](/huoche/zhan/changshanan.htm)| -| 13:25| 0分| -  
+2| [新余北](/huoche/zhan/xinyubei.htm)| 14:17| 14:19| 2分| -  
+3| [高安](/huoche/zhan/gaoan.htm)| 14:41| 14:43| 2分| -  
+4| [南昌西](/huoche/zhan/nanchangxi.htm)| 14:58| 15:02| 4分| -  
+5| [进贤南](/huoche/zhan/jinxiannan.htm)| 15:20| 15:22| 2分| -  
+6| [鹰潭北](/huoche/zhan/yingtanbei.htm)| 15:44| 15:46| 2分| -  
+7| [上饶](/huoche/zhan/shangrao.htm)| 16:12| 16:14| 2分| -  
+8| [玉山南](/huoche/zhan/yushannan.htm)| 16:27| 16:29| 2分| -  
+9| [衢州](/huoche/zhan/quzhou.htm)| 16:49| 16:51| 2分| -  
+10| [金华](/huoche/zhan/jinhua.htm)| 17:12| 17:14| 2分| -  
+11| [义乌](/huoche/zhan/yiwu.htm)| 17:30| 17:33| 3分| -  
+12| [杭州东](/huoche/zhan/hangzhoudong.htm)| 18:06| 18:11| 5分| -  
+13| [嘉兴南](/huoche/zhan/jiaxingnan.htm)| 18:34| 18:37| 3分| -  
+14| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 19:04| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

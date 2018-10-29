@@ -1,0 +1,56 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从合肥开往齐齐哈尔的T243特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | T243 |  
+---|---|---|---  
+车型 | 特快火车  
+始发站 | 合肥  
+发车时间 | 17:26  
+到站时间 | 19:35  
+全程时间 | 26小时9分  
+终点站 | 齐齐哈尔  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [合肥](/huoche/zhan/hefei.htm)| \----| 17:26| 0分| -  
+2| [蚌埠](/huoche/zhan/bengbu.htm)| 19:18| 19:25| 7分| -  
+3| [宿州](/huoche/zhan/suzhou2.htm)| 20:13| 20:16| 3分| -  
+4| [徐州](/huoche/zhan/xuzhou.htm)| 21:02| 21:23| 21分| -  
+5| [兖州](/huoche/zhan/yanzhou.htm)| 22:57| 23:01| 4分| -  
+6| [天津](/huoche/zhan/tianjin.htm)| 03:51| 03:57| 6分| -  
+7| [唐山](/huoche/zhan/tangshan.htm)| 05:10| 05:13| 3分| -  
+8| [北戴河](/huoche/zhan/beidaihe.htm)| 06:32| 06:36| 4分| -  
+9| [山海关](/huoche/zhan/shanhaiguan.htm)| 07:18| 07:23| 5分| -  
+10| [锦州南](/huoche/zhan/jinzhounan.htm)| 08:52| 09:02| 10分| -  
+11| [沈阳北](/huoche/zhan/shenyangbei.htm)| 10:55| 11:01| 6分| -  
+12| [四平](/huoche/zhan/siping.htm)| 12:34| 12:36| 2分| -  
+13| [长春](/huoche/zhan/changchun.htm)| 13:37| 13:45| 8分| -  
+14| [哈尔滨西](/huoche/zhan/haerbinxi.htm)| 15:50| 16:00| 10分| -  
+15| [哈尔滨](/huoche/zhan/haerbin.htm)| 16:12| 16:18| 6分| -  
+16| [肇东](/huoche/zhan/zhaodong2.htm)| 17:04| 17:06| 2分| -  
+17| [宋](/huoche/zhan/song16.htm)| 17:24| 17:26| 2分| -  
+18| [安达](/huoche/zhan/anda.htm)| 17:46| 17:48| 2分| -  
+19| [大庆](/huoche/zhan/daqing.htm)| 18:08| 18:11| 3分| -  
+20| [杜尔伯特](/huoche/zhan/duerbote.htm)| 18:42| 18:44| 2分| -  
+21| [烟筒屯](/huoche/zhan/yantongtun.htm)| 18:59| 19:00| 1分| -  
+22| [齐齐哈尔](/huoche/zhan/qiqihaer.htm)| 19:35| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

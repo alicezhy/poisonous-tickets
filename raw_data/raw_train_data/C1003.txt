@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从长春开往珲春的C1003城际高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | C1003 |  
+---|---|---|---  
+车型 | 城际高铁  
+始发站 | 长春  
+发车时间 | 06:30  
+到站时间 | 09:40  
+全程时间 | 3小时10分  
+终点站 | 珲春  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [长春](/huoche/zhan/changchun.htm)| -| 06:30| 0分| -  
+2| [吉林](/huoche/zhan/jilin.htm)| 07:10| 07:12| 2分| -  
+3| [蛟河西](/huoche/zhan/jiaohexi.htm)| 07:38| 07:40| 2分| -  
+4| [敦化](/huoche/zhan/dunhua.htm)| 08:12| 08:14| 2分| -  
+5| [安图西](/huoche/zhan/antuxi.htm)| 08:37| 08:38| 1分| -  
+6| [延吉西](/huoche/zhan/yanjixi.htm)| 08:58| 09:00| 2分| -  
+7| [图们北](/huoche/zhan/tumenbei.htm)| 09:15| 09:17| 2分| -  
+8| [珲春](/huoche/zhan/huichun.htm)| 09:40| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

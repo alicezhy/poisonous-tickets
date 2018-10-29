@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从深圳东开往坪石的K9022快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K9022 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 深圳东  
+发车时间 | 11:50  
+到站时间 | 17:52  
+全程时间 | 6小时2分  
+终点站 | 坪石  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [深圳东](/huoche/zhan/shenzhendong.htm)| \----| 11:50| 0分| -  
+2| [东莞](/huoche/zhan/dongguan2.htm)| 12:34| 12:37| 3分| -  
+3| [广州](/huoche/zhan/guangzhou.htm)| 13:32| 13:43| 11分| -  
+4| [广州北](/huoche/zhan/guangzhoubei.htm)| 14:06| 14:15| 9分| -  
+5| [英德](/huoche/zhan/yingde.htm)| 15:18| 15:27| 9分| -  
+6| [韶关东](/huoche/zhan/shaoguandong.htm)| 16:28| 16:34| 6分| -  
+7| [乐昌](/huoche/zhan/lechang.htm)| 17:07| 17:20| 13分| -  
+8| [坪石](/huoche/zhan/pingshi.htm)| 17:52| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

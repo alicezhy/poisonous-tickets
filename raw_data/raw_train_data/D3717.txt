@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北海开往广州南的D3717动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D3717 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 北海  
+发车时间 | 13:18  
+到站时间 | 19:04  
+全程时间 | 5小时46分  
+终点站 | 广州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北海](/huoche/zhan/beihai.htm)| -| 13:18| 0分| -  
+2| [合浦](/huoche/zhan/hepu.htm)| 13:31| 13:33| 2分| -  
+3| [钦州东](/huoche/zhan/qinzhoudong.htm)| 13:59| 14:01| 2分| -  
+4| [南宁东](/huoche/zhan/nanningdong.htm)| 14:44| 15:05| 21分| -  
+5| [宾阳](/huoche/zhan/binyang.htm)| 15:35| 15:37| 2分| -  
+6| [藤县](/huoche/zhan/tengxian.htm)| 16:49| 16:51| 2分| -  
+7| [梧州南](/huoche/zhan/wuzhounan.htm)| 17:04| 17:08| 4分| -  
+8| [南江口](/huoche/zhan/nanjiangkou.htm)| 17:37| 17:39| 2分| -  
+9| [肇庆东](/huoche/zhan/zhaoqingdong.htm)| 18:16| 18:19| 3分| -  
+10| [佛山西](/huoche/zhan/foshanxi.htm)| 18:39| 18:44| 5分| -  
+11| [广州南](/huoche/zhan/guangzhounan.htm)| 19:04| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

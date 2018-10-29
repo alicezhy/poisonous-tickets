@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从西宁开往成都的K2631快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K2631 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 西宁  
+发车时间 | 19:40  
+到站时间 | 10:10  
+全程时间 | 14小时30分  
+终点站 | 成都  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [西宁](/huoche/zhan/xining.htm)| -| 19:40| 0分| -  
+2| [平安驿](/huoche/zhan/pinganyi.htm)| 20:11| 20:15| 4分| -  
+4| [海石湾](/huoche/zhan/haishiwan.htm)| 21:08| 21:16| 8分| -  
+5| [兰州西](/huoche/zhan/lanzhouxi.htm)| 22:32| 22:35| 3分| -  
+6| [兰州](/huoche/zhan/lanzhou.htm)| 22:48| 23:03| 15分| -  
+7| [渭源](/huoche/zhan/weiyuan.htm)| 00:29| 00:33| 4分| -  
+8| [陇南](/huoche/zhan/longnan2.htm)| 03:03| 03:09| 6分| -  
+9| [广元](/huoche/zhan/guangyuan.htm)| 04:44| 05:08| 24分| -  
+10| [江油](/huoche/zhan/jiangyou.htm)| 07:45| 07:50| 5分| -  
+11| [绵阳](/huoche/zhan/mianyang.htm)| 08:27| 08:31| 4分| -  
+12| [德阳](/huoche/zhan/deyang.htm)| 09:13| 09:16| 3分| -  
+13| [成都](/huoche/zhan/chengdu.htm)| 10:10| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

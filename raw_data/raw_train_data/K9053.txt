@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从深圳东开往怀化的K9053快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K9053 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 深圳东  
+发车时间 | 14:42  
+到站时间 | 07:00  
+全程时间 | 16小时18分  
+终点站 | 怀化  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [深圳东](/huoche/zhan/shenzhendong.htm)| -| 14:42| 0分| -  
+2| [东莞](/huoche/zhan/dongguan2.htm)| 15:29| 15:32| 3分| -  
+3| [广州](/huoche/zhan/guangzhou.htm)| 16:25| 16:45| 20分| -  
+4| [韶关东](/huoche/zhan/shaoguandong.htm)| 19:04| 19:10| 6分| -  
+6| [郴州](/huoche/zhan/chenzhou.htm)| 20:49| 20:53| 4分| -  
+7| [衡阳](/huoche/zhan/hengyang.htm)| 22:40| 22:57| 17分| -  
+8| [株洲](/huoche/zhan/zhuzhou.htm)| 00:22| 00:32| 10分| -  
+9| [湘潭](/huoche/zhan/xiangtan2.htm)| 00:57| 01:01| 4分| -  
+10| [娄底](/huoche/zhan/loudi.htm)| 02:22| 02:28| 6分| -  
+13| [溆浦](/huoche/zhan/xupu.htm)| 05:17| 05:21| 4分| -  
+14| [怀化](/huoche/zhan/huaihua.htm)| 07:00| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从盘锦开往佳木斯的K889快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K889 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 盘锦  
+发车时间 | 10:00  
+到站时间 | 04:10  
+全程时间 | 18小时10分  
+终点站 | 佳木斯  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [盘锦](/huoche/zhan/panjin.htm)| -| 10:00| 0分| -  
+4| [西柳](/huoche/zhan/xiliu.htm)| 11:23| 11:36| 13分| -  
+5| [海城](/huoche/zhan/haicheng.htm)| 12:21| 12:23| 2分| -  
+6| [鞍山](/huoche/zhan/anshan.htm)| 12:49| 12:52| 3分| -  
+7| [辽阳](/huoche/zhan/liaoyang.htm)| 13:11| 13:14| 3分| -  
+8| [苏家屯](/huoche/zhan/sujiatun.htm)| 13:52| 14:01| 9分| -  
+9| [沈阳](/huoche/zhan/shenyang3.htm)| 14:20| 14:39| 19分| -  
+10| [铁岭](/huoche/zhan/tieling.htm)| 15:25| 15:28| 3分| -  
+12| [四平](/huoche/zhan/siping.htm)| 16:52| 16:55| 3分| -  
+13| [公主岭](/huoche/zhan/gongzhuling.htm)| 17:29| 17:31| 2分| -  
+14| [长春](/huoche/zhan/changchun.htm)| 18:13| 18:23| 10分| -  
+15| [德惠](/huoche/zhan/dehui.htm)| 19:21| 19:23| 2分| -  
+16| [扶余](/huoche/zhan/fuyu.htm)| 20:05| 20:07| 2分| -  
+17| [双城堡](/huoche/zhan/shuangchengbao.htm)| 20:43| 20:46| 3分| -  
+18| [哈尔滨西](/huoche/zhan/haerbinxi.htm)| 21:18| 22:01| 43分| -  
+19| [哈尔滨](/huoche/zhan/haerbin.htm)| 22:13| 22:23| 10分| -  
+21| [绥化](/huoche/zhan/suihua.htm)| 23:48| 23:50| 2分| -  
+25| [南岔](/huoche/zhan/nancha2.htm)| 02:29| 02:33| 4分| -  
+27| [佳木斯](/huoche/zhan/jiamusi.htm)| 04:10| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

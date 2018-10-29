@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从广州南开往上饶的G1402高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1402 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 广州南  
+发车时间 | 13:02  
+到站时间 | 18:56  
+全程时间 | 5小时54分  
+终点站 | 上饶  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [广州南](/huoche/zhan/guangzhounan.htm)| \----| 13:02| 0分| -  
+2| [广州北](/huoche/zhan/guangzhoubei.htm)| 13:19| 13:21| 2分| -  
+3| [韶关](/huoche/zhan/shaoguan.htm)| 14:00| 14:02| 2分| -  
+4| [衡阳东](/huoche/zhan/hengyangdong.htm)| 15:01| 15:06| 5分| -  
+5| [株洲西](/huoche/zhan/zhuzhouxi.htm)| 15:33| 15:35| 2分| -  
+6| [长沙南](/huoche/zhan/changshanan.htm)| 15:54| 15:57| 3分| -  
+7| [萍乡北](/huoche/zhan/pingxiangbei2.htm)| 16:27| 16:29| 2分| -  
+8| [新余北](/huoche/zhan/xinyubei.htm)| 16:57| 16:59| 2分| -  
+9| [南昌西](/huoche/zhan/nanchangxi.htm)| 17:31| 17:35| 4分| -  
+10| [进贤南](/huoche/zhan/jinxiannan.htm)| 17:53| 17:55| 2分| -  
+11| [鹰潭北](/huoche/zhan/yingtanbei.htm)| 18:17| 18:19| 2分| -  
+12| [弋阳](/huoche/zhan/yiyang3.htm)| 18:33| 18:38| 5分| -  
+13| [上饶](/huoche/zhan/shangrao.htm)| 18:56| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

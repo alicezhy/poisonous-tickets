@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从珲春开往长春的C1044城际高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | C1044 |  
+---|---|---|---  
+车型 | 城际高铁  
+始发站 | 珲春  
+发车时间 | 16:17  
+到站时间 | 19:39  
+全程时间 | 3小时22分  
+终点站 | 长春  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [珲春](/huoche/zhan/huichun.htm)| -| 16:17| 0分| -  
+2| [图们北](/huoche/zhan/tumenbei.htm)| 16:39| 16:41| 2分| -  
+3| [延吉西](/huoche/zhan/yanjixi.htm)| 16:57| 16:59| 2分| -  
+4| [安图西](/huoche/zhan/antuxi.htm)| 17:18| 17:20| 2分| -  
+5| [大石头南](/huoche/zhan/dashitounan.htm)| 17:37| 17:39| 2分| -  
+6| [敦化](/huoche/zhan/dunhua.htm)| 17:49| 17:51| 2分| -  
+7| [蛟河西](/huoche/zhan/jiaohexi.htm)| 18:23| 18:25| 2分| -  
+8| [吉林](/huoche/zhan/jilin.htm)| 18:52| 18:54| 2分| -  
+9| [龙嘉](/huoche/zhan/longjia.htm)| 19:23| 19:24| 1分| -  
+10| [长春](/huoche/zhan/changchun.htm)| 19:39| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

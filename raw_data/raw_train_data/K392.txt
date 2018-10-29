@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从福州开往成都的K392快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K392 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 福州  
+发车时间 | 13:48  
+到站时间 | 04:39  
+全程时间 | 38小时51分  
+终点站 | 成都  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [福州](/huoche/zhan/fuzhou.htm)| -| 13:48| 0分| -  
+2| [三明北](/huoche/zhan/sanmingbei.htm)| 17:18| 17:33| 15分| -  
+3| [泰宁](/huoche/zhan/taining.htm)| 18:25| 18:29| 4分| -  
+4| [抚州](/huoche/zhan/fuzhou2.htm)| 20:20| 20:24| 4分| -  
+5| [南昌](/huoche/zhan/nanchang.htm)| 00:15| 00:30| 15分| -  
+7| [武昌](/huoche/zhan/wuchang.htm)| 05:42| 06:04| 22分| -  
+8| [随州](/huoche/zhan/suizhou.htm)| 07:59| 08:03| 4分| -  
+9| [襄阳东](/huoche/zhan/xiangyangdong.htm)| 09:51| 10:23| 32分| -  
+10| [谷城](/huoche/zhan/gucheng.htm)| 11:20| 11:22| 2分| -  
+11| [武当山](/huoche/zhan/wudangshan.htm)| 12:08| 12:10| 2分| -  
+12| [十堰](/huoche/zhan/shiyan.htm)| 12:29| 12:33| 4分| -  
+13| [安康](/huoche/zhan/ankang.htm)| 15:14| 15:23| 9分| -  
+15| [西乡](/huoche/zhan/xixiang.htm)| 18:09| 18:12| 3分| -  
+16| [汉中](/huoche/zhan/hanzhong.htm)| 19:29| 19:42| 13分| -  
+17| [勉县](/huoche/zhan/mianxian.htm)| 20:15| 20:19| 4分| -  
+18| [阳平关](/huoche/zhan/yangpingguan.htm)| 21:50| 21:52| 2分| -  
+19| [广元](/huoche/zhan/guangyuan.htm)| 23:27| 23:36| 9分| -  
+20| [江油](/huoche/zhan/jiangyou.htm)| 02:13| 02:20| 7分| -  
+21| [绵阳](/huoche/zhan/mianyang.htm)| 02:57| 03:01| 4分| -  
+22| [德阳](/huoche/zhan/deyang.htm)| 03:43| 03:49| 6分| -  
+23| [成都](/huoche/zhan/chengdu.htm)| 04:39| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

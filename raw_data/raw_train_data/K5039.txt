@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从山海关开往通辽的K5039快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K5039 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 山海关  
+发车时间 | 14:08  
+到站时间 | 21:05  
+全程时间 | 6小时57分  
+终点站 | 通辽  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [山海关](/huoche/zhan/shanhaiguan.htm)| -| 14:08| 0分| -  
+2| [绥中](/huoche/zhan/suizhong2.htm)| 14:50| 14:52| 2分| -  
+3| [兴城](/huoche/zhan/xingcheng.htm)| 15:21| 15:23| 2分| -  
+4| [葫芦岛](/huoche/zhan/huludao.htm)| 15:40| 15:42| 2分| -  
+5| [锦州](/huoche/zhan/jinzhou.htm)| 16:20| 16:33| 13分| -  
+6| [沟帮子](/huoche/zhan/goubangzi.htm)| 17:13| 17:16| 3分| -  
+7| [大虎山](/huoche/zhan/dahushan.htm)| 17:43| 17:47| 4分| -  
+8| [新立屯](/huoche/zhan/xinlitun.htm)| 18:34| 18:37| 3分| -  
+9| [彰武](/huoche/zhan/zhangwu.htm)| 19:12| 19:15| 3分| -  
+10| [甘旗卡](/huoche/zhan/ganqika.htm)| 20:04| 20:07| 3分| -  
+11| [通辽](/huoche/zhan/tongliao.htm)| 21:05| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

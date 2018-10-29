@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从青岛北开往重庆西的G1838高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1838 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 青岛北  
+发车时间 | 08:21  
+到站时间 | 22:31  
+全程时间 | 14小时10分  
+终点站 | 重庆西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [青岛北](/huoche/zhan/qingdaobei.htm)| -| 08:21| 0分| -  
+2| [高密](/huoche/zhan/gaomi.htm)| 08:53| 08:55| 2分| -  
+3| [潍坊](/huoche/zhan/weifang.htm)| 09:22| 09:24| 2分| -  
+4| [青州市](/huoche/zhan/qingzhoushi.htm)| 09:45| 09:56| 11分| -  
+5| [淄博](/huoche/zhan/zibo.htm)| 10:14| 10:18| 4分| -  
+7| [济南](/huoche/zhan/jinan.htm)| 11:05| 11:07| 2分| -  
+8| [泰安](/huoche/zhan/taian2.htm)| 11:31| 11:40| 9分| -  
+9| [枣庄](/huoche/zhan/zaozhuang.htm)| 12:18| 12:23| 5分| -  
+10| [徐州东](/huoche/zhan/xuzhoudong.htm)| 12:43| 13:04| 21分| -  
+11| [民权北](/huoche/zhan/minquanbei.htm)| 13:59| 14:01| 2分| -  
+12| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 14:41| 14:45| 4分| -  
+13| [三门峡南](/huoche/zhan/sanmenxianan.htm)| 15:48| 15:50| 2分| -  
+14| [华山北](/huoche/zhan/huashanbei.htm)| 16:17| 16:19| 2分| -  
+15| [西安北](/huoche/zhan/xianbei.htm)| 16:54| 17:00| 6分| -  
+16| [洋县西](/huoche/zhan/yangxianxi.htm)| 17:58| 18:00| 2分| -  
+17| [汉中](/huoche/zhan/hanzhong.htm)| 18:18| 18:22| 4分| -  
+18| [广元](/huoche/zhan/guangyuan.htm)| 19:06| 19:10| 4分| -  
+19| [绵阳](/huoche/zhan/mianyang.htm)| 20:02| 20:04| 2分| -  
+20| [德阳](/huoche/zhan/deyang.htm)| 20:21| 20:23| 2分| -  
+21| [成都东](/huoche/zhan/chengdudong.htm)| 20:47| 20:57| 10分| -  
+22| [内江北](/huoche/zhan/neijiangbei.htm)| 21:38| 21:40| 2分| -  
+23| [永川东](/huoche/zhan/yongchuandong.htm)| 22:04| 22:06| 2分| -  
+24| [重庆西](/huoche/zhan/chongqingxi.htm)| 22:31| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

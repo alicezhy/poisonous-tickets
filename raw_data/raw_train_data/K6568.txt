@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从常德开往惠州的K6568快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K6568 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 常德  
+发车时间 | 19:23  
+到站时间 | 10:17  
+全程时间 | 14小时54分  
+终点站 | 惠州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [常德](/huoche/zhan/changde.htm)| -| 19:23| 0分| -  
+2| [益阳](/huoche/zhan/yiyang.htm)| 20:31| 20:37| 6分| -  
+4| [长沙](/huoche/zhan/changsha.htm)| 21:48| 22:10| 22分| -  
+5| [株洲](/huoche/zhan/zhuzhou.htm)| 22:53| 23:03| 10分| -  
+7| [郴州](/huoche/zhan/chenzhou.htm)| 02:15| 02:30| 15分| -  
+9| [韶关东](/huoche/zhan/shaoguandong.htm)| 04:28| 04:34| 6分| -  
+10| [广州](/huoche/zhan/guangzhou.htm)| 07:12| 07:28| 16分| -  
+11| [东莞](/huoche/zhan/dongguan2.htm)| 09:00| 09:10| 10分| -  
+12| [东莞东](/huoche/zhan/dongguandong.htm)| 09:28| 09:34| 6分| -  
+13| [惠州](/huoche/zhan/huizhou.htm)| 10:17| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

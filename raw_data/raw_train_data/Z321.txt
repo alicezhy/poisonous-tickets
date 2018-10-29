@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从拉萨开往成都的Z321直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z321 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 拉萨  
+发车时间 | 18:35  
+到站时间 | 07:00  
+全程时间 | 36小时25分  
+终点站 | 成都  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [拉萨](/huoche/zhan/lasa.htm)| -| 18:35| 0分| -  
+2| [那曲](/huoche/zhan/naqu.htm)| 21:54| 22:00| 6分| -  
+3| [格尔木](/huoche/zhan/geermu.htm)| 08:10| 08:35| 25分| -  
+4| [德令哈](/huoche/zhan/delingha.htm)| 11:02| 11:04| 2分| -  
+5| [西宁](/huoche/zhan/xining.htm)| 15:15| 15:35| 20分| -  
+6| [兰州](/huoche/zhan/lanzhou.htm)| 18:37| 18:52| 15分| -  
+7| [广元](/huoche/zhan/guangyuan.htm)| 01:23| 01:50| 27分| -  
+8| [成都](/huoche/zhan/chengdu.htm)| 07:00| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

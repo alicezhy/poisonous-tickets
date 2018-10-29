@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从厦门开往南昌的D6562动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D6562 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 厦门  
+发车时间 | 16:50  
+到站时间 | 22:46  
+全程时间 | 5小时56分  
+终点站 | 南昌  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [厦门](/huoche/zhan/xiamen.htm)| \----| 16:50| 0分| -  
+2| [厦门北](/huoche/zhan/xiamenbei.htm)| 17:13| 17:29| 16分| -  
+3| [泉州](/huoche/zhan/quanzhou2.htm)| 17:54| 17:56| 2分| -  
+4| [仙游](/huoche/zhan/xianyou.htm)| 18:14| 18:16| 2分| -  
+5| [莆田](/huoche/zhan/putian.htm)| 18:27| 18:29| 2分| -  
+6| [永泰](/huoche/zhan/yongtai.htm)| 18:52| 18:54| 2分| -  
+7| [尤溪](/huoche/zhan/youxi2.htm)| 19:28| 19:30| 2分| -  
+8| [三明北](/huoche/zhan/sanmingbei.htm)| 19:48| 19:53| 5分| -  
+9| [将乐](/huoche/zhan/jiangle.htm)| 20:13| 20:16| 3分| -  
+10| [泰宁](/huoche/zhan/taining.htm)| 20:33| 20:36| 3分| -  
+11| [建宁县北](/huoche/zhan/jianningxianbei.htm)| 20:49| 20:51| 2分| -  
+12| [南丰](/huoche/zhan/nanfeng.htm)| 21:11| 21:13| 2分| -  
+13| [南城](/huoche/zhan/nancheng.htm)| 21:27| 21:29| 2分| -  
+14| [抚州](/huoche/zhan/fuzhou2.htm)| 21:48| 21:51| 3分| -  
+15| [南昌](/huoche/zhan/nanchang.htm)| 22:46| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

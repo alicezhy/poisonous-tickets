@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海虹桥开往成都东的D352动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D352 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 上海虹桥  
+发车时间 | 06:13  
+到站时间 | 20:27  
+全程时间 | 14小时14分  
+终点站 | 成都东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| -| 06:13| 0分| -  
+2| [昆山南](/huoche/zhan/kunshannan.htm)| 06:32| 06:34| 2分| -  
+3| [苏州](/huoche/zhan/suzhou.htm)| 06:47| 06:49| 2分| -  
+4| [无锡](/huoche/zhan/wuxi.htm)| 07:04| 07:06| 2分| -  
+5| [常州](/huoche/zhan/changzhou.htm)| 07:21| 07:23| 2分| -  
+6| [镇江](/huoche/zhan/zhenjiang.htm)| 07:47| 07:49| 2分| -  
+7| [南京南](/huoche/zhan/nanjingnan.htm)| 08:19| 08:25| 6分| -  
+8| [合肥南](/huoche/zhan/hefeinan.htm)| 09:18| 09:28| 10分| -  
+9| [六安](/huoche/zhan/liuan.htm)| 09:52| 09:55| 3分| -  
+10| [汉口](/huoche/zhan/hankou.htm)| 11:24| 11:32| 8分| -  
+11| [荆州](/huoche/zhan/jingzhou2.htm)| 12:46| 12:48| 2分| -  
+12| [宜昌东](/huoche/zhan/yichangdong.htm)| 13:22| 13:29| 7分| -  
+13| [建始](/huoche/zhan/jianshi.htm)| 14:54| 14:56| 2分| -  
+14| [恩施](/huoche/zhan/enshi.htm)| 15:19| 15:25| 6分| -  
+15| [利川](/huoche/zhan/lichuan.htm)| 16:00| 16:02| 2分| -  
+16| [石柱县](/huoche/zhan/shizhuxian.htm)| 16:42| 16:44| 2分| -  
+17| [涪陵北](/huoche/zhan/fulingbei.htm)| 17:18| 17:20| 2分| -  
+18| [重庆北](/huoche/zhan/chongqingbei.htm)| 17:58| 18:11| 13分| -  
+19| [潼南](/huoche/zhan/tongnan.htm)| 18:56| 18:58| 2分| -  
+20| [遂宁](/huoche/zhan/suining.htm)| 19:27| 19:31| 4分| -  
+21| [成都东](/huoche/zhan/chengdudong.htm)| 20:27| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,41 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从十堰开往汉口的D5298动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D5298 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 十堰  
+发车时间 | 18:07  
+到站时间 | 22:35  
+全程时间 | 4小时28分  
+终点站 | 汉口  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [十堰](/huoche/zhan/shiyan.htm)| -| 18:07| 0分| -  
+2| [谷城](/huoche/zhan/gucheng.htm)| 19:02| 19:04| 2分| -  
+3| [襄阳东](/huoche/zhan/xiangyangdong.htm)| 19:39| 19:45| 6分| -  
+4| [随州](/huoche/zhan/suizhou.htm)| 20:43| 20:45| 2分| -  
+5| [安陆](/huoche/zhan/anlu.htm)| 21:12| 21:23| 11分| -  
+6| [云梦](/huoche/zhan/yunmeng.htm)| 21:37| 21:51| 14分| -  
+7| [汉口](/huoche/zhan/hankou.htm)| 22:35| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

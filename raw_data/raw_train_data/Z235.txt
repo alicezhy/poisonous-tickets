@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从哈尔滨西开往广州东的Z235直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z235 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 哈尔滨西  
+发车时间 | 21:44  
+到站时间 | 08:30  
+全程时间 | 34小时46分  
+终点站 | 广州东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [哈尔滨西](/huoche/zhan/haerbinxi.htm)| \----| 21:44| 0分| -  
+2| [沈阳北](/huoche/zhan/shenyangbei.htm)| 01:59| 02:05| 6分| -  
+3| [唐山](/huoche/zhan/tangshan.htm)| 06:36| 06:38| 2分| -  
+4| [天津](/huoche/zhan/tianjin.htm)| 07:50| 07:58| 8分| -  
+5| [徐水](/huoche/zhan/xushui.htm)| 09:58| 10:02| 4分| -  
+6| [保定](/huoche/zhan/baoding.htm)| 10:16| 10:22| 6分| -  
+7| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 11:40| 11:46| 6分| -  
+8| [安阳](/huoche/zhan/anyang.htm)| 13:53| 13:57| 4分| -  
+9| [新乡](/huoche/zhan/xinxiang2.htm)| 14:48| 14:53| 5分| -  
+10| [郑州](/huoche/zhan/zhengzhou.htm)| 15:39| 15:58| 19分| -  
+11| [漯河](/huoche/zhan/luohe.htm)| 17:09| 17:12| 3分| -  
+12| [信阳](/huoche/zhan/xinyang.htm)| 18:31| 18:34| 3分| -  
+13| [武昌](/huoche/zhan/wuchang.htm)| 20:47| 20:59| 12分| -  
+14| [长沙](/huoche/zhan/changsha.htm)| 00:15| 00:21| 6分| -  
+15| [株洲](/huoche/zhan/zhuzhou.htm)| 00:57| 01:00| 3分| -  
+16| [衡阳](/huoche/zhan/hengyang.htm)| 02:21| 02:25| 4分| -  
+17| [郴州](/huoche/zhan/chenzhou.htm)| 04:03| 04:08| 5分| -  
+18| [韶关东](/huoche/zhan/shaoguandong.htm)| 05:45| 05:51| 6分| -  
+19| [广州东](/huoche/zhan/guangzhoudong.htm)| 08:30| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京南开往上海虹桥的G131高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G131 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 北京南  
+发车时间 | 12:20  
+到站时间 | 18:16  
+全程时间 | 5小时56分  
+终点站 | 上海虹桥  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京南](/huoche/zhan/beijingnan.htm)| \----| 12:20| 0分| -  
+2| [沧州西](/huoche/zhan/cangzhouxi.htm)| 13:12| 13:14| 2分| -  
+3| [济南西](/huoche/zhan/jinanxi.htm)| 14:00| 14:02| 2分| -  
+4| [滕州东](/huoche/zhan/tengzhoudong.htm)| 14:45| 14:47| 2分| -  
+5| [枣庄](/huoche/zhan/zaozhuang.htm)| 14:59| 15:01| 2分| -  
+6| [徐州东](/huoche/zhan/xuzhoudong.htm)| 15:19| 15:31| 12分| -  
+7| [滁州](/huoche/zhan/chuzhou.htm)| 16:32| 16:34| 2分| -  
+8| [南京南](/huoche/zhan/nanjingnan.htm)| 16:51| 16:54| 3分| -  
+9| [丹阳北](/huoche/zhan/danyangbei.htm)| 17:19| 17:21| 2分| -  
+10| [无锡东](/huoche/zhan/wuxidong.htm)| 17:45| 17:47| 2分| -  
+11| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 18:16| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

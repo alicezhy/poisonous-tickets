@@ -1,0 +1,58 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从苏州开往深圳的K36快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K36 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 苏州  
+发车时间 | 18:02  
+到站时间 | 22:33  
+全程时间 | 28小时31分  
+终点站 | 深圳  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [苏州](/huoche/zhan/suzhou.htm)| -| 18:02| 0分| -  
+2| [常州](/huoche/zhan/changzhou.htm)| 19:01| 19:05| 4分| -  
+3| [南京](/huoche/zhan/nanjing.htm)| 20:39| 21:05| 26分| -  
+4| [马鞍山](/huoche/zhan/maanshan.htm)| 22:12| 22:15| 3分| -  
+5| [芜湖](/huoche/zhan/wuhu.htm)| 22:57| 23:03| 6分| -  
+6| [宣城](/huoche/zhan/xuancheng.htm)| 00:01| 00:09| 8分| -  
+7| [绩溪县](/huoche/zhan/jixixian.htm)| 02:12| 02:18| 6分| -  
+8| [黄山](/huoche/zhan/huangshan.htm)| 03:21| 03:30| 9分| -  
+9| [祁门](/huoche/zhan/qimen.htm)| 04:45| 04:48| 3分| -  
+10| [景德镇](/huoche/zhan/jingdezhen.htm)| 06:49| 06:55| 6分| -  
+11| [乐平市](/huoche/zhan/lepingshi.htm)| 07:34| 07:38| 4分| -  
+12| [万年](/huoche/zhan/wannian.htm)| 08:06| 08:10| 4分| -  
+13| [鹰潭](/huoche/zhan/yingtan.htm)| 09:23| 09:42| 19分| -  
+14| [东乡](/huoche/zhan/dongxiang.htm)| 10:07| 10:11| 4分| -  
+15| [吉安](/huoche/zhan/jian6.htm)| 13:11| 13:15| 4分| -  
+16| [泰和](/huoche/zhan/taihe.htm)| 13:36| 13:40| 4分| -  
+17| [赣州](/huoche/zhan/ganzhou.htm)| 15:32| 15:38| 6分| -  
+18| [定南](/huoche/zhan/dingnan.htm)| 17:39| 17:42| 3分| -  
+19| [和平](/huoche/zhan/heping.htm)| 18:11| 18:14| 3分| -  
+20| [龙川](/huoche/zhan/longchuan.htm)| 19:03| 19:06| 3分| -  
+21| [河源](/huoche/zhan/heyuan.htm)| 20:02| 20:05| 3分| -  
+22| [惠州](/huoche/zhan/huizhou.htm)| 20:59| 21:02| 3分| -  
+23| [东莞东](/huoche/zhan/dongguandong.htm)| 21:47| 21:51| 4分| -  
+24| [深圳](/huoche/zhan/shenzhen.htm)| 22:33| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

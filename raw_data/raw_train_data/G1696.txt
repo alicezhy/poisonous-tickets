@@ -1,0 +1,56 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从昆明南开往福州的G1696高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1696 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 昆明南  
+发车时间 | 11:11  
+到站时间 | 22:02  
+全程时间 | 10小时51分  
+终点站 | 福州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [昆明南](/huoche/zhan/kunmingnan.htm)| \----| 11:11| 0分| -  
+2| [曲靖北](/huoche/zhan/qujingbei.htm)| 11:46| 11:48| 2分| -  
+3| [盘州](/huoche/zhan/panzhou.htm)| 12:12| 12:14| 2分| -  
+4| [安顺西](/huoche/zhan/anshunxi.htm)| 13:00| 13:02| 2分| -  
+5| [贵阳北](/huoche/zhan/guiyangbei.htm)| 13:32| 13:38| 6分| -  
+6| [凯里南](/huoche/zhan/kailinan.htm)| 14:16| 14:18| 2分| -  
+7| [铜仁南](/huoche/zhan/tongrennan.htm)| 14:54| 14:56| 2分| -  
+8| [新晃西](/huoche/zhan/xinhuangxi.htm)| 15:05| 15:07| 2分| -  
+9| [怀化南](/huoche/zhan/huaihuanan.htm)| 15:31| 15:35| 4分| -  
+10| [溆浦南](/huoche/zhan/xupunan.htm)| 15:55| 15:57| 2分| -  
+11| [邵阳北](/huoche/zhan/shaoyangbei.htm)| 16:22| 16:24| 2分| -  
+12| [娄底南](/huoche/zhan/loudinan.htm)| 16:40| 16:42| 2分| -  
+13| [长沙南](/huoche/zhan/changshanan.htm)| 17:17| 17:21| 4分| -  
+14| [醴陵东](/huoche/zhan/lilingdong.htm)| 17:45| 17:47| 2分| -  
+15| [萍乡北](/huoche/zhan/pingxiangbei2.htm)| 17:57| 17:59| 2分| -  
+16| [新余北](/huoche/zhan/xinyubei.htm)| 18:27| 18:29| 2分| -  
+17| [南昌西](/huoche/zhan/nanchangxi.htm)| 19:01| 19:12| 11分| -  
+18| [鹰潭北](/huoche/zhan/yingtanbei.htm)| 19:47| 19:49| 2分| -  
+19| [上饶](/huoche/zhan/shangrao.htm)| 20:19| 20:23| 4分| -  
+20| [武夷山东](/huoche/zhan/wuyishandong.htm)| 20:53| 20:55| 2分| -  
+21| [南平北](/huoche/zhan/nanpingbei.htm)| 21:22| 21:24| 2分| -  
+22| [福州](/huoche/zhan/fuzhou.htm)| 22:02| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

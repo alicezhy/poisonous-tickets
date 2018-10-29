@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从重庆北开往南通的D2267动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D2267 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 重庆北  
+发车时间 | 07:33  
+到站时间 | 20:05  
+全程时间 | 12小时32分  
+终点站 | 南通  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [重庆北](/huoche/zhan/chongqingbei.htm)| -| 07:33| 0分| -  
+2| [涪陵北](/huoche/zhan/fulingbei.htm)| 08:10| 08:12| 2分| -  
+3| [丰都](/huoche/zhan/fengdu.htm)| 08:31| 08:33| 2分| -  
+4| [恩施](/huoche/zhan/enshi.htm)| 09:54| 09:58| 4分| -  
+5| [建始](/huoche/zhan/jianshi.htm)| 10:18| 10:20| 2分| -  
+6| [宜昌东](/huoche/zhan/yichangdong.htm)| 11:48| 11:53| 5分| -  
+8| [荆州](/huoche/zhan/jingzhou2.htm)| 12:27| 12:35| 8分| -  
+9| [潜江](/huoche/zhan/qianjiang2.htm)| 13:01| 13:03| 2分| -  
+10| [天门南](/huoche/zhan/tianmennan.htm)| 13:23| 13:25| 2分| -  
+11| [汉川](/huoche/zhan/hanchun.htm)| 13:41| 13:43| 2分| -  
+12| [汉口](/huoche/zhan/hankou.htm)| 14:06| 14:36| 30分| -  
+13| [红安西](/huoche/zhan/honganxi.htm)| 15:05| 15:07| 2分| -  
+14| [麻城北](/huoche/zhan/machengbei.htm)| 15:20| 15:22| 2分| -  
+15| [金寨](/huoche/zhan/jinzhai.htm)| 15:54| 16:02| 8分| -  
+16| [六安](/huoche/zhan/liuan.htm)| 16:19| 16:21| 2分| -  
+17| [合肥南](/huoche/zhan/hefeinan.htm)| 16:45| 16:59| 14分| -  
+19| [扬州](/huoche/zhan/yangzhou.htm)| 18:26| 18:29| 3分| -  
+20| [泰州](/huoche/zhan/taizhou.htm)| 19:01| 19:04| 3分| -  
+21| [海安县](/huoche/zhan/haianxian.htm)| 19:28| 19:32| 4分| -  
+22| [南通](/huoche/zhan/nantong.htm)| 20:05| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

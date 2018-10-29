@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从威海开往青岛北的C6568城际高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | C6568 |  
+---|---|---|---  
+车型 | 城际高铁  
+始发站 | 威海  
+发车时间 | 16:56  
+到站时间 | 18:51  
+全程时间 | 1小时55分  
+终点站 | 青岛北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [威海](/huoche/zhan/weihai.htm)| -| 16:56| 0分| -  
+2| [威海北](/huoche/zhan/weihaibei.htm)| 17:03| 17:05| 2分| -  
+3| [烟台南](/huoche/zhan/yantainan.htm)| 17:29| 17:31| 2分| -  
+4| [桃村北](/huoche/zhan/taocunbei.htm)| 17:47| 17:49| 2分| -  
+5| [莱阳](/huoche/zhan/laiyang.htm)| 18:10| 18:12| 2分| -  
+6| [青岛北](/huoche/zhan/qingdaobei.htm)| 18:51| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

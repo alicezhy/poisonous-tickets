@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从沈阳北开往北京的4216普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 4216 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 沈阳北  
+发车时间 | 20:58  
+到站时间 | 12:10  
+全程时间 | 15小时12分  
+终点站 | 北京  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [沈阳北](/huoche/zhan/shenyangbei.htm)| \----| 20:58| 0分| -  
+2| [沈阳](/huoche/zhan/shenyang3.htm)| 21:05| 21:13| 8分| -  
+4| [辽阳](/huoche/zhan/liaoyang.htm)| 22:03| 22:06| 3分| -  
+5| [鞍山](/huoche/zhan/anshan.htm)| 22:28| 22:58| 30分| -  
+6| [海城](/huoche/zhan/haicheng.htm)| 23:28| 23:34| 6分| -  
+7| [盘锦](/huoche/zhan/panjin.htm)| 01:37| 01:42| 5分| -  
+8| [沟帮子](/huoche/zhan/goubangzi.htm)| 03:06| 03:11| 5分| -  
+9| [锦州](/huoche/zhan/jinzhou.htm)| 03:54| 04:04| 10分| -  
+10| [绥中](/huoche/zhan/suizhong2.htm)| 05:22| 05:25| 3分| -  
+11| [山海关](/huoche/zhan/shanhaiguan.htm)| 06:33| 06:49| 16分| -  
+12| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 07:08| 07:15| 7分| -  
+13| [昌黎](/huoche/zhan/changli.htm)| 07:53| 08:04| 11分| -  
+14| [滦县](/huoche/zhan/luanxian.htm)| 08:31| 08:45| 14分| -  
+15| [唐山北](/huoche/zhan/tangshanbei.htm)| 09:25| 09:32| 7分| -  
+16| [玉田县](/huoche/zhan/yutianxian.htm)| 09:54| 10:06| 12分| -  
+17| [三河县](/huoche/zhan/sanhexian.htm)| 11:00| 11:03| 3分| -  
+18| [燕郊](/huoche/zhan/yanjiao.htm)| 11:24| 11:37| 13分| -  
+19| [北京](/huoche/zhan/beijing.htm)| 12:10| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

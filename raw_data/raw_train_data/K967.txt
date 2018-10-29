@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京开往张家界的K967快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K967 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 北京  
+发车时间 | 08:37  
+到站时间 | 11:22  
+全程时间 | 26小时45分  
+终点站 | 张家界  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京](/huoche/zhan/beijing.htm)| \----| 08:37| 0分| -  
+2| [涿州](/huoche/zhan/zhuozhou.htm)| 09:38| 09:41| 3分| -  
+3| [高碑店](/huoche/zhan/gaobeidian.htm)| 09:55| 09:57| 2分| -  
+4| [徐水](/huoche/zhan/xushui.htm)| 10:22| 10:24| 2分| -  
+5| [保定](/huoche/zhan/baoding.htm)| 10:42| 10:46| 4分| -  
+6| [定州](/huoche/zhan/dingzhou.htm)| 11:23| 11:25| 2分| -  
+7| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 12:18| 12:24| 6分| -  
+8| [邢台](/huoche/zhan/xingtai.htm)| 13:41| 13:54| 13分| -  
+9| [安阳](/huoche/zhan/anyang.htm)| 15:22| 15:25| 3分| -  
+10| [鹤壁](/huoche/zhan/hebi2.htm)| 15:54| 15:57| 3分| -  
+11| [新乡](/huoche/zhan/xinxiang2.htm)| 16:36| 16:53| 17分| -  
+12| [郑州](/huoche/zhan/zhengzhou.htm)| 17:58| 18:12| 14分| -  
+13| [许昌](/huoche/zhan/xuchang.htm)| 19:07| 19:16| 9分| -  
+14| [临颍](/huoche/zhan/linying.htm)| 19:33| 19:43| 10分| -  
+15| [漯河](/huoche/zhan/luohe.htm)| 20:08| 20:16| 8分| -  
+16| [驻马店](/huoche/zhan/zhumadian.htm)| 20:56| 20:59| 3分| -  
+17| [武昌](/huoche/zhan/wuchang.htm)| 01:02| 01:18| 16分| -  
+18| [岳阳](/huoche/zhan/yueyang.htm)| 04:10| 04:16| 6分| -  
+19| [长沙](/huoche/zhan/changsha.htm)| 05:44| 06:04| 20分| -  
+20| [益阳](/huoche/zhan/yiyang.htm)| 07:10| 07:15| 5分| -  
+21| [常德](/huoche/zhan/changde.htm)| 08:15| 08:20| 5分| -  
+22| [临澧](/huoche/zhan/linli.htm)| 08:54| 08:57| 3分| -  
+23| [张家界](/huoche/zhan/zhangjiajie.htm)| 11:22| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

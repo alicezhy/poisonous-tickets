@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从宁波开往广州的K212快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K212 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 宁波  
+发车时间 | 15:05  
+到站时间 | 14:58  
+全程时间 | 23小时53分  
+终点站 | 广州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [宁波](/huoche/zhan/ningbo.htm)| \----| 15:05| 0分| -  
+2| [余姚](/huoche/zhan/yuyao.htm)| 15:53| 15:56| 3分| -  
+3| [上虞](/huoche/zhan/shangyu.htm)| 16:25| 16:29| 4分| -  
+4| [绍兴](/huoche/zhan/shaoxing.htm)| 16:53| 16:56| 3分| -  
+5| [杭州](/huoche/zhan/hangzhou.htm)| 18:12| 18:36| 24分| -  
+6| [诸暨](/huoche/zhan/zhuji.htm)| 19:31| 19:46| 15分| -  
+7| [义乌](/huoche/zhan/yiwu.htm)| 20:12| 20:16| 4分| -  
+8| [衢州](/huoche/zhan/quzhou.htm)| 22:06| 22:10| 4分| -  
+9| [江山](/huoche/zhan/jiangshan.htm)| 22:34| 22:38| 4分| -  
+10| [玉山](/huoche/zhan/yushan.htm)| 23:26| 23:35| 9分| -  
+11| [上饶](/huoche/zhan/shangrao.htm)| 23:57| 00:01| 4分| -  
+12| [鹰潭](/huoche/zhan/yingtan.htm)| 01:10| 01:32| 22分| -  
+13| [吉安](/huoche/zhan/jian6.htm)| 04:37| 04:41| 4分| -  
+14| [赣州](/huoche/zhan/ganzhou.htm)| 06:38| 07:02| 24分| -  
+15| [大余](/huoche/zhan/dayu.htm)| 09:11| 09:15| 4分| -  
+16| [南雄](/huoche/zhan/nanxiong.htm)| 09:51| 09:56| 5分| -  
+17| [始兴](/huoche/zhan/shixing.htm)| 10:17| 10:22| 5分| -  
+18| [丹霞山](/huoche/zhan/danxiashan.htm)| 10:54| 10:58| 4分| -  
+19| [韶关东](/huoche/zhan/shaoguandong.htm)| 11:32| 11:38| 6分| -  
+20| [英德](/huoche/zhan/yingde.htm)| 12:32| 12:35| 3分| -  
+21| [源潭](/huoche/zhan/yuantan.htm)| 13:18| 13:21| 3分| -  
+22| [广州北](/huoche/zhan/guangzhoubei.htm)| 13:52| 13:55| 3分| -  
+23| [广州](/huoche/zhan/guangzhou.htm)| 14:58| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

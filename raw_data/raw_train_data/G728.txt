@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从哈尔滨西开往大连北的G728高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G728 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 哈尔滨西  
+发车时间 | 16:56  
+到站时间 | 21:27  
+全程时间 | 4小时31分  
+终点站 | 大连北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [哈尔滨西](/huoche/zhan/haerbinxi.htm)| -| 16:56| 0分| -  
+2| [长春西](/huoche/zhan/changchunxi.htm)| 17:52| 17:54| 2分| -  
+3| [公主岭南](/huoche/zhan/gongzhulingnan.htm)| 18:11| 18:13| 2分| -  
+4| [四平东](/huoche/zhan/sipingdong.htm)| 18:27| 18:29| 2分| -  
+5| [开原西](/huoche/zhan/kaiyuanxi.htm)| 18:51| 18:53| 2分| -  
+6| [沈阳北](/huoche/zhan/shenyangbei.htm)| 19:20| 19:23| 3分| -  
+7| [沈阳](/huoche/zhan/shenyang3.htm)| 19:31| 19:33| 2分| -  
+8| [辽阳](/huoche/zhan/liaoyang.htm)| 19:57| 19:59| 2分| -  
+9| [营口东](/huoche/zhan/yingkoudong.htm)| 20:25| 20:27| 2分| -  
+10| [普湾](/huoche/zhan/puwan.htm)| 21:07| 21:09| 2分| -  
+11| [大连北](/huoche/zhan/dalianbei.htm)| 21:27| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

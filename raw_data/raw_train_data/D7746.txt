@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从沈阳开往大连北的D7746动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D7746 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 沈阳  
+发车时间 | 11:55  
+到站时间 | 16:09  
+全程时间 | 4小时14分  
+终点站 | 大连北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [沈阳](/huoche/zhan/shenyang3.htm)| -| 11:55| 0分| -  
+2| [本溪](/huoche/zhan/benxi.htm)| 12:26| 12:28| 2分| -  
+3| [通远堡西](/huoche/zhan/tongyuanpuxi.htm)| 12:48| 12:50| 2分| -  
+4| [凤城东](/huoche/zhan/fengchengdong.htm)| 13:04| 13:06| 2分| -  
+5| [丹东](/huoche/zhan/dandong.htm)| 13:23| 13:41| 18分| -  
+6| [东港北](/huoche/zhan/donggangbei.htm)| 13:58| 14:00| 2分| -  
+7| [大孤山](/huoche/zhan/dagushan.htm)| 14:18| 14:20| 2分| -  
+8| [庄河北](/huoche/zhan/zhuanghebei.htm)| 14:43| 14:45| 2分| -  
+9| [花园口](/huoche/zhan/huayuankou.htm)| 15:00| 15:02| 2分| -  
+10| [皮口](/huoche/zhan/pikou.htm)| 15:14| 15:16| 2分| -  
+11| [登沙河](/huoche/zhan/dengshahe.htm)| 15:31| 15:32| 1分| -  
+12| [广宁寺](/huoche/zhan/guangningsi.htm)| 15:42| 15:43| 1分| -  
+13| [金州](/huoche/zhan/jinzhou3.htm)| 15:55| 15:57| 2分| -  
+14| [大连北](/huoche/zhan/dalianbei.htm)| 16:09| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

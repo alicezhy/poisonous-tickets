@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从贵阳开往北京西的K508快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K508 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 贵阳  
+发车时间 | 14:40  
+到站时间 | 21:25  
+全程时间 | 30小时45分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [贵阳](/huoche/zhan/guiyang.htm)| -| 14:40| 0分| -  
+2| [遵义](/huoche/zhan/zunyi.htm)| 16:09| 16:17| 8分| -  
+4| [重庆西](/huoche/zhan/chongqingxi.htm)| 20:23| 20:57| 34分| -  
+5| [广安](/huoche/zhan/guangan.htm)| 22:31| 22:39| 8分| -  
+6| [达州](/huoche/zhan/dazhou.htm)| 00:08| 00:18| 10分| -  
+7| [安康](/huoche/zhan/ankang.htm)| 03:12| 03:38| 26分| -  
+8| [渭南](/huoche/zhan/weinan.htm)| 07:09| 07:12| 3分| -  
+9| [三门峡](/huoche/zhan/sanmenxia2.htm)| 09:56| 09:59| 3分| -  
+10| [洛阳](/huoche/zhan/luoyang.htm)| 11:47| 11:53| 6分| -  
+11| [郑州](/huoche/zhan/zhengzhou.htm)| 13:24| 13:43| 19分| -  
+12| [邢台](/huoche/zhan/xingtai.htm)| 16:54| 17:00| 6分| -  
+13| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 18:11| 18:17| 6分| -  
+14| [保定](/huoche/zhan/baoding.htm)| 19:37| 19:41| 4分| -  
+15| [北京西](/huoche/zhan/beijingxi.htm)| 21:25| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

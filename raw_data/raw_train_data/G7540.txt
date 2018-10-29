@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从苍南开往上海虹桥的G7540高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7540 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 苍南  
+发车时间 | 08:21  
+到站时间 | 13:08  
+全程时间 | 4小时47分  
+终点站 | 上海虹桥  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [苍南](/huoche/zhan/cangnan.htm)| -| 08:21| 0分| -  
+2| [瑞安](/huoche/zhan/ruian.htm)| 08:36| 08:38| 2分| -  
+3| [温州南](/huoche/zhan/wenzhounan.htm)| 08:51| 09:00| 9分| -  
+4| [乐清](/huoche/zhan/yueqing.htm)| 09:15| 09:17| 2分| -  
+5| [雁荡山](/huoche/zhan/yandangshan.htm)| 09:34| 09:36| 2分| -  
+6| [温岭](/huoche/zhan/wenling.htm)| 09:47| 09:49| 2分| -  
+7| [台州](/huoche/zhan/taizhou2.htm)| 10:00| 10:02| 2分| -  
+8| [宁海](/huoche/zhan/ninghai.htm)| 10:31| 10:33| 2分| -  
+9| [宁波](/huoche/zhan/ningbo.htm)| 11:04| 11:07| 3分| -  
+10| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 11:39| 11:41| 2分| -  
+11| [杭州东](/huoche/zhan/hangzhoudong.htm)| 12:00| 12:02| 2分| -  
+12| [余杭](/huoche/zhan/yuhang.htm)| 12:12| 12:14| 2分| -  
+13| [嘉兴南](/huoche/zhan/jiaxingnan.htm)| 12:32| 12:34| 2分| -  
+14| [松江南](/huoche/zhan/songjiangnan.htm)| 12:52| 12:54| 2分| -  
+15| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 13:08| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

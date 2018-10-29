@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京南开往温州南的G167高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G167 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 北京南  
+发车时间 | 12:45  
+到站时间 | 21:49  
+全程时间 | 9小时4分  
+终点站 | 温州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京南](/huoche/zhan/beijingnan.htm)| \----| 12:45| 0分| -  
+2| [天津南](/huoche/zhan/tianjinnan.htm)| 13:21| 13:23| 2分| -  
+3| [德州东](/huoche/zhan/dezhoudong.htm)| 14:07| 14:14| 7分| -  
+4| [济南西](/huoche/zhan/jinanxi.htm)| 14:38| 14:44| 6分| -  
+5| [徐州东](/huoche/zhan/xuzhoudong.htm)| 15:47| 15:52| 5分| -  
+6| [蚌埠南](/huoche/zhan/bengbunan.htm)| 16:29| 16:31| 2分| -  
+7| [南京南](/huoche/zhan/nanjingnan.htm)| 17:13| 17:15| 2分| -  
+8| [句容西](/huoche/zhan/jurongxi.htm)| 17:28| 17:30| 2分| -  
+9| [溧阳](/huoche/zhan/liyang.htm)| 17:50| 17:52| 2分| -  
+10| [湖州](/huoche/zhan/huzhou.htm)| 18:15| 18:17| 2分| -  
+11| [杭州东](/huoche/zhan/hangzhoudong.htm)| 18:38| 18:41| 3分| -  
+12| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 18:59| 19:01| 2分| -  
+13| [余姚北](/huoche/zhan/yuyaobei.htm)| 19:19| 19:21| 2分| -  
+14| [宁波](/huoche/zhan/ningbo.htm)| 19:40| 19:52| 12分| -  
+15| [临海](/huoche/zhan/linhai.htm)| 20:38| 20:40| 2分| -  
+16| [台州](/huoche/zhan/taizhou2.htm)| 20:52| 20:54| 2分| -  
+17| [温岭](/huoche/zhan/wenling.htm)| 21:05| 21:07| 2分| -  
+18| [乐清](/huoche/zhan/yueqing.htm)| 21:31| 21:33| 2分| -  
+19| [温州南](/huoche/zhan/wenzhounan.htm)| 21:49| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

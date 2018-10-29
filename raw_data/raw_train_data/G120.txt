@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海虹桥开往北京南的G120高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G120 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 上海虹桥  
+发车时间 | 07:51  
+到站时间 | 13:33  
+全程时间 | 5小时42分  
+终点站 | 北京南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| -| 07:51| 0分| -  
+2| [无锡东](/huoche/zhan/wuxidong.htm)| 08:19| 08:24| 5分| -  
+3| [常州北](/huoche/zhan/changzhoubei.htm)| 08:41| 08:43| 2分| -  
+4| [南京南](/huoche/zhan/nanjingnan.htm)| 09:18| 09:21| 3分| -  
+5| [徐州东](/huoche/zhan/xuzhoudong.htm)| 10:37| 10:40| 3分| -  
+6| [济南西](/huoche/zhan/jinanxi.htm)| 11:44| 11:46| 2分| -  
+7| [天津南](/huoche/zhan/tianjinnan.htm)| 12:49| 12:58| 9分| -  
+8| [北京南](/huoche/zhan/beijingnan.htm)| 13:33| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

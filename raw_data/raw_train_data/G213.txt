@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从天津西开往上海虹桥的G213高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G213 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 天津西  
+发车时间 | 10:42  
+到站时间 | 16:17  
+全程时间 | 5小时35分  
+终点站 | 上海虹桥  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [天津西](/huoche/zhan/tianjinxi.htm)| \----| 10:42| 0分| -  
+2| [德州东](/huoche/zhan/dezhoudong.htm)| 11:34| 11:36| 2分| -  
+3| [济南西](/huoche/zhan/jinanxi.htm)| 12:00| 12:03| 3分| -  
+4| [泰安](/huoche/zhan/taian2.htm)| 12:20| 12:22| 2分| -  
+5| [滕州东](/huoche/zhan/tengzhoudong.htm)| 12:53| 13:03| 10分| -  
+6| [徐州东](/huoche/zhan/xuzhoudong.htm)| 13:28| 13:33| 5分| -  
+7| [南京南](/huoche/zhan/nanjingnan.htm)| 14:47| 14:49| 2分| -  
+8| [常州北](/huoche/zhan/changzhoubei.htm)| 15:21| 15:26| 5分| -  
+9| [苏州北](/huoche/zhan/suzhoubei.htm)| 15:48| 15:51| 3分| -  
+10| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 16:17| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

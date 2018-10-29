@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从阿勒泰开往乌鲁木齐的K9750快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K9750 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 阿勒泰  
+发车时间 | 18:52  
+到站时间 | 06:26  
+全程时间 | 11小时34分  
+终点站 | 乌鲁木齐  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [阿勒泰](/huoche/zhan/aletai.htm)| -| 18:52| 0分| -  
+2| [北屯市](/huoche/zhan/beitunshi.htm)| 19:42| 19:54| 12分| -  
+3| [福海](/huoche/zhan/fuhai2.htm)| 20:19| 20:21| 2分| -  
+4| [和什托洛盖](/huoche/zhan/heshituoluogai.htm)| 22:12| 22:14| 2分| -  
+5| [克拉玛依](/huoche/zhan/kelamayi.htm)| 00:27| 00:33| 6分| -  
+6| [奎屯](/huoche/zhan/kuitun.htm)| 03:12| 03:24| 12分| -  
+7| [石河子](/huoche/zhan/shihezi.htm)| 04:21| 04:25| 4分| -  
+8| [乌鲁木齐](/huoche/zhan/wulumuqi.htm)| 06:26| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从汉口开往宁波的D2195动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D2195 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 汉口  
+发车时间 | 06:45  
+到站时间 | 12:15  
+全程时间 | 5小时30分  
+终点站 | 宁波  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [汉口](/huoche/zhan/hankou.htm)| \----| 06:45| 0分| -  
+2| [红安西](/huoche/zhan/honganxi.htm)| 07:14| 07:16| 2分| -  
+3| [麻城北](/huoche/zhan/machengbei.htm)| 07:29| 07:31| 2分| -  
+4| [金寨](/huoche/zhan/jinzhai.htm)| 08:03| 08:05| 2分| -  
+5| [六安](/huoche/zhan/liuan.htm)| 08:22| 08:25| 3分| -  
+6| [合肥南](/huoche/zhan/hefeinan.htm)| 08:49| 08:57| 8分| -  
+7| [南京南](/huoche/zhan/nanjingnan.htm)| 09:49| 09:52| 3分| -  
+8| [宜兴](/huoche/zhan/yixing.htm)| 10:29| 10:31| 2分| -  
+9| [湖州](/huoche/zhan/huzhou.htm)| 10:49| 10:51| 2分| -  
+10| [杭州东](/huoche/zhan/hangzhoudong.htm)| 11:14| 11:18| 4分| -  
+11| [绍兴东](/huoche/zhan/shaoxingdong.htm)| 11:45| 11:47| 2分| -  
+12| [宁波](/huoche/zhan/ningbo.htm)| 12:15| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

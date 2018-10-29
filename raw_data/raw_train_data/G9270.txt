@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从安庆开往上海虹桥的G9270高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G9270 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 安庆  
+发车时间 | 17:32  
+到站时间 | 22:29  
+全程时间 | 4小时57分  
+终点站 | 上海虹桥  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [安庆](/huoche/zhan/anqing2.htm)| -| 17:32| 0分| -  
+2| [池州](/huoche/zhan/chizhou.htm)| 17:51| 17:53| 2分| -  
+3| [铜陵](/huoche/zhan/tongling2.htm)| 18:13| 18:15| 2分| -  
+4| [繁昌西](/huoche/zhan/fanchangxi.htm)| 18:30| 18:32| 2分| -  
+5| [弋江](/huoche/zhan/yijiang.htm)| 18:45| 18:47| 2分| -  
+6| [芜湖](/huoche/zhan/wuhu.htm)| 18:58| 19:00| 2分| -  
+7| [当涂东](/huoche/zhan/dangtudong.htm)| 19:13| 19:15| 2分| -  
+8| [马鞍山东](/huoche/zhan/maanshandong.htm)| 19:24| 19:27| 3分| -  
+9| [江宁西](/huoche/zhan/jiangningxi.htm)| 19:36| 19:48| 12分| -  
+10| [南京南](/huoche/zhan/nanjingnan.htm)| 20:01| 20:08| 7分| -  
+11| [镇江](/huoche/zhan/zhenjiang.htm)| 20:36| 20:38| 2分| -  
+12| [丹阳](/huoche/zhan/danyang.htm)| 20:50| 21:01| 11分| -  
+13| [常州](/huoche/zhan/changzhou.htm)| 21:17| 21:20| 3分| -  
+14| [无锡](/huoche/zhan/wuxi.htm)| 21:35| 21:37| 2分| -  
+15| [苏州](/huoche/zhan/suzhou.htm)| 21:52| 21:55| 3分| -  
+16| [昆山南](/huoche/zhan/kunshannan.htm)| 22:08| 22:10| 2分| -  
+17| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 22:29| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

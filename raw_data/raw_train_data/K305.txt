@@ -1,0 +1,69 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从温州开往兰州的K305快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K305 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 温州  
+发车时间 | 18:50  
+到站时间 | 07:50  
+全程时间 | 37小时0分  
+终点站 | 兰州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [温州](/huoche/zhan/wenzhou.htm)| \----| 18:50| 0分| -  
+2| [青田](/huoche/zhan/qingtian.htm)| 19:49| 19:52| 3分| -  
+3| [丽水](/huoche/zhan/lishui.htm)| 21:17| 21:19| 2分| -  
+4| [缙云](/huoche/zhan/jinyun.htm)| 21:51| 21:53| 2分| -  
+5| [永康](/huoche/zhan/yongkang.htm)| 22:24| 22:29| 5分| -  
+6| [武义](/huoche/zhan/wuyi2.htm)| 22:49| 22:52| 3分| -  
+7| [金华南](/huoche/zhan/jinhuanan.htm)| 23:22| 23:47| 25分| -  
+8| [义乌](/huoche/zhan/yiwu.htm)| 00:45| 00:48| 3分| -  
+9| [杭州](/huoche/zhan/hangzhou.htm)| 02:14| 02:27| 13分| -  
+10| [长兴南](/huoche/zhan/changxingnan.htm)| 03:41| 03:44| 3分| -  
+11| [宣城](/huoche/zhan/xuancheng.htm)| 05:06| 05:12| 6分| -  
+12| [芜湖](/huoche/zhan/wuhu.htm)| 06:15| 06:21| 6分| -  
+13| [巢湖](/huoche/zhan/chaohu.htm)| 07:20| 07:24| 4分| -  
+14| [合肥](/huoche/zhan/hefei.htm)| 08:19| 08:34| 15分| -  
+15| [六安](/huoche/zhan/liuan.htm)| 09:44| 09:48| 4分| -  
+16| [固始](/huoche/zhan/gushi.htm)| 11:00| 11:04| 4分| -  
+17| [商城](/huoche/zhan/shangcheng.htm)| 11:22| 11:24| 2分| -  
+18| [潢川](/huoche/zhan/huangchuan.htm)| 11:50| 11:52| 2分| -  
+19| [息县](/huoche/zhan/xixian2.htm)| 12:21| 12:25| 4分| -  
+20| [罗山](/huoche/zhan/luoshan.htm)| 12:46| 12:49| 3分| -  
+22| [桐柏](/huoche/zhan/tongbai.htm)| 14:52| 14:56| 4分| -  
+23| [唐河](/huoche/zhan/tanghe2.htm)| 15:42| 15:46| 4分| -  
+24| [镇平](/huoche/zhan/zhenping.htm)| 17:03| 17:08| 5分| -  
+25| [西峡](/huoche/zhan/xixia2.htm)| 18:03| 18:08| 5分| -  
+26| [商南](/huoche/zhan/shangnan.htm)| 19:05| 19:09| 4分| -  
+27| [丹凤](/huoche/zhan/danfeng.htm)| 19:53| 19:57| 4分| -  
+28| [商洛](/huoche/zhan/shangluo.htm)| 20:28| 20:34| 6分| -  
+29| [西安](/huoche/zhan/xian.htm)| 23:07| 23:17| 10分| -  
+30| [杨陵](/huoche/zhan/yangling.htm)| 00:10| 00:12| 2分| -  
+31| [宝鸡](/huoche/zhan/baoji.htm)| 01:15| 01:35| 20分| -  
+32| [天水](/huoche/zhan/tianshui.htm)| 03:38| 03:44| 6分| -  
+33| [武山](/huoche/zhan/wushan.htm)| 04:49| 04:52| 3分| -  
+34| [陇西](/huoche/zhan/longxi.htm)| 05:18| 05:21| 3分| -  
+35| [定西](/huoche/zhan/dingxi.htm)| 06:17| 06:20| 3分| -  
+36| [兰州](/huoche/zhan/lanzhou.htm)| 07:50| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

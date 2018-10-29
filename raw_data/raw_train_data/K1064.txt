@@ -1,0 +1,77 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从重庆开往哈尔滨西的K1064快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1064 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 重庆  
+发车时间 | 21:36  
+到站时间 | 21:42  
+全程时间 | 48小时6分  
+终点站 | 哈尔滨西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [重庆](/huoche/zhan/chongqing.htm)| \----| 21:36| 0分| -  
+2| [广安](/huoche/zhan/guangan.htm)| 00:17| 00:22| 5分| -  
+3| [渠县](/huoche/zhan/quxian.htm)| 00:50| 00:56| 6分| -  
+4| [达州](/huoche/zhan/dazhou.htm)| 01:41| 01:55| 14分| -  
+5| [万源](/huoche/zhan/wanyuan.htm)| 03:28| 03:38| 10分| -  
+6| [安康](/huoche/zhan/ankang.htm)| 05:03| 05:11| 8分| -  
+7| [十堰](/huoche/zhan/shiyan.htm)| 07:54| 07:57| 3分| -  
+8| [武当山](/huoche/zhan/wudangshan.htm)| 08:15| 08:18| 3分| -  
+9| [谷城](/huoche/zhan/gucheng.htm)| 09:09| 09:12| 3分| -  
+10| [襄阳](/huoche/zhan/xiangyang2.htm)| 10:18| 10:38| 20分| -  
+11| [邓州](/huoche/zhan/dengzhou.htm)| 11:39| 11:42| 3分| -  
+12| [南阳](/huoche/zhan/nanyang.htm)| 12:27| 12:32| 5分| -  
+13| [南召](/huoche/zhan/nanzhao.htm)| 13:17| 13:20| 3分| -  
+14| [平顶山西](/huoche/zhan/pingdingshanxi.htm)| 14:12| 14:16| 4分| -  
+15| [汝州](/huoche/zhan/ruzhou.htm)| 14:50| 14:53| 3分| -  
+16| [巩义](/huoche/zhan/gongyi.htm)| 16:39| 16:48| 9分| -  
+17| [郑州](/huoche/zhan/zhengzhou.htm)| 17:57| 18:35| 38分| -  
+18| [开封](/huoche/zhan/kaifeng.htm)| 19:38| 19:42| 4分| -  
+19| [兰考](/huoche/zhan/lankao.htm)| 20:10| 20:13| 3分| -  
+20| [宁陵县](/huoche/zhan/ninglingxian.htm)| 20:47| 20:51| 4分| -  
+21| [商丘](/huoche/zhan/shangqiu.htm)| 21:20| 21:28| 8分| -  
+22| [曹县](/huoche/zhan/caoxian.htm)| 22:05| 22:15| 10分| -  
+23| [菏泽](/huoche/zhan/heze.htm)| 22:46| 22:50| 4分| -  
+24| [聊城](/huoche/zhan/liaocheng.htm)| 00:18| 00:27| 9分| -  
+25| [衡水](/huoche/zhan/hengshui.htm)| 02:14| 02:18| 4分| -  
+26| [天津](/huoche/zhan/tianjin.htm)| 05:28| 05:41| 13分| -  
+27| [唐山](/huoche/zhan/tangshan.htm)| 07:06| 07:11| 5分| -  
+28| [山海关](/huoche/zhan/shanhaiguan.htm)| 09:24| 09:30| 6分| -  
+29| [兴城](/huoche/zhan/xingcheng.htm)| 10:39| 10:42| 3分| -  
+30| [葫芦岛](/huoche/zhan/huludao.htm)| 10:59| 11:02| 3分| -  
+31| [锦州](/huoche/zhan/jinzhou.htm)| 11:41| 11:47| 6分| -  
+32| [沟帮子](/huoche/zhan/goubangzi.htm)| 12:31| 12:33| 2分| -  
+33| [大虎山](/huoche/zhan/dahushan.htm)| 13:00| 13:03| 3分| -  
+34| [沈阳北](/huoche/zhan/shenyangbei.htm)| 14:56| 15:04| 8分| -  
+35| [铁岭](/huoche/zhan/tieling.htm)| 15:45| 15:47| 2分| -  
+36| [昌图](/huoche/zhan/changtu.htm)| 16:30| 16:32| 2分| -  
+37| [四平](/huoche/zhan/siping.htm)| 17:11| 17:14| 3分| -  
+38| [郭家店](/huoche/zhan/guojiadian.htm)| 17:32| 17:34| 2分| -  
+39| [公主岭](/huoche/zhan/gongzhuling.htm)| 17:52| 17:54| 2分| -  
+40| [长春](/huoche/zhan/changchun.htm)| 18:38| 18:49| 11分| -  
+41| [德惠](/huoche/zhan/dehui.htm)| 19:38| 19:41| 3分| -  
+42| [双城堡](/huoche/zhan/shuangchengbao.htm)| 21:01| 21:10| 9分| -  
+43| [哈尔滨西](/huoche/zhan/haerbinxi.htm)| 21:42| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

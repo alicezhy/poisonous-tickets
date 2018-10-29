@@ -1,0 +1,65 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从温州开往成都东的K1256快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1256 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 温州  
+发车时间 | 20:00  
+到站时间 | 07:46  
+全程时间 | 35小时46分  
+终点站 | 成都东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [温州](/huoche/zhan/wenzhou.htm)| \----| 20:00| 0分| -  
+2| [青田](/huoche/zhan/qingtian.htm)| 20:52| 20:54| 2分| -  
+3| [丽水](/huoche/zhan/lishui.htm)| 21:58| 22:00| 2分| -  
+4| [缙云](/huoche/zhan/jinyun.htm)| 22:32| 22:34| 2分| -  
+5| [永康](/huoche/zhan/yongkang.htm)| 23:05| 23:07| 2分| -  
+6| [武义](/huoche/zhan/wuyi2.htm)| 23:27| 23:30| 3分| -  
+7| [金华南](/huoche/zhan/jinhuanan.htm)| 00:08| 00:20| 12分| -  
+8| [衢州](/huoche/zhan/quzhou.htm)| 01:57| 02:00| 3分| -  
+9| [上饶](/huoche/zhan/shangrao.htm)| 03:20| 03:24| 4分| -  
+10| [鹰潭](/huoche/zhan/yingtan.htm)| 04:33| 04:39| 6分| -  
+11| [南昌](/huoche/zhan/nanchang.htm)| 06:15| 06:27| 12分| -  
+12| [庐山](/huoche/zhan/lushan.htm)| 07:44| 07:47| 3分| -  
+13| [阳新](/huoche/zhan/yangxin.htm)| 08:44| 08:48| 4分| -  
+14| [黄石](/huoche/zhan/huangshi.htm)| 09:16| 09:20| 4分| -  
+15| [鄂州](/huoche/zhan/ezhou.htm)| 09:42| 09:46| 4分| -  
+16| [武昌](/huoche/zhan/wuchang.htm)| 10:51| 11:13| 22分| -  
+17| [应城](/huoche/zhan/yingcheng.htm)| 12:28| 12:30| 2分| -  
+18| [天门](/huoche/zhan/tianmen.htm)| 12:51| 12:53| 2分| -  
+19| [京山](/huoche/zhan/jingshan.htm)| 13:14| 13:16| 2分| -  
+20| [钟祥](/huoche/zhan/zhongxiang.htm)| 13:59| 14:02| 3分| -  
+21| [荆门](/huoche/zhan/jingmen.htm)| 14:53| 14:56| 3分| -  
+22| [当阳](/huoche/zhan/dangyang.htm)| 15:33| 15:36| 3分| -  
+23| [宜昌东](/huoche/zhan/yichangdong.htm)| 16:28| 17:03| 35分| -  
+24| [巴东](/huoche/zhan/badong.htm)| 18:53| 19:13| 20分| -  
+25| [恩施](/huoche/zhan/enshi.htm)| 20:22| 20:28| 6分| -  
+26| [利川](/huoche/zhan/lichuan.htm)| 21:12| 21:15| 3分| -  
+27| [万州](/huoche/zhan/wanzhou.htm)| 22:28| 22:42| 14分| -  
+28| [达州](/huoche/zhan/dazhou.htm)| 03:08| 03:20| 12分| -  
+29| [南充](/huoche/zhan/nanchong.htm)| 05:18| 05:22| 4分| -  
+30| [遂宁](/huoche/zhan/suining.htm)| 06:13| 06:16| 3分| -  
+31| [成都东](/huoche/zhan/chengdudong.htm)| 07:46| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

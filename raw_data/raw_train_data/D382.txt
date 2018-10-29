@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从福州南开往上海虹桥的D382动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D382 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 福州南  
+发车时间 | 07:37  
+到站时间 | 13:54  
+全程时间 | 6小时17分  
+终点站 | 上海虹桥  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [福州南](/huoche/zhan/fuzhounan.htm)| -| 07:37| 0分| -  
+2| [宁德](/huoche/zhan/ningde.htm)| 08:14| 08:16| 2分| -  
+3| [霞浦](/huoche/zhan/xiapu.htm)| 08:38| 08:40| 2分| -  
+4| [福鼎](/huoche/zhan/fuding.htm)| 09:00| 09:02| 2分| -  
+6| [瑞安](/huoche/zhan/ruian.htm)| 09:29| 09:31| 2分| -  
+7| [温州南](/huoche/zhan/wenzhounan.htm)| 09:42| 09:44| 2分| -  
+8| [绅坊](/huoche/zhan/shenfang2.htm)| 10:05| 10:07| 2分| -  
+9| [台州](/huoche/zhan/taizhou2.htm)| 10:33| 10:35| 2分| -  
+11| [宁波](/huoche/zhan/ningbo.htm)| 11:29| 11:33| 4分| -  
+12| [余姚北](/huoche/zhan/yuyaobei.htm)| 11:53| 11:55| 2分| -  
+13| [绍兴东](/huoche/zhan/shaoxingdong.htm)| 12:07| 12:09| 2分| -  
+15| [杭州东](/huoche/zhan/hangzhoudong.htm)| 12:36| 12:38| 2分| -  
+17| [嘉兴南](/huoche/zhan/jiaxingnan.htm)| 13:02| 13:04| 2分| -  
+18| [金山北](/huoche/zhan/jinshanbei.htm)| 13:18| 13:27| 9分| -  
+19| [松江南](/huoche/zhan/songjiangnan.htm)| 13:36| 13:39| 3分| -  
+20| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 13:54| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

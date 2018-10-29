@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从黄山北开往上海虹桥的G1520高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1520 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 黄山北  
+发车时间 | 08:14  
+到站时间 | 12:22  
+全程时间 | 4小时8分  
+终点站 | 上海虹桥  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [黄山北](/huoche/zhan/huangshanbei.htm)| -| 08:14| 0分| -  
+2| [婺源](/huoche/zhan/wuyuan2.htm)| 08:35| 08:37| 2分| -  
+3| [上饶](/huoche/zhan/shangrao.htm)| 09:01| 09:18| 17分| -  
+4| [玉山南](/huoche/zhan/yushannan.htm)| 09:33| 09:35| 2分| -  
+5| [龙游](/huoche/zhan/longyou.htm)| 10:01| 10:03| 2分| -  
+6| [金华](/huoche/zhan/jinhua.htm)| 10:18| 10:23| 5分| -  
+7| [义乌](/huoche/zhan/yiwu.htm)| 10:39| 10:42| 3分| -  
+8| [杭州东](/huoche/zhan/hangzhoudong.htm)| 11:15| 11:18| 3分| -  
+9| [余杭](/huoche/zhan/yuhang.htm)| 11:28| 11:33| 5分| -  
+10| [嘉兴南](/huoche/zhan/jiaxingnan.htm)| 11:51| 11:54| 3分| -  
+11| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 12:22| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

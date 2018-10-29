@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从张家界开往北京的K968快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K968 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 张家界  
+发车时间 | 13:36  
+到站时间 | 17:28  
+全程时间 | 27小时52分  
+终点站 | 北京  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [张家界](/huoche/zhan/zhangjiajie.htm)| -| 13:36| 0分| -  
+3| [临澧](/huoche/zhan/linli.htm)| 15:22| 15:25| 3分| -  
+4| [常德](/huoche/zhan/changde.htm)| 16:07| 16:11| 4分| -  
+5| [益阳](/huoche/zhan/yiyang.htm)| 17:13| 17:18| 5分| -  
+7| [长沙](/huoche/zhan/changsha.htm)| 18:30| 18:50| 20分| -  
+8| [岳阳](/huoche/zhan/yueyang.htm)| 20:13| 20:17| 4分| -  
+9| [武昌](/huoche/zhan/wuchang.htm)| 23:43| 00:07| 24分| -  
+10| [信阳](/huoche/zhan/xinyang.htm)| 02:48| 02:51| 3分| -  
+11| [驻马店](/huoche/zhan/zhumadian.htm)| 03:51| 03:54| 3分| -  
+12| [漯河](/huoche/zhan/luohe.htm)| 05:01| 05:04| 3分| -  
+13| [临颍](/huoche/zhan/linying.htm)| 05:30| 05:33| 3分| -  
+14| [许昌](/huoche/zhan/xuchang.htm)| 05:50| 05:53| 3分| -  
+15| [长葛](/huoche/zhan/changge.htm)| 06:08| 06:12| 4分| -  
+16| [郑州](/huoche/zhan/zhengzhou.htm)| 07:25| 07:40| 15分| -  
+17| [新乡](/huoche/zhan/xinxiang2.htm)| 09:09| 09:21| 12分| -  
+18| [安阳](/huoche/zhan/anyang.htm)| 10:26| 10:37| 11分| -  
+19| [邯郸](/huoche/zhan/handan.htm)| 11:29| 11:33| 4分| -  
+20| [邢台](/huoche/zhan/xingtai.htm)| 12:04| 12:13| 9分| -  
+21| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 13:24| 13:30| 6分| -  
+22| [定州](/huoche/zhan/dingzhou.htm)| 14:17| 14:29| 12分| -  
+23| [保定](/huoche/zhan/baoding.htm)| 15:06| 15:10| 4分| -  
+24| [徐水](/huoche/zhan/xushui.htm)| 15:27| 15:29| 2分| -  
+25| [北京](/huoche/zhan/beijing.htm)| 17:28| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

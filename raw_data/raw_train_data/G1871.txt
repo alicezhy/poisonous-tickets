@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从杭州东开往郑州东的G1871高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1871 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 杭州东  
+发车时间 | 13:50  
+到站时间 | 19:25  
+全程时间 | 5小时35分  
+终点站 | 郑州东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [杭州东](/huoche/zhan/hangzhoudong.htm)| -| 13:50| 0分| -  
+2| [长兴](/huoche/zhan/changxing.htm)| 14:16| 14:23| 7分| -  
+3| [宜兴](/huoche/zhan/yixing.htm)| 14:36| 14:38| 2分| -  
+4| [溧阳](/huoche/zhan/liyang.htm)| 14:49| 14:51| 2分| -  
+5| [溧水](/huoche/zhan/lishui2.htm)| 15:06| 15:08| 2分| -  
+6| [句容西](/huoche/zhan/jurongxi.htm)| 15:18| 15:23| 5分| -  
+7| [南京南](/huoche/zhan/nanjingnan.htm)| 15:35| 15:37| 2分| -  
+8| [滁州](/huoche/zhan/chuzhou.htm)| 15:55| 16:06| 11分| -  
+9| [蚌埠南](/huoche/zhan/bengbunan.htm)| 16:34| 16:45| 11分| -  
+10| [宿州东](/huoche/zhan/suzhoudong.htm)| 17:08| 17:13| 5分| -  
+11| [徐州东](/huoche/zhan/xuzhoudong.htm)| 17:31| 17:34| 3分| -  
+12| [砀山南](/huoche/zhan/dangshannan.htm)| 18:06| 18:08| 2分| -  
+13| [商丘](/huoche/zhan/shangqiu.htm)| 18:26| 18:28| 2分| -  
+14| [开封北](/huoche/zhan/kaifengbei.htm)| 19:03| 19:05| 2分| -  
+15| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 19:25| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

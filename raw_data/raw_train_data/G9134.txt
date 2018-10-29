@@ -1,0 +1,39 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从沈阳开往大连北的G9134高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G9134 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 沈阳  
+发车时间 | 07:40  
+到站时间 | 09:39  
+全程时间 | 1小时59分  
+终点站 | 大连北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [沈阳](/huoche/zhan/shenyang3.htm)| -| 07:40| 0分| -  
+2| [辽阳](/huoche/zhan/liaoyang.htm)| 08:04| 08:06| 2分| -  
+3| [盖州西](/huoche/zhan/gaizhouxi.htm)| 08:38| 08:39| 1分| -  
+4| [鲅鱼圈](/huoche/zhan/bayuquan.htm)| 08:51| 08:59| 8分| -  
+5| [大连北](/huoche/zhan/dalianbei.htm)| 09:39| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

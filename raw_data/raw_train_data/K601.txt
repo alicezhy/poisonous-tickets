@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京开往太原的K601快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K601 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 北京  
+发车时间 | 22:23  
+到站时间 | 08:18  
+全程时间 | 9小时55分  
+终点站 | 太原  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京](/huoche/zhan/beijing.htm)| -| 22:23| 0分| -  
+2| [白涧](/huoche/zhan/baijian.htm)| 00:41| 00:43| 2分| -  
+3| [灵丘](/huoche/zhan/lingqiu.htm)| 03:09| 03:32| 23分| -  
+4| [五台山](/huoche/zhan/wutaishan.htm)| 04:34| 04:39| 5分| -  
+5| [繁峙](/huoche/zhan/fanzhi.htm)| 05:03| 05:08| 5分| -  
+6| [代县](/huoche/zhan/daixian.htm)| 05:33| 05:38| 5分| -  
+7| [原平](/huoche/zhan/yuanping.htm)| 06:22| 06:32| 10分| -  
+8| [忻州](/huoche/zhan/xinzhou.htm)| 06:56| 07:03| 7分| -  
+9| [太原东](/huoche/zhan/taiyuandong.htm)| 08:10| 08:12| 2分| -  
+10| [太原](/huoche/zhan/taiyuan.htm)| 08:18| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从河津开往灵丘的4618普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 4618 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 河津  
+发车时间 | 06:54  
+到站时间 | 18:31  
+全程时间 | 11小时37分  
+终点站 | 灵丘  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [河津](/huoche/zhan/hejin2.htm)| -| 06:54| 0分| -  
+2| [稷山](/huoche/zhan/jishan.htm)| 07:16| 07:18| 2分| -  
+3| [侯马](/huoche/zhan/houma.htm)| 07:50| 07:54| 4分| -  
+4| [临汾](/huoche/zhan/linfen.htm)| 08:42| 08:48| 6分| -  
+5| [洪洞](/huoche/zhan/hongdong.htm)| 09:06| 09:09| 3分| -  
+6| [霍州](/huoche/zhan/huozhou.htm)| 09:46| 09:49| 3分| -  
+7| [灵石](/huoche/zhan/lingshi.htm)| 10:25| 10:27| 2分| -  
+8| [介休](/huoche/zhan/jiexiu.htm)| 10:57| 11:01| 4分| -  
+9| [平遥](/huoche/zhan/pingyao.htm)| 11:22| 11:26| 4分| -  
+10| [太谷](/huoche/zhan/taigu.htm)| 11:57| 11:59| 2分| -  
+11| [榆次](/huoche/zhan/yuci.htm)| 12:26| 12:30| 4分| -  
+12| [太原](/huoche/zhan/taiyuan.htm)| 12:57| 13:13| 16分| -  
+13| [太原东](/huoche/zhan/taiyuandong.htm)| 13:18| 13:20| 2分| -  
+14| [忻州](/huoche/zhan/xinzhou.htm)| 14:34| 14:39| 5分| -  
+15| [原平](/huoche/zhan/yuanping.htm)| 15:15| 15:35| 20分| -  
+16| [代县](/huoche/zhan/daixian.htm)| 16:15| 16:18| 3分| -  
+17| [下社](/huoche/zhan/xiashe.htm)| 16:36| 16:38| 2分| -  
+18| [繁峙](/huoche/zhan/fanzhi.htm)| 16:48| 16:51| 3分| -  
+19| [五台山](/huoche/zhan/wutaishan.htm)| 17:16| 17:19| 3分| -  
+20| [灵丘](/huoche/zhan/lingqiu.htm)| 18:31| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

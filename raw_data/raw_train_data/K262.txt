@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从汉中开往北京西的K262快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K262 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 汉中  
+发车时间 | 13:05  
+到站时间 | 16:13  
+全程时间 | 27小时8分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [汉中](/huoche/zhan/hanzhong.htm)| -| 13:05| 0分| -  
+2| [城固](/huoche/zhan/chenggu.htm)| 13:30| 13:33| 3分| -  
+3| [西乡](/huoche/zhan/xixiang.htm)| 14:26| 14:29| 3分| -  
+5| [汉阴](/huoche/zhan/hanyin.htm)| 15:50| 15:52| 2分| -  
+6| [安康](/huoche/zhan/ankang.htm)| 16:37| 16:55| 18分| -  
+7| [旬阳](/huoche/zhan/xunyang.htm)| 17:35| 17:37| 2分| -  
+8| [白河县](/huoche/zhan/baihexian.htm)| 18:41| 18:46| 5分| -  
+9| [十堰](/huoche/zhan/shiyan.htm)| 19:47| 19:49| 2分| -  
+10| [武当山](/huoche/zhan/wudangshan.htm)| 20:07| 20:09| 2分| -  
+11| [襄阳](/huoche/zhan/xiangyang2.htm)| 21:59| 22:20| 21分| -  
+12| [平顶山](/huoche/zhan/pingdingshan2.htm)| 01:54| 01:58| 4分| -  
+13| [漯河](/huoche/zhan/luohe.htm)| 02:57| 03:22| 25分| -  
+14| [许昌](/huoche/zhan/xuchang.htm)| 04:01| 04:06| 5分| -  
+15| [郑州](/huoche/zhan/zhengzhou.htm)| 06:10| 06:35| 25分| -  
+16| [新乡](/huoche/zhan/xinxiang2.htm)| 07:50| 07:55| 5分| -  
+17| [卫辉](/huoche/zhan/weihui.htm)| 08:12| 08:15| 3分| -  
+18| [鹤壁](/huoche/zhan/hebi2.htm)| 08:40| 08:44| 4分| -  
+19| [安阳](/huoche/zhan/anyang.htm)| 09:14| 09:39| 25分| -  
+20| [邯郸](/huoche/zhan/handan.htm)| 10:53| 11:03| 10分| -  
+21| [邢台](/huoche/zhan/xingtai.htm)| 11:34| 11:45| 11分| -  
+22| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 12:56| 13:08| 12分| -  
+23| [保定](/huoche/zhan/baoding.htm)| 14:28| 14:32| 4分| -  
+24| [北京西](/huoche/zhan/beijingxi.htm)| 16:13| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

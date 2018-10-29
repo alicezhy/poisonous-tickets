@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京西开往重庆北的K819快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K819 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 北京西  
+发车时间 | 21:23  
+到站时间 | 23:40  
+全程时间 | 26小时17分  
+终点站 | 重庆北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京西](/huoche/zhan/beijingxi.htm)| -| 21:23| 0分| -  
+2| [高碑店](/huoche/zhan/gaobeidian.htm)| 22:23| 22:25| 2分| -  
+3| [保定](/huoche/zhan/baoding.htm)| 23:03| 23:07| 4分| -  
+4| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 00:32| 00:40| 8分| -  
+5| [邢台](/huoche/zhan/xingtai.htm)| 01:43| 01:53| 10分| -  
+6| [邯郸](/huoche/zhan/handan.htm)| 02:31| 02:35| 4分| -  
+7| [新乡](/huoche/zhan/xinxiang2.htm)| 04:33| 04:39| 6分| -  
+8| [郑州](/huoche/zhan/zhengzhou.htm)| 05:40| 05:57| 17分| -  
+9| [巩义](/huoche/zhan/gongyi.htm)| 06:53| 06:56| 3分| -  
+10| [偃师](/huoche/zhan/yanshi.htm)| 07:15| 07:17| 2分| -  
+11| [汝州](/huoche/zhan/ruzhou.htm)| 08:47| 08:50| 3分| -  
+12| [襄阳](/huoche/zhan/xiangyang2.htm)| 12:34| 12:54| 20分| -  
+13| [武当山](/huoche/zhan/wudangshan.htm)| 14:33| 14:38| 5分| -  
+14| [十堰](/huoche/zhan/shiyan.htm)| 14:57| 15:04| 7分| -  
+15| [白河东](/huoche/zhan/baihedong.htm)| 15:59| 16:01| 2分| -  
+16| [旬阳](/huoche/zhan/xunyang.htm)| 16:47| 16:49| 2分| -  
+17| [安康](/huoche/zhan/ankang.htm)| 17:30| 17:36| 6分| -  
+18| [万源](/huoche/zhan/wanyuan.htm)| 19:27| 19:29| 2分| -  
+19| [达州](/huoche/zhan/dazhou.htm)| 21:05| 21:12| 7分| -  
+20| [重庆北](/huoche/zhan/chongqingbei.htm)| 23:40| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

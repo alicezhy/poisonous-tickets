@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从合肥南开往淮北的G7453高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7453 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 合肥南  
+发车时间 | 11:52  
+到站时间 | 14:37  
+全程时间 | 2小时45分  
+终点站 | 淮北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [合肥南](/huoche/zhan/hefeinan.htm)| -| 11:52| 0分| -  
+2| [淮南东](/huoche/zhan/huainandong.htm)| 12:30| 12:32| 2分| -  
+3| [蚌埠南](/huoche/zhan/bengbunan.htm)| 12:49| 12:52| 3分| -  
+4| [宿州东](/huoche/zhan/suzhoudong.htm)| 13:14| 13:25| 11分| -  
+5| [徐州东](/huoche/zhan/xuzhoudong.htm)| 13:44| 13:49| 5分| -  
+6| [萧县北](/huoche/zhan/xiaoxianbei.htm)| 14:07| 14:09| 2分| -  
+7| [淮北北](/huoche/zhan/huaibeibei.htm)| 14:22| 14:24| 2分| -  
+8| [淮北](/huoche/zhan/huaibei.htm)| 14:37| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

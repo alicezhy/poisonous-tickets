@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从沈阳北开往白河的K5097快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K5097 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 沈阳北  
+发车时间 | 16:38  
+到站时间 | 06:48  
+全程时间 | 14小时10分  
+终点站 | 白河  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [沈阳北](/huoche/zhan/shenyangbei.htm)| \----| 16:38| 0分| -  
+2| [沈阳](/huoche/zhan/shenyang3.htm)| 16:45| 16:55| 10分| -  
+3| [抚顺北](/huoche/zhan/fushunbei.htm)| 17:44| 17:52| 8分| -  
+4| [南杂木](/huoche/zhan/nanzamu.htm)| 18:34| 18:36| 2分| -  
+5| [清原](/huoche/zhan/qingyuan.htm)| 19:27| 19:33| 6分| -  
+6| [梅河口](/huoche/zhan/meihekou.htm)| 20:54| 21:20| 26分| -  
+7| [通化](/huoche/zhan/tonghua.htm)| 00:30| 01:06| 36分| -  
+8| [白山市](/huoche/zhan/baishanshi.htm)| 02:12| 02:18| 6分| -  
+9| [氡泉](/huoche/zhan/氡Quan.htm)| 04:21| 04:22| 1分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

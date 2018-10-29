@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从石家庄开往杭州的K1263快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1263 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 石家庄  
+发车时间 | 14:45  
+到站时间 | 10:51  
+全程时间 | 20小时6分  
+终点站 | 杭州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [石家庄](/huoche/zhan/shijiazhuang2.htm)| -| 14:45| 0分| -  
+2| [临城](/huoche/zhan/lincheng.htm)| 15:45| 15:47| 2分| -  
+3| [邢台](/huoche/zhan/xingtai.htm)| 16:17| 16:19| 2分| -  
+4| [邯郸](/huoche/zhan/handan.htm)| 17:06| 17:38| 32分| -  
+5| [聊城](/huoche/zhan/liaocheng.htm)| 20:23| 20:29| 6分| -  
+6| [菏泽](/huoche/zhan/heze.htm)| 22:06| 22:11| 5分| -  
+7| [曹县](/huoche/zhan/caoxian.htm)| 22:46| 22:49| 3分| -  
+8| [亳州](/huoche/zhan/bozhou.htm)| 00:06| 00:11| 5分| -  
+9| [阜阳](/huoche/zhan/fuyang.htm)| 01:20| 01:35| 15分| -  
+10| [合肥](/huoche/zhan/hefei.htm)| 04:32| 04:52| 20分| -  
+11| [芜湖](/huoche/zhan/wuhu.htm)| 06:53| 07:01| 8分| -  
+12| [宣城](/huoche/zhan/xuancheng.htm)| 07:55| 07:58| 3分| -  
+13| [长兴南](/huoche/zhan/changxingnan.htm)| 09:14| 09:17| 3分| -  
+14| [德清西](/huoche/zhan/deqingxi.htm)| 09:57| 10:00| 3分| -  
+15| [杭州](/huoche/zhan/hangzhou.htm)| 10:51| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

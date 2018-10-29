@@ -1,0 +1,62 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从襄阳开往青岛北的K1198快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1198 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 襄阳  
+发车时间 | 11:20  
+到站时间 | 16:19  
+全程时间 | 28小时59分  
+终点站 | 青岛北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [襄阳](/huoche/zhan/xiangyang2.htm)| -| 11:20| 0分| -  
+2| [枣阳](/huoche/zhan/zaoyang.htm)| 12:03| 12:18| 15分| -  
+3| [随州](/huoche/zhan/suizhou.htm)| 13:22| 13:27| 5分| -  
+4| [安陆](/huoche/zhan/anlu.htm)| 14:03| 14:17| 14分| -  
+5| [云梦](/huoche/zhan/yunmeng.htm)| 14:34| 14:36| 2分| -  
+6| [汉口](/huoche/zhan/hankou.htm)| 16:19| 16:56| 37分| -  
+7| [孝感](/huoche/zhan/xiaogan.htm)| 17:40| 17:43| 3分| -  
+8| [花园](/huoche/zhan/huayuan.htm)| 18:04| 18:07| 3分| -  
+9| [广水](/huoche/zhan/guangshui.htm)| 18:38| 19:00| 22分| -  
+10| [信阳](/huoche/zhan/xinyang.htm)| 19:50| 19:53| 3分| -  
+11| [确山](/huoche/zhan/queshan.htm)| 20:47| 20:51| 4分| -  
+12| [驻马店](/huoche/zhan/zhumadian.htm)| 21:05| 21:10| 5分| -  
+13| [西平](/huoche/zhan/xiping.htm)| 21:37| 21:43| 6分| -  
+14| [漯河](/huoche/zhan/luohe.htm)| 22:02| 22:42| 40分| -  
+15| [周口](/huoche/zhan/zhoukou.htm)| 23:35| 23:58| 23分| -  
+16| [项城](/huoche/zhan/xiangcheng.htm)| 00:25| 00:30| 5分| -  
+17| [沈丘](/huoche/zhan/shenqiu.htm)| 00:50| 00:55| 5分| -  
+18| [阜阳](/huoche/zhan/fuyang.htm)| 02:30| 02:59| 29分| -  
+19| [涡阳](/huoche/zhan/guoyang.htm)| 03:50| 03:57| 7分| -  
+20| [淮北](/huoche/zhan/huaibei.htm)| 04:57| 05:03| 6分| -  
+21| [徐州](/huoche/zhan/xuzhou.htm)| 06:18| 06:38| 20分| -  
+22| [枣庄西](/huoche/zhan/zaozhuangxi.htm)| 07:27| 07:29| 2分| -  
+23| [兖州](/huoche/zhan/yanzhou.htm)| 08:30| 08:36| 6分| -  
+24| [泰山](/huoche/zhan/taishan.htm)| 09:32| 09:35| 3分| -  
+25| [济南](/huoche/zhan/jinan.htm)| 10:33| 10:48| 15分| -  
+26| [淄博](/huoche/zhan/zibo.htm)| 12:04| 12:24| 20分| -  
+27| [潍坊](/huoche/zhan/weifang.htm)| 13:29| 13:35| 6分| -  
+28| [青岛北](/huoche/zhan/qingdaobei.htm)| 16:19| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

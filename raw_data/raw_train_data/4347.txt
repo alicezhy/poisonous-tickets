@@ -1,0 +1,41 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从通化开往集安的4347普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 4347 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 通化  
+发车时间 | 07:35  
+到站时间 | 10:30  
+全程时间 | 2小时55分  
+终点站 | 集安  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [通化](/huoche/zhan/tonghua.htm)| -| 07:35| 0分| -  
+2| [东通化](/huoche/zhan/dongtonghua.htm)| 07:45| 07:47| 2分| -  
+3| [水洞](/huoche/zhan/shuidong.htm)| 07:58| 08:00| 2分| -  
+4| [鸭园](/huoche/zhan/yayuan.htm)| 08:08| 08:14| 6分| -  
+5| [铁厂](/huoche/zhan/tiechang.htm)| 08:22| 08:24| 2分| -  
+6| [果松](/huoche/zhan/guosong.htm)| 08:42| 08:44| 2分| -  
+7| [石湖](/huoche/zhan/ShiHu.htm)| 09:05| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

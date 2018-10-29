@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从沈阳开往加格达奇的2667普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 2667 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 沈阳  
+发车时间 | 15:06  
+到站时间 | 09:28  
+全程时间 | 18小时22分  
+终点站 | 加格达奇  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [沈阳](/huoche/zhan/shenyang3.htm)| 00:00| 15:06| 0分| -  
+2| [铁岭](/huoche/zhan/tieling.htm)| 15:52| 15:55| 3分| -  
+3| [开原](/huoche/zhan/kaiyuan.htm)| 16:17| 16:19| 2分| -  
+4| [昌图](/huoche/zhan/changtu.htm)| 16:40| 16:42| 2分| -  
+5| [四平](/huoche/zhan/siping.htm)| 17:22| 17:29| 7分| -  
+6| [双辽](/huoche/zhan/shuangliao.htm)| 18:35| 18:41| 6分| -  
+8| [太平川](/huoche/zhan/taipingchuan.htm)| 20:12| 20:17| 5分| -  
+9| [开通](/huoche/zhan/kaitong.htm)| 20:53| 20:55| 2分| -  
+10| [黑水](/huoche/zhan/heishui.htm)| 21:32| 21:34| 2分| -  
+11| [洮南](/huoche/zhan/taonan.htm)| 21:49| 21:51| 2分| -  
+12| [白城](/huoche/zhan/baicheng.htm)| 22:21| 22:37| 16分| -  
+14| [泰来](/huoche/zhan/tailai.htm)| 23:49| 23:56| 7分| -  
+15| [齐齐哈尔](/huoche/zhan/qiqihaer.htm)| 01:30| 01:45| 15分| -  
+16| [富裕](/huoche/zhan/fuyu2.htm)| 02:25| 02:27| 2分| -  
+17| [讷河](/huoche/zhan/nehe.htm)| 03:21| 03:45| 24分| -  
+18| [嫩江](/huoche/zhan/nenjiang.htm)| 05:38| 05:46| 8分| -  
+19| [哈力图](/huoche/zhan/HaLiTu.htm)| 06:09| 06:11| 2分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

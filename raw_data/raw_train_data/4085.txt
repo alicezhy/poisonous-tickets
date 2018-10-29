@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从泰来开往齐齐哈尔的4085普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 4085 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 泰来  
+发车时间 | 10:12  
+到站时间 | 12:24  
+全程时间 | 2小时12分  
+终点站 | 齐齐哈尔  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [泰来](/huoche/zhan/tailai.htm)| -| 10:12| 0分| -  
+2| [平洋](/huoche/zhan/pingyang.htm)| 10:32| 10:34| 2分| -  
+3| [江桥](/huoche/zhan/jiangqiao.htm)| 10:53| 10:56| 3分| -  
+4| [大兴](/huoche/zhan/daxing.htm)| 11:09| 11:11| 2分| -  
+5| [汤池](/huoche/zhan/tangchi.htm)| 11:24| 11:26| 2分| -  
+6| [三间房](/huoche/zhan/sanjianfang.htm)| 11:43| 11:46| 3分| -  
+7| [榆树屯](/huoche/zhan/yushutun.htm)| 12:00| 12:02| 2分| -  
+8| [大民屯](/huoche/zhan/DaMinTun.htm)| 12:12| 12:13| 1分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

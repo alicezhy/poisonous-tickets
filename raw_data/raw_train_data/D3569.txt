@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从贵阳北开往南宁东的D3569动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D3569 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 贵阳北  
+发车时间 | 16:16  
+到站时间 | 21:39  
+全程时间 | 5小时23分  
+终点站 | 南宁东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [贵阳北](/huoche/zhan/guiyangbei.htm)| \----| 16:16| 0分| -  
+2| [龙洞堡](/huoche/zhan/longdongbao.htm)| 16:32| 16:34| 2分| -  
+3| [榕江](/huoche/zhan/rongjiang.htm)| 17:31| 17:33| 2分| -  
+4| [从江](/huoche/zhan/congjiang.htm)| 17:55| 17:57| 2分| -  
+5| [桂林北](/huoche/zhan/guilinbei.htm)| 18:51| 19:00| 9分| -  
+6| [桂林](/huoche/zhan/guilin.htm)| 19:11| 19:16| 5分| -  
+7| [柳州](/huoche/zhan/liuzhou.htm)| 20:21| 20:24| 3分| -  
+8| [来宾北](/huoche/zhan/laibinbei.htm)| 20:49| 20:56| 7分| -  
+9| [南宁东](/huoche/zhan/nanningdong.htm)| 21:39| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

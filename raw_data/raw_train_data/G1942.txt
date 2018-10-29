@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从西安北开往上海虹桥的G1942高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1942 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 西安北  
+发车时间 | 15:50  
+到站时间 | 23:23  
+全程时间 | 7小时33分  
+终点站 | 上海虹桥  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [西安北](/huoche/zhan/xianbei.htm)| \----| 15:50| 0分| -  
+2| [渭南北](/huoche/zhan/weinanbei.htm)| 16:07| 16:09| 2分| -  
+3| [洛阳龙门](/huoche/zhan/luoyanglongmen.htm)| 17:17| 17:19| 2分| -  
+4| [郑州西](/huoche/zhan/zhengzhouxi.htm)| 17:44| 17:46| 2分| -  
+5| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 18:04| 18:08| 4分| -  
+6| [开封北](/huoche/zhan/kaifengbei.htm)| 18:28| 18:30| 2分| -  
+7| [民权北](/huoche/zhan/minquanbei.htm)| 18:54| 18:56| 2分| -  
+8| [商丘](/huoche/zhan/shangqiu.htm)| 19:12| 19:14| 2分| -  
+9| [砀山南](/huoche/zhan/dangshannan.htm)| 19:32| 19:34| 2分| -  
+10| [徐州东](/huoche/zhan/xuzhoudong.htm)| 20:07| 20:16| 9分| -  
+11| [宿州东](/huoche/zhan/suzhoudong.htm)| 20:34| 20:46| 12分| -  
+12| [定远](/huoche/zhan/dingyuan.htm)| 21:20| 21:22| 2分| -  
+13| [南京南](/huoche/zhan/nanjingnan.htm)| 21:52| 21:55| 3分| -  
+14| [常州北](/huoche/zhan/changzhoubei.htm)| 22:27| 22:29| 2分| -  
+15| [无锡东](/huoche/zhan/wuxidong.htm)| 22:45| 22:54| 9分| -  
+16| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 23:23| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

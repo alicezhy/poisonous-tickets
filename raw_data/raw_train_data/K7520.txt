@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从大连开往凌源的K7520快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7520 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 大连  
+发车时间 | 19:40  
+到站时间 | 08:59  
+全程时间 | 13小时19分  
+终点站 | 凌源  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [大连](/huoche/zhan/dalian.htm)| -| 19:40| 0分| -  
+2| [金州](/huoche/zhan/jinzhou3.htm)| 20:05| 20:08| 3分| -  
+3| [普兰店](/huoche/zhan/pulandian.htm)| 20:39| 20:41| 2分| -  
+4| [瓦房店](/huoche/zhan/wafangdian.htm)| 21:00| 21:03| 3分| -  
+5| [熊岳城](/huoche/zhan/xiongyuecheng.htm)| 21:51| 21:54| 3分| -  
+6| [大石桥](/huoche/zhan/dashiqiao.htm)| 22:35| 22:41| 6分| -  
+7| [海城](/huoche/zhan/haicheng.htm)| 23:04| 23:06| 2分| -  
+8| [鞍山](/huoche/zhan/anshan.htm)| 23:31| 23:34| 3分| -  
+9| [辽阳](/huoche/zhan/liaoyang.htm)| 23:51| 23:53| 2分| -  
+10| [沈阳](/huoche/zhan/shenyang3.htm)| 00:41| 00:55| 14分| -  
+11| [新立屯](/huoche/zhan/xinlitun.htm)| 02:32| 02:38| 6分| -  
+14| [阜新南](/huoche/zhan/fuxinnan.htm)| 03:35| 03:45| 10分| -  
+15| [义县西](/huoche/zhan/yixianxi.htm)| 04:55| 05:00| 5分| -  
+16| [周家屯](/huoche/zhan/zhoujiatun.htm)| 05:13| 05:16| 3分| -  
+17| [上园](/huoche/zhan/shangyuan.htm)| 05:28| 05:31| 3分| -  
+18| [北票南](/huoche/zhan/beipiaonan.htm)| 05:50| 05:53| 3分| -  
+19| [能家](/huoche/zhan/nenjia2.htm)| 06:10| 06:13| 3分| -  
+20| [朝阳南](/huoche/zhan/chaoyangna.htm)| 06:39| 06:44| 5分| -  
+21| [大平房](/huoche/zhan/dapingfang.htm)| 07:12| 07:15| 3分| -  
+22| [叶柏寿](/huoche/zhan/yebaishou.htm)| 08:09| 08:17| 8分| -  
+23| [凌源](/huoche/zhan/lingyuan.htm)| 08:59| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

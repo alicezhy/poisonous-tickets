@@ -1,0 +1,41 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从乌鲁木齐开往阿克苏的K6717快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K6717 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 乌鲁木齐  
+发车时间 | 21:30  
+到站时间 | 10:16  
+全程时间 | 12小时46分  
+终点站 | 阿克苏  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [乌鲁木齐](/huoche/zhan/wulumuqi.htm)| \----| 21:30| 0分| -  
+2| [乌鲁木齐南](/huoche/zhan/wulumuqinan.htm)| 21:44| 21:52| 8分| -  
+3| [吐鲁番](/huoche/zhan/tulufan.htm)| 23:30| 00:01| 31分| -  
+4| [焉耆](/huoche/zhan/yanqi.htm)| 02:57| 03:00| 3分| -  
+5| [库尔勒](/huoche/zhan/kuerle.htm)| 03:50| 04:18| 28分| -  
+6| [库车](/huoche/zhan/kuche.htm)| 07:32| 07:38| 6分| -  
+7| [阿克苏](/huoche/zhan/akesu.htm)| 10:16| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

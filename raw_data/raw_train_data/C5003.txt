@@ -1,0 +1,39 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从武昌开往咸宁南的C5003城际高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | C5003 |  
+---|---|---|---  
+车型 | 城际高铁  
+始发站 | 武昌  
+发车时间 | 08:49  
+到站时间 | 09:45  
+全程时间 | 0小时56分  
+终点站 | 咸宁南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [武昌](/huoche/zhan/wuchang.htm)| -| 08:49| 0分| -  
+2| [庙山](/huoche/zhan/piaoshan.htm)| 09:07| 09:09| 2分| -  
+3| [纸坊东](/huoche/zhan/zhifangdong.htm)| 09:15| 09:17| 2分| -  
+4| [贺胜桥东](/huoche/zhan/heshengqiaodong.htm)| 09:31| 09:33| 2分| -  
+5| [咸宁南](/huoche/zhan/xianningnan.htm)| 09:45| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

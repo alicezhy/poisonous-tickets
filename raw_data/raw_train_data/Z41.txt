@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海开往乌鲁木齐的Z41直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z41 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 上海  
+发车时间 | 19:40  
+到站时间 | 10:36  
+全程时间 | 38小时56分  
+终点站 | 乌鲁木齐  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海](/huoche/zhan/shanghai.htm)| -| 19:40| 0分| -  
+2| [苏州](/huoche/zhan/suzhou.htm)| 20:25| 20:28| 3分| -  
+3| [无锡](/huoche/zhan/wuxi.htm)| 21:09| 21:12| 3分| -  
+4| [常州](/huoche/zhan/changzhou.htm)| 21:35| 21:38| 3分| -  
+5| [南京](/huoche/zhan/nanjing.htm)| 22:50| 22:59| 9分| -  
+6| [蚌埠](/huoche/zhan/bengbu.htm)| 00:31| 00:34| 3分| -  
+7| [徐州](/huoche/zhan/xuzhou.htm)| 02:03| 02:09| 6分| -  
+8| [郑州](/huoche/zhan/zhengzhou.htm)| 04:53| 05:00| 7分| -  
+9| [洛阳](/huoche/zhan/luoyang.htm)| 06:21| 06:24| 3分| -  
+10| [西安](/huoche/zhan/xian.htm)| 11:00| 11:10| 10分| -  
+11| [宝鸡](/huoche/zhan/baoji.htm)| 12:44| 12:49| 5分| -  
+12| [天水](/huoche/zhan/tianshui.htm)| 14:24| 14:35| 11分| -  
+13| [兰州](/huoche/zhan/lanzhou.htm)| 18:24| 18:41| 17分| -  
+14| [西宁](/huoche/zhan/xining.htm)| 20:24| 20:30| 6分| -  
+15| [张掖西](/huoche/zhan/zhangyexi.htm)| 22:44| 22:47| 3分| -  
+16| [嘉峪关](/huoche/zhan/jiayuguan.htm)| 00:29| 00:37| 8分| -  
+18| [哈密](/huoche/zhan/hami.htm)| 06:14| 06:24| 10分| -  
+19| [鄯善北](/huoche/zhan/shanshanbei.htm)| 08:22| 08:25| 3分| -  
+20| [吐鲁番北](/huoche/zhan/tulufanbei.htm)| 09:08| 09:11| 3分| -  
+22| [乌鲁木齐](/huoche/zhan/wulumuqi.htm)| 10:36| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

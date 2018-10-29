@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从五常开往哈尔滨东的6231普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 6231 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 五常  
+发车时间 | 08:00  
+到站时间 | 10:50  
+全程时间 | 2小时50分  
+终点站 | 哈尔滨东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [五常](/huoche/zhan/wuchang3.htm)| -| 08:00| 0分| -  
+2| [安家](/huoche/zhan/anjia.htm)| 08:18| 08:27| 9分| -  
+3| [背荫河](/huoche/zhan/beiyinhe.htm)| 08:40| 08:50| 10分| -  
+4| [拉林](/huoche/zhan/lalin.htm)| 09:00| 09:02| 2分| -  
+5| [牛家](/huoche/zhan/niujia.htm)| 09:20| 09:26| 6分| -  
+6| [周家](/huoche/zhan/zhoujia.htm)| 09:43| 09:50| 7分| -  
+7| [平房](/huoche/zhan/pingfang2.htm)| 10:04| 10:07| 3分| -  
+8| [孙家](/huoche/zhan/sunjia.htm)| 10:35| 10:37| 2分| -  
+9| [哈尔滨东](/huoche/zhan/haerbindong.htm)| 10:50| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

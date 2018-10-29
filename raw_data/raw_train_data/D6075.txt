@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从济南开往荣成的D6075动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D6075 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 济南  
+发车时间 | 16:35  
+到站时间 | 21:06  
+全程时间 | 4小时31分  
+终点站 | 荣成  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [济南](/huoche/zhan/jinan.htm)| -| 16:35| 0分| -  
+2| [淄博](/huoche/zhan/zibo.htm)| 17:17| 17:20| 3分| -  
+3| [潍坊](/huoche/zhan/weifang.htm)| 17:55| 18:00| 5分| -  
+4| [高密](/huoche/zhan/gaomi.htm)| 18:27| 18:29| 2分| -  
+6| [莱西北](/huoche/zhan/laixibei.htm)| 19:14| 19:16| 2分| -  
+7| [莱阳](/huoche/zhan/laiyang.htm)| 19:27| 19:29| 2分| -  
+8| [海阳北](/huoche/zhan/haiyangbei.htm)| 19:43| 19:45| 2分| -  
+9| [烟台南](/huoche/zhan/yantainan.htm)| 20:08| 20:10| 2分| -  
+10| [威海北](/huoche/zhan/weihaibei.htm)| 20:33| 20:35| 2分| -  
+11| [威海](/huoche/zhan/weihai.htm)| 20:43| 20:45| 2分| -  
+12| [荣成](/huoche/zhan/rongcheng.htm)| 21:06| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

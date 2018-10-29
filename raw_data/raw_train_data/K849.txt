@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从保定开往上海的K849快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K849 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 保定  
+发车时间 | 14:35  
+到站时间 | 13:55  
+全程时间 | 23小时20分  
+终点站 | 上海  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [保定](/huoche/zhan/baoding.htm)| -| 14:35| 0分| -  
+2| [正定](/huoche/zhan/zhengding.htm)| 15:47| 15:49| 2分| -  
+3| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 16:06| 16:14| 8分| -  
+4| [邢台](/huoche/zhan/xingtai.htm)| 17:23| 17:25| 2分| -  
+5| [邯郸](/huoche/zhan/handan.htm)| 18:37| 18:49| 12分| -  
+6| [聊城](/huoche/zhan/liaocheng.htm)| 21:07| 21:30| 23分| -  
+7| [济南](/huoche/zhan/jinan.htm)| 23:38| 23:56| 18分| -  
+8| [泰山](/huoche/zhan/taishan.htm)| 01:11| 01:13| 2分| -  
+9| [徐州](/huoche/zhan/xuzhou.htm)| 04:44| 04:51| 7分| -  
+10| [蚌埠](/huoche/zhan/bengbu.htm)| 06:46| 06:52| 6分| -  
+11| [滁州北](/huoche/zhan/chuzhoubei.htm)| 08:14| 08:36| 22分| -  
+12| [南京](/huoche/zhan/nanjing.htm)| 09:38| 09:46| 8分| -  
+13| [镇江](/huoche/zhan/zhenjiang.htm)| 10:26| 10:45| 19分| -  
+14| [常州](/huoche/zhan/changzhou.htm)| 11:37| 11:47| 10分| -  
+15| [无锡](/huoche/zhan/wuxi.htm)| 12:14| 12:18| 4分| -  
+16| [苏州](/huoche/zhan/suzhou.htm)| 12:46| 12:50| 4分| -  
+17| [上海](/huoche/zhan/shanghai.htm)| 13:55| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

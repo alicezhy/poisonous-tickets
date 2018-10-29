@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从广州开往南宁东的D3680动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D3680 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 广州  
+发车时间 | 14:06  
+到站时间 | 18:13  
+全程时间 | 4小时7分  
+终点站 | 南宁东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [广州](/huoche/zhan/guangzhou.htm)| -| 14:06| 0分| -  
+2| [佛山西](/huoche/zhan/foshanxi.htm)| 14:28| 14:30| 2分| -  
+3| [三水南](/huoche/zhan/sanshuinan.htm)| 14:42| 14:49| 7分| -  
+4| [梧州南](/huoche/zhan/wuzhounan.htm)| 15:58| 16:02| 4分| -  
+5| [平南南](/huoche/zhan/pingnannan.htm)| 16:33| 16:35| 2分| -  
+6| [桂平](/huoche/zhan/guiping.htm)| 16:50| 16:52| 2分| -  
+7| [贵港](/huoche/zhan/guigang.htm)| 17:15| 17:17| 2分| -  
+8| [宾阳](/huoche/zhan/binyang.htm)| 17:39| 17:41| 2分| -  
+9| [南宁东](/huoche/zhan/nanningdong.htm)| 18:13| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

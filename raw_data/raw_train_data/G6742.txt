@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从邯郸东开往北京西的G6742高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G6742 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 邯郸东  
+发车时间 | 13:28  
+到站时间 | 16:14  
+全程时间 | 2小时46分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [邯郸东](/huoche/zhan/handandong.htm)| \----| 13:28| 0分| -  
+2| [邢台东](/huoche/zhan/xingtaidong.htm)| 13:44| 13:48| 4分| -  
+3| [高邑西](/huoche/zhan/gaoyixi.htm)| 14:06| 14:13| 7分| -  
+4| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 14:28| 14:31| 3分| -  
+5| [正定机场](/huoche/zhan/zhengdingjichang.htm)| 14:45| 14:47| 2分| -  
+6| [保定东](/huoche/zhan/baodingdong.htm)| 15:14| 15:16| 2分| -  
+7| [高碑店东](/huoche/zhan/gaobeidiandong.htm)| 15:32| 15:44| 12分| -  
+8| [北京西](/huoche/zhan/beijingxi.htm)| 16:14| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

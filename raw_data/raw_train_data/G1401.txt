@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南昌西开往广州南的G1401高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1401 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 南昌西  
+发车时间 | 07:27  
+到站时间 | 12:13  
+全程时间 | 4小时46分  
+终点站 | 广州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南昌西](/huoche/zhan/nanchangxi.htm)| \----| 07:27| 0分| -  
+2| [新余北](/huoche/zhan/xinyubei.htm)| 07:59| 08:01| 2分| -  
+3| [宜春](/huoche/zhan/yichun.htm)| 08:16| 08:18| 2分| -  
+4| [萍乡北](/huoche/zhan/pingxiangbei2.htm)| 08:36| 08:38| 2分| -  
+5| [长沙南](/huoche/zhan/changshanan.htm)| 09:12| 09:18| 6分| -  
+7| [衡山西](/huoche/zhan/hengshanxi.htm)| 09:47| 09:53| 6分| -  
+8| [衡阳东](/huoche/zhan/hengyangdong.htm)| 10:06| 10:08| 2分| -  
+9| [韶关](/huoche/zhan/shaoguan.htm)| 11:07| 11:09| 2分| -  
+10| [广州北](/huoche/zhan/guangzhoubei.htm)| 11:48| 11:50| 2分| -  
+11| [广州南](/huoche/zhan/guangzhounan.htm)| 12:13| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

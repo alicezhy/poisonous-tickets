@@ -1,0 +1,41 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从杭州东开往丽水的G7379高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7379 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 杭州东  
+发车时间 | 11:07  
+到站时间 | 12:59  
+全程时间 | 1小时52分  
+终点站 | 丽水  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [杭州东](/huoche/zhan/hangzhoudong.htm)| -| 11:07| 0分| -  
+2| [诸暨](/huoche/zhan/zhuji.htm)| 11:31| 11:33| 2分| -  
+3| [义乌](/huoche/zhan/yiwu.htm)| 11:47| 11:52| 5分| -  
+4| [金华南](/huoche/zhan/jinhuanan.htm)| 12:09| 12:11| 2分| -  
+5| [武义北](/huoche/zhan/wuyibei.htm)| 12:22| 12:24| 2分| -  
+6| [缙云西](/huoche/zhan/jinyunxi.htm)| 12:42| 12:45| 3分| -  
+7| [丽水](/huoche/zhan/lishui.htm)| 12:59| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

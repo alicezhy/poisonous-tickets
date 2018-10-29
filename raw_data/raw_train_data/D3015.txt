@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海虹桥开往汉口的D3015动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D3015 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 上海虹桥  
+发车时间 | 16:07  
+到站时间 | 21:35  
+全程时间 | 5小时28分  
+终点站 | 汉口  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| -| 16:07| 0分| -  
+2| [昆山南](/huoche/zhan/kunshannan.htm)| 16:26| 16:28| 2分| -  
+3| [苏州](/huoche/zhan/suzhou.htm)| 16:41| 16:43| 2分| -  
+4| [无锡](/huoche/zhan/wuxi.htm)| 16:59| 17:01| 2分| -  
+5| [常州](/huoche/zhan/changzhou.htm)| 17:16| 17:18| 2分| -  
+6| [丹阳](/huoche/zhan/danyang.htm)| 17:34| 17:36| 2分| -  
+7| [镇江](/huoche/zhan/zhenjiang.htm)| 17:48| 17:50| 2分| -  
+8| [南京南](/huoche/zhan/nanjingnan.htm)| 18:20| 18:26| 6分| -  
+9| [合肥南](/huoche/zhan/hefeinan.htm)| 19:19| 19:31| 12分| -  
+10| [六安](/huoche/zhan/liuan.htm)| 19:55| 19:57| 2分| -  
+11| [麻城北](/huoche/zhan/machengbei.htm)| 20:47| 20:49| 2分| -  
+12| [红安西](/huoche/zhan/honganxi.htm)| 21:03| 21:05| 2分| -  
+13| [汉口](/huoche/zhan/hankou.htm)| 21:35| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

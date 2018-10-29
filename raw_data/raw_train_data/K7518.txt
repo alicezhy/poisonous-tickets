@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从凌源开往大连的K7518快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7518 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 凌源  
+发车时间 | 16:22  
+到站时间 | 06:16  
+全程时间 | 13小时54分  
+终点站 | 大连  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [凌源](/huoche/zhan/lingyuan.htm)| \----| 16:22| 0分| -  
+2| [叶柏寿](/huoche/zhan/yebaishou.htm)| 17:08| 17:16| 8分| -  
+3| [公营子](/huoche/zhan/gongyingzi.htm)| 17:47| 17:49| 2分| -  
+4| [大平房](/huoche/zhan/dapingfang.htm)| 18:24| 18:26| 2分| -  
+5| [朝阳南](/huoche/zhan/chaoyangna.htm)| 18:56| 19:00| 4分| -  
+6| [北票南](/huoche/zhan/beipiaonan.htm)| 19:39| 19:41| 2分| -  
+7| [上园](/huoche/zhan/shangyuan.htm)| 19:59| 20:01| 2分| -  
+8| [义县西](/huoche/zhan/yixianxi.htm)| 20:23| 20:25| 2分| -  
+9| [清河门](/huoche/zhan/qinghemen.htm)| 21:16| 21:18| 2分| -  
+10| [阜新南](/huoche/zhan/fuxinnan.htm)| 22:00| 22:10| 10分| -  
+11| [阿金](/huoche/zhan/ajin.htm)| 22:26| 22:29| 3分| -  
+12| [新邱](/huoche/zhan/xinqiu.htm)| 22:38| 22:41| 3分| -  
+13| [新立屯](/huoche/zhan/xinlitun.htm)| 23:15| 23:20| 5分| -  
+14| [沈阳](/huoche/zhan/shenyang3.htm)| 00:52| 01:07| 15分| -  
+15| [辽阳](/huoche/zhan/liaoyang.htm)| 01:49| 01:52| 3分| -  
+16| [鞍山](/huoche/zhan/anshan.htm)| 02:10| 02:14| 4分| -  
+17| [海城](/huoche/zhan/haicheng.htm)| 02:39| 02:42| 3分| -  
+18| [大石桥](/huoche/zhan/dashiqiao.htm)| 03:11| 03:17| 6分| -  
+19| [熊岳城](/huoche/zhan/xiongyuecheng.htm)| 03:53| 03:56| 3分| -  
+20| [瓦房店](/huoche/zhan/wafangdian.htm)| 04:44| 04:47| 3分| -  
+21| [普兰店](/huoche/zhan/pulandian.htm)| 05:07| 05:09| 2分| -  
+22| [金州](/huoche/zhan/jinzhou3.htm)| 05:39| 05:42| 3分| -  
+23| [大连](/huoche/zhan/dalian.htm)| 06:16| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

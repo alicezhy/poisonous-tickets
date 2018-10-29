@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从常州开往宁波的G7583高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7583 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 常州  
+发车时间 | 13:20  
+到站时间 | 16:36  
+全程时间 | 3小时16分  
+终点站 | 宁波  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [常州](/huoche/zhan/changzhou.htm)| -| 13:20| 0分| -  
+2| [无锡](/huoche/zhan/wuxi.htm)| 13:34| 13:36| 2分| -  
+3| [苏州](/huoche/zhan/suzhou.htm)| 13:51| 13:53| 2分| -  
+4| [苏州园区](/huoche/zhan/suzhouyuanqu.htm)| 14:00| 14:10| 10分| -  
+5| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 14:37| 14:40| 3分| -  
+6| [嘉善南](/huoche/zhan/jiashannan.htm)| 15:04| 15:06| 2分| -  
+7| [桐乡](/huoche/zhan/tongxiang.htm)| 15:21| 15:23| 2分| -  
+8| [杭州东](/huoche/zhan/hangzhoudong.htm)| 15:40| 15:43| 3分| -  
+9| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 16:02| 16:04| 2分| -  
+10| [宁波](/huoche/zhan/ningbo.htm)| 16:36| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

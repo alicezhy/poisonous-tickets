@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从攀枝花开往成都的K9456快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K9456 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 攀枝花  
+发车时间 | 19:12  
+到站时间 | 09:35  
+全程时间 | 14小时23分  
+终点站 | 成都  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [攀枝花](/huoche/zhan/panzhihua.htm)| \----| 19:12| 0分| -  
+2| [桐子林](/huoche/zhan/tongzilin.htm)| 19:34| 19:39| 5分| -  
+3| [米易](/huoche/zhan/miyi.htm)| 20:09| 20:13| 4分| -  
+4| [永郎](/huoche/zhan/yonglang.htm)| 20:44| 20:48| 4分| -  
+5| [德昌](/huoche/zhan/dechang.htm)| 21:20| 21:23| 3分| -  
+6| [西昌](/huoche/zhan/xichang.htm)| 22:24| 22:29| 5分| -  
+7| [冕宁](/huoche/zhan/mianning.htm)| 23:17| 23:20| 3分| -  
+8| [普雄](/huoche/zhan/puxiong.htm)| 01:44| 01:52| 8分| -  
+9| [峨边](/huoche/zhan/ebian.htm)| 05:21| 05:28| 7分| -  
+10| [燕岗](/huoche/zhan/yangang.htm)| 06:40| 06:51| 11分| -  
+11| [眉山](/huoche/zhan/meishan.htm)| 07:50| 07:53| 3分| -  
+12| [成都](/huoche/zhan/chengdu.htm)| 09:35| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

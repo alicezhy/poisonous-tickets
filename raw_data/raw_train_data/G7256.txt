@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海开往合肥的G7256高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7256 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 上海  
+发车时间 | 17:33  
+到站时间 | 20:41  
+全程时间 | 3小时8分  
+终点站 | 合肥  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海](/huoche/zhan/shanghai.htm)| \----| 17:33| 0分| -  
+2| [安亭北](/huoche/zhan/antingbei.htm)| 17:47| 17:49| 2分| -  
+3| [昆山南](/huoche/zhan/kunshannan.htm)| 17:59| 18:01| 2分| -  
+4| [苏州](/huoche/zhan/suzhou.htm)| 18:13| 18:15| 2分| -  
+5| [无锡](/huoche/zhan/wuxi.htm)| 18:30| 18:32| 2分| -  
+6| [惠山](/huoche/zhan/huishan.htm)| 18:41| 18:43| 2分| -  
+7| [常州](/huoche/zhan/changzhou.htm)| 18:53| 18:55| 2分| -  
+8| [南京南](/huoche/zhan/nanjingnan.htm)| 19:42| 19:45| 3分| -  
+9| [合肥](/huoche/zhan/hefei.htm)| 20:41| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

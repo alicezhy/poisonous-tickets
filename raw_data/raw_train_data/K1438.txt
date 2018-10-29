@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从宁波开往漯河的K1438快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1438 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 宁波  
+发车时间 | 19:48  
+到站时间 | 14:48  
+全程时间 | 19小时0分  
+终点站 | 漯河  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [宁波](/huoche/zhan/ningbo.htm)| -| 19:48| 0分| -  
+2| [余姚](/huoche/zhan/yuyao.htm)| 20:27| 20:32| 5分| -  
+3| [绍兴](/huoche/zhan/shaoxing.htm)| 21:17| 21:21| 4分| -  
+4| [杭州](/huoche/zhan/hangzhou.htm)| 22:21| 22:36| 15分| -  
+5| [德清西](/huoche/zhan/deqingxi.htm)| 23:42| 23:45| 3分| -  
+6| [长兴南](/huoche/zhan/changxingnan.htm)| 00:32| 00:36| 4分| -  
+7| [宣城](/huoche/zhan/xuancheng.htm)| 02:05| 02:12| 7分| -  
+8| [芜湖](/huoche/zhan/wuhu.htm)| 03:10| 03:18| 8分| -  
+9| [巢湖](/huoche/zhan/chaohu.htm)| 05:03| 05:07| 4分| -  
+10| [合肥](/huoche/zhan/hefei.htm)| 06:17| 06:37| 20分| -  
+11| [淮南](/huoche/zhan/huainan.htm)| 08:10| 08:28| 18分| -  
+12| [阜阳](/huoche/zhan/fuyang.htm)| 10:43| 11:06| 23分| -  
+13| [太和北](/huoche/zhan/taihebei.htm)| 11:53| 11:58| 5分| -  
+14| [界首市](/huoche/zhan/jieshoushi.htm)| 12:17| 12:22| 5分| -  
+15| [沈丘](/huoche/zhan/shenqiu.htm)| 12:46| 12:51| 5分| -  
+16| [项城](/huoche/zhan/xiangcheng.htm)| 13:10| 13:15| 5分| -  
+17| [周口](/huoche/zhan/zhoukou.htm)| 13:41| 13:56| 15分| -  
+18| [漯河](/huoche/zhan/luohe.htm)| 14:48| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从汉口开往南通的D3158动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D3158 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 汉口  
+发车时间 | 10:29  
+到站时间 | 15:45  
+全程时间 | 5小时16分  
+终点站 | 南通  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [汉口](/huoche/zhan/hankou.htm)| -| 10:29| 0分| -  
+2| [红安西](/huoche/zhan/honganxi.htm)| 10:58| 11:00| 2分| -  
+3| [金寨](/huoche/zhan/jinzhai.htm)| 11:41| 11:43| 2分| -  
+4| [六安](/huoche/zhan/liuan.htm)| 12:01| 12:03| 2分| -  
+5| [合肥南](/huoche/zhan/hefeinan.htm)| 12:27| 12:34| 7分| -  
+6| [全椒](/huoche/zhan/quanjiao.htm)| 13:09| 13:11| 2分| -  
+7| [扬州](/huoche/zhan/yangzhou.htm)| 14:03| 14:06| 3分| -  
+8| [泰州](/huoche/zhan/taizhou.htm)| 14:37| 14:39| 2分| -  
+9| [海安县](/huoche/zhan/haianxian.htm)| 15:04| 15:06| 2分| -  
+10| [如皋](/huoche/zhan/rugao.htm)| 15:17| 15:19| 2分| -  
+11| [南通](/huoche/zhan/nantong.htm)| 15:45| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

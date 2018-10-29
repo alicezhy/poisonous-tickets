@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从兰州西开往北京西的K4238快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K4238 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 兰州西  
+发车时间 | 07:50  
+到站时间 | 13:16  
+全程时间 | 29小时26分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [兰州西](/huoche/zhan/lanzhouxi.htm)| \----| 07:50| 0分| -  
+2| [兰州](/huoche/zhan/lanzhou.htm)| 08:02| 08:17| 15分| -  
+3| [定西](/huoche/zhan/dingxi.htm)| 09:33| 09:38| 5分| -  
+4| [陇西](/huoche/zhan/longxi.htm)| 10:31| 10:36| 5分| -  
+5| [武山](/huoche/zhan/wushan.htm)| 11:01| 11:04| 3分| -  
+6| [甘谷](/huoche/zhan/gangu.htm)| 11:36| 11:39| 3分| -  
+7| [天水](/huoche/zhan/tianshui.htm)| 12:53| 13:01| 8分| -  
+8| [宝鸡](/huoche/zhan/baoji.htm)| 15:40| 15:46| 6分| -  
+9| [蔡家坡](/huoche/zhan/caijiapo.htm)| 16:16| 16:18| 2分| -  
+10| [武功](/huoche/zhan/wugong.htm)| 16:56| 16:58| 2分| -  
+11| [咸阳](/huoche/zhan/xianyang.htm)| 17:36| 17:39| 3分| -  
+12| [西安](/huoche/zhan/xian.htm)| 18:03| 18:13| 10分| -  
+13| [渭南](/huoche/zhan/weinan.htm)| 18:52| 18:55| 3分| -  
+14| [洛阳](/huoche/zhan/luoyang.htm)| 00:45| 01:04| 19分| -  
+15| [郑州](/huoche/zhan/zhengzhou.htm)| 03:10| 03:28| 18分| -  
+16| [新乡](/huoche/zhan/xinxiang2.htm)| 05:15| 05:25| 10分| -  
+17| [邯郸](/huoche/zhan/handan.htm)| 07:04| 07:10| 6分| -  
+18| [邢台](/huoche/zhan/xingtai.htm)| 07:41| 07:49| 8分| -  
+19| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 09:00| 09:12| 12分| -  
+20| [保定](/huoche/zhan/baoding.htm)| 10:32| 10:48| 16分| -  
+21| [高碑店](/huoche/zhan/gaobeidian.htm)| 11:40| 12:00| 20分| -  
+22| [涿州](/huoche/zhan/zhuozhou.htm)| 12:18| 12:23| 5分| -  
+23| [北京西](/huoche/zhan/beijingxi.htm)| 13:16| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从贵阳开往广州的K843快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K843 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 贵阳  
+发车时间 | 16:26  
+到站时间 | 12:40  
+全程时间 | 20小时14分  
+终点站 | 广州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [贵阳](/huoche/zhan/guiyang.htm)| \----| 16:26| 0分| -  
+2| [贵定南](/huoche/zhan/guidingnan.htm)| 17:10| 17:15| 5分| -  
+3| [都匀](/huoche/zhan/duyun.htm)| 17:45| 17:49| 4分| -  
+4| [独山](/huoche/zhan/dushan.htm)| 18:28| 18:33| 5分| -  
+5| [麻尾](/huoche/zhan/mawei.htm)| 19:30| 19:36| 6分| -  
+6| [南丹](/huoche/zhan/nandan.htm)| 20:09| 20:14| 5分| -  
+7| [金城江](/huoche/zhan/jinchengjiang.htm)| 21:02| 21:10| 8分| -  
+8| [宜州](/huoche/zhan/yizhou.htm)| 21:59| 22:03| 4分| -  
+9| [柳州](/huoche/zhan/liuzhou.htm)| 23:30| 23:47| 17分| -  
+10| [贵港](/huoche/zhan/guigang.htm)| 02:02| 02:07| 5分| -  
+11| [玉林](/huoche/zhan/yulin.htm)| 03:22| 03:34| 12分| -  
+12| [茂名西](/huoche/zhan/maomingxi.htm)| 06:10| 06:30| 20分| -  
+13| [肇庆](/huoche/zhan/zhaoqing.htm)| 10:00| 10:05| 5分| -  
+14| [佛山](/huoche/zhan/foshan.htm)| 11:34| 11:42| 8分| -  
+15| [广州](/huoche/zhan/guangzhou.htm)| 12:40| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

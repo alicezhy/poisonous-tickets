@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从宜昌东开往西安的K625快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K625 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 宜昌东  
+发车时间 | 19:40  
+到站时间 | 07:10  
+全程时间 | 11小时30分  
+终点站 | 西安  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [宜昌东](/huoche/zhan/yichangdong.htm)| \----| 19:40| 0分| -  
+2| [当阳](/huoche/zhan/dangyang.htm)| 20:21| 20:24| 3分| -  
+3| [荆门](/huoche/zhan/jingmen.htm)| 21:01| 21:06| 5分| -  
+4| [襄阳](/huoche/zhan/xiangyang2.htm)| 22:29| 22:56| 27分| -  
+5| [谷城](/huoche/zhan/gucheng.htm)| 23:52| 23:55| 3分| -  
+6| [十堰](/huoche/zhan/shiyan.htm)| 00:57| 01:01| 4分| -  
+7| [白河东](/huoche/zhan/baihedong.htm)| 02:02| 02:05| 3分| -  
+8| [安康](/huoche/zhan/ankang.htm)| 03:27| 03:44| 17分| -  
+9| [西安南](/huoche/zhan/xiannan.htm)| 06:16| 06:24| 8分| -  
+10| [西安](/huoche/zhan/xian.htm)| 07:10| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

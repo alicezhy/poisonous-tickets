@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从西安开往南昌的K792快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K792 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 西安  
+发车时间 | 15:36  
+到站时间 | 09:20  
+全程时间 | 17小时44分  
+终点站 | 南昌  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [西安](/huoche/zhan/xian.htm)| -| 15:36| 0分| -  
+2| [商洛](/huoche/zhan/shangluo.htm)| 17:52| 17:55| 3分| -  
+3| [丹凤](/huoche/zhan/danfeng.htm)| 18:26| 18:29| 3分| -  
+4| [商南](/huoche/zhan/shangnan.htm)| 19:20| 19:25| 5分| -  
+5| [西峡](/huoche/zhan/xixia2.htm)| 20:12| 20:17| 5分| -  
+6| [内乡](/huoche/zhan/naxiang.htm)| 20:45| 20:49| 4分| -  
+7| [镇平](/huoche/zhan/zhenping.htm)| 21:11| 21:16| 5分| -  
+8| [唐河](/huoche/zhan/tanghe2.htm)| 22:39| 22:43| 4分| -  
+10| [麻城](/huoche/zhan/macheng.htm)| 03:56| 04:04| 8分| -  
+11| [黄州](/huoche/zhan/huangzhou.htm)| 04:44| 05:01| 17分| -  
+12| [浠水](/huoche/zhan/xishui.htm)| 05:25| 06:00| 35分| -  
+13| [蕲春](/huoche/zhan/qinchun.htm)| 06:23| 06:27| 4分| -  
+14| [武穴](/huoche/zhan/wuxue.htm)| 06:55| 07:08| 13分| -  
+15| [九江](/huoche/zhan/jiujiang.htm)| 07:48| 07:52| 4分| -  
+16| [南昌](/huoche/zhan/nanchang.htm)| 09:20| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

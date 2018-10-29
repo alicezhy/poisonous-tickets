@@ -1,0 +1,58 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南宁开往南京的K1192快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1192 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 南宁  
+发车时间 | 15:08  
+到站时间 | 18:29  
+全程时间 | 27小时21分  
+终点站 | 南京  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南宁](/huoche/zhan/nanning.htm)| -| 15:08| 0分| -  
+2| [黎塘](/huoche/zhan/litang.htm)| 16:36| 16:44| 8分| -  
+3| [来宾](/huoche/zhan/laibin.htm)| 17:28| 17:33| 5分| -  
+4| [柳州](/huoche/zhan/liuzhou.htm)| 18:25| 18:33| 8分| -  
+5| [桂林北](/huoche/zhan/guilinbei.htm)| 20:53| 21:07| 14分| -  
+6| [全州南](/huoche/zhan/quanzhounan.htm)| 22:13| 22:28| 15分| -  
+7| [永州](/huoche/zhan/yongzhou.htm)| 23:35| 23:43| 8分| -  
+8| [衡阳](/huoche/zhan/hengyang.htm)| 01:43| 02:03| 20分| -  
+9| [株洲](/huoche/zhan/zhuzhou.htm)| 03:40| 04:05| 25分| -  
+10| [萍乡](/huoche/zhan/pingxiang.htm)| 05:02| 05:08| 6分| -  
+11| [宜春](/huoche/zhan/yichun.htm)| 05:51| 05:55| 4分| -  
+12| [新余](/huoche/zhan/xinyu.htm)| 06:30| 06:34| 4分| -  
+13| [樟树](/huoche/zhan/zhangshu.htm)| 07:21| 07:25| 4分| -  
+14| [丰城](/huoche/zhan/fengcheng.htm)| 07:42| 07:46| 4分| -  
+15| [向塘](/huoche/zhan/xiangtang.htm)| 08:44| 09:05| 21分| -  
+16| [南昌](/huoche/zhan/nanchang.htm)| 09:27| 09:35| 8分| -  
+17| [九江](/huoche/zhan/jiujiang.htm)| 10:52| 10:58| 6分| -  
+18| [彭泽](/huoche/zhan/pengze.htm)| 11:50| 11:52| 2分| -  
+19| [东至](/huoche/zhan/dongzhi.htm)| 12:47| 12:50| 3分| -  
+20| [池州](/huoche/zhan/chizhou.htm)| 13:39| 13:42| 3分| -  
+21| [铜陵](/huoche/zhan/tongling2.htm)| 14:32| 14:35| 3分| -  
+22| [芜湖](/huoche/zhan/wuhu.htm)| 15:58| 16:04| 6分| -  
+23| [马鞍山](/huoche/zhan/maanshan.htm)| 16:44| 16:50| 6分| -  
+24| [南京](/huoche/zhan/nanjing.htm)| 18:29| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

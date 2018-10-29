@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从深圳北开往厦门北的D960动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D960 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 深圳北  
+发车时间 | 09:02  
+到站时间 | 12:51  
+全程时间 | 3小时49分  
+终点站 | 厦门北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [深圳北](/huoche/zhan/shenzhenbei.htm)| \----| 09:02| 0分| -  
+2| [深圳坪山](/huoche/zhan/shenzhenpingshan.htm)| 09:23| 09:25| 2分| -  
+3| [惠州南](/huoche/zhan/huizhounan.htm)| 09:35| 09:37| 2分| -  
+4| [惠东](/huoche/zhan/huidong.htm)| 09:51| 09:53| 2分| -  
+5| [陆丰](/huoche/zhan/lufeng2.htm)| 10:30| 10:32| 2分| -  
+6| [潮汕](/huoche/zhan/chaoshan.htm)| 11:20| 11:23| 3分| -  
+7| [诏安](/huoche/zhan/zhaoan.htm)| 11:45| 11:48| 3分| -  
+8| [漳浦](/huoche/zhan/zhangpu.htm)| 12:12| 12:15| 3分| -  
+9| [厦门北](/huoche/zhan/xiamenbei.htm)| 12:51| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从广州南开往贵阳北的D2830动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D2830 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 广州南  
+发车时间 | 15:03  
+到站时间 | 20:30  
+全程时间 | 5小时27分  
+终点站 | 贵阳北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [广州南](/huoche/zhan/guangzhounan.htm)| -| 15:03| 0分| -  
+2| [佛山西](/huoche/zhan/foshanxi.htm)| 15:22| 15:24| 2分| -  
+3| [肇庆东](/huoche/zhan/zhaoqingdong.htm)| 15:44| 15:46| 2分| -  
+4| [贺州](/huoche/zhan/hezhou.htm)| 16:40| 16:42| 2分| -  
+5| [阳朔](/huoche/zhan/yangshuo.htm)| 17:19| 17:21| 2分| -  
+6| [桂林西](/huoche/zhan/guilinxi.htm)| 17:45| 17:49| 4分| -  
+7| [榕江](/huoche/zhan/rongjiang.htm)| 18:54| 18:56| 2分| -  
+8| [都匀东](/huoche/zhan/duyundong.htm)| 19:27| 19:43| 16分| -  
+9| [贵阳北](/huoche/zhan/guiyangbei.htm)| 20:30| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从广州南开往兰州西的G844高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G844 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 广州南  
+发车时间 | 12:30  
+到站时间 | 23:51  
+全程时间 | 11小时21分  
+终点站 | 兰州西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [广州南](/huoche/zhan/guangzhounan.htm)| -| 12:30| 0分| -  
+2| [韶关](/huoche/zhan/shaoguan.htm)| 13:21| 13:23| 2分| -  
+3| [耒阳西](/huoche/zhan/leiyangxi.htm)| 14:10| 14:12| 2分| -  
+4| [株洲西](/huoche/zhan/zhuzhouxi.htm)| 14:51| 14:53| 2分| -  
+5| [长沙南](/huoche/zhan/changshanan.htm)| 15:13| 15:17| 4分| -  
+6| [岳阳东](/huoche/zhan/yueyangdong.htm)| 15:50| 15:53| 3分| -  
+7| [武汉](/huoche/zhan/wuhan.htm)| 16:43| 16:51| 8分| -  
+8| [信阳东](/huoche/zhan/xinyangdong.htm)| 17:35| 17:37| 2分| -  
+9| [驻马店西](/huoche/zhan/zhumadianxi.htm)| 18:02| 18:04| 2分| -  
+10| [许昌东](/huoche/zhan/xuchangdong.htm)| 18:36| 18:38| 2分| -  
+11| [郑州](/huoche/zhan/zhengzhou.htm)| 19:13| 19:16| 3分| -  
+12| [西安北](/huoche/zhan/xianbei.htm)| 21:06| 21:12| 6分| -  
+13| [兰州西](/huoche/zhan/lanzhouxi.htm)| 23:51| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

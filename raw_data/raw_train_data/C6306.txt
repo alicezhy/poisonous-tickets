@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从峨眉山开往江油的C6306城际高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | C6306 |  
+---|---|---|---  
+车型 | 城际高铁  
+始发站 | 峨眉山  
+发车时间 | 11:30  
+到站时间 | 14:31  
+全程时间 | 3小时1分  
+终点站 | 江油  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [峨眉山](/huoche/zhan/emeishan.htm)| -| 11:30| 0分| -  
+2| [乐山](/huoche/zhan/leshan.htm)| 11:46| 11:48| 2分| -  
+3| [青神](/huoche/zhan/qingshen.htm)| 12:01| 12:03| 2分| -  
+4| [彭山北](/huoche/zhan/pengshanbei.htm)| 12:18| 12:20| 2分| -  
+5| [新津南](/huoche/zhan/xinjinnan.htm)| 12:28| 12:31| 3分| -  
+6| [双流机场](/huoche/zhan/shuangliujichang.htm)| 12:44| 12:47| 3分| -  
+7| [成都南](/huoche/zhan/chengdunan.htm)| 12:57| 13:01| 4分| -  
+8| [成都东](/huoche/zhan/chengdudong.htm)| 13:10| 13:21| 11分| -  
+9| [青白江东](/huoche/zhan/qingbaijiangdong.htm)| 13:36| 13:39| 3分| -  
+10| [德阳](/huoche/zhan/deyang.htm)| 13:52| 13:54| 2分| -  
+11| [绵阳](/huoche/zhan/mianyang.htm)| 14:11| 14:14| 3分| -  
+12| [江油](/huoche/zhan/jiangyou.htm)| 14:31| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

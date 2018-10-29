@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从广州南开往信阳东的G552高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G552 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 广州南  
+发车时间 | 09:33  
+到站时间 | 14:53  
+全程时间 | 5小时20分  
+终点站 | 信阳东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [广州南](/huoche/zhan/guangzhounan.htm)| -| 09:33| 0分| -  
+2| [广州北](/huoche/zhan/guangzhoubei.htm)| 09:50| 09:52| 2分| -  
+3| [韶关](/huoche/zhan/shaoguan.htm)| 10:31| 10:33| 2分| -  
+4| [郴州西](/huoche/zhan/chenzhouxi.htm)| 11:04| 11:06| 2分| -  
+5| [株洲西](/huoche/zhan/zhuzhouxi.htm)| 12:01| 12:06| 5分| -  
+6| [长沙南](/huoche/zhan/changshanan.htm)| 12:26| 12:30| 4分| -  
+7| [岳阳东](/huoche/zhan/yueyangdong.htm)| 13:03| 13:05| 2分| -  
+8| [武汉](/huoche/zhan/wuhan.htm)| 13:55| 13:59| 4分| -  
+9| [孝感北](/huoche/zhan/xiaoganbei.htm)| 14:29| 14:35| 6分| -  
+10| [信阳东](/huoche/zhan/xinyangdong.htm)| 14:53| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

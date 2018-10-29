@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京西开往贵阳北的G401高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G401 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 北京西  
+发车时间 | 11:43  
+到站时间 | 22:30  
+全程时间 | 10小时47分  
+终点站 | 贵阳北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京西](/huoche/zhan/beijingxi.htm)| \----| 11:43| 0分| -  
+2| [保定东](/huoche/zhan/baodingdong.htm)| 12:24| 12:26| 2分| -  
+3| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 13:02| 13:08| 6分| -  
+4| [邯郸东](/huoche/zhan/handandong.htm)| 13:47| 13:49| 2分| -  
+5| [鹤壁东](/huoche/zhan/hebidong.htm)| 14:16| 14:18| 2分| -  
+6| [新乡东](/huoche/zhan/xinxiangdong.htm)| 14:34| 14:36| 2分| -  
+7| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 14:57| 15:05| 8分| -  
+8| [驻马店西](/huoche/zhan/zhumadianxi.htm)| 15:56| 15:58| 2分| -  
+9| [信阳东](/huoche/zhan/xinyangdong.htm)| 16:23| 16:25| 2分| -  
+10| [武汉](/huoche/zhan/wuhan.htm)| 17:09| 17:17| 8分| -  
+11| [咸宁北](/huoche/zhan/xianningbei.htm)| 17:41| 17:46| 5分| -  
+12| [长沙南](/huoche/zhan/changshanan.htm)| 18:46| 18:50| 4分| -  
+13| [湘潭北](/huoche/zhan/xiangtanbei.htm)| 19:04| 19:06| 2分| -  
+14| [娄底南](/huoche/zhan/loudinan.htm)| 19:32| 19:34| 2分| -  
+15| [邵阳北](/huoche/zhan/shaoyangbei.htm)| 19:50| 19:52| 2分| -  
+16| [怀化南](/huoche/zhan/huaihuanan.htm)| 20:33| 20:36| 3分| -  
+17| [芷江](/huoche/zhan/zhijiang2.htm)| 20:48| 20:50| 2分| -  
+18| [铜仁南](/huoche/zhan/tongrennan.htm)| 21:11| 21:13| 2分| -  
+19| [凯里南](/huoche/zhan/kailinan.htm)| 21:49| 21:51| 2分| -  
+20| [贵阳北](/huoche/zhan/guiyangbei.htm)| 22:30| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

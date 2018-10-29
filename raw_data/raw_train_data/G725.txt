@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从大连北开往哈尔滨西的G725高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G725 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 大连北  
+发车时间 | 15:34  
+到站时间 | 20:13  
+全程时间 | 4小时39分  
+终点站 | 哈尔滨西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [大连北](/huoche/zhan/dalianbei.htm)| -| 15:34| 0分| -  
+2| [普湾](/huoche/zhan/puwan.htm)| 15:52| 15:54| 2分| -  
+3| [鲅鱼圈](/huoche/zhan/bayuquan.htm)| 16:21| 16:23| 2分| -  
+4| [鞍山西](/huoche/zhan/anshanxi.htm)| 16:56| 16:58| 2分| -  
+5| [沈阳](/huoche/zhan/shenyang3.htm)| 17:28| 17:31| 3分| -  
+6| [沈阳北](/huoche/zhan/shenyangbei.htm)| 17:39| 17:41| 2分| -  
+7| [铁岭西](/huoche/zhan/tielingxi.htm)| 17:59| 18:01| 2分| -  
+8| [昌图西](/huoche/zhan/changtuxi.htm)| 18:21| 18:22| 1分| -  
+9| [长春西](/huoche/zhan/changchunxi.htm)| 18:59| 19:01| 2分| -  
+10| [德惠西](/huoche/zhan/dehuixi.htm)| 19:25| 19:27| 2分| -  
+11| [双城北](/huoche/zhan/shuangchengbei.htm)| 19:55| 19:57| 2分| -  
+12| [哈尔滨西](/huoche/zhan/haerbinxi.htm)| 20:13| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海开往哈尔滨西的Z172直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z172 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 上海  
+发车时间 | 19:04  
+到站时间 | 18:38  
+全程时间 | 23小时34分  
+终点站 | 哈尔滨西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海](/huoche/zhan/shanghai.htm)| -| 19:04| 0分| -  
+2| [苏州](/huoche/zhan/suzhou.htm)| 19:49| 19:52| 3分| -  
+3| [无锡](/huoche/zhan/wuxi.htm)| 20:27| 20:30| 3分| -  
+4| [常州](/huoche/zhan/changzhou.htm)| 20:51| 20:54| 3分| -  
+5| [南京](/huoche/zhan/nanjing.htm)| 22:01| 22:18| 17分| -  
+6| [蚌埠](/huoche/zhan/bengbu.htm)| 23:50| 00:01| 11分| -  
+7| [徐州](/huoche/zhan/xuzhou.htm)| 01:20| 01:26| 6分| -  
+8| [德州](/huoche/zhan/dezhou.htm)| 05:06| 05:09| 3分| -  
+9| [沧州](/huoche/zhan/cangzhou.htm)| 05:59| 06:02| 3分| -  
+10| [天津](/huoche/zhan/tianjin.htm)| 07:19| 07:25| 6分| -  
+11| [唐山](/huoche/zhan/tangshan.htm)| 08:39| 08:42| 3分| -  
+12| [北戴河](/huoche/zhan/beidaihe.htm)| 09:59| 10:15| 16分| -  
+13| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 10:33| 10:36| 3分| -  
+14| [山海关](/huoche/zhan/shanhaiguan.htm)| 10:58| 11:04| 6分| -  
+15| [锦州南](/huoche/zhan/jinzhounan.htm)| 12:13| 12:22| 9分| -  
+16| [沈阳北](/huoche/zhan/shenyangbei.htm)| 14:05| 14:11| 6分| -  
+17| [四平](/huoche/zhan/siping.htm)| 15:41| 15:43| 2分| -  
+18| [长春](/huoche/zhan/changchun.htm)| 16:41| 16:48| 7分| -  
+19| [哈尔滨西](/huoche/zhan/haerbinxi.htm)| 18:38| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

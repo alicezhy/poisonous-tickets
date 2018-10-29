@@ -1,0 +1,62 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从温州开往北京的K102快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K102 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 温州  
+发车时间 | 12:00  
+到站时间 | 15:43  
+全程时间 | 27小时43分  
+终点站 | 北京  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [温州](/huoche/zhan/wenzhou.htm)| \----| 12:00| 0分| -  
+2| [青田](/huoche/zhan/qingtian.htm)| 12:54| 12:58| 4分| -  
+3| [丽水](/huoche/zhan/lishui.htm)| 14:15| 14:18| 3分| -  
+4| [缙云](/huoche/zhan/jinyun.htm)| 14:50| 14:52| 2分| -  
+5| [永康](/huoche/zhan/yongkang.htm)| 15:23| 15:26| 3分| -  
+6| [武义](/huoche/zhan/wuyi2.htm)| 15:46| 15:49| 3分| -  
+7| [金华南](/huoche/zhan/jinhuanan.htm)| 16:14| 16:46| 32分| -  
+8| [义乌](/huoche/zhan/yiwu.htm)| 17:30| 17:33| 3分| -  
+9| [诸暨](/huoche/zhan/zhuji.htm)| 18:01| 18:04| 3分| -  
+10| [杭州](/huoche/zhan/hangzhou.htm)| 19:10| 19:23| 13分| -  
+11| [德清西](/huoche/zhan/deqingxi.htm)| 20:01| 20:06| 5分| -  
+12| [长兴南](/huoche/zhan/changxingnan.htm)| 20:46| 20:51| 5分| -  
+13| [宣城](/huoche/zhan/xuancheng.htm)| 22:07| 22:12| 5分| -  
+14| [芜湖](/huoche/zhan/wuhu.htm)| 23:09| 23:15| 6分| -  
+15| [马鞍山](/huoche/zhan/maanshan.htm)| 23:56| 23:59| 3分| -  
+16| [南京](/huoche/zhan/nanjing.htm)| 01:00| 01:11| 11分| -  
+17| [徐州](/huoche/zhan/xuzhou.htm)| 05:01| 05:24| 23分| -  
+18| [兖州](/huoche/zhan/yanzhou.htm)| 07:11| 07:14| 3分| -  
+19| [泰山](/huoche/zhan/taishan.htm)| 08:10| 08:14| 4分| -  
+20| [济南](/huoche/zhan/jinan.htm)| 09:12| 09:33| 21分| -  
+21| [禹城](/huoche/zhan/yucheng.htm)| 10:13| 10:16| 3分| -  
+22| [德州](/huoche/zhan/dezhou.htm)| 11:09| 11:12| 3分| -  
+23| [吴桥](/huoche/zhan/wuqiao.htm)| 11:28| 11:30| 2分| -  
+24| [沧州](/huoche/zhan/cangzhou.htm)| 12:22| 12:28| 6分| -  
+25| [青县](/huoche/zhan/qingxian.htm)| 12:48| 12:50| 2分| -  
+26| [天津西](/huoche/zhan/tianjinxi.htm)| 13:52| 13:54| 2分| -  
+27| [廊坊北](/huoche/zhan/langfangbei.htm)| 14:35| 14:45| 10分| -  
+28| [北京](/huoche/zhan/beijing.htm)| 15:43| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

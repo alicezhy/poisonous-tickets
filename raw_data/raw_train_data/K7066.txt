@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从抚远开往哈尔滨东的K7066快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7066 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 抚远  
+发车时间 | 17:37  
+到站时间 | 06:53  
+全程时间 | 13小时16分  
+终点站 | 哈尔滨东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [抚远](/huoche/zhan/fuyuan2.htm)| \----| 17:37| 0分| -  
+2| [寒葱沟](/huoche/zhan/hanconggou.htm)| 18:23| 18:26| 3分| -  
+3| [东二道河](/huoche/zhan/dongerdaohe.htm)| 18:49| 18:52| 3分| -  
+4| [前锋](/huoche/zhan/qianfeng.htm)| 19:08| 19:11| 3分| -  
+5| [洪河](/huoche/zhan/honghe.htm)| 19:34| 19:37| 3分| -  
+6| [前进镇](/huoche/zhan/qianjinzhen.htm)| 20:02| 20:08| 6分| -  
+7| [换新天](/huoche/zhan/huanxintian.htm)| 20:24| 20:32| 8分| -  
+8| [建三江](/huoche/zhan/jiansanjiang.htm)| 20:55| 20:58| 3分| -  
+9| [富锦](/huoche/zhan/fujin2.htm)| 21:32| 21:38| 6分| -  
+10| [佳木斯](/huoche/zhan/jiamusi.htm)| 23:57| 00:17| 20分| -  
+11| [南岔](/huoche/zhan/nancha2.htm)| 02:08| 02:14| 6分| -  
+12| [朗乡](/huoche/zhan/langxiang.htm)| 02:50| 03:07| 17分| -  
+13| [双丰](/huoche/zhan/shuangfeng.htm)| 04:17| 04:21| 4分| -  
+14| [庆安](/huoche/zhan/qingan.htm)| 04:38| 04:42| 4分| -  
+15| [绥化](/huoche/zhan/suihua.htm)| 05:25| 05:28| 3分| -  
+16| [兴隆镇](/huoche/zhan/xinglongzhen.htm)| 05:47| 05:49| 2分| -  
+17| [呼兰](/huoche/zhan/hulan.htm)| 06:27| 06:29| 2分| -  
+18| [哈尔滨东](/huoche/zhan/haerbindong.htm)| 06:53| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

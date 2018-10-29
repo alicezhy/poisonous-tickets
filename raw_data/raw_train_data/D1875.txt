@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从重庆西开往广州南的D1875动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D1875 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 重庆西  
+发车时间 | 14:48  
+到站时间 | 22:09  
+全程时间 | 7小时21分  
+终点站 | 广州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [重庆西](/huoche/zhan/chongqingxi.htm)| -| 14:48| 0分| -  
+2| [綦江东](/huoche/zhan/qijiangdong.htm)| 15:14| 15:16| 2分| -  
+3| [娄山关南](/huoche/zhan/loushanguannan.htm)| 16:02| 16:05| 3分| -  
+4| [贵阳东](/huoche/zhan/guiyangdong.htm)| 17:05| 17:09| 4分| -  
+5| [龙里北](/huoche/zhan/longlibei.htm)| 17:27| 17:29| 2分| -  
+6| [从江](/huoche/zhan/congjiang.htm)| 18:36| 18:38| 2分| -  
+7| [桂林西](/huoche/zhan/guilinxi.htm)| 19:25| 19:29| 4分| -  
+8| [阳朔](/huoche/zhan/yangshuo.htm)| 19:53| 20:00| 7分| -  
+9| [贺州](/huoche/zhan/hezhou.htm)| 20:38| 20:41| 3分| -  
+10| [广州南](/huoche/zhan/guangzhounan.htm)| 22:09| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

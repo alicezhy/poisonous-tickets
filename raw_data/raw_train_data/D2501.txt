@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从太原南开往西安北的D2501动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D2501 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 太原南  
+发车时间 | 07:00  
+到站时间 | 10:25  
+全程时间 | 3小时25分  
+终点站 | 西安北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [太原南](/huoche/zhan/taiyuannan.htm)| \----| 07:00| 0分| -  
+2| [灵石东](/huoche/zhan/lingshidong.htm)| 07:41| 07:43| 2分| -  
+3| [临汾西](/huoche/zhan/linfenxi.htm)| 08:17| 08:19| 2分| -  
+4| [侯马西](/huoche/zhan/houmaxi.htm)| 08:39| 08:41| 2分| -  
+5| [运城北](/huoche/zhan/yunchengbei.htm)| 09:04| 09:06| 2分| -  
+6| [永济北](/huoche/zhan/yongjibei.htm)| 09:25| 09:27| 2分| -  
+7| [大荔](/huoche/zhan/dali3.htm)| 09:46| 09:48| 2分| -  
+8| [西安北](/huoche/zhan/xianbei.htm)| 10:25| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

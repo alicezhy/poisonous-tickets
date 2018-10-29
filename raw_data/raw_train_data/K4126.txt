@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从赤峰开往北京的K4126快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K4126 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 赤峰  
+发车时间 | 07:28  
+到站时间 | 19:12  
+全程时间 | 11小时44分  
+终点站 | 北京  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [赤峰](/huoche/zhan/chifeng.htm)| \----| 07:28| 0分| -  
+2| [朝阳地](/huoche/zhan/chaoyangdi.htm)| 08:57| 08:59| 2分| -  
+3| [纪家沟](/huoche/zhan/jijiagou.htm)| 09:18| 09:20| 2分| -  
+4| [四合永](/huoche/zhan/siheyong.htm)| 09:55| 09:57| 2分| -  
+5| [隆化](/huoche/zhan/longhua2.htm)| 10:55| 11:10| 15分| -  
+6| [滦平](/huoche/zhan/luanping.htm)| 12:22| 12:31| 9分| -  
+7| [顺义](/huoche/zhan/shunyi.htm)| 17:36| 18:11| 35分| -  
+8| [北京](/huoche/zhan/beijing.htm)| 19:12| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

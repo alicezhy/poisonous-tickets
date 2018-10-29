@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从温州开往阜阳的K8403快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K8403 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 温州  
+发车时间 | 11:20  
+到站时间 | 06:50  
+全程时间 | 19小时30分  
+终点站 | 阜阳  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [温州](/huoche/zhan/wenzhou.htm)| \----| 11:20| 0分| -  
+2| [丽水](/huoche/zhan/lishui.htm)| 13:18| 13:25| 7分| -  
+3| [缙云](/huoche/zhan/jinyun.htm)| 14:06| 14:08| 2分| -  
+4| [永康](/huoche/zhan/yongkang.htm)| 14:39| 14:42| 3分| -  
+5| [武义](/huoche/zhan/wuyi2.htm)| 15:02| 15:05| 3分| -  
+6| [金华南](/huoche/zhan/jinhuanan.htm)| 15:30| 16:02| 32分| -  
+7| [义乌](/huoche/zhan/yiwu.htm)| 16:42| 16:45| 3分| -  
+8| [杭州](/huoche/zhan/hangzhou.htm)| 18:18| 18:31| 13分| -  
+9| [海宁](/huoche/zhan/haining.htm)| 19:12| 19:15| 3分| -  
+10| [嘉兴](/huoche/zhan/jiaxing.htm)| 19:39| 19:42| 3分| -  
+11| [松江](/huoche/zhan/songjiang.htm)| 20:18| 20:21| 3分| -  
+12| [上海南](/huoche/zhan/shanghainan.htm)| 20:49| 21:37| 48分| -  
+13| [苏州](/huoche/zhan/suzhou.htm)| 22:46| 22:50| 4分| -  
+14| [南京](/huoche/zhan/nanjing.htm)| 01:17| 01:23| 6分| -  
+15| [蚌埠](/huoche/zhan/bengbu.htm)| 03:34| 03:49| 15分| -  
+16| [淮南](/huoche/zhan/huainan.htm)| 05:15| 05:20| 5分| -  
+17| [阜阳](/huoche/zhan/fuyang.htm)| 06:50| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从保定开往北京南的D6656动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D6656 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 保定  
+发车时间 | 10:26  
+到站时间 | 12:29  
+全程时间 | 2小时3分  
+终点站 | 北京南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [保定](/huoche/zhan/baoding.htm)| -| 10:26| 0分| -  
+2| [徐水](/huoche/zhan/xushui.htm)| 10:43| 10:46| 3分| -  
+3| [白洋淀](/huoche/zhan/baiyangdian.htm)| 11:01| 11:03| 2分| -  
+4| [白沟](/huoche/zhan/baigou.htm)| 11:14| 11:16| 2分| -  
+5| [霸州西](/huoche/zhan/bazhouxi.htm)| 11:27| 11:29| 2分| -  
+6| [北京南](/huoche/zhan/beijingnan.htm)| 12:29| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

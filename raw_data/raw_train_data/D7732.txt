@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从大连北开往沈阳的D7732动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D7732 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 大连北  
+发车时间 | 12:20  
+到站时间 | 16:31  
+全程时间 | 4小时11分  
+终点站 | 沈阳  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [大连北](/huoche/zhan/dalianbei.htm)| \----| 12:20| 0分| -  
+2| [金州](/huoche/zhan/jinzhou3.htm)| 12:31| 12:33| 2分| -  
+3| [杏树屯](/huoche/zhan/xingshutun.htm)| 12:54| 12:55| 1分| -  
+4| [花园口](/huoche/zhan/huayuankou.htm)| 13:15| 13:17| 2分| -  
+5| [庄河北](/huoche/zhan/zhuanghebei.htm)| 13:32| 13:34| 2分| -  
+6| [大孤山](/huoche/zhan/dagushan.htm)| 13:57| 13:59| 2分| -  
+7| [东港北](/huoche/zhan/donggangbei.htm)| 14:17| 14:19| 2分| -  
+8| [丹东](/huoche/zhan/dandong.htm)| 14:36| 14:56| 20分| -  
+9| [凤城东](/huoche/zhan/fengchengdong.htm)| 15:13| 15:15| 2分| -  
+10| [通远堡西](/huoche/zhan/tongyuanpuxi.htm)| 15:29| 15:31| 2分| -  
+11| [本溪](/huoche/zhan/benxi.htm)| 15:51| 15:53| 2分| -  
+12| [本溪新城](/huoche/zhan/benxixincheng.htm)| 16:06| 16:07| 1分| -  
+13| [沈阳](/huoche/zhan/shenyang3.htm)| 16:31| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

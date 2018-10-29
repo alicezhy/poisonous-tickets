@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从桂林北开往广州的D2997动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D2997 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 桂林北  
+发车时间 | 08:15  
+到站时间 | 11:04  
+全程时间 | 2小时49分  
+终点站 | 广州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [桂林北](/huoche/zhan/guilinbei.htm)| -| 08:15| 0分| -  
+2| [钟山西](/huoche/zhan/zhongshanxi.htm)| 09:05| 09:07| 2分| -  
+3| [贺州](/huoche/zhan/hezhou.htm)| 09:19| 09:22| 3分| -  
+4| [肇庆东](/huoche/zhan/zhaoqingdong.htm)| 10:17| 10:19| 2分| -  
+5| [佛山西](/huoche/zhan/foshanxi.htm)| 10:38| 10:41| 3分| -  
+6| [广州](/huoche/zhan/guangzhou.htm)| 11:04| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从合肥南开往江山的G7375高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7375 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 合肥南  
+发车时间 | 09:27  
+到站时间 | 15:29  
+全程时间 | 6小时2分  
+终点站 | 江山  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [合肥南](/huoche/zhan/hefeinan.htm)| -| 09:27| 0分| -  
+2| [南京南](/huoche/zhan/nanjingnan.htm)| 10:19| 10:24| 5分| -  
+3| [镇江南](/huoche/zhan/zhenjiangnan.htm)| 10:44| 10:56| 12分| -  
+4| [常州北](/huoche/zhan/changzhoubei.htm)| 11:13| 11:15| 2分| -  
+5| [无锡东](/huoche/zhan/wuxidong.htm)| 11:32| 11:37| 5分| -  
+6| [苏州北](/huoche/zhan/suzhoubei.htm)| 11:48| 11:50| 2分| -  
+7| [昆山南](/huoche/zhan/kunshannan.htm)| 12:01| 12:10| 9分| -  
+8| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 12:27| 12:51| 24分| -  
+9| [嘉兴南](/huoche/zhan/jiaxingnan.htm)| 13:18| 13:20| 2分| -  
+10| [余杭](/huoche/zhan/yuhang.htm)| 13:38| 13:43| 5分| -  
+11| [杭州东](/huoche/zhan/hangzhoudong.htm)| 13:53| 13:58| 5分| -  
+12| [义乌](/huoche/zhan/yiwu.htm)| 14:30| 14:33| 3分| -  
+13| [金华](/huoche/zhan/jinhua.htm)| 14:49| 14:54| 5分| -  
+14| [衢州](/huoche/zhan/quzhou.htm)| 15:15| 15:17| 2分| -  
+15| [江山](/huoche/zhan/jiangshan.htm)| 15:29| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

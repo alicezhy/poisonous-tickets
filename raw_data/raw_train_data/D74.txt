@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从吉林开往北京的D74动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D74 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 吉林  
+发车时间 | 10:21  
+到站时间 | 17:47  
+全程时间 | 7小时26分  
+终点站 | 北京  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [吉林](/huoche/zhan/jilin.htm)| -| 10:21| 0分| -  
+2| [长春](/huoche/zhan/changchun.htm)| 11:01| 11:04| 3分| -  
+3| [公主岭南](/huoche/zhan/gongzhulingnan.htm)| 11:30| 11:37| 7分| -  
+4| [昌图西](/huoche/zhan/changtuxi.htm)| 12:05| 12:07| 2分| -  
+5| [铁岭西](/huoche/zhan/tielingxi.htm)| 12:30| 12:31| 1分| -  
+6| [沈阳北](/huoche/zhan/shenyangbei.htm)| 12:51| 12:59| 8分| -  
+7| [山海关](/huoche/zhan/shanhaiguan.htm)| 15:14| 15:15| 1分| -  
+8| [北京](/huoche/zhan/beijing.htm)| 17:47| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

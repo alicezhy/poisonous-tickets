@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从亳州开往宁波的K8563快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K8563 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 亳州  
+发车时间 | 19:13  
+到站时间 | 07:28  
+全程时间 | 12小时15分  
+终点站 | 宁波  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [亳州](/huoche/zhan/bozhou.htm)| -| 19:13| 0分| -  
+2| [阜阳](/huoche/zhan/fuyang.htm)| 20:22| 20:33| 11分| -  
+3| [淮南](/huoche/zhan/huainan.htm)| 21:57| 22:00| 3分| -  
+4| [合肥](/huoche/zhan/hefei.htm)| 23:10| 23:23| 13分| -  
+5| [芜湖](/huoche/zhan/wuhu.htm)| 01:25| 01:31| 6分| -  
+6| [宣城](/huoche/zhan/xuancheng.htm)| 02:26| 02:29| 3分| -  
+7| [杭州东](/huoche/zhan/hangzhoudong.htm)| 05:09| 05:15| 6分| -  
+8| [绍兴](/huoche/zhan/shaoxing.htm)| 05:57| 06:00| 3分| -  
+9| [宁波](/huoche/zhan/ningbo.htm)| 07:28| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

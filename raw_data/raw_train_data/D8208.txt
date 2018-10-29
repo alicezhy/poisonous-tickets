@@ -1,0 +1,41 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南宁东开往桂林的D8208动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D8208 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 南宁东  
+发车时间 | 11:40  
+到站时间 | 14:21  
+全程时间 | 2小时41分  
+终点站 | 桂林  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南宁东](/huoche/zhan/nanningdong.htm)| -| 11:40| 0分| -  
+2| [宾阳](/huoche/zhan/binyang.htm)| 12:06| 12:08| 2分| -  
+3| [来宾北](/huoche/zhan/laibinbei.htm)| 12:28| 12:30| 2分| -  
+4| [柳州](/huoche/zhan/liuzhou.htm)| 12:56| 13:03| 7分| -  
+5| [鹿寨北](/huoche/zhan/luzhaibei.htm)| 13:31| 13:33| 2分| -  
+6| [永福南](/huoche/zhan/yongfunan.htm)| 13:55| 13:57| 2分| -  
+7| [桂林](/huoche/zhan/guilin.htm)| 14:21| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

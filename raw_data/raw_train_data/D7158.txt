@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从三亚开往三亚的D7158动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D7158 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 三亚  
+发车时间 | 17:25  
+到站时间 | 22:14  
+全程时间 | 4小时49分  
+终点站 | 三亚  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [三亚](/huoche/zhan/sanya.htm)| \----| 17:25| 0分| -  
+2| [凤凰机场](/huoche/zhan/fenghuangjichang.htm)| 17:34| 17:35| 1分| -  
+3| [崖州](/huoche/zhan/yazhou.htm)| 17:49| 17:50| 1分| -  
+4| [乐东](/huoche/zhan/ledong.htm)| 18:02| 18:03| 1分| -  
+5| [金月湾](/huoche/zhan/jinyuewan.htm)| 18:22| 18:23| 1分| -  
+6| [东方](/huoche/zhan/dongfang.htm)| 18:38| 18:40| 2分| -  
+7| [白马井](/huoche/zhan/baimajing.htm)| 19:12| 19:13| 1分| -  
+8| [临高南](/huoche/zhan/lingaonan.htm)| 19:36| 19:37| 1分| -  
+9| [老城镇](/huoche/zhan/laochengzhen.htm)| 19:53| 19:54| 1分| -  
+10| [海口东](/huoche/zhan/haikoudong.htm)| 20:18| 20:23| 5分| -  
+11| [美兰](/huoche/zhan/meilan.htm)| 20:31| 20:34| 3分| -  
+12| [文昌](/huoche/zhan/wenchang.htm)| 20:52| 20:53| 1分| -  
+13| [琼海](/huoche/zhan/qionghai.htm)| 21:10| 21:11| 1分| -  
+14| [博鳌](/huoche/zhan/boao.htm)| 21:18| 21:19| 1分| -  
+15| [万宁](/huoche/zhan/wangning.htm)| 21:33| 21:34| 1分| -  
+16| [陵水](/huoche/zhan/lingshui.htm)| 21:51| 21:52| 1分| -  
+17| [三亚](/huoche/zhan/sanya.htm)| 22:14| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,56 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从乌鲁木齐开往汉口的Z294直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z294 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 乌鲁木齐  
+发车时间 | 20:27  
+到站时间 | 11:00  
+全程时间 | 38小时33分  
+终点站 | 汉口  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [乌鲁木齐](/huoche/zhan/wulumuqi.htm)| -| 20:27| 0分| -  
+3| [吐鲁番北](/huoche/zhan/tulufanbei.htm)| 21:48| 21:51| 3分| -  
+4| [鄯善北](/huoche/zhan/shanshanbei.htm)| 22:35| 22:38| 3分| -  
+5| [哈密](/huoche/zhan/hami.htm)| 00:35| 00:54| 19分| -  
+6| [柳园](/huoche/zhan/liuyuan.htm)| 03:44| 04:01| 17分| -  
+7| [嘉峪关](/huoche/zhan/jiayuguan.htm)| 06:59| 07:14| 15分| -  
+8| [酒泉南](/huoche/zhan/jiuquannan.htm)| 07:38| 07:40| 2分| -  
+9| [张掖西](/huoche/zhan/zhangyexi.htm)| 09:03| 09:08| 5分| -  
+10| [西宁](/huoche/zhan/xining.htm)| 11:24| 11:32| 8分| -  
+11| [兰州](/huoche/zhan/lanzhou.htm)| 13:34| 13:50| 16分| -  
+12| [定西](/huoche/zhan/dingxi.htm)| 15:06| 15:10| 4分| -  
+13| [陇西](/huoche/zhan/longxi.htm)| 16:02| 16:06| 4分| -  
+14| [甘谷](/huoche/zhan/gangu.htm)| 16:55| 16:58| 3分| -  
+15| [天水](/huoche/zhan/tianshui.htm)| 18:08| 18:17| 9分| -  
+16| [宝鸡](/huoche/zhan/baoji.htm)| 20:52| 21:01| 9分| -  
+17| [西安](/huoche/zhan/xian.htm)| 22:54| 23:06| 12分| -  
+18| [郑州](/huoche/zhan/zhengzhou.htm)| 05:31| 05:50| 19分| -  
+19| [许昌](/huoche/zhan/xuchang.htm)| 06:32| 06:37| 5分| -  
+20| [漯河](/huoche/zhan/luohe.htm)| 07:11| 07:14| 3分| -  
+21| [驻马店](/huoche/zhan/zhumadian.htm)| 07:44| 07:47| 3分| -  
+23| [孝感](/huoche/zhan/xiaogan.htm)| 10:15| 10:18| 3分| -  
+24| [汉口](/huoche/zhan/hankou.htm)| 11:00| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从杭州东开往南昌西的G1461高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1461 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 杭州东  
+发车时间 | 15:50  
+到站时间 | 21:28  
+全程时间 | 5小时38分  
+终点站 | 南昌西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [杭州东](/huoche/zhan/hangzhoudong.htm)| \----| 15:50| 0分| -  
+2| [诸暨](/huoche/zhan/zhuji.htm)| 16:14| 16:20| 6分| -  
+3| [金华](/huoche/zhan/jinhua.htm)| 16:45| 16:47| 2分| -  
+4| [衢州](/huoche/zhan/quzhou.htm)| 17:08| 17:10| 2分| -  
+5| [江山](/huoche/zhan/jiangshan.htm)| 17:22| 17:31| 9分| -  
+6| [上饶](/huoche/zhan/shangrao.htm)| 17:54| 18:13| 19分| -  
+7| [德兴](/huoche/zhan/dexing.htm)| 18:30| 18:32| 2分| -  
+8| [婺源](/huoche/zhan/wuyuan2.htm)| 18:44| 18:46| 2分| -  
+9| [景德镇北](/huoche/zhan/jingdezhenbei.htm)| 19:14| 19:16| 2分| -  
+10| [鄱阳](/huoche/zhan/poyang.htm)| 19:34| 19:36| 2分| -  
+11| [九江](/huoche/zhan/jiujiang.htm)| 20:23| 20:27| 4分| -  
+12| [庐山](/huoche/zhan/lushan.htm)| 20:38| 20:40| 2分| -  
+13| [德安](/huoche/zhan/dean.htm)| 20:54| 20:56| 2分| -  
+14| [南昌西](/huoche/zhan/nanchangxi.htm)| 21:28| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

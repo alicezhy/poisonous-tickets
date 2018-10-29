@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北海开往梧州南的D8431动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D8431 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 北海  
+发车时间 | 18:40  
+到站时间 | 22:43  
+全程时间 | 4小时3分  
+终点站 | 梧州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北海](/huoche/zhan/beihai.htm)| -| 18:40| 0分| -  
+2| [合浦](/huoche/zhan/hepu.htm)| 18:53| 18:55| 2分| -  
+3| [钦州东](/huoche/zhan/qinzhoudong.htm)| 19:21| 19:23| 2分| -  
+4| [南宁东](/huoche/zhan/nanningdong.htm)| 20:08| 20:26| 18分| -  
+5| [宾阳](/huoche/zhan/binyang.htm)| 20:56| 20:58| 2分| -  
+6| [贵港](/huoche/zhan/guigang.htm)| 21:20| 21:22| 2分| -  
+7| [桂平](/huoche/zhan/guiping.htm)| 21:45| 21:47| 2分| -  
+8| [平南南](/huoche/zhan/pingnannan.htm)| 22:02| 22:04| 2分| -  
+9| [藤县](/huoche/zhan/tengxian.htm)| 22:28| 22:30| 2分| -  
+10| [梧州南](/huoche/zhan/wuzhounan.htm)| 22:43| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

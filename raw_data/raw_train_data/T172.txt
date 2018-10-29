@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从广州东开往南昌的T172特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | T172 |  
+---|---|---|---  
+车型 | 特快火车  
+始发站 | 广州东  
+发车时间 | 18:52  
+到站时间 | 06:52  
+全程时间 | 12小时0分  
+终点站 | 南昌  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [广州东](/huoche/zhan/guangzhoudong.htm)| -| 18:52| 0分| -  
+2| [韶关东](/huoche/zhan/shaoguandong.htm)| 21:18| 21:24| 6分| -  
+3| [郴州](/huoche/zhan/chenzhou.htm)| 23:01| 23:04| 3分| -  
+4| [衡阳](/huoche/zhan/hengyang.htm)| 00:50| 00:56| 6分| -  
+5| [株洲](/huoche/zhan/zhuzhou.htm)| 02:32| 02:52| 20分| -  
+6| [萍乡](/huoche/zhan/pingxiang.htm)| 03:39| 03:45| 6分| -  
+8| [宜春](/huoche/zhan/yichun.htm)| 04:24| 04:27| 3分| -  
+9| [新余](/huoche/zhan/xinyu.htm)| 04:59| 05:02| 3分| -  
+10| [樟树](/huoche/zhan/zhangshu.htm)| 05:44| 05:47| 3分| -  
+11| [丰城](/huoche/zhan/fengcheng.htm)| 06:02| 06:05| 3分| -  
+12| [南昌](/huoche/zhan/nanchang.htm)| 06:52| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

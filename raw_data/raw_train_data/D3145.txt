@@ -1,0 +1,62 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海虹桥开往赣州的D3145动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D3145 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 上海虹桥  
+发车时间 | 06:40  
+到站时间 | 18:16  
+全程时间 | 11小时36分  
+终点站 | 赣州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| -| 06:40| 0分| -  
+2| [嘉兴南](/huoche/zhan/jiaxingnan.htm)| 07:08| 07:10| 2分| -  
+3| [海宁西](/huoche/zhan/hainingxi.htm)| 07:26| 07:28| 2分| -  
+4| [杭州东](/huoche/zhan/hangzhoudong.htm)| 07:41| 07:43| 2分| -  
+5| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 08:02| 08:04| 2分| -  
+6| [绍兴东](/huoche/zhan/shaoxingdong.htm)| 08:16| 08:21| 5分| -  
+7| [余姚北](/huoche/zhan/yuyaobei.htm)| 08:32| 08:38| 6分| -  
+8| [宁波](/huoche/zhan/ningbo.htm)| 08:59| 09:08| 9分| -  
+9| [临海](/huoche/zhan/linhai.htm)| 09:54| 09:56| 2分| -  
+10| [台州](/huoche/zhan/taizhou2.htm)| 10:08| 10:10| 2分| -  
+11| [乐清](/huoche/zhan/yueqing.htm)| 10:41| 10:43| 2分| -  
+12| [温州南](/huoche/zhan/wenzhounan.htm)| 10:58| 11:00| 2分| -  
+13| [瑞安](/huoche/zhan/ruian.htm)| 11:11| 11:13| 2分| -  
+14| [鳌江](/huoche/zhan/aojiang.htm)| 11:23| 11:25| 2分| -  
+15| [福安](/huoche/zhan/fuan.htm)| 12:13| 12:15| 2分| -  
+16| [连江](/huoche/zhan/lianjiang3.htm)| 12:45| 12:48| 3分| -  
+17| [福州南](/huoche/zhan/fuzhounan.htm)| 13:08| 13:16| 8分| -  
+18| [莆田](/huoche/zhan/putian.htm)| 13:46| 13:52| 6分| -  
+19| [泉州](/huoche/zhan/quanzhou2.htm)| 14:17| 14:20| 3分| -  
+20| [厦门北](/huoche/zhan/xiamenbei.htm)| 14:45| 14:58| 13分| -  
+21| [南靖](/huoche/zhan/nanjing2.htm)| 15:28| 15:30| 2分| -  
+22| [龙岩](/huoche/zhan/longyan.htm)| 16:01| 16:05| 4分| -  
+23| [古田会址](/huoche/zhan/gutianhuizhi.htm)| 16:21| 16:23| 2分| -  
+24| [冠豸山](/huoche/zhan/guanzhishan.htm)| 16:40| 16:42| 2分| -  
+25| [长汀南](/huoche/zhan/changtingnan.htm)| 16:59| 17:01| 2分| -  
+26| [瑞金](/huoche/zhan/ruijin.htm)| 17:17| 17:19| 2分| -  
+27| [于都](/huoche/zhan/yudu.htm)| 17:47| 17:49| 2分| -  
+28| [赣州](/huoche/zhan/ganzhou.htm)| 18:16| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

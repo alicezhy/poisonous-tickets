@@ -1,0 +1,41 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从营口开往沈阳的4229普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 4229 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 营口  
+发车时间 | 05:12  
+到站时间 | 08:30  
+全程时间 | 3小时18分  
+终点站 | 沈阳  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [营口](/huoche/zhan/yingkou.htm)| \----| 05:12| 0分| -  
+2| [老边](/huoche/zhan/laobian.htm)| 05:23| 05:25| 2分| -  
+3| [大石桥](/huoche/zhan/dashiqiao.htm)| 05:39| 05:59| 20分| -  
+4| [海城](/huoche/zhan/haicheng.htm)| 06:24| 06:27| 3分| -  
+5| [鞍山](/huoche/zhan/anshan.htm)| 06:53| 06:56| 3分| -  
+7| [辽阳](/huoche/zhan/liaoyang.htm)| 07:19| 07:22| 3分| -  
+8| [张台子](/huoche/zhan/ZhangTaiZi.htm)| 07:33| 07:34| 1分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

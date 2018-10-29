@@ -1,0 +1,38 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南平北开往福州的G9837高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G9837 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 南平北  
+发车时间 | 20:19  
+到站时间 | 21:10  
+全程时间 | 0小时51分  
+终点站 | 福州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南平北](/huoche/zhan/nanpingbei.htm)| \----| 20:19| 0分| -  
+2| [古田北](/huoche/zhan/gutianbei.htm)| 20:33| 20:35| 2分| -  
+3| [闽清北](/huoche/zhan/minqingbei.htm)| 20:46| 20:48| 2分| -  
+4| [福州](/huoche/zhan/fuzhou.htm)| 21:10| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京西开往南昌西的G491高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G491 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 北京西  
+发车时间 | 12:33  
+到站时间 | 20:27  
+全程时间 | 7小时54分  
+终点站 | 南昌西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京西](/huoche/zhan/beijingxi.htm)| -| 12:33| 0分| -  
+2| [保定东](/huoche/zhan/baodingdong.htm)| 13:14| 13:16| 2分| -  
+3| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 13:52| 13:55| 3分| -  
+4| [邢台东](/huoche/zhan/xingtaidong.htm)| 14:23| 14:36| 13分| -  
+5| [邯郸东](/huoche/zhan/handandong.htm)| 14:52| 14:54| 2分| -  
+6| [新乡东](/huoche/zhan/xinxiangdong.htm)| 15:32| 15:43| 11分| -  
+7| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 16:05| 16:11| 6分| -  
+8| [信阳东](/huoche/zhan/xinyangdong.htm)| 17:19| 17:21| 2分| -  
+9| [武汉](/huoche/zhan/wuhan.htm)| 18:05| 18:10| 5分| -  
+10| [黄石北](/huoche/zhan/huangshibei.htm)| 18:47| 18:50| 3分| -  
+11| [庐山](/huoche/zhan/lushan.htm)| 19:36| 19:38| 2分| -  
+12| [共青城](/huoche/zhan/gongqingcheng.htm)| 19:56| 19:58| 2分| -  
+13| [南昌西](/huoche/zhan/nanchangxi.htm)| 20:27| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

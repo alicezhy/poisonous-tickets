@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从拉萨开往上海的Z166直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z166 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 拉萨  
+发车时间 | 11:30  
+到站时间 | 11:51  
+全程时间 | 48小时21分  
+终点站 | 上海  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [拉萨](/huoche/zhan/lasa.htm)| -| 11:30| 0分| -  
+2| [那曲](/huoche/zhan/naqu.htm)| 15:08| 15:14| 6分| -  
+3| [格尔木](/huoche/zhan/geermu.htm)| 01:23| 01:48| 25分| -  
+4| [德令哈](/huoche/zhan/delingha.htm)| 04:15| 04:17| 2分| -  
+5| [西宁](/huoche/zhan/xining.htm)| 08:55| 09:15| 20分| -  
+6| [兰州](/huoche/zhan/lanzhou.htm)| 12:11| 12:26| 15分| -  
+7| [西安](/huoche/zhan/xian.htm)| 20:34| 20:44| 10分| -  
+8| [郑州](/huoche/zhan/zhengzhou.htm)| 02:50| 02:58| 8分| -  
+9| [徐州](/huoche/zhan/xuzhou.htm)| 05:43| 05:58| 15分| -  
+10| [蚌埠](/huoche/zhan/bengbu.htm)| 07:17| 07:22| 5分| -  
+11| [南京](/huoche/zhan/nanjing.htm)| 08:54| 09:00| 6分| -  
+12| [无锡](/huoche/zhan/wuxi.htm)| 10:26| 10:30| 4分| -  
+13| [苏州](/huoche/zhan/suzhou.htm)| 10:56| 11:01| 5分| -  
+14| [上海](/huoche/zhan/shanghai.htm)| 11:51| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

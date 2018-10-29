@@ -1,0 +1,56 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从玉溪开往郑州东的G1536高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1536 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 玉溪  
+发车时间 | 10:50  
+到站时间 | 21:33  
+全程时间 | 10小时43分  
+终点站 | 郑州东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [玉溪](/huoche/zhan/yuxi.htm)| \----| 10:50| 0分| -  
+2| [昆明南](/huoche/zhan/kunmingnan.htm)| 11:23| 11:33| 10分| -  
+3| [曲靖北](/huoche/zhan/qujingbei.htm)| 12:08| 12:10| 2分| -  
+4| [富源北](/huoche/zhan/fuyuanbei.htm)| 12:27| 12:29| 2分| -  
+5| [盘州](/huoche/zhan/panzhou.htm)| 12:41| 12:43| 2分| -  
+6| [安顺西](/huoche/zhan/anshunxi.htm)| 13:29| 13:31| 2分| -  
+7| [贵阳北](/huoche/zhan/guiyangbei.htm)| 14:01| 14:07| 6分| -  
+8| [贵定北](/huoche/zhan/guidingbei.htm)| 14:27| 14:29| 2分| -  
+9| [凯里南](/huoche/zhan/kailinan.htm)| 14:52| 14:54| 2分| -  
+10| [新晃西](/huoche/zhan/xinhuangxi.htm)| 15:34| 15:36| 2分| -  
+11| [怀化南](/huoche/zhan/huaihuanan.htm)| 16:00| 16:04| 4分| -  
+12| [溆浦南](/huoche/zhan/xupunan.htm)| 16:24| 16:26| 2分| -  
+13| [韶山南](/huoche/zhan/shaoshannan.htm)| 17:15| 17:17| 2分| -  
+14| [湘潭北](/huoche/zhan/xiangtanbei.htm)| 17:30| 17:32| 2分| -  
+15| [长沙南](/huoche/zhan/changshanan.htm)| 17:45| 17:49| 4分| -  
+16| [岳阳东](/huoche/zhan/yueyangdong.htm)| 18:22| 18:25| 3分| -  
+18| [咸宁北](/huoche/zhan/xianningbei.htm)| 18:55| 18:57| 2分| -  
+19| [武汉](/huoche/zhan/wuhan.htm)| 19:22| 19:27| 5分| -  
+20| [孝感北](/huoche/zhan/xiaoganbei.htm)| 19:57| 19:59| 2分| -  
+21| [驻马店西](/huoche/zhan/zhumadianxi.htm)| 20:37| 20:39| 2分| -  
+22| [漯河西](/huoche/zhan/luohexi.htm)| 20:57| 20:59| 2分| -  
+24| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 21:33| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

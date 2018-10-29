@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海南开往十堰的K122快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K122 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 上海南  
+发车时间 | 13:40  
+到站时间 | 11:30  
+全程时间 | 21小时50分  
+终点站 | 十堰  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海南](/huoche/zhan/shanghainan.htm)| -| 13:40| 0分| -  
+2| [松江](/huoche/zhan/songjiang.htm)| 13:59| 14:02| 3分| -  
+3| [嘉兴](/huoche/zhan/jiaxing.htm)| 14:40| 14:43| 3分| -  
+4| [海宁](/huoche/zhan/haining.htm)| 15:05| 15:08| 3分| -  
+5| [杭州东](/huoche/zhan/hangzhoudong.htm)| 15:54| 16:00| 6分| -  
+6| [义乌](/huoche/zhan/yiwu.htm)| 17:21| 17:24| 3分| -  
+7| [衢州](/huoche/zhan/quzhou.htm)| 19:15| 19:18| 3分| -  
+8| [上饶](/huoche/zhan/shangrao.htm)| 20:51| 20:55| 4分| -  
+9| [鹰潭](/huoche/zhan/yingtan.htm)| 22:04| 22:10| 6分| -  
+10| [南昌](/huoche/zhan/nanchang.htm)| 00:01| 00:13| 12分| -  
+11| [阳新](/huoche/zhan/yangxin.htm)| 03:17| 03:20| 3分| -  
+12| [黄石](/huoche/zhan/huangshi.htm)| 03:48| 03:51| 3分| -  
+13| [武昌](/huoche/zhan/wuchang.htm)| 05:16| 05:33| 17分| -  
+14| [随州](/huoche/zhan/suizhou.htm)| 07:34| 07:37| 3分| -  
+15| [枣阳](/huoche/zhan/zaoyang.htm)| 08:27| 08:30| 3分| -  
+16| [襄阳](/huoche/zhan/xiangyang2.htm)| 09:13| 09:32| 19分| -  
+17| [谷城](/huoche/zhan/gucheng.htm)| 10:24| 10:26| 2分| -  
+18| [武当山](/huoche/zhan/wudangshan.htm)| 11:09| 11:12| 3分| -  
+19| [十堰](/huoche/zhan/shiyan.htm)| 11:30| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

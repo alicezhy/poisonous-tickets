@@ -1,0 +1,58 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从贵阳北开往南京南的G2336高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G2336 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 贵阳北  
+发车时间 | 10:42  
+到站时间 | 20:53  
+全程时间 | 10小时11分  
+终点站 | 南京南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [贵阳北](/huoche/zhan/guiyangbei.htm)| \----| 10:42| 0分| -  
+2| [凯里南](/huoche/zhan/kailinan.htm)| 11:20| 11:22| 2分| -  
+3| [三穗](/huoche/zhan/sansui.htm)| 11:47| 11:49| 2分| -  
+4| [怀化南](/huoche/zhan/huaihuanan.htm)| 12:28| 12:31| 3分| -  
+5| [新化南](/huoche/zhan/xinhuanan.htm)| 13:03| 13:05| 2分| -  
+6| [娄底南](/huoche/zhan/loudinan.htm)| 13:29| 13:31| 2分| -  
+7| [韶山南](/huoche/zhan/shaoshannan.htm)| 13:49| 13:55| 6分| -  
+8| [湘潭北](/huoche/zhan/xiangtanbei.htm)| 14:08| 14:10| 2分| -  
+9| [长沙南](/huoche/zhan/changshanan.htm)| 14:23| 14:30| 7分| -  
+10| [萍乡北](/huoche/zhan/pingxiangbei2.htm)| 15:00| 15:09| 9分| -  
+11| [新余北](/huoche/zhan/xinyubei.htm)| 15:37| 15:39| 2分| -  
+12| [南昌西](/huoche/zhan/nanchangxi.htm)| 16:12| 16:16| 4分| -  
+13| [抚州东](/huoche/zhan/fuzhoudong.htm)| 16:42| 16:49| 7分| -  
+14| [鹰潭北](/huoche/zhan/yingtanbei.htm)| 17:02| 17:05| 3分| -  
+15| [上饶](/huoche/zhan/shangrao.htm)| 17:31| 17:33| 2分| -  
+16| [衢州](/huoche/zhan/quzhou.htm)| 18:01| 18:03| 2分| -  
+17| [金华](/huoche/zhan/jinhua.htm)| 18:25| 18:29| 4分| -  
+18| [义乌](/huoche/zhan/yiwu.htm)| 18:45| 18:47| 2分| -  
+19| [杭州东](/huoche/zhan/hangzhoudong.htm)| 19:21| 19:25| 4分| -  
+20| [德清](/huoche/zhan/deqing.htm)| 19:38| 19:40| 2分| -  
+21| [湖州](/huoche/zhan/huzhou.htm)| 19:53| 19:55| 2分| -  
+22| [宜兴](/huoche/zhan/yixing.htm)| 20:12| 20:14| 2分| -  
+23| [溧水](/huoche/zhan/lishui2.htm)| 20:36| 20:38| 2分| -  
+24| [南京南](/huoche/zhan/nanjingnan.htm)| 20:53| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

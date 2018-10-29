@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从武昌开往咸宁南的C5007城际高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | C5007 |  
+---|---|---|---  
+车型 | 城际高铁  
+始发站 | 武昌  
+发车时间 | 12:37  
+到站时间 | 14:10  
+全程时间 | 1小时33分  
+终点站 | 咸宁南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [武昌](/huoche/zhan/wuchang.htm)| -| 12:37| 0分| -  
+2| [汤逊湖](/huoche/zhan/tangxunhu.htm)| 12:52| 12:54| 2分| -  
+3| [庙山](/huoche/zhan/piaoshan.htm)| 12:59| 13:01| 2分| -  
+4| [普安](/huoche/zhan/puan.htm)| 13:04| 13:06| 2分| -  
+5| [纸坊东](/huoche/zhan/zhifangdong.htm)| 13:12| 13:14| 2分| -  
+6| [乌龙泉南](/huoche/zhan/wulongquannan.htm)| 13:20| 13:22| 2分| -  
+7| [土地堂东](/huoche/zhan/tuditangdong.htm)| 13:27| 13:29| 2分| -  
+8| [山坡东](/huoche/zhan/shanpodong.htm)| 13:36| 13:38| 2分| -  
+9| [贺胜桥东](/huoche/zhan/heshengqiaodong.htm)| 13:45| 13:47| 2分| -  
+10| [横沟桥东](/huoche/zhan/henggouqiaodong.htm)| 13:53| 13:55| 2分| -  
+11| [咸宁东](/huoche/zhan/xianningdong.htm)| 14:01| 14:03| 2分| -  
+12| [咸宁南](/huoche/zhan/xianningnan.htm)| 14:10| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

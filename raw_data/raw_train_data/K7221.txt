@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从哈尔滨东开往海伦的K7221快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7221 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 哈尔滨东  
+发车时间 | 08:13  
+到站时间 | 13:01  
+全程时间 | 4小时48分  
+终点站 | 海伦  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [哈尔滨东](/huoche/zhan/haerbindong.htm)| -| 08:13| 0分| -  
+2| [呼兰](/huoche/zhan/hulan.htm)| 08:33| 09:02| 29分| -  
+3| [康金井](/huoche/zhan/kangjinjing.htm)| 09:20| 09:23| 3分| -  
+4| [白奎堡](/huoche/zhan/baikuibao.htm)| 09:40| 09:43| 3分| -  
+5| [绥化](/huoche/zhan/suihua.htm)| 11:03| 11:13| 10分| -  
+6| [四方台](/huoche/zhan/sifangtai.htm)| 11:53| 11:55| 2分| -  
+7| [张维屯](/huoche/zhan/zhangweitun.htm)| 12:08| 12:12| 4分| -  
+8| [绥棱](/huoche/zhan/suiling.htm)| 12:29| 12:32| 3分| -  
+9| [东边井](/huoche/zhan/dongbianjing.htm)| 12:48| 12:50| 2分| -  
+10| [海伦](/huoche/zhan/hailun.htm)| 13:01| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

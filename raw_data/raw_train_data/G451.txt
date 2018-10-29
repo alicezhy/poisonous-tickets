@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从青岛开往徐州东的G451高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G451 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 青岛  
+发车时间 | 18:43  
+到站时间 | 23:06  
+全程时间 | 4小时23分  
+终点站 | 徐州东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [青岛](/huoche/zhan/qingdao.htm)| \----| 18:43| 0分| -  
+2| [青岛北](/huoche/zhan/qingdaobei.htm)| 19:01| 19:03| 2分| -  
+3| [潍坊](/huoche/zhan/weifang.htm)| 19:58| 20:00| 2分| -  
+4| [淄博](/huoche/zhan/zibo.htm)| 20:35| 20:38| 3分| -  
+5| [济南](/huoche/zhan/jinan.htm)| 21:33| 21:35| 2分| -  
+6| [泰安](/huoche/zhan/taian2.htm)| 21:59| 22:01| 2分| -  
+7| [曲阜东](/huoche/zhan/qufudong.htm)| 22:20| 22:22| 2分| -  
+8| [滕州东](/huoche/zhan/tengzhoudong.htm)| 22:38| 22:40| 2分| -  
+9| [徐州东](/huoche/zhan/xuzhoudong.htm)| 23:06| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

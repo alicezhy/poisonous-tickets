@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京西开往黄山的K1109快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1109 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 北京西  
+发车时间 | 13:35  
+到站时间 | 09:46  
+全程时间 | 20小时11分  
+终点站 | 黄山  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京西](/huoche/zhan/beijingxi.htm)| -| 13:35| 0分| -  
+2| [任丘](/huoche/zhan/renqiu.htm)| 15:04| 15:06| 2分| -  
+3| [衡水](/huoche/zhan/hengshui.htm)| 16:28| 16:34| 6分| -  
+4| [大营镇](/huoche/zhan/dayingzhen.htm)| 17:08| 17:18| 10分| -  
+5| [清河城](/huoche/zhan/qinghecheng.htm)| 17:44| 17:46| 2分| -  
+6| [聊城](/huoche/zhan/liaocheng.htm)| 18:39| 18:45| 6分| -  
+7| [郓城](/huoche/zhan/yuncheng2.htm)| 19:44| 19:47| 3分| -  
+8| [菏泽](/huoche/zhan/heze.htm)| 20:22| 20:25| 3分| -  
+9| [亳州](/huoche/zhan/bozhou.htm)| 22:26| 22:39| 13分| -  
+10| [阜阳](/huoche/zhan/fuyang.htm)| 23:48| 00:03| 15分| -  
+11| [淮南](/huoche/zhan/huainan.htm)| 01:27| 01:31| 4分| -  
+12| [合肥](/huoche/zhan/hefei.htm)| 02:41| 02:56| 15分| -  
+13| [巢湖](/huoche/zhan/chaohu.htm)| 03:45| 03:56| 11分| -  
+14| [芜湖](/huoche/zhan/wuhu.htm)| 05:06| 05:12| 6分| -  
+15| [宣城](/huoche/zhan/xuancheng.htm)| 06:06| 06:10| 4分| -  
+16| [绩溪县](/huoche/zhan/jixixian.htm)| 08:25| 08:34| 9分| -  
+17| [黄山](/huoche/zhan/huangshan.htm)| 09:46| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

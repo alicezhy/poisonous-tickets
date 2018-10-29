@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从荣成开往枣庄的G6985高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G6985 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 荣成  
+发车时间 | 15:34  
+到站时间 | 22:00  
+全程时间 | 6小时26分  
+终点站 | 枣庄  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [荣成](/huoche/zhan/rongcheng.htm)| -| 15:34| 0分| -  
+2| [威海](/huoche/zhan/weihai.htm)| 15:54| 15:56| 2分| -  
+3| [威海北](/huoche/zhan/weihaibei.htm)| 16:04| 16:05| 1分| -  
+5| [烟台南](/huoche/zhan/yantainan.htm)| 16:28| 16:30| 2分| -  
+7| [莱阳](/huoche/zhan/laiyang.htm)| 17:03| 17:04| 1分| -  
+9| [潍坊](/huoche/zhan/weifang.htm)| 18:20| 18:25| 5分| -  
+10| [青州市](/huoche/zhan/qingzhoushi.htm)| 18:46| 18:57| 11分| -  
+11| [淄博](/huoche/zhan/zibo.htm)| 19:15| 19:22| 7分| -  
+12| [章丘](/huoche/zhan/zhangqiu.htm)| 19:47| 19:50| 3分| -  
+13| [大明湖](/huoche/zhan/daminghu.htm)| 20:13| 20:19| 6分| -  
+14| [济南](/huoche/zhan/jinan.htm)| 20:26| 20:30| 4分| -  
+15| [泰安](/huoche/zhan/taian2.htm)| 20:54| 20:56| 2分| -  
+16| [曲阜东](/huoche/zhan/qufudong.htm)| 21:16| 21:26| 10分| -  
+17| [滕州东](/huoche/zhan/tengzhoudong.htm)| 21:42| 21:48| 6分| -  
+18| [枣庄](/huoche/zhan/zaozhuang.htm)| 22:00| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

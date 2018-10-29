@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京西开往汉口的G507高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G507 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 北京西  
+发车时间 | 06:42  
+到站时间 | 12:20  
+全程时间 | 5小时38分  
+终点站 | 汉口  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京西](/huoche/zhan/beijingxi.htm)| -| 06:42| 0分| -  
+2| [正定机场](/huoche/zhan/zhengdingjichang.htm)| 07:46| 07:53| 7分| -  
+3| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 08:07| 08:16| 9分| -  
+4| [邯郸东](/huoche/zhan/handandong.htm)| 08:55| 08:58| 3分| -  
+5| [安阳东](/huoche/zhan/anyangdong.htm)| 09:15| 09:17| 2分| -  
+6| [鹤壁东](/huoche/zhan/hebidong.htm)| 09:32| 09:34| 2分| -  
+7| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 10:07| 10:10| 3分| -  
+8| [许昌东](/huoche/zhan/xuchangdong.htm)| 10:33| 10:35| 2分| -  
+9| [信阳东](/huoche/zhan/xinyangdong.htm)| 11:27| 11:29| 2分| -  
+10| [汉口](/huoche/zhan/hankou.htm)| 12:20| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

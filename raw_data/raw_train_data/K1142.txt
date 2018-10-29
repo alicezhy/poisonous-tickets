@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南通开往洛阳的K1142快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1142 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 南通  
+发车时间 | 08:41  
+到站时间 | 23:22  
+全程时间 | 14小时41分  
+终点站 | 洛阳  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南通](/huoche/zhan/nantong.htm)| \----| 08:41| 0分| -  
+2| [如皋](/huoche/zhan/rugao.htm)| 09:10| 09:20| 10分| -  
+3| [海安县](/huoche/zhan/haianxian.htm)| 09:35| 09:40| 5分| -  
+4| [东台](/huoche/zhan/dongtai.htm)| 10:11| 10:15| 4分| -  
+5| [盐城](/huoche/zhan/yancheng2.htm)| 10:56| 11:01| 5分| -  
+6| [淮安](/huoche/zhan/huaian.htm)| 12:23| 12:28| 5分| -  
+7| [泗阳](/huoche/zhan/siyang.htm)| 13:56| 14:01| 5分| -  
+8| [洋河](/huoche/zhan/yanghe.htm)| 14:23| 14:27| 4分| -  
+9| [泗县](/huoche/zhan/sixian.htm)| 15:13| 15:16| 3分| -  
+10| [灵璧](/huoche/zhan/lingbi.htm)| 15:37| 15:40| 3分| -  
+11| [徐州](/huoche/zhan/xuzhou.htm)| 17:21| 17:35| 14分| -  
+12| [商丘](/huoche/zhan/shangqiu.htm)| 19:08| 19:12| 4分| -  
+13| [兰考](/huoche/zhan/lankao.htm)| 20:08| 20:11| 3分| -  
+14| [开封](/huoche/zhan/kaifeng.htm)| 20:42| 20:45| 3分| -  
+15| [郑州](/huoche/zhan/zhengzhou.htm)| 21:33| 21:53| 20分| -  
+16| [洛阳](/huoche/zhan/luoyang.htm)| 23:22| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

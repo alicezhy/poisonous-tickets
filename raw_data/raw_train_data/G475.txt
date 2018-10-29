@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京南开往荣成的G475高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G475 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 北京南  
+发车时间 | 15:35  
+到站时间 | 22:19  
+全程时间 | 6小时44分  
+终点站 | 荣成  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京南](/huoche/zhan/beijingnan.htm)| \----| 15:35| 0分| -  
+2| [沧州西](/huoche/zhan/cangzhouxi.htm)| 16:26| 16:28| 2分| -  
+3| [德州东](/huoche/zhan/dezhoudong.htm)| 16:55| 17:05| 10分| -  
+4| [济南西](/huoche/zhan/jinanxi.htm)| 17:29| 17:31| 2分| -  
+5| [济南](/huoche/zhan/jinan.htm)| 17:47| 17:51| 4分| -  
+6| [淄博](/huoche/zhan/zibo.htm)| 18:33| 18:35| 2分| -  
+7| [潍坊](/huoche/zhan/weifang.htm)| 19:10| 19:12| 2分| -  
+8| [高密](/huoche/zhan/gaomi.htm)| 19:39| 19:41| 2分| -  
+9| [莱阳](/huoche/zhan/laiyang.htm)| 20:33| 20:35| 2分| -  
+10| [桃村北](/huoche/zhan/taocunbei.htm)| 20:56| 20:58| 2分| -  
+11| [烟台南](/huoche/zhan/yantainan.htm)| 21:14| 21:16| 2分| -  
+12| [牟平](/huoche/zhan/muping.htm)| 21:27| 21:29| 2分| -  
+13| [威海](/huoche/zhan/weihai.htm)| 21:49| 21:52| 3分| -  
+14| [文登东](/huoche/zhan/wendengdong.htm)| 22:05| 22:07| 2分| -  
+15| [荣成](/huoche/zhan/rongcheng.htm)| 22:19| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

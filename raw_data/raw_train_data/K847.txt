@@ -1,0 +1,60 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从贵阳开往宁波的K847快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K847 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 贵阳  
+发车时间 | 22:00  
+到站时间 | 05:11  
+全程时间 | 31小时11分  
+终点站 | 宁波  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [贵阳](/huoche/zhan/guiyang.htm)| \----| 22:00| 0分| -  
+2| [贵定](/huoche/zhan/guiding.htm)| 23:05| 23:11| 6分| -  
+4| [凯里](/huoche/zhan/kaili.htm)| 00:36| 00:44| 8分| -  
+6| [怀化](/huoche/zhan/huaihua.htm)| 04:45| 04:55| 10分| -  
+8| [娄底](/huoche/zhan/loudi.htm)| 08:47| 08:53| 6分| -  
+9| [湘乡](/huoche/zhan/xiangxiang.htm)| 09:33| 09:45| 12分| -  
+10| [湘潭](/huoche/zhan/xiangtan2.htm)| 10:16| 10:21| 5分| -  
+11| [株洲](/huoche/zhan/zhuzhou.htm)| 11:43| 12:07| 24分| -  
+12| [萍乡](/huoche/zhan/pingxiang.htm)| 13:00| 13:04| 4分| -  
+13| [宜春](/huoche/zhan/yichun.htm)| 13:47| 13:51| 4分| -  
+14| [新余](/huoche/zhan/xinyu.htm)| 14:26| 14:30| 4分| -  
+15| [樟树](/huoche/zhan/zhangshu.htm)| 15:17| 15:21| 4分| -  
+16| [丰城](/huoche/zhan/fengcheng.htm)| 15:38| 15:42| 4分| -  
+17| [鹰潭](/huoche/zhan/yingtan.htm)| 17:20| 17:26| 6分| -  
+18| [贵溪](/huoche/zhan/guixi.htm)| 17:42| 17:46| 4分| -  
+19| [横峰](/huoche/zhan/hengfeng.htm)| 18:16| 18:20| 4分| -  
+20| [上饶](/huoche/zhan/shangrao.htm)| 18:48| 18:54| 6分| -  
+21| [玉山](/huoche/zhan/yushan.htm)| 19:15| 19:19| 4分| -  
+22| [衢州](/huoche/zhan/quzhou.htm)| 21:49| 21:52| 3分| -  
+23| [龙游](/huoche/zhan/longyou.htm)| 22:17| 22:20| 3分| -  
+25| [义乌](/huoche/zhan/yiwu.htm)| 00:22| 00:26| 4分| -  
+26| [诸暨](/huoche/zhan/zhuji.htm)| 00:52| 00:57| 5分| -  
+27| [绍兴](/huoche/zhan/shaoxing.htm)| 03:22| 03:25| 3分| -  
+28| [上虞](/huoche/zhan/shangyu.htm)| 03:46| 03:49| 3分| -  
+29| [余姚](/huoche/zhan/yuyao.htm)| 04:18| 04:21| 3分| -  
+30| [宁波](/huoche/zhan/ningbo.htm)| 05:11| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从长沙南开往温州南的G2311高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G2311 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 长沙南  
+发车时间 | 13:30  
+到站时间 | 19:05  
+全程时间 | 5小时35分  
+终点站 | 温州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [长沙南](/huoche/zhan/changshanan.htm)| -| 13:30| 0分| -  
+2| [萍乡北](/huoche/zhan/pingxiangbei2.htm)| 13:59| 14:02| 3分| -  
+3| [宜春](/huoche/zhan/yichun.htm)| 14:20| 14:22| 2分| -  
+4| [新余北](/huoche/zhan/xinyubei.htm)| 14:37| 14:39| 2分| -  
+5| [南昌西](/huoche/zhan/nanchangxi.htm)| 15:11| 15:15| 4分| -  
+6| [鹰潭北](/huoche/zhan/yingtanbei.htm)| 15:50| 15:52| 2分| -  
+7| [上饶](/huoche/zhan/shangrao.htm)| 16:18| 16:23| 5分| -  
+8| [玉山南](/huoche/zhan/yushannan.htm)| 16:36| 16:41| 5分| -  
+9| [衢州](/huoche/zhan/quzhou.htm)| 17:01| 17:03| 2分| -  
+10| [金华](/huoche/zhan/jinhua.htm)| 17:26| 17:29| 3分| -  
+11| [金华南](/huoche/zhan/jinhuanan.htm)| 17:40| 17:42| 2分| -  
+12| [永康南](/huoche/zhan/yongkangnan.htm)| 18:00| 18:02| 2分| -  
+13| [缙云西](/huoche/zhan/jinyunxi.htm)| 18:12| 18:14| 2分| -  
+14| [丽水](/huoche/zhan/lishui.htm)| 18:27| 18:29| 2分| -  
+15| [温州南](/huoche/zhan/wenzhounan.htm)| 19:05| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

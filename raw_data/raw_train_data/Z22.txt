@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从拉萨开往北京西的Z22直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z22 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 拉萨  
+发车时间 | 16:30  
+到站时间 | 08:28  
+全程时间 | 39小时58分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [拉萨](/huoche/zhan/lasa.htm)| -| 16:30| 0分| -  
+2| [那曲](/huoche/zhan/naqu.htm)| 19:53| 19:59| 6分| -  
+3| [格尔木](/huoche/zhan/geermu.htm)| 06:10| 06:35| 25分| -  
+4| [德令哈](/huoche/zhan/delingha.htm)| 09:02| 09:04| 2分| -  
+5| [西宁](/huoche/zhan/xining.htm)| 13:25| 13:45| 20分| -  
+6| [兰州](/huoche/zhan/lanzhou.htm)| 16:15| 16:30| 15分| -  
+7| [中卫](/huoche/zhan/zhongwei.htm)| 21:27| 21:35| 8分| -  
+8| [太原](/huoche/zhan/taiyuan.htm)| 03:54| 04:00| 6分| -  
+9| [石家庄北](/huoche/zhan/shijiazhuangbei.htm)| 05:45| 05:56| 11分| -  
+10| [北京西](/huoche/zhan/beijingxi.htm)| 08:28| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

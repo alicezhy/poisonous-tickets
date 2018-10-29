@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从重庆北开往郑州的K1388快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1388 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 重庆北  
+发车时间 | 10:56  
+到站时间 | 06:16  
+全程时间 | 19小时20分  
+终点站 | 郑州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [重庆北](/huoche/zhan/chongqingbei.htm)| -| 10:56| 0分| -  
+2| [广安](/huoche/zhan/guangan.htm)| 12:13| 12:16| 3分| -  
+3| [渠县](/huoche/zhan/quxian.htm)| 12:44| 12:47| 3分| -  
+4| [达州](/huoche/zhan/dazhou.htm)| 13:43| 13:51| 8分| -  
+5| [宣汉](/huoche/zhan/xuanhan.htm)| 14:31| 14:33| 2分| -  
+6| [万源](/huoche/zhan/wanyuan.htm)| 15:29| 15:31| 2分| -  
+7| [安康](/huoche/zhan/ankang.htm)| 16:57| 17:03| 6分| -  
+8| [十堰](/huoche/zhan/shiyan.htm)| 19:54| 19:58| 4分| -  
+9| [武当山](/huoche/zhan/wudangshan.htm)| 20:17| 20:19| 2分| -  
+10| [谷城](/huoche/zhan/gucheng.htm)| 21:11| 21:13| 2分| -  
+11| [襄阳](/huoche/zhan/xiangyang2.htm)| 22:19| 22:39| 20分| -  
+12| [平顶山](/huoche/zhan/pingdingshan2.htm)| 02:32| 02:42| 10分| -  
+13| [漯河](/huoche/zhan/luohe.htm)| 04:03| 04:28| 25分| -  
+14| [许昌](/huoche/zhan/xuchang.htm)| 05:04| 05:21| 17分| -  
+15| [郑州](/huoche/zhan/zhengzhou.htm)| 06:16| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

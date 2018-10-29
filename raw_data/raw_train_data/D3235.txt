@@ -1,0 +1,56 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南京南开往福州南的D3235动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D3235 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 南京南  
+发车时间 | 15:08  
+到站时间 | 22:26  
+全程时间 | 7小时18分  
+终点站 | 福州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南京南](/huoche/zhan/nanjingnan.htm)| -| 15:08| 0分| -  
+2| [宜兴](/huoche/zhan/yixing.htm)| 15:45| 15:47| 2分| -  
+3| [长兴](/huoche/zhan/changxing.htm)| 16:00| 16:02| 2分| -  
+4| [湖州](/huoche/zhan/huzhou.htm)| 16:11| 16:13| 2分| -  
+5| [杭州东](/huoche/zhan/hangzhoudong.htm)| 16:36| 16:44| 8分| -  
+6| [诸暨](/huoche/zhan/zhuji.htm)| 17:09| 17:16| 7分| -  
+7| [义乌](/huoche/zhan/yiwu.htm)| 17:30| 17:32| 2分| -  
+8| [金华南](/huoche/zhan/jinhuanan.htm)| 17:51| 17:53| 2分| -  
+9| [武义北](/huoche/zhan/wuyibei.htm)| 18:04| 18:06| 2分| -  
+10| [永康南](/huoche/zhan/yongkangnan.htm)| 18:18| 18:20| 2分| -  
+11| [缙云西](/huoche/zhan/jinyunxi.htm)| 18:30| 18:32| 2分| -  
+12| [丽水](/huoche/zhan/lishui.htm)| 18:45| 18:47| 2分| -  
+13| [温州南](/huoche/zhan/wenzhounan.htm)| 19:21| 19:35| 14分| -  
+14| [瑞安](/huoche/zhan/ruian.htm)| 19:47| 19:49| 2分| -  
+15| [鳌江](/huoche/zhan/aojiang.htm)| 19:58| 20:08| 10分| -  
+16| [苍南](/huoche/zhan/cangnan.htm)| 20:21| 20:23| 2分| -  
+17| [福鼎](/huoche/zhan/fuding.htm)| 20:38| 20:40| 2分| -  
+18| [太姥山](/huoche/zhan/taimushan.htm)| 20:50| 21:02| 12分| -  
+19| [霞浦](/huoche/zhan/xiapu.htm)| 21:17| 21:19| 2分| -  
+20| [宁德](/huoche/zhan/ningde.htm)| 21:41| 21:43| 2分| -  
+21| [连江](/huoche/zhan/lianjiang3.htm)| 22:05| 22:07| 2分| -  
+22| [福州南](/huoche/zhan/fuzhounan.htm)| 22:26| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

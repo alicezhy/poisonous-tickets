@@ -1,0 +1,61 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从深圳北开往上海虹桥的D2284动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D2284 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 深圳北  
+发车时间 | 08:46  
+到站时间 | 20:44  
+全程时间 | 11小时58分  
+终点站 | 上海虹桥  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [深圳北](/huoche/zhan/shenzhenbei.htm)| -| 08:46| 0分| -  
+2| [深圳坪山](/huoche/zhan/shenzhenpingshan.htm)| 09:08| 09:10| 2分| -  
+3| [惠东](/huoche/zhan/huidong.htm)| 09:30| 09:32| 2分| -  
+4| [汕尾](/huoche/zhan/shanwei.htm)| 09:57| 09:59| 2分| -  
+5| [潮阳](/huoche/zhan/chaoyang2.htm)| 10:47| 10:49| 2分| -  
+6| [潮汕](/huoche/zhan/chaoshan.htm)| 11:04| 11:07| 3分| -  
+7| [诏安](/huoche/zhan/zhaoan.htm)| 11:32| 11:39| 7分| -  
+8| [漳州](/huoche/zhan/zhangzhou.htm)| 12:17| 12:20| 3分| -  
+9| [厦门北](/huoche/zhan/xiamenbei.htm)| 12:40| 12:48| 8分| -  
+10| [晋江](/huoche/zhan/jinjiang.htm)| 13:06| 13:08| 2分| -  
+11| [泉州](/huoche/zhan/quanzhou2.htm)| 13:19| 13:21| 2分| -  
+12| [涵江](/huoche/zhan/hanjiang.htm)| 13:52| 13:54| 2分| -  
+13| [福州南](/huoche/zhan/fuzhounan.htm)| 14:18| 14:27| 9分| -  
+14| [宁德](/huoche/zhan/ningde.htm)| 15:05| 15:07| 2分| -  
+15| [福鼎](/huoche/zhan/fuding.htm)| 15:45| 15:47| 2分| -  
+16| [温州南](/huoche/zhan/wenzhounan.htm)| 16:21| 16:24| 3分| -  
+17| [乐清](/huoche/zhan/yueqing.htm)| 16:39| 16:41| 2分| -  
+18| [温岭](/huoche/zhan/wenling.htm)| 17:05| 17:07| 2分| -  
+19| [台州](/huoche/zhan/taizhou2.htm)| 17:18| 17:20| 2分| -  
+20| [宁海](/huoche/zhan/ninghai.htm)| 17:49| 17:51| 2分| -  
+21| [宁波](/huoche/zhan/ningbo.htm)| 18:22| 18:29| 7分| -  
+22| [余姚北](/huoche/zhan/yuyaobei.htm)| 18:49| 18:51| 2分| -  
+23| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 19:11| 19:15| 4分| -  
+24| [杭州东](/huoche/zhan/hangzhoudong.htm)| 19:35| 19:39| 4分| -  
+25| [海宁西](/huoche/zhan/hainingxi.htm)| 19:51| 19:56| 5分| -  
+26| [嘉兴南](/huoche/zhan/jiaxingnan.htm)| 20:12| 20:14| 2分| -  
+27| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 20:44| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从唐山开往临汾的K868快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K868 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 唐山  
+发车时间 | 19:45  
+到站时间 | 11:51  
+全程时间 | 16小时6分  
+终点站 | 临汾  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [唐山](/huoche/zhan/tangshan.htm)| -| 19:45| 0分| -  
+2| [天津](/huoche/zhan/tianjin.htm)| 21:20| 21:30| 10分| -  
+3| [静海](/huoche/zhan/jinghai.htm)| 22:16| 22:19| 3分| -  
+4| [沧州](/huoche/zhan/cangzhou.htm)| 23:05| 23:36| 31分| -  
+5| [泊头](/huoche/zhan/botou.htm)| 00:00| 00:20| 20分| -  
+6| [德州](/huoche/zhan/dezhou.htm)| 01:26| 01:49| 23分| -  
+7| [衡水](/huoche/zhan/hengshui.htm)| 02:38| 02:48| 10分| -  
+8| [辛集](/huoche/zhan/xinji.htm)| 03:22| 03:35| 13分| -  
+9| [晋州](/huoche/zhan/jinzhou4.htm)| 03:50| 03:53| 3分| -  
+10| [石家庄北](/huoche/zhan/shijiazhuangbei.htm)| 04:42| 04:54| 12分| -  
+11| [阳泉北](/huoche/zhan/yangquanbei.htm)| 05:57| 06:20| 23分| -  
+12| [太原](/huoche/zhan/taiyuan.htm)| 07:22| 07:39| 17分| -  
+13| [榆次](/huoche/zhan/yuci.htm)| 08:05| 08:10| 5分| -  
+14| [祁县](/huoche/zhan/qixian.htm)| 08:50| 08:53| 3分| -  
+15| [平遥](/huoche/zhan/pingyao.htm)| 09:08| 09:12| 4分| -  
+16| [介休](/huoche/zhan/jiexiu.htm)| 09:37| 09:41| 4分| -  
+17| [灵石](/huoche/zhan/lingshi.htm)| 10:06| 10:09| 3分| -  
+18| [霍州](/huoche/zhan/huozhou.htm)| 10:45| 10:48| 3分| -  
+19| [洪洞](/huoche/zhan/hongdong.htm)| 11:25| 11:28| 3分| -  
+20| [临汾](/huoche/zhan/linfen.htm)| 11:51| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

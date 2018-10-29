@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从乌鲁木齐开往和田的7556普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 7556 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 乌鲁木齐  
+发车时间 | 16:23  
+到站时间 | 00:48  
+全程时间 | 32小时25分  
+终点站 | 和田  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [乌鲁木齐](/huoche/zhan/wulumuqi.htm)| -| 16:23| 0分| -  
+2| [乌鲁木齐南](/huoche/zhan/wulumuqinan.htm)| 16:37| 16:56| 19分| -  
+3| [吐鲁番](/huoche/zhan/tulufan.htm)| 18:33| 19:03| 30分| -  
+4| [马兰](/huoche/zhan/malan.htm)| 22:12| 22:14| 2分| -  
+5| [和硕](/huoche/zhan/heshuo.htm)| 22:44| 22:46| 2分| -  
+6| [焉耆](/huoche/zhan/yanqi.htm)| 23:16| 23:18| 2分| -  
+7| [库尔勒](/huoche/zhan/kuerle.htm)| 00:08| 00:28| 20分| -  
+8| [库车](/huoche/zhan/kuche.htm)| 05:07| 05:10| 3分| -  
+9| [新和](/huoche/zhan/xinhe.htm)| 05:51| 05:53| 2分| -  
+10| [阿克苏](/huoche/zhan/akesu.htm)| 09:13| 09:23| 10分| -  
+11| [巴楚](/huoche/zhan/bachu.htm)| 12:51| 12:58| 7分| -  
+12| [阿图什](/huoche/zhan/atushi.htm)| 16:41| 16:47| 6分| -  
+13| [喀什](/huoche/zhan/kashi.htm)| 17:29| 17:46| 17分| -  
+14| [阿克陶](/huoche/zhan/aketao.htm)| 18:30| 18:32| 2分| -  
+15| [英吉沙](/huoche/zhan/yingjiesha.htm)| 18:52| 18:54| 2分| -  
+16| [莎车](/huoche/zhan/shache.htm)| 20:49| 20:51| 2分| -  
+17| [泽普](/huoche/zhan/zhepu.htm)| 21:10| 21:13| 3分| -  
+18| [叶城](/huoche/zhan/yecheng.htm)| 21:39| 21:45| 6分| -  
+19| [皮山](/huoche/zhan/pishang.htm)| 22:46| 22:49| 3分| -  
+20| [墨玉](/huoche/zhan/muyu.htm)| 00:23| 00:29| 6分| -  
+21| [和田](/huoche/zhan/hetian.htm)| 00:48| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

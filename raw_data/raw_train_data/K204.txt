@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从重庆北开往广州的K204快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K204 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 重庆北  
+发车时间 | 10:04  
+到站时间 | 11:55  
+全程时间 | 25小时51分  
+终点站 | 广州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [重庆北](/huoche/zhan/chongqingbei.htm)| \----| 10:04| 0分| -  
+2| [遵义](/huoche/zhan/zunyi.htm)| 13:37| 13:40| 3分| -  
+3| [贵阳](/huoche/zhan/guiyang.htm)| 15:15| 15:45| 30分| -  
+4| [凯里](/huoche/zhan/kaili.htm)| 18:07| 18:13| 6分| -  
+5| [怀化](/huoche/zhan/huaihua.htm)| 21:55| 22:05| 10分| -  
+6| [株洲](/huoche/zhan/zhuzhou.htm)| 03:58| 04:10| 12分| -  
+7| [衡阳](/huoche/zhan/hengyang.htm)| 05:35| 05:41| 6分| -  
+8| [郴州](/huoche/zhan/chenzhou.htm)| 07:22| 07:28| 6分| -  
+9| [韶关东](/huoche/zhan/shaoguandong.htm)| 09:07| 09:13| 6分| -  
+10| [广州](/huoche/zhan/guangzhou.htm)| 11:55| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

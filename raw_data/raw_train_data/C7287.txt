@@ -1,0 +1,38 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从汕尾开往深圳北的C7287城际高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | C7287 |  
+---|---|---|---  
+车型 | 城际高铁  
+始发站 | 汕尾  
+发车时间 | 17:50  
+到站时间 | 19:09  
+全程时间 | 1小时19分  
+终点站 | 深圳北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [汕尾](/huoche/zhan/shanwei.htm)| -| 17:50| 0分| -  
+2| [惠州南](/huoche/zhan/huizhounan.htm)| 18:25| 18:27| 2分| -  
+3| [深圳坪山](/huoche/zhan/shenzhenpingshan.htm)| 18:37| 18:44| 7分| -  
+4| [深圳北](/huoche/zhan/shenzhenbei.htm)| 19:09| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

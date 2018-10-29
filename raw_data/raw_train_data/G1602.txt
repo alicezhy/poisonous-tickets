@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从深圳北开往合肥南的G1602高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1602 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 深圳北  
+发车时间 | 08:51  
+到站时间 | 18:47  
+全程时间 | 9小时56分  
+终点站 | 合肥南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [深圳北](/huoche/zhan/shenzhenbei.htm)| -| 08:51| 0分| -  
+2| [深圳坪山](/huoche/zhan/shenzhenpingshan.htm)| 09:13| 09:15| 2分| -  
+3| [惠州南](/huoche/zhan/huizhounan.htm)| 09:25| 09:27| 2分| -  
+4| [汕尾](/huoche/zhan/shanwei.htm)| 10:02| 10:04| 2分| -  
+5| [普宁](/huoche/zhan/puning.htm)| 10:40| 10:42| 2分| -  
+6| [潮汕](/huoche/zhan/chaoshan.htm)| 11:10| 11:13| 3分| -  
+7| [漳州](/huoche/zhan/zhangzhou.htm)| 12:12| 12:14| 2分| -  
+8| [厦门北](/huoche/zhan/xiamenbei.htm)| 12:35| 12:40| 5分| -  
+9| [泉州](/huoche/zhan/quanzhou2.htm)| 13:05| 13:08| 3分| -  
+10| [惠安](/huoche/zhan/huian.htm)| 13:18| 13:20| 2分| -  
+11| [福清](/huoche/zhan/fuqing.htm)| 13:54| 13:56| 2分| -  
+12| [福州南](/huoche/zhan/fuzhounan.htm)| 14:11| 14:13| 2分| -  
+13| [福州](/huoche/zhan/fuzhou.htm)| 14:29| 14:33| 4分| -  
+14| [南平北](/huoche/zhan/nanpingbei.htm)| 15:07| 15:09| 2分| -  
+15| [武夷山东](/huoche/zhan/wuyishandong.htm)| 15:36| 15:38| 2分| -  
+16| [上饶](/huoche/zhan/shangrao.htm)| 16:07| 16:12| 5分| -  
+17| [黄山北](/huoche/zhan/huangshanbei.htm)| 16:54| 16:58| 4分| -  
+18| [绩溪北](/huoche/zhan/jixibei.htm)| 17:12| 17:15| 3分| -  
+19| [南陵](/huoche/zhan/naling.htm)| 17:40| 17:42| 2分| -  
+20| [铜陵北](/huoche/zhan/tonglingbei.htm)| 17:54| 17:56| 2分| -  
+21| [无为](/huoche/zhan/mowei.htm)| 18:08| 18:10| 2分| -  
+22| [巢湖东](/huoche/zhan/chaohudong.htm)| 18:23| 18:25| 2分| -  
+23| [合肥南](/huoche/zhan/hefeinan.htm)| 18:47| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

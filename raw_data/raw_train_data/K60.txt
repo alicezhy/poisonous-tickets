@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从西安开往南通的K60快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K60 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 西安  
+发车时间 | 14:16  
+到站时间 | 13:30  
+全程时间 | 23小时14分  
+终点站 | 南通  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [西安](/huoche/zhan/xian.htm)| -| 14:16| 0分| -  
+2| [渭南](/huoche/zhan/weinan.htm)| 15:01| 15:04| 3分| -  
+3| [潼关](/huoche/zhan/tongguan2.htm)| 16:15| 16:17| 2分| -  
+4| [三门峡](/huoche/zhan/sanmenxia2.htm)| 17:58| 18:02| 4分| -  
+5| [义马](/huoche/zhan/yima.htm)| 19:01| 19:04| 3分| -  
+6| [洛阳](/huoche/zhan/luoyang.htm)| 19:52| 19:58| 6分| -  
+7| [郑州](/huoche/zhan/zhengzhou.htm)| 22:00| 22:24| 24分| -  
+8| [开封](/huoche/zhan/kaifeng.htm)| 23:10| 23:16| 6分| -  
+9| [兰考](/huoche/zhan/lankao.htm)| 23:47| 00:03| 16分| -  
+10| [商丘](/huoche/zhan/shangqiu.htm)| 01:10| 01:19| 9分| -  
+11| [阜阳](/huoche/zhan/fuyang.htm)| 03:29| 03:48| 19分| -  
+12| [淮南](/huoche/zhan/huainan.htm)| 05:12| 05:17| 5分| -  
+13| [蚌埠](/huoche/zhan/bengbu.htm)| 07:39| 07:53| 14分| -  
+14| [滁州北](/huoche/zhan/chuzhoubei.htm)| 09:11| 09:40| 29分| -  
+15| [扬州](/huoche/zhan/yangzhou.htm)| 11:10| 11:14| 4分| -  
+16| [泰州](/huoche/zhan/taizhou.htm)| 11:54| 11:59| 5分| -  
+17| [海安县](/huoche/zhan/haianxian.htm)| 12:33| 12:38| 5分| -  
+18| [南通](/huoche/zhan/nantong.htm)| 13:30| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

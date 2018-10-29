@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从贵阳开往北京西的Z78直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z78 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 贵阳  
+发车时间 | 09:20  
+到站时间 | 12:10  
+全程时间 | 26小时50分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [贵阳](/huoche/zhan/guiyang.htm)| \----| 09:20| 0分| -  
+2| [凯里](/huoche/zhan/kaili.htm)| 11:40| 11:44| 4分| -  
+3| [玉屏](/huoche/zhan/yuping.htm)| 13:52| 13:55| 3分| -  
+4| [怀化](/huoche/zhan/huaihua.htm)| 15:29| 15:36| 7分| -  
+5| [娄底](/huoche/zhan/loudi.htm)| 19:28| 19:34| 6分| -  
+6| [长沙](/huoche/zhan/changsha.htm)| 21:34| 21:42| 8分| -  
+7| [武昌](/huoche/zhan/wuchang.htm)| 01:03| 01:21| 18分| -  
+8| [郑州](/huoche/zhan/zhengzhou.htm)| 06:03| 06:09| 6分| -  
+9| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 09:29| 09:35| 6分| -  
+10| [北京西](/huoche/zhan/beijingxi.htm)| 12:10| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

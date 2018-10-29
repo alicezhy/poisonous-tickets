@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南昌西开往重庆西的G1762高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1762 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 南昌西  
+发车时间 | 07:08  
+到站时间 | 14:45  
+全程时间 | 7小时37分  
+终点站 | 重庆西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南昌西](/huoche/zhan/nanchangxi.htm)| -| 07:08| 0分| -  
+2| [新余北](/huoche/zhan/xinyubei.htm)| 07:40| 07:42| 2分| -  
+3| [宜春](/huoche/zhan/yichun.htm)| 07:57| 07:59| 2分| -  
+4| [萍乡北](/huoche/zhan/pingxiangbei2.htm)| 08:17| 08:19| 2分| -  
+5| [长沙南](/huoche/zhan/changshanan.htm)| 08:50| 08:54| 4分| -  
+6| [湘潭北](/huoche/zhan/xiangtanbei.htm)| 09:08| 09:10| 2分| -  
+7| [娄底南](/huoche/zhan/loudinan.htm)| 09:36| 09:38| 2分| -  
+8| [怀化南](/huoche/zhan/huaihuanan.htm)| 10:30| 10:34| 4分| -  
+9| [新晃西](/huoche/zhan/xinhuangxi.htm)| 10:58| 11:00| 2分| -  
+10| [铜仁南](/huoche/zhan/tongrennan.htm)| 11:09| 11:11| 2分| -  
+11| [凯里南](/huoche/zhan/kailinan.htm)| 11:47| 11:50| 3分| -  
+12| [贵阳东](/huoche/zhan/guiyangdong.htm)| 12:24| 12:29| 5分| -  
+13| [遵义](/huoche/zhan/zunyi.htm)| 13:18| 13:20| 2分| -  
+14| [桐梓东](/huoche/zhan/tongzidong.htm)| 13:41| 13:43| 2分| -  
+15| [重庆西](/huoche/zhan/chongqingxi.htm)| 14:45| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

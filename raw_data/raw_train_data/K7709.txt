@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从天津开往石家庄北的K7709快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7709 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 天津  
+发车时间 | 06:20  
+到站时间 | 12:54  
+全程时间 | 6小时34分  
+终点站 | 石家庄北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [天津](/huoche/zhan/tianjin.htm)| -| 06:20| 0分| -  
+2| [杨柳青](/huoche/zhan/yangliuqing.htm)| 06:54| 06:56| 2分| -  
+3| [静海](/huoche/zhan/jinghai.htm)| 07:14| 07:16| 2分| -  
+4| [青县](/huoche/zhan/qingxian.htm)| 07:42| 07:44| 2分| -  
+5| [沧州](/huoche/zhan/cangzhou.htm)| 08:04| 08:07| 3分| -  
+6| [泊头](/huoche/zhan/botou.htm)| 08:31| 08:33| 2分| -  
+7| [德州](/huoche/zhan/dezhou.htm)| 09:29| 09:52| 23分| -  
+8| [龙华](/huoche/zhan/longhua.htm)| 10:21| 10:41| 20分| -  
+9| [衡水](/huoche/zhan/hengshui.htm)| 11:08| 11:12| 4分| -  
+10| [辛集](/huoche/zhan/xinji.htm)| 11:46| 11:48| 2分| -  
+11| [晋州](/huoche/zhan/jinzhou4.htm)| 12:03| 12:05| 2分| -  
+12| [石家庄北](/huoche/zhan/shijiazhuangbei.htm)| 12:54| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

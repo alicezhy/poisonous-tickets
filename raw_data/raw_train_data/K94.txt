@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从泰州开往深圳东的K94快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K94 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 泰州  
+发车时间 | 13:15  
+到站时间 | 14:15  
+全程时间 | 25小时0分  
+终点站 | 深圳东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [泰州](/huoche/zhan/taizhou.htm)| -| 13:15| 0分| -  
+2| [江都](/huoche/zhan/jiangdu.htm)| 13:40| 13:44| 4分| -  
+3| [扬州](/huoche/zhan/yangzhou.htm)| 14:03| 14:08| 5分| -  
+4| [滁州北](/huoche/zhan/chuzhoubei.htm)| 15:25| 15:28| 3分| -  
+5| [明光](/huoche/zhan/mingguang.htm)| 16:11| 16:14| 3分| -  
+6| [蚌埠](/huoche/zhan/bengbu.htm)| 16:58| 17:53| 55分| -  
+7| [合肥](/huoche/zhan/hefei.htm)| 19:53| 20:23| 30分| -  
+8| [九江](/huoche/zhan/jiujiang.htm)| 00:34| 00:40| 6分| -  
+9| [南昌](/huoche/zhan/nanchang.htm)| 01:57| 02:17| 20分| -  
+10| [吉安](/huoche/zhan/jian6.htm)| 04:43| 04:47| 4分| -  
+11| [赣州](/huoche/zhan/ganzhou.htm)| 06:44| 06:48| 4分| -  
+12| [信丰](/huoche/zhan/xinfeng.htm)| 07:32| 07:36| 4分| -  
+13| [龙川](/huoche/zhan/longchuan.htm)| 10:49| 10:56| 7分| -  
+14| [河源](/huoche/zhan/heyuan.htm)| 11:52| 11:55| 3分| -  
+15| [惠州](/huoche/zhan/huizhou.htm)| 12:49| 12:52| 3分| -  
+16| [东莞东](/huoche/zhan/dongguandong.htm)| 13:37| 13:40| 3分| -  
+17| [深圳东](/huoche/zhan/shenzhendong.htm)| 14:15| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

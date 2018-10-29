@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从成都东开往南京南的D2374动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D2374 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 成都东  
+发车时间 | 09:29  
+到站时间 | 21:54  
+全程时间 | 12小时25分  
+终点站 | 南京南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [成都东](/huoche/zhan/chengdudong.htm)| -| 09:29| 0分| -  
+2| [遂宁](/huoche/zhan/suining.htm)| 10:26| 10:30| 4分| -  
+3| [潼南](/huoche/zhan/tongnan.htm)| 10:59| 11:01| 2分| -  
+4| [合川](/huoche/zhan/hechuan.htm)| 11:25| 11:28| 3分| -  
+5| [重庆北](/huoche/zhan/chongqingbei.htm)| 11:53| 12:02| 9分| -  
+6| [丰都](/huoche/zhan/fengdu.htm)| 12:55| 12:57| 2分| -  
+7| [恩施](/huoche/zhan/enshi.htm)| 14:15| 14:19| 4分| -  
+8| [建始](/huoche/zhan/jianshi.htm)| 14:40| 14:42| 2分| -  
+9| [宜昌东](/huoche/zhan/yichangdong.htm)| 16:08| 16:15| 7分| -  
+11| [荆州](/huoche/zhan/jingzhou2.htm)| 16:49| 16:51| 2分| -  
+12| [潜江](/huoche/zhan/qianjiang2.htm)| 17:16| 17:18| 2分| -  
+13| [天门南](/huoche/zhan/tianmennan.htm)| 17:38| 17:40| 2分| -  
+14| [汉川](/huoche/zhan/hanchun.htm)| 17:55| 17:57| 2分| -  
+15| [汉口](/huoche/zhan/hankou.htm)| 18:23| 18:31| 8分| -  
+16| [红安西](/huoche/zhan/honganxi.htm)| 19:01| 19:03| 2分| -  
+17| [麻城北](/huoche/zhan/machengbei.htm)| 19:17| 19:19| 2分| -  
+18| [金寨](/huoche/zhan/jinzhai.htm)| 19:50| 19:52| 2分| -  
+19| [六安](/huoche/zhan/liuan.htm)| 20:10| 20:12| 2分| -  
+20| [合肥南](/huoche/zhan/hefeinan.htm)| 20:36| 21:02| 26分| -  
+21| [南京南](/huoche/zhan/nanjingnan.htm)| 21:54| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

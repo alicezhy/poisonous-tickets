@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从合肥南开往南昌西的G1619高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1619 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 合肥南  
+发车时间 | 09:08  
+到站时间 | 13:16  
+全程时间 | 4小时8分  
+终点站 | 南昌西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [合肥南](/huoche/zhan/hefeinan.htm)| \----| 09:08| 0分| -  
+2| [巢湖东](/huoche/zhan/chaohudong.htm)| 09:29| 09:31| 2分| -  
+3| [无为](/huoche/zhan/mowei.htm)| 09:44| 09:46| 2分| -  
+4| [铜陵北](/huoche/zhan/tonglingbei.htm)| 09:58| 10:00| 2分| -  
+5| [南陵](/huoche/zhan/naling.htm)| 10:12| 10:14| 2分| -  
+6| [泾县](/huoche/zhan/jingxian.htm)| 10:24| 10:26| 2分| -  
+7| [黄山北](/huoche/zhan/huangshanbei.htm)| 10:56| 11:00| 4分| -  
+8| [婺源](/huoche/zhan/wuyuan2.htm)| 11:21| 11:23| 2分| -  
+9| [上饶](/huoche/zhan/shangrao.htm)| 11:47| 12:07| 20分| -  
+10| [鹰潭北](/huoche/zhan/yingtanbei.htm)| 12:37| 12:41| 4分| -  
+11| [南昌西](/huoche/zhan/nanchangxi.htm)| 13:16| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

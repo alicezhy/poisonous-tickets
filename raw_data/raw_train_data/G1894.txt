@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从温州南开往西安北的G1894高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1894 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 温州南  
+发车时间 | 08:22  
+到站时间 | 18:34  
+全程时间 | 10小时12分  
+终点站 | 西安北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [温州南](/huoche/zhan/wenzhounan.htm)| \----| 08:22| 0分| -  
+2| [乐清](/huoche/zhan/yueqing.htm)| 08:37| 08:39| 2分| -  
+3| [台州](/huoche/zhan/taizhou2.htm)| 09:10| 09:12| 2分| -  
+4| [宁海](/huoche/zhan/ninghai.htm)| 09:41| 09:44| 3分| -  
+5| [宁波](/huoche/zhan/ningbo.htm)| 10:16| 10:18| 2分| -  
+6| [余姚北](/huoche/zhan/yuyaobei.htm)| 10:37| 10:39| 2分| -  
+7| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 10:57| 10:59| 2分| -  
+8| [杭州东](/huoche/zhan/hangzhoudong.htm)| 11:17| 11:20| 3分| -  
+9| [溧水](/huoche/zhan/lishui2.htm)| 12:10| 12:12| 2分| -  
+10| [南京南](/huoche/zhan/nanjingnan.htm)| 12:29| 12:31| 2分| -  
+11| [滁州](/huoche/zhan/chuzhou.htm)| 12:49| 12:51| 2分| -  
+12| [宿州东](/huoche/zhan/suzhoudong.htm)| 13:38| 13:40| 2分| -  
+13| [徐州东](/huoche/zhan/xuzhoudong.htm)| 13:59| 14:04| 5分| -  
+14| [永城北](/huoche/zhan/yongchengbei.htm)| 14:30| 14:32| 2分| -  
+15| [商丘](/huoche/zhan/shangqiu.htm)| 14:55| 14:57| 2分| -  
+16| [开封北](/huoche/zhan/kaifengbei.htm)| 15:32| 15:35| 3分| -  
+17| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 15:56| 15:59| 3分| -  
+18| [郑州西](/huoche/zhan/zhengzhouxi.htm)| 16:15| 16:17| 2分| -  
+19| [洛阳龙门](/huoche/zhan/luoyanglongmen.htm)| 16:42| 16:44| 2分| -  
+20| [三门峡南](/huoche/zhan/sanmenxianan.htm)| 17:15| 17:17| 2分| -  
+21| [华山北](/huoche/zhan/huashanbei.htm)| 17:44| 17:56| 12分| -  
+22| [渭南北](/huoche/zhan/weinanbei.htm)| 18:14| 18:16| 2分| -  
+23| [西安北](/huoche/zhan/xianbei.htm)| 18:34| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

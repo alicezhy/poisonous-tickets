@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海南开往九江的K1371快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1371 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 上海南  
+发车时间 | 11:49  
+到站时间 | 21:34  
+全程时间 | 9小时45分  
+终点站 | 九江  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海南](/huoche/zhan/shanghainan.htm)| \----| 11:49| 0分| -  
+2| [松江](/huoche/zhan/songjiang.htm)| 12:07| 12:10| 3分| -  
+3| [嘉兴](/huoche/zhan/jiaxing.htm)| 12:44| 12:47| 3分| -  
+4| [杭州东](/huoche/zhan/hangzhoudong.htm)| 13:52| 13:58| 6分| -  
+5| [义乌](/huoche/zhan/yiwu.htm)| 15:10| 15:13| 3分| -  
+6| [常山](/huoche/zhan/changshan.htm)| 17:15| 17:18| 3分| -  
+7| [德兴东](/huoche/zhan/dexingdong.htm)| 18:00| 18:03| 3分| -  
+8| [婺源](/huoche/zhan/wuyuan2.htm)| 18:18| 18:28| 10分| -  
+9| [景德镇北](/huoche/zhan/jingdezhenbei.htm)| 19:26| 19:30| 4分| -  
+10| [鄱阳](/huoche/zhan/poyang.htm)| 19:54| 19:58| 4分| -  
+11| [都昌](/huoche/zhan/duchang.htm)| 20:36| 20:40| 4分| -  
+12| [湖口](/huoche/zhan/hukou.htm)| 21:03| 21:07| 4分| -  
+13| [九江](/huoche/zhan/jiujiang.htm)| 21:34| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

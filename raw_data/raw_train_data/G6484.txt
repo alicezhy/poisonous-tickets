@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从邵阳开往深圳北的G6484高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G6484 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 邵阳  
+发车时间 | 08:00  
+到站时间 | 13:21  
+全程时间 | 5小时21分  
+终点站 | 深圳北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [邵阳](/huoche/zhan/shaoyang.htm)| \----| 08:00| 0分| -  
+2| [邵东](/huoche/zhan/shaodong.htm)| 08:18| 08:20| 2分| -  
+3| [双峰北](/huoche/zhan/shuangfengbei.htm)| 08:43| 08:45| 2分| -  
+4| [娄底南](/huoche/zhan/loudinan.htm)| 08:57| 08:59| 2分| -  
+5| [韶山南](/huoche/zhan/shaoshannan.htm)| 09:17| 09:19| 2分| -  
+6| [长沙南](/huoche/zhan/changshanan.htm)| 09:40| 10:00| 20分| -  
+7| [衡阳东](/huoche/zhan/hengyangdong.htm)| 10:37| 10:39| 2分| -  
+8| [郴州西](/huoche/zhan/chenzhouxi.htm)| 11:12| 11:15| 3分| -  
+9| [韶关](/huoche/zhan/shaoguan.htm)| 11:46| 11:52| 6分| -  
+10| [广州南](/huoche/zhan/guangzhounan.htm)| 12:49| 12:52| 3分| -  
+11| [深圳北](/huoche/zhan/shenzhenbei.htm)| 13:21| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

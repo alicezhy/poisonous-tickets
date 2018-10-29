@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海开往阜阳的K5572快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K5572 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 上海  
+发车时间 | 22:12  
+到站时间 | 10:13  
+全程时间 | 12小时1分  
+终点站 | 阜阳  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海](/huoche/zhan/shanghai.htm)| -| 22:12| 0分| -  
+2| [苏州](/huoche/zhan/suzhou.htm)| 23:06| 23:11| 5分| -  
+3| [常州](/huoche/zhan/changzhou.htm)| 00:09| 00:14| 5分| -  
+4| [南京](/huoche/zhan/nanjing.htm)| 02:27| 03:05| 38分| -  
+5| [蚌埠](/huoche/zhan/bengbu.htm)| 05:30| 05:51| 21分| -  
+6| [阜阳](/huoche/zhan/fuyang.htm)| 10:13| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

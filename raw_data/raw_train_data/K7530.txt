@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从大连开往霍林郭勒的K7530快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7530 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 大连  
+发车时间 | 21:52  
+到站时间 | 11:50  
+全程时间 | 13小时58分  
+终点站 | 霍林郭勒  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [大连](/huoche/zhan/dalian.htm)| \----| 21:52| 0分| -  
+2| [金州](/huoche/zhan/jinzhou3.htm)| 22:17| 22:20| 3分| -  
+3| [瓦房店](/huoche/zhan/wafangdian.htm)| 23:07| 23:10| 3分| -  
+4| [大石桥](/huoche/zhan/dashiqiao.htm)| 00:37| 00:40| 3分| -  
+5| [鞍山](/huoche/zhan/anshan.htm)| 01:29| 01:32| 3分| -  
+6| [沈阳](/huoche/zhan/shenyang3.htm)| 02:37| 02:53| 16分| -  
+7| [彰武](/huoche/zhan/zhangwu.htm)| 04:53| 04:56| 3分| -  
+8| [甘旗卡](/huoche/zhan/ganqika.htm)| 05:45| 05:47| 2分| -  
+10| [通辽](/huoche/zhan/tongliao.htm)| 06:45| 07:03| 18分| -  
+11| [舍伯吐](/huoche/zhan/SheBoTu.htm)| 07:43| 07:46| 3分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从日照开往郑州的2149普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 2149 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 日照  
+发车时间 | 19:13  
+到站时间 | 05:46  
+全程时间 | 10小时33分  
+终点站 | 郑州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [日照](/huoche/zhan/rizhao.htm)| \----| 19:13| 0分| -  
+2| [莒南](/huoche/zhan/junan.htm)| 20:02| 20:09| 7分| -  
+3| [临沂](/huoche/zhan/linyi.htm)| 20:45| 20:53| 8分| -  
+4| [费县](/huoche/zhan/feixian.htm)| 21:21| 21:26| 5分| -  
+5| [平邑](/huoche/zhan/pingyi.htm)| 21:52| 21:56| 4分| -  
+6| [泗水](/huoche/zhan/sishui.htm)| 22:20| 22:24| 4分| -  
+7| [曲阜](/huoche/zhan/qufu.htm)| 22:43| 22:50| 7分| -  
+8| [兖州](/huoche/zhan/yanzhou.htm)| 00:01| 00:07| 6分| -  
+9| [济宁](/huoche/zhan/jining2.htm)| 00:30| 00:32| 2分| -  
+10| [菏泽](/huoche/zhan/heze.htm)| 01:43| 01:46| 3分| -  
+11| [东明县](/huoche/zhan/dongmingxian.htm)| 02:24| 02:29| 5分| -  
+12| [长垣](/huoche/zhan/changyuan.htm)| 03:09| 03:14| 5分| -  
+13| [新乡](/huoche/zhan/xinxiang2.htm)| 04:23| 04:45| 22分| -  
+14| [郑州](/huoche/zhan/zhengzhou.htm)| 05:46| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

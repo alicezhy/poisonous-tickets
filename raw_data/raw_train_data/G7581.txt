@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南京南开往温州南的G7581高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7581 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 南京南  
+发车时间 | 06:47  
+到站时间 | 13:39  
+全程时间 | 6小时52分  
+终点站 | 温州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南京南](/huoche/zhan/nanjingnan.htm)| -| 06:47| 0分| -  
+2| [镇江](/huoche/zhan/zhenjiang.htm)| 07:15| 07:20| 5分| -  
+3| [丹阳](/huoche/zhan/danyang.htm)| 07:34| 07:36| 2分| -  
+4| [常州](/huoche/zhan/changzhou.htm)| 07:50| 07:52| 2分| -  
+5| [无锡](/huoche/zhan/wuxi.htm)| 08:07| 08:09| 2分| -  
+6| [苏州](/huoche/zhan/suzhou.htm)| 08:24| 08:28| 4分| -  
+7| [昆山南](/huoche/zhan/kunshannan.htm)| 08:43| 08:51| 8分| -  
+8| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 09:11| 09:16| 5分| -  
+9| [嘉善南](/huoche/zhan/jiashannan.htm)| 09:42| 09:47| 5分| -  
+10| [嘉兴南](/huoche/zhan/jiaxingnan.htm)| 09:55| 09:57| 2分| -  
+11| [桐乡](/huoche/zhan/tongxiang.htm)| 10:08| 10:14| 6分| -  
+12| [杭州东](/huoche/zhan/hangzhoudong.htm)| 10:32| 10:36| 4分| -  
+13| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 10:55| 10:57| 2分| -  
+14| [宁波](/huoche/zhan/ningbo.htm)| 11:33| 11:36| 3分| -  
+15| [奉化](/huoche/zhan/fenghua.htm)| 11:53| 11:55| 2分| -  
+16| [临海](/huoche/zhan/linhai.htm)| 12:28| 12:30| 2分| -  
+17| [台州](/huoche/zhan/taizhou2.htm)| 12:42| 12:44| 2分| -  
+18| [雁荡山](/huoche/zhan/yandangshan.htm)| 13:02| 13:04| 2分| -  
+19| [永嘉](/huoche/zhan/yongjia.htm)| 13:26| 13:28| 2分| -  
+20| [温州南](/huoche/zhan/wenzhounan.htm)| 13:39| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

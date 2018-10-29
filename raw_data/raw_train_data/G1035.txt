@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从宜昌东开往深圳北的G1035高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1035 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 宜昌东  
+发车时间 | 07:33  
+到站时间 | 15:56  
+全程时间 | 8小时23分  
+终点站 | 深圳北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [宜昌东](/huoche/zhan/yichangdong.htm)| -| 07:33| 0分| -  
+2| [荆州](/huoche/zhan/jingzhou2.htm)| 08:07| 08:10| 3分| -  
+3| [潜江](/huoche/zhan/qianjiang2.htm)| 08:35| 08:37| 2分| -  
+4| [天门南](/huoche/zhan/tianmennan.htm)| 08:57| 09:00| 3分| -  
+5| [汉川](/huoche/zhan/hanchun.htm)| 09:15| 09:17| 2分| -  
+6| [汉口](/huoche/zhan/hankou.htm)| 09:43| 09:53| 10分| -  
+7| [武汉](/huoche/zhan/wuhan.htm)| 10:13| 10:19| 6分| -  
+8| [咸宁北](/huoche/zhan/xianningbei.htm)| 10:43| 10:50| 7分| -  
+9| [赤壁北](/huoche/zhan/chibibei.htm)| 11:04| 11:07| 3分| -  
+10| [岳阳东](/huoche/zhan/yueyangdong.htm)| 11:28| 11:35| 7分| -  
+11| [长沙南](/huoche/zhan/changshanan.htm)| 12:09| 12:18| 9分| -  
+12| [衡山西](/huoche/zhan/hengshanxi.htm)| 12:47| 12:57| 10分| -  
+13| [郴州西](/huoche/zhan/chenzhouxi.htm)| 13:38| 13:40| 2分| -  
+14| [韶关](/huoche/zhan/shaoguan.htm)| 14:11| 14:13| 2分| -  
+15| [广州南](/huoche/zhan/guangzhounan.htm)| 15:10| 15:14| 4分| -  
+16| [虎门](/huoche/zhan/humen.htm)| 15:31| 15:37| 6分| -  
+17| [深圳北](/huoche/zhan/shenzhenbei.htm)| 15:56| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

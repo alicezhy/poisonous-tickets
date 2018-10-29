@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京开往齐齐哈尔南的D29动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D29 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 北京  
+发车时间 | 06:34  
+到站时间 | 16:32  
+全程时间 | 9小时58分  
+终点站 | 齐齐哈尔南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京](/huoche/zhan/beijing.htm)| -| 06:34| 0分| -  
+2| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 08:49| 08:51| 2分| -  
+3| [东戴河](/huoche/zhan/dongdaihe.htm)| 09:13| 09:15| 2分| -  
+4| [葫芦岛北](/huoche/zhan/huludaobei.htm)| 09:55| 09:57| 2分| -  
+5| [锦州南](/huoche/zhan/jinzhounan.htm)| 10:15| 10:17| 2分| -  
+6| [盘锦北](/huoche/zhan/panjinbei.htm)| 10:43| 10:45| 2分| -  
+7| [沈阳北](/huoche/zhan/shenyangbei.htm)| 11:49| 11:51| 2分| -  
+8| [四平东](/huoche/zhan/sipingdong.htm)| 12:42| 12:43| 1分| -  
+9| [长春西](/huoche/zhan/changchunxi.htm)| 13:13| 13:15| 2分| -  
+10| [德惠西](/huoche/zhan/dehuixi.htm)| 13:41| 13:49| 8分| -  
+11| [扶余北](/huoche/zhan/fuyubei.htm)| 14:08| 14:10| 2分| -  
+12| [哈尔滨西](/huoche/zhan/haerbinxi.htm)| 14:41| 14:50| 9分| -  
+13| [哈尔滨](/huoche/zhan/haerbin.htm)| 14:59| 15:01| 2分| -  
+14| [肇东](/huoche/zhan/zhaodong2.htm)| 15:25| 15:27| 2分| -  
+15| [大庆西](/huoche/zhan/daqingxi.htm)| 15:59| 16:01| 2分| -  
+16| [齐齐哈尔南](/huoche/zhan/qiqihaernan.htm)| 16:32| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北海开往成都东的D1780动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D1780 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 北海  
+发车时间 | 08:40  
+到站时间 | 20:21  
+全程时间 | 11小时41分  
+终点站 | 成都东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北海](/huoche/zhan/beihai.htm)| -| 08:40| 0分| -  
+2| [钦州东](/huoche/zhan/qinzhoudong.htm)| 09:15| 09:17| 2分| -  
+3| [南宁](/huoche/zhan/nanning.htm)| 10:14| 10:35| 21分| -  
+4| [南宁东](/huoche/zhan/nanningdong.htm)| 10:46| 10:50| 4分| -  
+5| [来宾北](/huoche/zhan/laibinbei.htm)| 11:32| 11:34| 2分| -  
+6| [柳州](/huoche/zhan/liuzhou.htm)| 12:00| 12:03| 3分| -  
+7| [桂林](/huoche/zhan/guilin.htm)| 13:08| 13:13| 5分| -  
+8| [桂林北](/huoche/zhan/guilinbei.htm)| 13:24| 13:31| 7分| -  
+9| [从江](/huoche/zhan/congjiang.htm)| 14:24| 14:26| 2分| -  
+10| [都匀东](/huoche/zhan/duyundong.htm)| 15:13| 15:15| 2分| -  
+11| [贵阳东](/huoche/zhan/guiyangdong.htm)| 15:54| 16:00| 6分| -  
+12| [遵义](/huoche/zhan/zunyi.htm)| 16:49| 16:51| 2分| -  
+13| [綦江东](/huoche/zhan/qijiangdong.htm)| 17:47| 17:54| 7分| -  
+14| [重庆西](/huoche/zhan/chongqingxi.htm)| 18:20| 18:28| 8分| -  
+15| [永川东](/huoche/zhan/yongchuandong.htm)| 18:53| 19:04| 11分| -  
+16| [内江北](/huoche/zhan/neijiangbei.htm)| 19:32| 19:34| 2分| -  
+17| [成都东](/huoche/zhan/chengdudong.htm)| 20:21| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

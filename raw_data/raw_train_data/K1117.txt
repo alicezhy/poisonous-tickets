@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从包头开往北京西的K1117快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1117 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 包头  
+发车时间 | 19:11  
+到站时间 | 11:45  
+全程时间 | 16小时34分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [包头](/huoche/zhan/baotou.htm)| -| 19:11| 0分| -  
+2| [达拉特西](/huoche/zhan/dalatexi.htm)| 19:36| 19:39| 3分| -  
+3| [东胜西](/huoche/zhan/dongshengxi.htm)| 20:29| 20:35| 6分| -  
+4| [鄂尔多斯](/huoche/zhan/eerduosi.htm)| 20:53| 20:56| 3分| -  
+5| [榆林](/huoche/zhan/yulin2.htm)| 22:58| 23:08| 10分| -  
+6| [米脂](/huoche/zhan/mizhi.htm)| 00:01| 00:03| 2分| -  
+7| [吕梁](/huoche/zhan/lvliang.htm)| 01:45| 01:50| 5分| -  
+8| [汾阳](/huoche/zhan/fenyang.htm)| 02:42| 03:30| 48分| -  
+9| [文水](/huoche/zhan/wenshui.htm)| 03:42| 03:58| 16分| -  
+10| [太原](/huoche/zhan/taiyuan.htm)| 04:57| 05:09| 12分| -  
+11| [阳泉北](/huoche/zhan/yangquanbei.htm)| 06:07| 06:11| 4分| -  
+12| [石家庄北](/huoche/zhan/shijiazhuangbei.htm)| 07:22| 07:39| 17分| -  
+13| [定州](/huoche/zhan/dingzhou.htm)| 09:05| 09:17| 12分| -  
+14| [保定](/huoche/zhan/baoding.htm)| 09:54| 09:58| 4分| -  
+15| [北京西](/huoche/zhan/beijingxi.htm)| 11:45| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

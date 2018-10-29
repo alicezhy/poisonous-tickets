@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从密山开往绥化的K7285快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7285 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 密山  
+发车时间 | 20:08  
+到站时间 | 08:43  
+全程时间 | 12小时35分  
+终点站 | 绥化  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [密山](/huoche/zhan/mishan.htm)| \----| 20:08| 0分| -  
+2| [鸡东](/huoche/zhan/jidong.htm)| 21:17| 21:19| 2分| -  
+3| [鸡西](/huoche/zhan/jixi2.htm)| 21:39| 21:47| 8分| -  
+4| [牡丹江](/huoche/zhan/mudanjiang.htm)| 00:55| 01:12| 17分| -  
+5| [一面坡](/huoche/zhan/yimianpo.htm)| 03:28| 03:30| 2分| -  
+6| [尚志](/huoche/zhan/shangzhi.htm)| 03:45| 03:48| 3分| -  
+7| [帽儿山](/huoche/zhan/maoershan.htm)| 04:17| 04:23| 6分| -  
+8| [平山](/huoche/zhan/pingshan.htm)| 04:35| 04:38| 3分| -  
+9| [小岭](/huoche/zhan/xiaoling.htm)| 04:50| 04:52| 2分| -  
+10| [玉泉](/huoche/zhan/yuquan2.htm)| 05:09| 05:12| 3分| -  
+11| [阿城](/huoche/zhan/acheng.htm)| 05:33| 05:38| 5分| -  
+12| [成高子](/huoche/zhan/chenggaozi.htm)| 05:56| 05:58| 2分| -  
+13| [哈尔滨东](/huoche/zhan/haerbindong.htm)| 06:40| 07:02| 22分| -  
+14| [呼兰](/huoche/zhan/hulan.htm)| 07:28| 07:30| 2分| -  
+15| [康金井](/huoche/zhan/kangjinjing.htm)| 07:48| 07:49| 1分| -  
+16| [石人城](/huoche/zhan/shirencheng.htm)| 07:59| 08:00| 1分| -  
+17| [兴隆镇](/huoche/zhan/xinglongzhen.htm)| 08:17| 08:19| 2分| -  
+18| [绥化](/huoche/zhan/suihua.htm)| 08:43| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

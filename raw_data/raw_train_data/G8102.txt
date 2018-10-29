@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从丹东开往吉林的G8102高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G8102 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 丹东  
+发车时间 | 07:21  
+到站时间 | 11:16  
+全程时间 | 3小时55分  
+终点站 | 吉林  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [丹东](/huoche/zhan/dandong.htm)| -| 07:21| 0分| -  
+2| [凤城东](/huoche/zhan/fengchengdong.htm)| 07:37| 07:39| 2分| -  
+3| [通远堡西](/huoche/zhan/tongyuanpuxi.htm)| 07:53| 07:55| 2分| -  
+4| [本溪](/huoche/zhan/benxi.htm)| 08:16| 08:18| 2分| -  
+5| [本溪新城](/huoche/zhan/benxixincheng.htm)| 08:30| 08:32| 2分| -  
+6| [沈阳南](/huoche/zhan/shenyangnan.htm)| 08:49| 08:51| 2分| -  
+7| [沈阳北](/huoche/zhan/shenyangbei.htm)| 09:06| 09:09| 3分| -  
+8| [昌图西](/huoche/zhan/changtuxi.htm)| 09:43| 09:44| 1分| -  
+9| [四平东](/huoche/zhan/sipingdong.htm)| 09:59| 10:01| 2分| -  
+10| [长春](/huoche/zhan/changchun.htm)| 10:33| 10:36| 3分| -  
+11| [吉林](/huoche/zhan/jilin.htm)| 11:16| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

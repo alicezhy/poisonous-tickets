@@ -1,0 +1,56 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海虹桥开往长春的G1211高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1211 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 上海虹桥  
+发车时间 | 10:20  
+到站时间 | 21:38  
+全程时间 | 11小时18分  
+终点站 | 长春  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| -| 10:20| 0分| -  
+2| [昆山南](/huoche/zhan/kunshannan.htm)| 10:37| 10:42| 5分| -  
+3| [无锡东](/huoche/zhan/wuxidong.htm)| 10:58| 11:01| 3分| -  
+4| [镇江南](/huoche/zhan/zhenjiangnan.htm)| 11:31| 11:33| 2分| -  
+5| [南京南](/huoche/zhan/nanjingnan.htm)| 11:52| 11:54| 2分| -  
+6| [蚌埠南](/huoche/zhan/bengbunan.htm)| 12:36| 12:38| 2分| -  
+7| [徐州东](/huoche/zhan/xuzhoudong.htm)| 13:17| 13:24| 7分| -  
+8| [泰安](/huoche/zhan/taian2.htm)| 14:15| 14:17| 2分| -  
+9| [济南西](/huoche/zhan/jinanxi.htm)| 14:34| 14:40| 6分| -  
+10| [天津西](/huoche/zhan/tianjinxi.htm)| 15:50| 15:56| 6分| -  
+11| [天津](/huoche/zhan/tianjin.htm)| 16:04| 16:06| 2分| -  
+12| [唐山](/huoche/zhan/tangshan.htm)| 16:38| 16:40| 2分| -  
+13| [北戴河](/huoche/zhan/beidaihe.htm)| 17:11| 17:13| 2分| -  
+14| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 17:24| 17:31| 7分| -  
+15| [山海关](/huoche/zhan/shanhaiguan.htm)| 17:45| 17:48| 3分| -  
+16| [绥中北](/huoche/zhan/suizhongbei.htm)| 18:12| 18:13| 1分| -  
+17| [葫芦岛北](/huoche/zhan/huludaobei.htm)| 18:34| 18:35| 1分| -  
+18| [盘锦北](/huoche/zhan/panjinbei.htm)| 19:13| 19:14| 1分| -  
+19| [沈阳北](/huoche/zhan/shenyangbei.htm)| 20:12| 20:15| 3分| -  
+20| [昌图西](/huoche/zhan/changtuxi.htm)| 20:49| 20:50| 1分| -  
+21| [四平东](/huoche/zhan/sipingdong.htm)| 21:05| 21:06| 1分| -  
+22| [长春](/huoche/zhan/changchun.htm)| 21:38| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

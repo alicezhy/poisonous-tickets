@@ -1,0 +1,56 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从广州开往重庆北的K357快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K357 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 广州  
+发车时间 | 09:17  
+到站时间 | 16:33  
+全程时间 | 31小时16分  
+终点站 | 重庆北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [广州](/huoche/zhan/guangzhou.htm)| \----| 09:17| 0分| -  
+2| [韶关东](/huoche/zhan/shaoguandong.htm)| 11:36| 11:42| 6分| -  
+3| [郴州](/huoche/zhan/chenzhou.htm)| 13:21| 13:26| 5分| -  
+4| [衡阳](/huoche/zhan/hengyang.htm)| 15:11| 15:16| 5分| -  
+5| [株洲](/huoche/zhan/zhuzhou.htm)| 16:41| 16:47| 6分| -  
+6| [长沙](/huoche/zhan/changsha.htm)| 17:26| 17:34| 8分| -  
+7| [汨罗](/huoche/zhan/miluo.htm)| 18:31| 18:33| 2分| -  
+8| [岳阳](/huoche/zhan/yueyang.htm)| 19:15| 19:21| 6分| -  
+9| [赤壁](/huoche/zhan/chibi2.htm)| 20:37| 20:40| 3分| -  
+10| [咸宁](/huoche/zhan/xianning.htm)| 21:07| 21:21| 14分| -  
+11| [武昌](/huoche/zhan/wuchang.htm)| 22:14| 22:36| 22分| -  
+14| [荆门](/huoche/zhan/jingmen.htm)| 01:37| 01:53| 16分| -  
+15| [宜昌东](/huoche/zhan/yichangdong.htm)| 04:34| 04:57| 23分| -  
+17| [恩施](/huoche/zhan/enshi.htm)| 07:21| 07:31| 10分| -  
+18| [利川](/huoche/zhan/lichuan.htm)| 08:15| 08:19| 4分| -  
+19| [万州](/huoche/zhan/wanzhou.htm)| 10:04| 10:24| 20分| -  
+20| [梁平](/huoche/zhan/liangping.htm)| 11:52| 11:55| 3分| -  
+21| [开江](/huoche/zhan/kaijiang.htm)| 12:29| 12:32| 3分| -  
+22| [达州](/huoche/zhan/dazhou.htm)| 13:46| 13:52| 6分| -  
+23| [渠县](/huoche/zhan/quxian.htm)| 14:39| 14:42| 3分| -  
+24| [广安](/huoche/zhan/guangan.htm)| 15:12| 15:15| 3分| -  
+25| [重庆北](/huoche/zhan/chongqingbei.htm)| 16:33| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

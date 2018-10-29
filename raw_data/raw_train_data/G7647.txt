@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从温州南开往合肥的G7647高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7647 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 温州南  
+发车时间 | 14:33  
+到站时间 | 20:36  
+全程时间 | 6小时3分  
+终点站 | 合肥  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [温州南](/huoche/zhan/wenzhounan.htm)| \----| 14:33| 0分| -  
+2| [永嘉](/huoche/zhan/yongjia.htm)| 14:42| 14:44| 2分| -  
+3| [雁荡山](/huoche/zhan/yandangshan.htm)| 15:06| 15:08| 2分| -  
+4| [台州](/huoche/zhan/taizhou2.htm)| 15:27| 15:30| 3分| -  
+5| [宁海](/huoche/zhan/ninghai.htm)| 15:59| 16:01| 2分| -  
+6| [宁波](/huoche/zhan/ningbo.htm)| 16:31| 16:37| 6分| -  
+7| [余姚北](/huoche/zhan/yuyaobei.htm)| 16:56| 16:58| 2分| -  
+8| [绍兴东](/huoche/zhan/shaoxingdong.htm)| 17:10| 17:16| 6分| -  
+9| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 17:27| 17:29| 2分| -  
+10| [杭州东](/huoche/zhan/hangzhoudong.htm)| 17:48| 17:50| 2分| -  
+11| [湖州](/huoche/zhan/huzhou.htm)| 18:11| 18:13| 2分| -  
+12| [长兴](/huoche/zhan/changxing.htm)| 18:22| 18:27| 5分| -  
+13| [宜兴](/huoche/zhan/yixing.htm)| 18:41| 18:43| 2分| -  
+14| [溧阳](/huoche/zhan/liyang.htm)| 18:54| 19:01| 7分| -  
+15| [句容西](/huoche/zhan/jurongxi.htm)| 19:23| 19:25| 2分| -  
+16| [南京南](/huoche/zhan/nanjingnan.htm)| 19:36| 19:40| 4分| -  
+17| [合肥](/huoche/zhan/hefei.htm)| 20:36| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

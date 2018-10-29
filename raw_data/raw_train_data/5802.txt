@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从阿拉山口开往乌鲁木齐的5802普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 5802 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 阿拉山口  
+发车时间 | 23:00  
+到站时间 | 08:20  
+全程时间 | 9小时20分  
+终点站 | 乌鲁木齐  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [阿拉山口](/huoche/zhan/alashankou.htm)| -| 23:00| 0分| -  
+2| [博乐](/huoche/zhan/bole.htm)| 23:35| 23:57| 22分| -  
+3| [奎屯](/huoche/zhan/kuitun.htm)| 03:24| 03:36| 12分| -  
+4| [沙湾县](/huoche/zhan/shawanxian.htm)| 04:48| 04:50| 2分| -  
+5| [石河子](/huoche/zhan/shihezi.htm)| 05:21| 05:23| 2分| -  
+6| [乌鲁木齐](/huoche/zhan/wulumuqi.htm)| 08:20| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

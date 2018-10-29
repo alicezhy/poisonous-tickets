@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南宁东开往北京西的G422高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G422 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 南宁东  
+发车时间 | 08:10  
+到站时间 | 21:09  
+全程时间 | 12小时59分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南宁东](/huoche/zhan/nanningdong.htm)| -| 08:10| 0分| -  
+2| [来宾北](/huoche/zhan/laibinbei.htm)| 08:52| 08:54| 2分| -  
+3| [柳州](/huoche/zhan/liuzhou.htm)| 09:20| 09:24| 4分| -  
+4| [桂林](/huoche/zhan/guilin.htm)| 10:29| 10:33| 4分| -  
+5| [全州南](/huoche/zhan/quanzhounan.htm)| 11:24| 11:26| 2分| -  
+6| [永州](/huoche/zhan/yongzhou.htm)| 12:05| 12:09| 4分| -  
+7| [祁东](/huoche/zhan/qidong.htm)| 12:35| 12:37| 2分| -  
+8| [衡阳东](/huoche/zhan/hengyangdong.htm)| 13:09| 13:12| 3分| -  
+9| [株洲西](/huoche/zhan/zhuzhouxi.htm)| 13:39| 13:41| 2分| -  
+10| [长沙南](/huoche/zhan/changshanan.htm)| 14:00| 14:12| 12分| -  
+11| [岳阳东](/huoche/zhan/yueyangdong.htm)| 14:45| 14:47| 2分| -  
+12| [咸宁北](/huoche/zhan/xianningbei.htm)| 15:18| 15:23| 5分| -  
+13| [武汉](/huoche/zhan/wuhan.htm)| 15:48| 15:58| 10分| -  
+14| [信阳东](/huoche/zhan/xinyangdong.htm)| 16:41| 16:44| 3分| -  
+15| [驻马店西](/huoche/zhan/zhumadianxi.htm)| 17:09| 17:11| 2分| -  
+16| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 18:03| 18:06| 3分| -  
+17| [安阳东](/huoche/zhan/anyangdong.htm)| 18:47| 18:49| 2分| -  
+18| [高邑西](/huoche/zhan/gaoyixi.htm)| 19:30| 19:32| 2分| -  
+19| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 19:48| 19:50| 2分| -  
+20| [涿州东](/huoche/zhan/zhuozhoudong.htm)| 20:42| 20:44| 2分| -  
+21| [北京西](/huoche/zhan/beijingxi.htm)| 21:09| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

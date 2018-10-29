@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海虹桥开往哈尔滨西的G1204高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1204 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 上海虹桥  
+发车时间 | 09:39  
+到站时间 | 21:54  
+全程时间 | 12小时15分  
+终点站 | 哈尔滨西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| \----| 09:39| 0分| -  
+2| [苏州北](/huoche/zhan/suzhoubei.htm)| 10:02| 10:04| 2分| -  
+3| [常州北](/huoche/zhan/changzhoubei.htm)| 10:26| 10:35| 9分| -  
+4| [镇江南](/huoche/zhan/zhenjiangnan.htm)| 10:53| 10:55| 2分| -  
+5| [南京南](/huoche/zhan/nanjingnan.htm)| 11:15| 11:22| 7分| -  
+6| [定远](/huoche/zhan/dingyuan.htm)| 11:52| 11:54| 2分| -  
+7| [徐州东](/huoche/zhan/xuzhoudong.htm)| 12:42| 12:44| 2分| -  
+8| [泰安](/huoche/zhan/taian2.htm)| 13:35| 13:37| 2分| -  
+9| [济南西](/huoche/zhan/jinanxi.htm)| 13:55| 14:08| 13分| -  
+10| [天津西](/huoche/zhan/tianjinxi.htm)| 15:18| 15:22| 4分| -  
+11| [滨海](/huoche/zhan/binhai.htm)| 15:45| 15:48| 3分| -  
+12| [唐山](/huoche/zhan/tangshan.htm)| 16:09| 16:12| 3分| -  
+13| [北戴河](/huoche/zhan/beidaihe.htm)| 16:43| 16:45| 2分| -  
+14| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 16:56| 16:58| 2分| -  
+15| [锦州南](/huoche/zhan/jinzhounan.htm)| 18:07| 18:08| 1分| -  
+16| [沈阳北](/huoche/zhan/shenyangbei.htm)| 19:27| 19:29| 2分| -  
+17| [开原西](/huoche/zhan/kaiyuanxi.htm)| 19:59| 20:00| 1分| -  
+18| [四平东](/huoche/zhan/sipingdong.htm)| 20:21| 20:22| 1分| -  
+19| [长春西](/huoche/zhan/changchunxi.htm)| 20:49| 20:51| 2分| -  
+20| [扶余北](/huoche/zhan/fuyubei.htm)| 21:26| 21:28| 2分| -  
+21| [哈尔滨西](/huoche/zhan/haerbinxi.htm)| 21:54| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

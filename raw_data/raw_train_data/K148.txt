@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从阜阳开往北京西的K148快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K148 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 阜阳  
+发车时间 | 21:06  
+到站时间 | 08:33  
+全程时间 | 11小时27分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [阜阳](/huoche/zhan/fuyang.htm)| -| 21:06| 0分| -  
+2| [亳州](/huoche/zhan/bozhou.htm)| 22:23| 22:33| 10分| -  
+3| [商丘南](/huoche/zhan/shangqiunan.htm)| 23:23| 23:26| 3分| -  
+4| [菏泽](/huoche/zhan/heze.htm)| 00:32| 00:35| 3分| -  
+5| [聊城](/huoche/zhan/liaocheng.htm)| 02:16| 02:22| 6分| -  
+6| [衡水](/huoche/zhan/hengshui.htm)| 04:29| 04:38| 9分| -  
+7| [肃宁](/huoche/zhan/suning.htm)| 05:32| 05:34| 2分| -  
+8| [任丘](/huoche/zhan/renqiu.htm)| 06:02| 06:42| 40分| -  
+9| [霸州](/huoche/zhan/bazhou.htm)| 07:18| 07:20| 2分| -  
+10| [黄村](/huoche/zhan/huangcun.htm)| 08:09| 08:11| 2分| -  
+11| [北京西](/huoche/zhan/beijingxi.htm)| 08:33| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

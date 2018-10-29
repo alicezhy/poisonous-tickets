@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从威海开往济南西的D6062动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D6062 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 威海  
+发车时间 | 10:40  
+到站时间 | 15:18  
+全程时间 | 4小时38分  
+终点站 | 济南西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [威海](/huoche/zhan/weihai.htm)| \----| 10:40| 0分| -  
+2| [牟平](/huoche/zhan/muping.htm)| 11:01| 11:03| 2分| -  
+3| [烟台南](/huoche/zhan/yantainan.htm)| 11:14| 11:17| 3分| -  
+4| [潍坊](/huoche/zhan/weifang.htm)| 13:02| 13:06| 4分| -  
+5| [青州市](/huoche/zhan/qingzhoushi.htm)| 13:27| 13:31| 4分| -  
+6| [章丘](/huoche/zhan/zhangqiu.htm)| 14:10| 14:13| 3分| -  
+7| [大明湖](/huoche/zhan/daminghu.htm)| 14:36| 14:51| 15分| -  
+8| [济南](/huoche/zhan/jinan.htm)| 14:58| 15:01| 3分| -  
+9| [济南西](/huoche/zhan/jinanxi.htm)| 15:18| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

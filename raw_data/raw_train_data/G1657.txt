@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海虹桥开往厦门北的G1657高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1657 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 上海虹桥  
+发车时间 | 10:18  
+到站时间 | 16:46  
+全程时间 | 6小时28分  
+终点站 | 厦门北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| -| 10:18| 0分| -  
+2| [嘉兴南](/huoche/zhan/jiaxingnan.htm)| 10:45| 10:48| 3分| -  
+3| [余杭](/huoche/zhan/yuhang.htm)| 11:06| 11:08| 2分| -  
+4| [杭州东](/huoche/zhan/hangzhoudong.htm)| 11:18| 11:20| 2分| -  
+5| [金华](/huoche/zhan/jinhua.htm)| 12:04| 12:06| 2分| -  
+6| [龙游](/huoche/zhan/longyou.htm)| 12:21| 12:23| 2分| -  
+7| [上饶](/huoche/zhan/shangrao.htm)| 13:01| 13:03| 2分| -  
+8| [武夷山东](/huoche/zhan/wuyishandong.htm)| 13:32| 13:34| 2分| -  
+9| [南平北](/huoche/zhan/nanpingbei.htm)| 14:01| 14:03| 2分| -  
+10| [古田北](/huoche/zhan/gutianbei.htm)| 14:17| 14:19| 2分| -  
+11| [福州](/huoche/zhan/fuzhou.htm)| 14:46| 15:02| 16分| -  
+12| [福清](/huoche/zhan/fuqing.htm)| 15:29| 15:31| 2分| -  
+13| [莆田](/huoche/zhan/putian.htm)| 15:51| 15:53| 2分| -  
+14| [泉州](/huoche/zhan/quanzhou2.htm)| 16:18| 16:20| 2分| -  
+15| [厦门北](/huoche/zhan/xiamenbei.htm)| 16:46| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

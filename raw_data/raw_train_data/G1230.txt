@@ -1,0 +1,56 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从丹东开往上海虹桥的G1230高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1230 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 丹东  
+发车时间 | 11:11  
+到站时间 | 22:30  
+全程时间 | 11小时19分  
+终点站 | 上海虹桥  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [丹东](/huoche/zhan/dandong.htm)| -| 11:11| 0分| -  
+2| [凤城东](/huoche/zhan/fengchengdong.htm)| 11:28| 11:30| 2分| -  
+3| [本溪](/huoche/zhan/benxi.htm)| 12:00| 12:02| 2分| -  
+4| [沈阳南](/huoche/zhan/shenyangnan.htm)| 12:27| 12:29| 2分| -  
+5| [沈阳](/huoche/zhan/shenyang3.htm)| 12:41| 12:44| 3分| -  
+6| [盘锦北](/huoche/zhan/panjinbei.htm)| 13:42| 13:43| 1分| -  
+8| [葫芦岛北](/huoche/zhan/huludaobei.htm)| 14:21| 14:22| 1分| -  
+9| [山海关](/huoche/zhan/shanhaiguan.htm)| 15:05| 15:07| 2分| -  
+10| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 15:21| 15:24| 3分| -  
+11| [滨海](/huoche/zhan/binhai.htm)| 16:18| 16:21| 3分| -  
+12| [天津](/huoche/zhan/tianjin.htm)| 16:37| 16:40| 3分| -  
+13| [天津西](/huoche/zhan/tianjinxi.htm)| 16:48| 16:53| 5分| -  
+14| [沧州西](/huoche/zhan/cangzhouxi.htm)| 17:24| 17:26| 2分| -  
+15| [德州东](/huoche/zhan/dezhoudong.htm)| 17:52| 17:54| 2分| -  
+16| [济南西](/huoche/zhan/jinanxi.htm)| 18:18| 18:32| 14分| -  
+17| [曲阜东](/huoche/zhan/qufudong.htm)| 19:04| 19:06| 2分| -  
+18| [徐州东](/huoche/zhan/xuzhoudong.htm)| 19:42| 19:45| 3分| -  
+19| [蚌埠南](/huoche/zhan/bengbunan.htm)| 20:23| 20:25| 2分| -  
+20| [南京南](/huoche/zhan/nanjingnan.htm)| 21:07| 21:09| 2分| -  
+21| [无锡东](/huoche/zhan/wuxidong.htm)| 21:52| 21:54| 2分| -  
+22| [苏州北](/huoche/zhan/suzhoubei.htm)| 22:05| 22:07| 2分| -  
+23| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 22:30| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

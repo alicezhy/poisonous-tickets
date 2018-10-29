@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从成都东开往阆中的D5124动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D5124 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 成都东  
+发车时间 | 07:48  
+到站时间 | 10:21  
+全程时间 | 2小时33分  
+终点站 | 阆中  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [成都东](/huoche/zhan/chengdudong.htm)| -| 07:48| 0分| -  
+2| [遂宁](/huoche/zhan/suining.htm)| 08:45| 08:49| 4分| -  
+3| [蓬溪](/huoche/zhan/pengxi.htm)| 09:04| 09:07| 3分| -  
+4| [南充北](/huoche/zhan/nanchongbei.htm)| 09:32| 09:37| 5分| -  
+5| [南部](/huoche/zhan/nanbu.htm)| 10:05| 10:08| 3分| -  
+6| [阆中](/huoche/zhan/langzhong.htm)| 10:21| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

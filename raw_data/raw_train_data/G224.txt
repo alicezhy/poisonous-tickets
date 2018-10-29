@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从青岛开往上海虹桥的G224高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G224 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 青岛  
+发车时间 | 06:43  
+到站时间 | 13:58  
+全程时间 | 7小时15分  
+终点站 | 上海虹桥  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [青岛](/huoche/zhan/qingdao.htm)| -| 06:43| 0分| -  
+2| [青岛北](/huoche/zhan/qingdaobei.htm)| 07:01| 07:03| 2分| -  
+3| [潍坊](/huoche/zhan/weifang.htm)| 07:58| 08:01| 3分| -  
+4| [青州市](/huoche/zhan/qingzhoushi.htm)| 08:22| 08:24| 2分| -  
+5| [淄博](/huoche/zhan/zibo.htm)| 08:42| 08:45| 3分| -  
+6| [济南](/huoche/zhan/jinan.htm)| 09:32| 09:35| 3分| -  
+7| [泰安](/huoche/zhan/taian2.htm)| 09:59| 10:04| 5分| -  
+8| [枣庄](/huoche/zhan/zaozhuang.htm)| 10:42| 10:44| 2分| -  
+9| [徐州东](/huoche/zhan/xuzhoudong.htm)| 11:02| 11:07| 5分| -  
+10| [宿州东](/huoche/zhan/suzhoudong.htm)| 11:26| 11:32| 6分| -  
+11| [南京南](/huoche/zhan/nanjingnan.htm)| 12:31| 12:33| 2分| -  
+12| [常州北](/huoche/zhan/changzhoubei.htm)| 13:05| 13:07| 2分| -  
+13| [无锡东](/huoche/zhan/wuxidong.htm)| 13:23| 13:27| 4分| -  
+14| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 13:58| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,61 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从包头开往大连的K57快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K57 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 包头  
+发车时间 | 17:00  
+到站时间 | 19:20  
+全程时间 | 26小时20分  
+终点站 | 大连  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [包头](/huoche/zhan/baotou.htm)| -| 17:00| 0分| -  
+2| [包头东](/huoche/zhan/baotoudong.htm)| 17:15| 17:19| 4分| -  
+3| [呼和浩特东](/huoche/zhan/huhehaotedong.htm)| 18:57| 19:05| 8分| -  
+4| [集宁南](/huoche/zhan/jiningnan.htm)| 20:30| 20:36| 6分| -  
+5| [大同](/huoche/zhan/datong.htm)| 22:16| 22:27| 11分| -  
+6| [阳高](/huoche/zhan/yanggao.htm)| 23:10| 23:12| 2分| -  
+7| [柴沟堡](/huoche/zhan/chaigoubao.htm)| 00:19| 00:21| 2分| -  
+8| [沙岭子西](/huoche/zhan/shalingzixi.htm)| 01:04| 01:10| 6分| -  
+9| [北京](/huoche/zhan/beijing.htm)| 04:27| 04:46| 19分| -  
+10| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 07:47| 07:51| 4分| -  
+11| [山海关](/huoche/zhan/shanhaiguan.htm)| 08:16| 08:22| 6分| -  
+12| [绥中](/huoche/zhan/suizhong2.htm)| 09:04| 09:13| 9分| -  
+13| [葫芦岛](/huoche/zhan/huludao.htm)| 09:58| 10:01| 3分| -  
+14| [锦州](/huoche/zhan/jinzhou.htm)| 10:38| 10:42| 4分| -  
+15| [大虎山](/huoche/zhan/dahushan.htm)| 11:47| 11:49| 2分| -  
+16| [新民](/huoche/zhan/xinmin.htm)| 12:32| 12:34| 2分| -  
+17| [沈阳](/huoche/zhan/shenyang3.htm)| 13:25| 13:48| 23分| -  
+18| [苏家屯](/huoche/zhan/sujiatun.htm)| 14:03| 14:05| 2分| -  
+19| [辽阳](/huoche/zhan/liaoyang.htm)| 14:37| 14:40| 3分| -  
+20| [鞍山](/huoche/zhan/anshan.htm)| 14:58| 15:02| 4分| -  
+21| [海城](/huoche/zhan/haicheng.htm)| 15:27| 15:30| 3分| -  
+22| [大石桥](/huoche/zhan/dashiqiao.htm)| 16:00| 16:06| 6分| -  
+23| [熊岳城](/huoche/zhan/xiongyuecheng.htm)| 16:44| 16:46| 2分| -  
+24| [瓦房店](/huoche/zhan/wafangdian.htm)| 17:34| 17:37| 3分| -  
+25| [普兰店](/huoche/zhan/pulandian.htm)| 18:13| 18:15| 2分| -  
+26| [金州](/huoche/zhan/jinzhou3.htm)| 18:45| 18:48| 3分| -  
+27| [大连](/huoche/zhan/dalian.htm)| 19:20| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

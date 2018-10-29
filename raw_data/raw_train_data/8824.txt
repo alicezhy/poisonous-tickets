@@ -1,0 +1,41 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从宁武开往大同的8824普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 8824 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 宁武  
+发车时间 | 14:46  
+到站时间 | 18:15  
+全程时间 | 3小时29分  
+终点站 | 大同  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [宁武](/huoche/zhan/ningwu.htm)| -| 14:46| 0分| -  
+2| [朔州](/huoche/zhan/shuozhou.htm)| 15:26| 15:34| 8分| -  
+3| [神头](/huoche/zhan/shentou.htm)| 15:50| 15:52| 2分| -  
+4| [岱岳](/huoche/zhan/daiyue.htm)| 16:21| 16:24| 3分| -  
+5| [怀仁](/huoche/zhan/huairen.htm)| 17:11| 17:14| 3分| -  
+6| [平旺](/huoche/zhan/pingwang.htm)| 17:49| 17:52| 3分| -  
+7| [大同](/huoche/zhan/datong.htm)| 18:15| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

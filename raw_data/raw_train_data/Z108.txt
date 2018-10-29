@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从深圳开往北京西的Z108直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z108 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 深圳  
+发车时间 | 14:48  
+到站时间 | 13:17  
+全程时间 | 22小时29分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [深圳](/huoche/zhan/shenzhen.htm)| -| 14:48| 0分| -  
+2| [惠州](/huoche/zhan/huizhou.htm)| 16:08| 16:14| 6分| -  
+3| [赣州](/huoche/zhan/ganzhou.htm)| 20:29| 20:32| 3分| -  
+4| [吉安](/huoche/zhan/jian6.htm)| 22:23| 22:26| 3分| -  
+5| [南昌](/huoche/zhan/nanchang.htm)| 00:40| 01:03| 23分| -  
+6| [阜阳](/huoche/zhan/fuyang.htm)| 05:58| 06:05| 7分| -  
+7| [菏泽](/huoche/zhan/heze.htm)| 08:23| 08:25| 2分| -  
+8| [聊城](/huoche/zhan/liaocheng.htm)| 09:32| 09:34| 2分| -  
+9| [衡水](/huoche/zhan/hengshui.htm)| 10:56| 11:00| 4分| -  
+10| [北京西](/huoche/zhan/beijingxi.htm)| 13:17| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

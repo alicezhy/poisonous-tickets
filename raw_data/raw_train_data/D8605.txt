@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从富宁开往昆明南的D8605动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D8605 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 富宁  
+发车时间 | 16:32  
+到站时间 | 18:58  
+全程时间 | 2小时26分  
+终点站 | 昆明南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [富宁](/huoche/zhan/funing3.htm)| \----| 16:32| 0分| -  
+2| [广南县](/huoche/zhan/guangnanxian.htm)| 16:58| 17:01| 3分| -  
+3| [珠琳](/huoche/zhan/zhulin.htm)| 17:19| 17:21| 2分| -  
+4| [普者黑](/huoche/zhan/puzhehei.htm)| 17:40| 17:42| 2分| -  
+5| [弥勒](/huoche/zhan/mile.htm)| 18:21| 18:23| 2分| -  
+6| [昆明南](/huoche/zhan/kunmingnan.htm)| 18:58| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

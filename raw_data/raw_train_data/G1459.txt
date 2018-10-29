@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从温州南开往萍乡北的G1459高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1459 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 温州南  
+发车时间 | 17:44  
+到站时间 | 22:34  
+全程时间 | 4小时50分  
+终点站 | 萍乡北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [温州南](/huoche/zhan/wenzhounan.htm)| -| 17:44| 0分| -  
+2| [青田](/huoche/zhan/qingtian.htm)| 18:03| 18:05| 2分| -  
+3| [丽水](/huoche/zhan/lishui.htm)| 18:24| 18:26| 2分| -  
+4| [缙云西](/huoche/zhan/jinyunxi.htm)| 18:39| 18:41| 2分| -  
+5| [金华南](/huoche/zhan/jinhuanan.htm)| 19:06| 19:08| 2分| -  
+6| [金华](/huoche/zhan/jinhua.htm)| 19:20| 19:22| 2分| -  
+7| [玉山南](/huoche/zhan/yushannan.htm)| 20:00| 20:10| 10分| -  
+8| [上饶](/huoche/zhan/shangrao.htm)| 20:22| 20:24| 2分| -  
+9| [鹰潭北](/huoche/zhan/yingtanbei.htm)| 20:50| 20:52| 2分| -  
+10| [南昌西](/huoche/zhan/nanchangxi.htm)| 21:27| 21:31| 4分| -  
+11| [新余北](/huoche/zhan/xinyubei.htm)| 22:03| 22:05| 2分| -  
+12| [萍乡北](/huoche/zhan/pingxiangbei2.htm)| 22:34| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

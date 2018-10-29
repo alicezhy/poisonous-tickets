@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从哈尔滨西开往天津西的G374高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G374 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 哈尔滨西  
+发车时间 | 17:03  
+到站时间 | 23:28  
+全程时间 | 6小时25分  
+终点站 | 天津西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [哈尔滨西](/huoche/zhan/haerbinxi.htm)| -| 17:03| 0分| -  
+2| [德惠西](/huoche/zhan/dehuixi.htm)| 17:41| 17:43| 2分| -  
+3| [长春西](/huoche/zhan/changchunxi.htm)| 18:06| 18:08| 2分| -  
+4| [四平东](/huoche/zhan/sipingdong.htm)| 18:34| 18:36| 2分| -  
+5| [昌图西](/huoche/zhan/changtuxi.htm)| 18:52| 18:53| 1分| -  
+6| [铁岭西](/huoche/zhan/tielingxi.htm)| 19:13| 19:15| 2分| -  
+7| [沈阳北](/huoche/zhan/shenyangbei.htm)| 19:33| 19:35| 2分| -  
+8| [辽中](/huoche/zhan/liaozhong.htm)| 20:07| 20:08| 1分| -  
+9| [锦州南](/huoche/zhan/jinzhounan.htm)| 20:58| 20:59| 1分| -  
+10| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 22:10| 22:12| 2分| -  
+11| [天津](/huoche/zhan/tianjin.htm)| 23:17| 23:20| 3分| -  
+12| [天津西](/huoche/zhan/tianjinxi.htm)| 23:28| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,56 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从哈尔滨东开往济南的K296快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K296 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 哈尔滨东  
+发车时间 | 19:56  
+到站时间 | 18:06  
+全程时间 | 22小时10分  
+终点站 | 济南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [哈尔滨东](/huoche/zhan/haerbindong.htm)| \----| 19:56| 0分| -  
+2| [扶余](/huoche/zhan/fuyu.htm)| 21:28| 21:30| 2分| -  
+4| [长春](/huoche/zhan/changchun.htm)| 23:05| 23:12| 7分| -  
+5| [四平](/huoche/zhan/siping.htm)| 01:44| 01:46| 2分| -  
+7| [沈阳北](/huoche/zhan/shenyangbei.htm)| 03:52| 03:59| 7分| -  
+9| [绥中北](/huoche/zhan/suizhongbei.htm)| 07:21| 07:49| 28分| -  
+10| [山海关](/huoche/zhan/shanhaiguan.htm)| 08:39| 08:45| 6分| -  
+11| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 09:05| 09:08| 3分| -  
+12| [北戴河](/huoche/zhan/beidaihe.htm)| 09:25| 09:32| 7分| -  
+14| [滦县](/huoche/zhan/luanxian.htm)| 10:18| 10:28| 10分| -  
+15| [唐山](/huoche/zhan/tangshan.htm)| 11:21| 11:29| 8分| -  
+16| [塘沽](/huoche/zhan/tanggu.htm)| 12:17| 12:20| 3分| -  
+17| [天津](/huoche/zhan/tianjin.htm)| 13:02| 13:13| 11分| -  
+18| [静海](/huoche/zhan/jinghai.htm)| 13:55| 13:57| 2分| -  
+19| [沧州](/huoche/zhan/cangzhou.htm)| 14:39| 14:44| 5分| -  
+20| [东光](/huoche/zhan/dongguang.htm)| 15:19| 15:22| 3分| -  
+21| [吴桥](/huoche/zhan/wuqiao.htm)| 15:46| 15:49| 3分| -  
+22| [德州](/huoche/zhan/dezhou.htm)| 16:13| 16:16| 3分| -  
+23| [平原](/huoche/zhan/pingyuan.htm)| 16:39| 16:42| 3分| -  
+24| [禹城](/huoche/zhan/yucheng.htm)| 17:06| 17:09| 3分| -  
+25| [晏城](/huoche/zhan/yancheng.htm)| 17:23| 17:28| 5分| -  
+26| [济南](/huoche/zhan/jinan.htm)| 18:06| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

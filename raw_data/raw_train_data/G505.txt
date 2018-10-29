@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京西开往长沙南的G505高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G505 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 北京西  
+发车时间 | 15:40  
+到站时间 | 22:32  
+全程时间 | 6小时52分  
+终点站 | 长沙南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京西](/huoche/zhan/beijingxi.htm)| \----| 15:40| 0分| -  
+2| [保定东](/huoche/zhan/baodingdong.htm)| 16:21| 16:23| 2分| -  
+3| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 16:59| 17:03| 4分| -  
+4| [邢台东](/huoche/zhan/xingtaidong.htm)| 17:31| 17:33| 2分| -  
+5| [邯郸东](/huoche/zhan/handandong.htm)| 17:49| 17:51| 2分| -  
+6| [鹤壁东](/huoche/zhan/hebidong.htm)| 18:19| 18:21| 2分| -  
+7| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 18:54| 18:57| 3分| -  
+8| [驻马店西](/huoche/zhan/zhumadianxi.htm)| 19:43| 19:45| 2分| -  
+9| [孝感北](/huoche/zhan/xiaoganbei.htm)| 20:23| 20:25| 2分| -  
+10| [武汉](/huoche/zhan/wuhan.htm)| 20:56| 20:59| 3分| -  
+11| [赤壁北](/huoche/zhan/chibibei.htm)| 21:32| 21:34| 2分| -  
+12| [岳阳东](/huoche/zhan/yueyangdong.htm)| 21:56| 21:58| 2分| -  
+13| [长沙南](/huoche/zhan/changshanan.htm)| 22:32| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从泰州开往广州的T151特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | T151 |  
+---|---|---|---  
+车型 | 特快火车  
+始发站 | 泰州  
+发车时间 | 15:35  
+到站时间 | 17:00  
+全程时间 | 25小时25分  
+终点站 | 广州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [泰州](/huoche/zhan/taizhou.htm)| \----| 15:35| 0分| -  
+2| [扬州](/huoche/zhan/yangzhou.htm)| 16:16| 16:22| 6分| -  
+3| [南京](/huoche/zhan/nanjing.htm)| 17:43| 17:56| 13分| -  
+4| [马鞍山](/huoche/zhan/maanshan.htm)| 19:07| 19:12| 5分| -  
+5| [芜湖](/huoche/zhan/wuhu.htm)| 19:49| 19:55| 6分| -  
+6| [宣城](/huoche/zhan/xuancheng.htm)| 20:49| 20:52| 3分| -  
+7| [绩溪县](/huoche/zhan/jixixian.htm)| 22:45| 22:51| 6分| -  
+8| [黄山](/huoche/zhan/huangshan.htm)| 23:40| 23:44| 4分| -  
+9| [景德镇](/huoche/zhan/jingdezhen.htm)| 02:27| 02:33| 6分| -  
+10| [鹰潭](/huoche/zhan/yingtan.htm)| 04:47| 05:08| 21分| -  
+11| [新余](/huoche/zhan/xinyu.htm)| 07:11| 07:14| 3分| -  
+12| [萍乡](/huoche/zhan/pingxiang.htm)| 08:23| 08:26| 3分| -  
+13| [株洲](/huoche/zhan/zhuzhou.htm)| 09:23| 09:38| 15分| -  
+14| [衡阳](/huoche/zhan/hengyang.htm)| 11:01| 11:07| 6分| -  
+15| [郴州](/huoche/zhan/chenzhou.htm)| 12:46| 12:50| 4分| -  
+16| [韶关东](/huoche/zhan/shaoguandong.htm)| 14:27| 14:31| 4分| -  
+17| [广州](/huoche/zhan/guangzhou.htm)| 17:00| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

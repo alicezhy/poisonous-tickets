@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从景德镇北开往上海虹桥的D3324动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D3324 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 景德镇北  
+发车时间 | 07:01  
+到站时间 | 11:41  
+全程时间 | 4小时40分  
+终点站 | 上海虹桥  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [景德镇北](/huoche/zhan/jingdezhenbei.htm)| -| 07:01| 0分| -  
+2| [婺源](/huoche/zhan/wuyuan2.htm)| 07:27| 07:29| 2分| -  
+3| [德兴](/huoche/zhan/dexing.htm)| 07:42| 07:44| 2分| -  
+4| [上饶](/huoche/zhan/shangrao.htm)| 08:02| 08:20| 18分| -  
+5| [江山](/huoche/zhan/jiangshan.htm)| 08:45| 08:47| 2分| -  
+6| [金华](/huoche/zhan/jinhua.htm)| 09:17| 09:22| 5分| -  
+7| [诸暨](/huoche/zhan/zhuji.htm)| 09:50| 09:53| 3分| -  
+8| [杭州东](/huoche/zhan/hangzhoudong.htm)| 10:18| 10:26| 8分| -  
+9| [嘉兴南](/huoche/zhan/jiaxingnan.htm)| 10:52| 11:01| 9分| -  
+10| [嘉善南](/huoche/zhan/jiashannan.htm)| 11:09| 11:16| 7分| -  
+11| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 11:41| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

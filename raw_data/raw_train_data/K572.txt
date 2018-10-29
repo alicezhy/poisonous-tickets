@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从厦门开往北京西的K572快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K572 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 厦门  
+发车时间 | 08:41  
+到站时间 | 12:56  
+全程时间 | 28小时15分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [厦门](/huoche/zhan/xiamen.htm)| \----| 08:41| 0分| -  
+2| [漳州](/huoche/zhan/zhangzhou.htm)| 09:26| 09:28| 2分| -  
+3| [龙岩](/huoche/zhan/longyan.htm)| 10:48| 10:52| 4分| -  
+4| [冠豸山](/huoche/zhan/guanzhishan.htm)| 11:35| 11:39| 4分| -  
+5| [长汀南](/huoche/zhan/changtingnan.htm)| 12:08| 12:13| 5分| -  
+6| [瑞金](/huoche/zhan/ruijin.htm)| 12:36| 12:41| 5分| -  
+7| [于都](/huoche/zhan/yudu.htm)| 13:23| 13:26| 3分| -  
+8| [赣州](/huoche/zhan/ganzhou.htm)| 14:01| 14:40| 39分| -  
+9| [吉安](/huoche/zhan/jian6.htm)| 16:47| 16:53| 6分| -  
+10| [新干](/huoche/zhan/xingan2.htm)| 17:47| 17:51| 4分| -  
+11| [南昌](/huoche/zhan/nanchang.htm)| 19:47| 20:07| 20分| -  
+12| [九江](/huoche/zhan/jiujiang.htm)| 21:24| 21:28| 4分| -  
+13| [麻城](/huoche/zhan/macheng.htm)| 23:48| 23:54| 6分| -  
+14| [潢川](/huoche/zhan/huangchuan.htm)| 01:08| 01:11| 3分| -  
+15| [阜阳](/huoche/zhan/fuyang.htm)| 02:28| 02:50| 22分| -  
+16| [菏泽](/huoche/zhan/heze.htm)| 05:40| 05:44| 4分| -  
+17| [聊城](/huoche/zhan/liaocheng.htm)| 07:28| 07:38| 10分| -  
+18| [临清](/huoche/zhan/linqing.htm)| 08:18| 08:21| 3分| -  
+19| [衡水](/huoche/zhan/hengshui.htm)| 09:28| 09:32| 4分| -  
+20| [任丘](/huoche/zhan/renqiu.htm)| 11:03| 11:15| 12分| -  
+21| [北京西](/huoche/zhan/beijingxi.htm)| 12:56| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

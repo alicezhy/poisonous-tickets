@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海开往安阳的K1103快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1103 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 上海  
+发车时间 | 13:44  
+到站时间 | 07:05  
+全程时间 | 17小时21分  
+终点站 | 安阳  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海](/huoche/zhan/shanghai.htm)| -| 13:44| 0分| -  
+2| [昆山](/huoche/zhan/kunshan.htm)| 14:20| 14:23| 3分| -  
+3| [苏州](/huoche/zhan/suzhou.htm)| 14:47| 14:50| 3分| -  
+4| [常州](/huoche/zhan/changzhou.htm)| 15:50| 15:53| 3分| -  
+5| [南京](/huoche/zhan/nanjing.htm)| 17:29| 17:49| 20分| -  
+6| [滁州北](/huoche/zhan/chuzhoubei.htm)| 18:27| 18:37| 10分| -  
+7| [蚌埠](/huoche/zhan/bengbu.htm)| 20:30| 20:34| 4分| -  
+8| [宿州](/huoche/zhan/suzhou2.htm)| 21:50| 21:53| 3分| -  
+9| [徐州](/huoche/zhan/xuzhou.htm)| 22:47| 22:54| 7分| -  
+10| [砀山](/huoche/zhan/dangshan.htm)| 00:06| 00:11| 5分| -  
+11| [商丘](/huoche/zhan/shangqiu.htm)| 01:01| 01:04| 3分| -  
+12| [兰考](/huoche/zhan/lankao.htm)| 02:00| 02:33| 33分| -  
+13| [开封](/huoche/zhan/kaifeng.htm)| 03:04| 03:10| 6分| -  
+14| [郑州](/huoche/zhan/zhengzhou.htm)| 04:24| 04:41| 17分| -  
+15| [新乡](/huoche/zhan/xinxiang2.htm)| 05:44| 05:50| 6分| -  
+16| [鹤壁](/huoche/zhan/hebi2.htm)| 06:29| 06:31| 2分| -  
+17| [汤阴](/huoche/zhan/tangyin.htm)| 06:46| 06:48| 2分| -  
+18| [安阳](/huoche/zhan/anyang.htm)| 07:05| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

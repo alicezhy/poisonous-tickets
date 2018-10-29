@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从深圳开往西安的K446快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K446 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 深圳  
+发车时间 | 07:45  
+到站时间 | 12:53  
+全程时间 | 29小时8分  
+终点站 | 西安  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [深圳](/huoche/zhan/shenzhen.htm)| -| 07:45| 0分| -  
+2| [东莞东](/huoche/zhan/dongguandong.htm)| 08:35| 08:43| 8分| -  
+3| [惠州](/huoche/zhan/huizhou.htm)| 09:26| 09:31| 5分| -  
+4| [河源](/huoche/zhan/heyuan.htm)| 10:24| 10:27| 3分| -  
+5| [龙川](/huoche/zhan/longchuan.htm)| 11:25| 11:27| 2分| -  
+7| [赣州](/huoche/zhan/ganzhou.htm)| 14:25| 14:28| 3分| -  
+8| [吉安](/huoche/zhan/jian6.htm)| 16:29| 16:33| 4分| -  
+10| [南昌西](/huoche/zhan/nanchangxi.htm)| 18:46| 19:03| 17分| -  
+12| [九江](/huoche/zhan/jiujiang.htm)| 21:17| 21:21| 4分| -  
+13| [武穴](/huoche/zhan/wuxue.htm)| 22:21| 22:24| 3分| -  
+14| [蕲春](/huoche/zhan/qinchun.htm)| 22:52| 22:55| 3分| -  
+15| [浠水](/huoche/zhan/xishui.htm)| 23:15| 23:18| 3分| -  
+16| [麻城](/huoche/zhan/macheng.htm)| 00:20| 00:26| 6分| -  
+19| [唐河](/huoche/zhan/tanghe2.htm)| 05:11| 05:15| 4分| -  
+20| [镇平](/huoche/zhan/zhenping.htm)| 06:39| 06:44| 5分| -  
+21| [内乡](/huoche/zhan/naxiang.htm)| 07:06| 07:11| 5分| -  
+22| [西峡](/huoche/zhan/xixia2.htm)| 07:41| 07:44| 3分| -  
+23| [商南](/huoche/zhan/shangnan.htm)| 08:45| 08:51| 6分| -  
+24| [丹凤](/huoche/zhan/danfeng.htm)| 09:35| 09:40| 5分| -  
+25| [商洛](/huoche/zhan/shangluo.htm)| 10:13| 10:16| 3分| -  
+26| [西安](/huoche/zhan/xian.htm)| 12:53| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

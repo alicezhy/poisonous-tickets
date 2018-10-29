@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海开往淮北的K8428快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K8428 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 上海  
+发车时间 | 23:53  
+到站时间 | 07:49  
+全程时间 | 7小时56分  
+终点站 | 淮北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海](/huoche/zhan/shanghai.htm)| -| 23:53| 0分| -  
+2| [常州](/huoche/zhan/changzhou.htm)| 02:02| 02:05| 3分| -  
+3| [南京](/huoche/zhan/nanjing.htm)| 03:38| 03:46| 8分| -  
+4| [蚌埠](/huoche/zhan/bengbu.htm)| 05:47| 05:58| 11分| -  
+5| [宿州](/huoche/zhan/suzhou2.htm)| 06:54| 06:58| 4分| -  
+6| [淮北](/huoche/zhan/huaibei.htm)| 07:49| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

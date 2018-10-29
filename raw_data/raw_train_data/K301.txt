@@ -1,0 +1,58 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从连云港东开往广州的K301快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K301 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 连云港东  
+发车时间 | 11:20  
+到站时间 | 15:05  
+全程时间 | 27小时45分  
+终点站 | 广州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [连云港东](/huoche/zhan/lianyungangdong.htm)| -| 11:20| 0分| -  
+2| [东海县](/huoche/zhan/donghaixian.htm)| 12:18| 12:21| 3分| -  
+3| [新沂](/huoche/zhan/xinyi.htm)| 12:51| 12:54| 3分| -  
+4| [邳州](/huoche/zhan/pizhou.htm)| 13:18| 13:22| 4分| -  
+5| [徐州](/huoche/zhan/xuzhou.htm)| 14:34| 15:00| 26分| -  
+6| [淮北](/huoche/zhan/huaibei.htm)| 16:01| 16:07| 6分| -  
+7| [涡阳](/huoche/zhan/guoyang.htm)| 17:01| 17:08| 7分| -  
+8| [阜阳](/huoche/zhan/fuyang.htm)| 18:32| 18:55| 23分| -  
+9| [阜南](/huoche/zhan/funan.htm)| 19:26| 19:29| 3分| -  
+10| [潢川](/huoche/zhan/huangchuan.htm)| 20:27| 20:30| 3分| -  
+11| [麻城](/huoche/zhan/macheng.htm)| 21:45| 21:51| 6分| -  
+12| [黄州](/huoche/zhan/huangzhou.htm)| 22:31| 22:34| 3分| -  
+13| [蕲春](/huoche/zhan/qinchun.htm)| 23:15| 23:19| 4分| -  
+14| [九江](/huoche/zhan/jiujiang.htm)| 00:23| 00:31| 8分| -  
+15| [南昌](/huoche/zhan/nanchang.htm)| 01:48| 02:07| 19分| -  
+16| [宜春](/huoche/zhan/yichun.htm)| 04:26| 04:30| 4分| -  
+17| [萍乡](/huoche/zhan/pingxiang.htm)| 05:14| 05:18| 4分| -  
+18| [株洲](/huoche/zhan/zhuzhou.htm)| 06:35| 06:58| 23分| -  
+19| [衡阳](/huoche/zhan/hengyang.htm)| 08:22| 08:28| 6分| -  
+20| [耒阳](/huoche/zhan/leiyang.htm)| 09:13| 09:16| 3分| -  
+21| [郴州](/huoche/zhan/chenzhou.htm)| 10:14| 10:18| 4分| -  
+22| [乐昌](/huoche/zhan/lechang.htm)| 11:25| 11:28| 3分| -  
+23| [韶关东](/huoche/zhan/shaoguandong.htm)| 12:04| 12:10| 6分| -  
+24| [广州](/huoche/zhan/guangzhou.htm)| 15:05| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

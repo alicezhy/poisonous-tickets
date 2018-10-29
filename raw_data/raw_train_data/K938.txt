@@ -1,0 +1,61 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从石家庄开往牡丹江的K938快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K938 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 石家庄  
+发车时间 | 15:48  
+到站时间 | 21:25  
+全程时间 | 29小时37分  
+终点站 | 牡丹江  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [石家庄](/huoche/zhan/shijiazhuang2.htm)| \----| 15:48| 0分| -  
+2| [定州](/huoche/zhan/dingzhou.htm)| 16:35| 16:37| 2分| -  
+3| [保定](/huoche/zhan/baoding.htm)| 17:14| 17:20| 6分| -  
+4| [徐水](/huoche/zhan/xushui.htm)| 17:37| 17:43| 6分| -  
+5| [天津](/huoche/zhan/tianjin.htm)| 20:50| 21:01| 11分| -  
+6| [芦台](/huoche/zhan/lutai.htm)| 21:59| 22:02| 3分| -  
+7| [唐山](/huoche/zhan/tangshan.htm)| 22:37| 22:43| 6分| -  
+8| [滦县](/huoche/zhan/luanxian.htm)| 23:39| 23:55| 16分| -  
+9| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 01:17| 01:38| 21分| -  
+10| [葫芦岛](/huoche/zhan/huludao.htm)| 04:05| 04:15| 10分| -  
+11| [锦州](/huoche/zhan/jinzhou.htm)| 04:58| 05:04| 6分| -  
+12| [沟帮子](/huoche/zhan/goubangzi.htm)| 05:44| 05:46| 2分| -  
+13| [大虎山](/huoche/zhan/dahushan.htm)| 06:13| 06:16| 3分| -  
+14| [沈阳](/huoche/zhan/shenyang3.htm)| 08:05| 08:12| 7分| -  
+15| [铁岭](/huoche/zhan/tieling.htm)| 09:03| 09:06| 3分| -  
+16| [开原](/huoche/zhan/kaiyuan.htm)| 09:28| 09:30| 2分| -  
+17| [昌图](/huoche/zhan/changtu.htm)| 09:52| 09:54| 2分| -  
+18| [四平](/huoche/zhan/siping.htm)| 10:54| 11:06| 12分| -  
+19| [公主岭](/huoche/zhan/gongzhuling.htm)| 11:51| 11:53| 2分| -  
+20| [长春](/huoche/zhan/changchun.htm)| 12:37| 12:47| 10分| -  
+21| [德惠](/huoche/zhan/dehui.htm)| 13:34| 13:37| 3分| -  
+22| [扶余](/huoche/zhan/fuyu.htm)| 14:18| 14:23| 5分| -  
+23| [哈尔滨东](/huoche/zhan/haerbindong.htm)| 16:28| 16:52| 24分| -  
+24| [阿城](/huoche/zhan/acheng.htm)| 17:21| 17:23| 2分| -  
+25| [横道河子](/huoche/zhan/hengdaohezi.htm)| 19:57| 19:59| 2分| -  
+26| [海林](/huoche/zhan/hailin.htm)| 20:56| 20:58| 2分| -  
+27| [牡丹江](/huoche/zhan/mudanjiang.htm)| 21:25| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

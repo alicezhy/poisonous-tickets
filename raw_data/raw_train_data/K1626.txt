@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从连云港东开往汉口的K1626快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1626 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 连云港东  
+发车时间 | 16:36  
+到站时间 | 05:10  
+全程时间 | 12小时34分  
+终点站 | 汉口  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [连云港东](/huoche/zhan/lianyungangdong.htm)| -| 16:36| 0分| -  
+2| [东海县](/huoche/zhan/donghaixian.htm)| 17:44| 17:49| 5分| -  
+3| [新沂](/huoche/zhan/xinyi.htm)| 18:21| 18:25| 4分| -  
+4| [邳州](/huoche/zhan/pizhou.htm)| 18:49| 18:52| 3分| -  
+5| [徐州](/huoche/zhan/xuzhou.htm)| 19:46| 20:04| 18分| -  
+6| [淮北](/huoche/zhan/huaibei.htm)| 21:02| 21:08| 6分| -  
+7| [涡阳](/huoche/zhan/guoyang.htm)| 22:11| 22:15| 4分| -  
+8| [阜阳](/huoche/zhan/fuyang.htm)| 23:21| 23:42| 21分| -  
+9| [淮滨](/huoche/zhan/huaibin.htm)| 00:36| 00:38| 2分| -  
+10| [潢川](/huoche/zhan/huangchuan.htm)| 01:36| 01:47| 11分| -  
+11| [新县](/huoche/zhan/xinxian.htm)| 02:30| 02:33| 3分| -  
+12| [麻城](/huoche/zhan/macheng.htm)| 03:27| 03:48| 21分| -  
+13| [汉口](/huoche/zhan/hankou.htm)| 05:10| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

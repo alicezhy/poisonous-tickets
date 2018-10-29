@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从呼和浩特开往乌兰浩特的K2014快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K2014 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 呼和浩特  
+发车时间 | 17:50  
+到站时间 | 13:47  
+全程时间 | 19小时57分  
+终点站 | 乌兰浩特  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [呼和浩特](/huoche/zhan/huhehaote.htm)| -| 17:50| 0分| -  
+2| [集宁南](/huoche/zhan/jiningnan.htm)| 19:23| 19:40| 17分| -  
+3| [贲红](/huoche/zhan/bihong.htm)| 20:18| 20:19| 1分| -  
+4| [商都](/huoche/zhan/shangdu.htm)| 20:53| 20:55| 2分| -  
+5| [化德](/huoche/zhan/huade.htm)| 21:41| 21:43| 2分| -  
+6| [正镶白旗](/huoche/zhan/zhengxiangbaiqi.htm)| 23:01| 23:07| 6分| -  
+7| [桑根达来](/huoche/zhan/sanggendalai.htm)| 00:22| 00:28| 6分| -  
+8| [锡林浩特](/huoche/zhan/xilinhaote.htm)| 02:26| 02:41| 15分| -  
+9| [西乌旗](/huoche/zhan/xiwuqi.htm)| 05:52| 05:55| 3分| -  
+10| [白音华南](/huoche/zhan/baiyinhuanan.htm)| 07:17| 07:20| 3分| -  
+11| [霍林郭勒](/huoche/zhan/huolinguole.htm)| 10:10| 10:16| 6分| -  
+12| [珠斯花](/huoche/zhan/zhusihua.htm)| 10:28| 10:54| 26分| -  
+13| [哈日努拉](/huoche/zhan/HaRiNuLa.htm)| 11:21| 11:24| 3分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,58 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从大同开往运城的K7807快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7807 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 大同  
+发车时间 | 06:20  
+到站时间 | 19:08  
+全程时间 | 12小时48分  
+终点站 | 运城  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [大同](/huoche/zhan/datong.htm)| -| 06:20| 0分| -  
+2| [怀仁](/huoche/zhan/huairen.htm)| 06:55| 06:58| 3分| -  
+3| [岱岳](/huoche/zhan/daiyue.htm)| 07:28| 07:31| 3分| -  
+4| [朔州](/huoche/zhan/shuozhou.htm)| 08:05| 08:11| 6分| -  
+5| [宁武](/huoche/zhan/ningwu.htm)| 08:45| 08:50| 5分| -  
+6| [轩岗](/huoche/zhan/xuangang.htm)| 09:21| 09:33| 12分| -  
+7| [原平](/huoche/zhan/yuanping.htm)| 10:24| 10:35| 11分| -  
+8| [忻州](/huoche/zhan/xinzhou.htm)| 10:59| 11:03| 4分| -  
+9| [阳曲](/huoche/zhan/yangqu3.htm)| 11:45| 11:47| 2分| -  
+10| [太原](/huoche/zhan/taiyuan.htm)| 12:15| 12:30| 15分| -  
+11| [太原南](/huoche/zhan/taiyuannan.htm)| 12:41| 12:45| 4分| -  
+12| [榆次](/huoche/zhan/yuci.htm)| 12:59| 13:03| 4分| -  
+13| [太谷](/huoche/zhan/taigu.htm)| 13:29| 13:32| 3分| -  
+14| [祁县](/huoche/zhan/qixian.htm)| 13:49| 13:51| 2分| -  
+15| [平遥](/huoche/zhan/pingyao.htm)| 14:06| 14:11| 5分| -  
+16| [介休](/huoche/zhan/jiexiu.htm)| 14:36| 14:40| 4分| -  
+17| [灵石](/huoche/zhan/lingshi.htm)| 15:05| 15:08| 3分| -  
+18| [霍州](/huoche/zhan/huozhou.htm)| 15:44| 15:47| 3分| -  
+19| [洪洞](/huoche/zhan/hongdong.htm)| 16:24| 16:27| 3分| -  
+20| [临汾](/huoche/zhan/linfen.htm)| 16:50| 16:56| 6分| -  
+21| [襄汾](/huoche/zhan/xiangfen.htm)| 17:15| 17:17| 2分| -  
+22| [侯马](/huoche/zhan/houma.htm)| 17:50| 17:55| 5分| -  
+23| [闻喜](/huoche/zhan/wenxi.htm)| 18:28| 18:31| 3分| -  
+24| [运城](/huoche/zhan/yuncheng.htm)| 19:08| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

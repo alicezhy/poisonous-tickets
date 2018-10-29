@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从汕头开往重庆北的K685快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K685 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 汕头  
+发车时间 | 07:58  
+到站时间 | 13:58  
+全程时间 | 30小时0分  
+终点站 | 重庆北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [汕头](/huoche/zhan/shantou.htm)| \----| 07:58| 0分| -  
+2| [潮州](/huoche/zhan/chaozhou.htm)| 08:31| 08:35| 4分| -  
+3| [揭阳](/huoche/zhan/jieyang.htm)| 08:55| 08:59| 4分| -  
+4| [丰顺](/huoche/zhan/fengshun.htm)| 09:21| 09:24| 3分| -  
+6| [兴宁](/huoche/zhan/xingning.htm)| 10:29| 10:32| 3分| -  
+7| [龙川](/huoche/zhan/longchuan.htm)| 11:25| 11:40| 15分| -  
+8| [河源](/huoche/zhan/heyuan.htm)| 12:36| 12:39| 3分| -  
+9| [惠州](/huoche/zhan/huizhou.htm)| 13:33| 13:38| 5分| -  
+10| [东莞东](/huoche/zhan/dongguandong.htm)| 14:22| 14:28| 6分| -  
+12| [广州](/huoche/zhan/guangzhou.htm)| 15:39| 15:59| 20分| -  
+13| [韶关东](/huoche/zhan/shaoguandong.htm)| 18:17| 18:23| 6分| -  
+15| [郴州](/huoche/zhan/chenzhou.htm)| 20:01| 20:10| 9分| -  
+16| [衡阳](/huoche/zhan/hengyang.htm)| 21:55| 22:01| 6分| -  
+17| [株洲](/huoche/zhan/zhuzhou.htm)| 23:26| 23:34| 8分| -  
+18| [娄底](/huoche/zhan/loudi.htm)| 01:10| 01:16| 6分| -  
+19| [怀化](/huoche/zhan/huaihua.htm)| 05:13| 05:25| 12分| -  
+20| [铜仁](/huoche/zhan/tongren.htm)| 06:28| 06:34| 6分| -  
+21| [秀山](/huoche/zhan/xiushan.htm)| 08:21| 08:27| 6分| -  
+22| [黔江](/huoche/zhan/qianjiang.htm)| 10:14| 10:20| 6分| -  
+24| [涪陵](/huoche/zhan/fuling.htm)| 12:41| 12:47| 6分| -  
+25| [重庆北](/huoche/zhan/chongqingbei.htm)| 13:58| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

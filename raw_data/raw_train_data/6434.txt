@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从承德开往兴隆县的6434普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 6434 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 承德  
+发车时间 | 17:44  
+到站时间 | 21:33  
+全程时间 | 3小时49分  
+终点站 | 兴隆县  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [承德](/huoche/zhan/chengde.htm)| \----| 17:44| 0分| -  
+2| [承德东](/huoche/zhan/chengdedong.htm)| 17:56| 17:58| 2分| -  
+3| [上板城](/huoche/zhan/shangbancheng.htm)| 18:09| 18:16| 7分| -  
+4| [上板城南](/huoche/zhan/shangbanchengnan.htm)| 18:22| 18:24| 2分| -  
+5| [西大庙](/huoche/zhan/xidamiao.htm)| 18:35| 18:39| 4分| -  
+6| [新杖子](/huoche/zhan/xinzhangzi.htm)| 18:53| 19:02| 9分| -  
+7| [南湾子](/huoche/zhan/nanwangzi.htm)| 19:13| 19:19| 6分| -  
+8| [潘家店](/huoche/zhan/panjiadian.htm)| 19:28| 19:35| 7分| -  
+9| [下台子](/huoche/zhan/xiataizi.htm)| 19:57| 20:12| 15分| -  
+10| [洞庙河](/huoche/zhan/dongmiaohe.htm)| 20:20| 20:22| 2分| -  
+11| [鹰手营子](/huoche/zhan/yingshouyingzi.htm)| 20:29| 20:31| 2分| -  
+12| [北马圈子](/huoche/zhan/beimaquanzi.htm)| 20:40| 21:11| 31分| -  
+13| [兴隆县](/huoche/zhan/xinglongxian.htm)| 21:33| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

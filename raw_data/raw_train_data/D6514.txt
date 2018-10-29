@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从冠豸山开往南昌的D6514动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D6514 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 冠豸山  
+发车时间 | 15:20  
+到站时间 | 22:14  
+全程时间 | 6小时54分  
+终点站 | 南昌  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [冠豸山](/huoche/zhan/guanzhishan.htm)| -| 15:20| 0分| -  
+2| [龙岩](/huoche/zhan/longyan.htm)| 15:47| 16:05| 18分| -  
+3| [南靖](/huoche/zhan/nanjing2.htm)| 16:36| 16:38| 2分| -  
+4| [漳州](/huoche/zhan/zhangzhou.htm)| 16:53| 16:55| 2分| -  
+5| [厦门北](/huoche/zhan/xiamenbei.htm)| 17:14| 17:19| 5分| -  
+6| [泉州](/huoche/zhan/quanzhou2.htm)| 17:44| 17:46| 2分| -  
+7| [仙游](/huoche/zhan/xianyou.htm)| 18:04| 18:06| 2分| -  
+10| [尤溪](/huoche/zhan/youxi2.htm)| 19:06| 19:08| 2分| -  
+11| [三明北](/huoche/zhan/sanmingbei.htm)| 19:27| 19:31| 4分| -  
+12| [泰宁](/huoche/zhan/taining.htm)| 20:04| 20:06| 2分| -  
+13| [建宁县北](/huoche/zhan/jianningxianbei.htm)| 20:19| 20:21| 2分| -  
+14| [南丰](/huoche/zhan/nanfeng.htm)| 20:41| 20:43| 2分| -  
+15| [南城](/huoche/zhan/nancheng.htm)| 20:56| 20:58| 2分| -  
+16| [抚州](/huoche/zhan/fuzhou2.htm)| 21:17| 21:19| 2分| -  
+17| [南昌](/huoche/zhan/nanchang.htm)| 22:14| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

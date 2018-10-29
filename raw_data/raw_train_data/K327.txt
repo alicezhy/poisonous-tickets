@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从广州开往温州的K327快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K327 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 广州  
+发车时间 | 10:15  
+到站时间 | 10:00  
+全程时间 | 23小时45分  
+终点站 | 温州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [广州](/huoche/zhan/guangzhou.htm)| \----| 10:15| 0分| -  
+2| [广州北](/huoche/zhan/guangzhoubei.htm)| 10:37| 10:40| 3分| -  
+3| [韶关东](/huoche/zhan/shaoguandong.htm)| 12:40| 12:46| 6分| -  
+4| [郴州](/huoche/zhan/chenzhou.htm)| 14:25| 14:31| 6分| -  
+5| [衡阳](/huoche/zhan/hengyang.htm)| 16:16| 16:22| 6分| -  
+6| [株洲](/huoche/zhan/zhuzhou.htm)| 18:00| 18:23| 23分| -  
+7| [醴陵](/huoche/zhan/liling.htm)| 18:53| 18:57| 4分| -  
+8| [萍乡](/huoche/zhan/pingxiang.htm)| 19:21| 19:25| 4分| -  
+9| [宜春](/huoche/zhan/yichun.htm)| 20:08| 20:12| 4分| -  
+10| [新余](/huoche/zhan/xinyu.htm)| 20:47| 20:51| 4分| -  
+11| [丰城](/huoche/zhan/fengcheng.htm)| 21:52| 21:56| 4分| -  
+12| [鹰潭](/huoche/zhan/yingtan.htm)| 23:21| 23:43| 22分| -  
+13| [上饶](/huoche/zhan/shangrao.htm)| 00:51| 00:57| 6分| -  
+16| [金华南](/huoche/zhan/jinhuanan.htm)| 05:33| 05:36| 3分| -  
+17| [武义](/huoche/zhan/wuyi2.htm)| 06:01| 06:03| 2分| -  
+18| [永康](/huoche/zhan/yongkang.htm)| 06:23| 06:25| 2分| -  
+19| [缙云](/huoche/zhan/jinyun.htm)| 06:56| 06:58| 2分| -  
+20| [丽水](/huoche/zhan/lishui.htm)| 07:30| 07:32| 2分| -  
+21| [青田](/huoche/zhan/qingtian.htm)| 09:05| 09:07| 2分| -  
+22| [温州](/huoche/zhan/wenzhou.htm)| 10:00| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从鸡西开往牡丹江的K7072快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7072 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 鸡西  
+发车时间 | 06:38  
+到站时间 | 09:55  
+全程时间 | 3小时17分  
+终点站 | 牡丹江  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [鸡西](/huoche/zhan/jixi2.htm)| -| 06:38| 0分| -  
+2| [滴道](/huoche/zhan/didao.htm)| 06:53| 06:55| 2分| -  
+3| [西麻山](/huoche/zhan/ximashan.htm)| 07:33| 07:36| 3分| -  
+4| [奎山](/huoche/zhan/kuishan.htm)| 07:45| 07:48| 3分| -  
+5| [林口](/huoche/zhan/linkou.htm)| 08:09| 08:14| 5分| -  
+7| [牡丹江](/huoche/zhan/mudanjiang.htm)| 09:55| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

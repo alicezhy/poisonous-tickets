@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从绥芬河开往哈尔滨东的K7002快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7002 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 绥芬河  
+发车时间 | 14:32  
+到站时间 | 21:16  
+全程时间 | 6小时44分  
+终点站 | 哈尔滨东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [绥芬河](/huoche/zhan/suifenhe.htm)| -| 14:32| 0分| -  
+2| [牡丹江](/huoche/zhan/mudanjiang.htm)| 15:49| 16:05| 16分| -  
+3| [横道河子](/huoche/zhan/hengdaohezi.htm)| 17:33| 17:43| 10分| -  
+4| [尚志](/huoche/zhan/shangzhi.htm)| 19:12| 19:15| 3分| -  
+5| [阿城](/huoche/zhan/acheng.htm)| 20:34| 20:38| 4分| -  
+6| [哈尔滨东](/huoche/zhan/haerbindong.htm)| 21:16| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

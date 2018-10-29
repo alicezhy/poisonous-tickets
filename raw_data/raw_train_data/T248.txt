@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从成都东开往武昌的T248特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | T248 |  
+---|---|---|---  
+车型 | 特快火车  
+始发站 | 成都东  
+发车时间 | 12:45  
+到站时间 | 04:55  
+全程时间 | 16小时10分  
+终点站 | 武昌  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [成都东](/huoche/zhan/chengdudong.htm)| \----| 12:45| 0分| -  
+2| [遂宁](/huoche/zhan/suining.htm)| 14:12| 14:15| 3分| -  
+3| [南充](/huoche/zhan/nanchong.htm)| 14:59| 15:30| 31分| -  
+4| [蓬安](/huoche/zhan/pengan.htm)| 15:55| 15:58| 3分| -  
+5| [土溪](/huoche/zhan/tuxi.htm)| 16:39| 16:55| 16分| -  
+6| [达州](/huoche/zhan/dazhou.htm)| 17:30| 17:39| 9分| -  
+7| [万源](/huoche/zhan/wanyuan.htm)| 19:12| 19:14| 2分| -  
+8| [安康](/huoche/zhan/ankang.htm)| 20:39| 20:46| 7分| -  
+9| [十堰](/huoche/zhan/shiyan.htm)| 23:24| 23:30| 6分| -  
+10| [襄阳东](/huoche/zhan/xiangyangdong.htm)| 01:25| 01:37| 12分| -  
+11| [随州](/huoche/zhan/suizhou.htm)| 02:50| 02:54| 4分| -  
+12| [安陆](/huoche/zhan/anlu.htm)| 03:29| 03:32| 3分| -  
+13| [云梦](/huoche/zhan/yunmeng.htm)| 03:47| 03:50| 3分| -  
+14| [武昌](/huoche/zhan/wuchang.htm)| 04:55| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

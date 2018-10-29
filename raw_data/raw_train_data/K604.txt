@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从运城开往北京的K604快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K604 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 运城  
+发车时间 | 12:20  
+到站时间 | 05:33  
+全程时间 | 17小时13分  
+终点站 | 北京  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [运城](/huoche/zhan/yuncheng.htm)| -| 12:20| 0分| -  
+2| [闻喜](/huoche/zhan/wenxi.htm)| 12:54| 12:57| 3分| -  
+3| [东镇](/huoche/zhan/dongzhen.htm)| 13:09| 13:11| 2分| -  
+4| [侯马](/huoche/zhan/houma.htm)| 13:40| 13:45| 5分| -  
+5| [襄汾](/huoche/zhan/xiangfen.htm)| 14:14| 14:16| 2分| -  
+6| [临汾](/huoche/zhan/linfen.htm)| 14:38| 14:44| 6分| -  
+7| [洪洞](/huoche/zhan/hongdong.htm)| 15:02| 15:05| 3分| -  
+8| [霍州](/huoche/zhan/huozhou.htm)| 15:42| 15:44| 2分| -  
+9| [灵石](/huoche/zhan/lingshi.htm)| 16:20| 16:22| 2分| -  
+10| [介休](/huoche/zhan/jiexiu.htm)| 16:52| 16:56| 4分| -  
+11| [平遥](/huoche/zhan/pingyao.htm)| 17:17| 17:21| 4分| -  
+12| [太谷](/huoche/zhan/taigu.htm)| 17:52| 17:55| 3分| -  
+13| [榆次](/huoche/zhan/yuci.htm)| 18:22| 18:26| 4分| -  
+14| [太原](/huoche/zhan/taiyuan.htm)| 19:16| 19:30| 14分| -  
+15| [忻州](/huoche/zhan/xinzhou.htm)| 20:36| 20:41| 5分| -  
+16| [原平](/huoche/zhan/yuanping.htm)| 21:11| 21:16| 5分| -  
+17| [代县](/huoche/zhan/daixian.htm)| 21:55| 21:58| 3分| -  
+18| [繁峙](/huoche/zhan/fanzhi.htm)| 22:23| 22:26| 3分| -  
+19| [五台山](/huoche/zhan/wutaishan.htm)| 22:50| 22:54| 4分| -  
+20| [灵丘](/huoche/zhan/lingqiu.htm)| 00:01| 00:24| 23分| -  
+21| [涞源](/huoche/zhan/laiyuan.htm)| 01:23| 01:27| 4分| -  
+22| [白涧](/huoche/zhan/baijian.htm)| 02:58| 03:01| 3分| -  
+23| [北京](/huoche/zhan/beijing.htm)| 05:33| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

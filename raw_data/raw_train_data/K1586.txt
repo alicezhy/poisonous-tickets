@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从温州开往武昌的K1586快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1586 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 温州  
+发车时间 | 13:47  
+到站时间 | 05:36  
+全程时间 | 15小时49分  
+终点站 | 武昌  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [温州](/huoche/zhan/wenzhou.htm)| -| 13:47| 0分| -  
+2| [丽水](/huoche/zhan/lishui.htm)| 15:51| 15:53| 2分| -  
+3| [缙云](/huoche/zhan/jinyun.htm)| 16:25| 16:27| 2分| -  
+4| [永康](/huoche/zhan/yongkang.htm)| 16:58| 17:01| 3分| -  
+5| [武义](/huoche/zhan/wuyi2.htm)| 17:21| 17:28| 7分| -  
+6| [衢州](/huoche/zhan/quzhou.htm)| 19:29| 19:32| 3分| -  
+7| [玉山](/huoche/zhan/yushan.htm)| 20:39| 20:42| 3分| -  
+8| [上饶](/huoche/zhan/shangrao.htm)| 21:04| 21:08| 4分| -  
+9| [贵溪](/huoche/zhan/guixi.htm)| 22:03| 22:07| 4分| -  
+10| [鹰潭](/huoche/zhan/yingtan.htm)| 22:24| 22:35| 11分| -  
+11| [南昌](/huoche/zhan/nanchang.htm)| 00:07| 00:20| 13分| -  
+12| [阳新](/huoche/zhan/yangxin.htm)| 02:52| 03:07| 15分| -  
+13| [鄂州](/huoche/zhan/ezhou.htm)| 03:54| 03:57| 3分| -  
+14| [武昌](/huoche/zhan/wuchang.htm)| 05:36| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

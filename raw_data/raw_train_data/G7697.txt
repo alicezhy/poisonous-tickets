@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从江山开往淮北的G7697高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7697 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 江山  
+发车时间 | 15:44  
+到站时间 | 21:34  
+全程时间 | 5小时50分  
+终点站 | 淮北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [江山](/huoche/zhan/jiangshan.htm)| -| 15:44| 0分| -  
+2| [衢州](/huoche/zhan/quzhou.htm)| 15:55| 15:57| 2分| -  
+3| [龙游](/huoche/zhan/longyou.htm)| 16:08| 16:13| 5分| -  
+4| [金华](/huoche/zhan/jinhua.htm)| 16:28| 16:30| 2分| -  
+5| [义乌](/huoche/zhan/yiwu.htm)| 16:46| 16:48| 2分| -  
+6| [杭州东](/huoche/zhan/hangzhoudong.htm)| 17:22| 17:24| 2分| -  
+7| [德清](/huoche/zhan/deqing.htm)| 17:37| 17:39| 2分| -  
+8| [湖州](/huoche/zhan/huzhou.htm)| 17:52| 17:54| 2分| -  
+9| [宜兴](/huoche/zhan/yixing.htm)| 18:11| 18:13| 2分| -  
+10| [溧阳](/huoche/zhan/liyang.htm)| 18:24| 18:26| 2分| -  
+11| [瓦屋山](/huoche/zhan/wawushan.htm)| 18:37| 18:39| 2分| -  
+12| [南京南](/huoche/zhan/nanjingnan.htm)| 19:00| 19:12| 12分| -  
+13| [蚌埠南](/huoche/zhan/bengbunan.htm)| 19:53| 19:58| 5分| -  
+14| [宿州东](/huoche/zhan/suzhoudong.htm)| 20:21| 20:23| 2分| -  
+15| [徐州东](/huoche/zhan/xuzhoudong.htm)| 20:42| 20:46| 4分| -  
+16| [萧县北](/huoche/zhan/xiaoxianbei.htm)| 21:04| 21:06| 2分| -  
+17| [淮北北](/huoche/zhan/huaibeibei.htm)| 21:18| 21:20| 2分| -  
+18| [淮北](/huoche/zhan/huaibei.htm)| 21:34| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

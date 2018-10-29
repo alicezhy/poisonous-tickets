@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南充北开往北京西的G310高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G310 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 南充北  
+发车时间 | 08:05  
+到站时间 | 21:42  
+全程时间 | 13小时37分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南充北](/huoche/zhan/nanchongbei.htm)| \----| 08:05| 0分| -  
+2| [武胜](/huoche/zhan/wusheng.htm)| 08:32| 08:34| 2分| -  
+3| [重庆北](/huoche/zhan/chongqingbei.htm)| 09:20| 09:31| 11分| -  
+4| [涪陵北](/huoche/zhan/fulingbei.htm)| 10:08| 10:11| 3分| -  
+5| [丰都](/huoche/zhan/fengdu.htm)| 10:30| 10:33| 3分| -  
+6| [石柱县](/huoche/zhan/shizhuxian.htm)| 10:53| 10:55| 2分| -  
+7| [利川](/huoche/zhan/lichuan.htm)| 11:33| 11:35| 2分| -  
+8| [恩施](/huoche/zhan/enshi.htm)| 12:07| 12:11| 4分| -  
+9| [宜昌东](/huoche/zhan/yichangdong.htm)| 13:54| 14:00| 6分| -  
+10| [荆州](/huoche/zhan/jingzhou2.htm)| 14:34| 14:40| 6分| -  
+11| [天门南](/huoche/zhan/tianmennan.htm)| 15:22| 15:24| 2分| -  
+12| [汉口](/huoche/zhan/hankou.htm)| 16:03| 16:10| 7分| -  
+13| [信阳东](/huoche/zhan/xinyangdong.htm)| 16:59| 17:01| 2分| -  
+14| [漯河西](/huoche/zhan/luohexi.htm)| 17:39| 17:41| 2分| -  
+15| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 18:19| 18:24| 5分| -  
+16| [新乡东](/huoche/zhan/xinxiangdong.htm)| 18:44| 18:46| 2分| -  
+17| [安阳东](/huoche/zhan/anyangdong.htm)| 19:12| 19:14| 2分| -  
+18| [邢台东](/huoche/zhan/xingtaidong.htm)| 19:42| 19:44| 2分| -  
+19| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 20:12| 20:16| 4分| -  
+20| [保定东](/huoche/zhan/baodingdong.htm)| 20:52| 21:00| 8分| -  
+21| [北京西](/huoche/zhan/beijingxi.htm)| 21:42| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从鸡西开往扎兰屯的K7076快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7076 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 鸡西  
+发车时间 | 20:41  
+到站时间 | 11:15  
+全程时间 | 14小时34分  
+终点站 | 扎兰屯  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [鸡西](/huoche/zhan/jixi2.htm)| \----| 20:41| 0分| -  
+3| [牡丹江](/huoche/zhan/mudanjiang.htm)| 23:32| 23:48| 16分| -  
+5| [哈尔滨东](/huoche/zhan/haerbindong.htm)| 04:34| 04:51| 17分| -  
+6| [万乐](/huoche/zhan/wanle.htm)| 05:19| 05:20| 1分| -  
+7| [对青山](/huoche/zhan/duiqingshan.htm)| 05:29| 05:31| 2分| -  
+8| [里木店](/huoche/zhan/limudian.htm)| 05:40| 05:42| 2分| -  
+9| [姜家](/huoche/zhan/jiangjia.htm)| 05:52| 05:53| 1分| -  
+10| [肇东](/huoche/zhan/zhaodong2.htm)| 06:04| 06:06| 2分| -  
+11| [尚家](/huoche/zhan/shangjia.htm)| 06:15| 06:16| 1分| -  
+12| [宋](/huoche/zhan/song16.htm)| 06:30| 06:32| 2分| -  
+13| [羊草](/huoche/zhan/yangcao2.htm)| 06:47| 06:49| 2分| -  
+14| [安达](/huoche/zhan/anda.htm)| 07:00| 07:04| 4分| -  
+16| [大庆](/huoche/zhan/daqing.htm)| 07:28| 07:31| 3分| -  
+17| [大庆西](/huoche/zhan/daqingxi.htm)| 07:40| 07:42| 2分| -  
+18| [昂昂溪](/huoche/zhan/angangxi.htm)| 08:44| 08:50| 6分| -  
+19| [富拉尔基](/huoche/zhan/fulaerji.htm)| 09:05| 09:10| 5分| -  
+21| [龙江](/huoche/zhan/longjiang.htm)| 09:42| 09:44| 2分| -  
+23| [碾子山](/huoche/zhan/nianzishan.htm)| 10:09| 10:11| 2分| -  
+25| [成吉思汗](/huoche/zhan/chengjisihan.htm)| 10:34| 10:37| 3分| -  
+26| [高台子](/huoche/zhan/GaoTaiZi.htm)| 11:00| 11:02| 2分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

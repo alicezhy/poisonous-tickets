@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从宜昌东开往北京西的T50特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | T50 |  
+---|---|---|---  
+车型 | 特快火车  
+始发站 | 宜昌东  
+发车时间 | 19:15  
+到站时间 | 14:00  
+全程时间 | 18小时45分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [宜昌东](/huoche/zhan/yichangdong.htm)| -| 19:15| 0分| -  
+2| [当阳](/huoche/zhan/dangyang.htm)| 19:56| 20:01| 5分| -  
+3| [荆门](/huoche/zhan/jingmen.htm)| 20:38| 20:41| 3分| -  
+4| [襄阳](/huoche/zhan/xiangyang2.htm)| 22:09| 22:32| 23分| -  
+5| [平顶山](/huoche/zhan/pingdingshan2.htm)| 02:18| 02:25| 7分| -  
+6| [漯河](/huoche/zhan/luohe.htm)| 03:30| 03:55| 25分| -  
+7| [郑州](/huoche/zhan/zhengzhou.htm)| 06:25| 06:43| 18分| -  
+8| [新乡](/huoche/zhan/xinxiang2.htm)| 07:34| 07:37| 3分| -  
+9| [安阳](/huoche/zhan/anyang.htm)| 08:34| 08:37| 3分| -  
+10| [邢台](/huoche/zhan/xingtai.htm)| 09:42| 09:45| 3分| -  
+11| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 10:48| 10:58| 10分| -  
+12| [保定](/huoche/zhan/baoding.htm)| 12:11| 12:28| 17分| -  
+13| [北京西](/huoche/zhan/beijingxi.htm)| 14:00| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从厦门北开往长沙南的G1694高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1694 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 厦门北  
+发车时间 | 15:46  
+到站时间 | 22:25  
+全程时间 | 6小时39分  
+终点站 | 长沙南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [厦门北](/huoche/zhan/xiamenbei.htm)| -| 15:46| 0分| -  
+2| [泉州](/huoche/zhan/quanzhou2.htm)| 16:11| 16:13| 2分| -  
+3| [仙游](/huoche/zhan/xianyou.htm)| 16:31| 16:33| 2分| -  
+4| [莆田](/huoche/zhan/putian.htm)| 16:44| 16:46| 2分| -  
+5| [福清](/huoche/zhan/fuqing.htm)| 17:05| 17:07| 2分| -  
+6| [福州](/huoche/zhan/fuzhou.htm)| 17:34| 17:39| 5分| -  
+7| [闽清北](/huoche/zhan/minqingbei.htm)| 17:58| 18:00| 2分| -  
+8| [南平北](/huoche/zhan/nanpingbei.htm)| 18:20| 18:22| 2分| -  
+9| [武夷山东](/huoche/zhan/wuyishandong.htm)| 18:49| 18:51| 2分| -  
+10| [武夷山北](/huoche/zhan/wuyishanbei.htm)| 19:03| 19:05| 2分| -  
+11| [上饶](/huoche/zhan/shangrao.htm)| 19:27| 19:31| 4分| -  
+12| [鹰潭北](/huoche/zhan/yingtanbei.htm)| 20:01| 20:03| 2分| -  
+13| [进贤南](/huoche/zhan/jinxiannan.htm)| 20:25| 20:27| 2分| -  
+14| [南昌西](/huoche/zhan/nanchangxi.htm)| 20:45| 20:48| 3分| -  
+15| [宜春](/huoche/zhan/yichun.htm)| 21:31| 21:33| 2分| -  
+16| [萍乡北](/huoche/zhan/pingxiangbei2.htm)| 21:50| 21:52| 2分| -  
+17| [长沙南](/huoche/zhan/changshanan.htm)| 22:25| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

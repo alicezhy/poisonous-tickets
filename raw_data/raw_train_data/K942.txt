@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从贵阳开往温州的K942快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K942 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 贵阳  
+发车时间 | 11:15  
+到站时间 | 14:28  
+全程时间 | 27小时13分  
+终点站 | 温州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [贵阳](/huoche/zhan/guiyang.htm)| -| 11:15| 0分| -  
+2| [凯里](/huoche/zhan/kaili.htm)| 13:37| 13:42| 5分| -  
+3| [镇远](/huoche/zhan/zhenyuan.htm)| 14:56| 15:01| 5分| -  
+4| [玉屏](/huoche/zhan/yuping.htm)| 16:00| 16:06| 6分| -  
+5| [怀化](/huoche/zhan/huaihua.htm)| 17:41| 18:01| 20分| -  
+6| [溆浦](/huoche/zhan/xupu.htm)| 19:16| 19:19| 3分| -  
+7| [新化](/huoche/zhan/xinhua.htm)| 20:48| 20:52| 4分| -  
+8| [涟源](/huoche/zhan/lianyuan.htm)| 21:36| 21:40| 4分| -  
+9| [娄底](/huoche/zhan/loudi.htm)| 22:19| 22:25| 6分| -  
+10| [湘乡](/huoche/zhan/xiangxiang.htm)| 23:05| 23:08| 3分| -  
+11| [湘潭](/huoche/zhan/xiangtan2.htm)| 23:39| 23:44| 5分| -  
+12| [株洲](/huoche/zhan/zhuzhou.htm)| 00:26| 00:45| 19分| -  
+14| [鹰潭](/huoche/zhan/yingtan.htm)| 05:29| 05:48| 19分| -  
+15| [上饶](/huoche/zhan/shangrao.htm)| 06:56| 07:00| 4分| -  
+16| [玉山](/huoche/zhan/yushan.htm)| 07:21| 07:25| 4分| -  
+17| [江山](/huoche/zhan/jiangshan.htm)| 08:20| 08:30| 10分| -  
+18| [衢州](/huoche/zhan/quzhou.htm)| 08:50| 08:53| 3分| -  
+19| [金华南](/huoche/zhan/jinhuanan.htm)| 10:16| 10:20| 4分| -  
+20| [武义](/huoche/zhan/wuyi2.htm)| 10:49| 10:57| 8分| -  
+21| [永康](/huoche/zhan/yongkang.htm)| 11:17| 11:19| 2分| -  
+22| [缙云](/huoche/zhan/jinyun.htm)| 11:50| 11:52| 2分| -  
+23| [丽水](/huoche/zhan/lishui.htm)| 12:24| 12:30| 6分| -  
+24| [温州](/huoche/zhan/wenzhou.htm)| 14:28| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

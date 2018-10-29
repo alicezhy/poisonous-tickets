@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从呼和浩特开往昆明的K691快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K691 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 呼和浩特  
+发车时间 | 18:02  
+到站时间 | 08:32  
+全程时间 | 38小时30分  
+终点站 | 昆明  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [呼和浩特](/huoche/zhan/huhehaote.htm)| -| 18:02| 0分| -  
+2| [萨拉齐](/huoche/zhan/salaqi.htm)| 19:00| 19:16| 16分| -  
+3| [包头东](/huoche/zhan/baotoudong.htm)| 19:46| 19:50| 4分| -  
+4| [包头](/huoche/zhan/baotou.htm)| 20:06| 20:17| 11分| -  
+5| [达拉特西](/huoche/zhan/dalatexi.htm)| 20:42| 20:46| 4分| -  
+6| [东胜西](/huoche/zhan/dongshengxi.htm)| 21:36| 21:44| 8分| -  
+7| [鄂尔多斯](/huoche/zhan/eerduosi.htm)| 22:02| 22:04| 2分| -  
+8| [榆林](/huoche/zhan/yulin2.htm)| 00:03| 00:23| 20分| -  
+9| [绥德](/huoche/zhan/suide.htm)| 01:33| 01:38| 5分| -  
+10| [延安](/huoche/zhan/yanan.htm)| 03:29| 03:35| 6分| -  
+11| [西安南](/huoche/zhan/xiannan.htm)| 07:16| 07:24| 8分| -  
+12| [安康](/huoche/zhan/ankang.htm)| 10:35| 10:55| 20分| -  
+13| [达州](/huoche/zhan/dazhou.htm)| 14:48| 14:58| 10分| -  
+14| [渠县](/huoche/zhan/quxian.htm)| 15:45| 15:49| 4分| -  
+15| [广安](/huoche/zhan/guangan.htm)| 16:19| 16:23| 4分| -  
+16| [重庆西](/huoche/zhan/chongqingxi.htm)| 17:55| 18:26| 31分| -  
+17| [贵阳](/huoche/zhan/guiyang.htm)| 23:21| 23:48| 27分| -  
+18| [六盘水](/huoche/zhan/liupanshui.htm)| 03:49| 03:59| 10分| -  
+19| [宣威](/huoche/zhan/xuanwei.htm)| 05:45| 05:51| 6分| -  
+20| [曲靖](/huoche/zhan/qujing.htm)| 06:52| 06:58| 6分| -  
+21| [昆明](/huoche/zhan/kunming.htm)| 08:32| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

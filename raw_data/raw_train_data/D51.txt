@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京开往沈阳北的D51动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D51 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 北京  
+发车时间 | 17:13  
+到站时间 | 23:17  
+全程时间 | 6小时4分  
+终点站 | 沈阳北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京](/huoche/zhan/beijing.htm)| \----| 17:13| 0分| -  
+2| [唐山北](/huoche/zhan/tangshanbei.htm)| 18:24| 18:25| 1分| -  
+3| [滦县](/huoche/zhan/luanxian.htm)| 18:52| 18:53| 1分| -  
+4| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 19:40| 19:42| 2分| -  
+5| [山海关](/huoche/zhan/shanhaiguan.htm)| 20:04| 20:06| 2分| -  
+6| [葫芦岛北](/huoche/zhan/huludaobei.htm)| 20:53| 20:54| 1分| -  
+7| [锦州南](/huoche/zhan/jinzhounan.htm)| 21:11| 21:12| 1分| -  
+8| [盘锦](/huoche/zhan/panjin.htm)| 21:53| 21:55| 2分| -  
+9| [海城西](/huoche/zhan/haichengxi.htm)| 22:18| 22:20| 2分| -  
+10| [鞍山西](/huoche/zhan/anshanxi.htm)| 22:32| 22:34| 2分| -  
+11| [辽阳](/huoche/zhan/liaoyang.htm)| 22:46| 22:48| 2分| -  
+12| [沈阳北](/huoche/zhan/shenyangbei.htm)| 23:17| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

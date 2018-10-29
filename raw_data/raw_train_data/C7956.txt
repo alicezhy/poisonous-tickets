@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从小金口开往道滘的C7956城际高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | C7956 |  
+---|---|---|---  
+车型 | 城际高铁  
+始发站 | 小金口  
+发车时间 | 16:10  
+到站时间 | 17:47  
+全程时间 | 1小时37分  
+终点站 | 道滘  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [小金口](/huoche/zhan/xiaojinkou.htm)| \----| 16:10| 0分| -  
+2| [云山](/huoche/zhan/yunshan.htm)| 16:16| 16:17| 1分| -  
+3| [西湖东](/huoche/zhan/xihudong.htm)| 16:21| 16:22| 1分| -  
+4| [龙丰](/huoche/zhan/longfeng.htm)| 16:25| 16:26| 1分| -  
+5| [惠环](/huoche/zhan/huihuan.htm)| 16:31| 16:32| 1分| -  
+6| [仲恺](/huoche/zhan/zhongkai.htm)| 16:36| 16:37| 1分| -  
+7| [沥林北](/huoche/zhan/lilinbei.htm)| 16:45| 16:46| 1分| -  
+8| [银瓶](/huoche/zhan/yinping.htm)| 16:51| 16:52| 1分| -  
+9| [樟木头东](/huoche/zhan/zhangmutoudong.htm)| 16:56| 16:57| 1分| -  
+10| [常平东](/huoche/zhan/changpingdong.htm)| 17:03| 17:04| 1分| -  
+11| [常平南](/huoche/zhan/changpingnan.htm)| 17:08| 17:09| 1分| -  
+12| [大朗镇](/huoche/zhan/dalangzhen.htm)| 17:14| 17:15| 1分| -  
+13| [松山湖北](/huoche/zhan/songshanhubei.htm)| 17:20| 17:21| 1分| -  
+14| [寮步](/huoche/zhan/liaobu.htm)| 17:26| 17:27| 1分| -  
+15| [东城南](/huoche/zhan/dongchengnan.htm)| 17:33| 17:34| 1分| -  
+16| [西平西](/huoche/zhan/xipingxi.htm)| 17:38| 17:39| 1分| -  
+17| [道滘](/huoche/zhan/daojiao.htm)| 17:47| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

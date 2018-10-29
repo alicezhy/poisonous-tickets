@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从济南开往宁波的T135特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | T135 |  
+---|---|---|---  
+车型 | 特快火车  
+始发站 | 济南  
+发车时间 | 17:35  
+到站时间 | 11:12  
+全程时间 | 17小时37分  
+终点站 | 宁波  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [济南](/huoche/zhan/jinan.htm)| -| 17:35| 0分| -  
+2| [泰山](/huoche/zhan/taishan.htm)| 18:21| 18:24| 3分| -  
+3| [兖州](/huoche/zhan/yanzhou.htm)| 19:16| 19:18| 2分| -  
+4| [滕州](/huoche/zhan/tengzhou.htm)| 19:52| 19:55| 3分| -  
+5| [枣庄西](/huoche/zhan/zaozhuangxi.htm)| 20:14| 20:16| 2分| -  
+6| [徐州](/huoche/zhan/xuzhou.htm)| 21:12| 21:20| 8分| -  
+7| [宿州](/huoche/zhan/suzhou2.htm)| 22:08| 22:11| 3分| -  
+8| [蚌埠](/huoche/zhan/bengbu.htm)| 23:10| 23:16| 6分| -  
+9| [南京](/huoche/zhan/nanjing.htm)| 01:14| 01:29| 15分| -  
+10| [镇江](/huoche/zhan/zhenjiang.htm)| 02:09| 02:12| 3分| -  
+12| [无锡](/huoche/zhan/wuxi.htm)| 03:22| 03:26| 4分| -  
+13| [苏州](/huoche/zhan/suzhou.htm)| 04:10| 04:14| 4分| -  
+14| [上海南](/huoche/zhan/shanghainan.htm)| 05:50| 06:21| 31分| -  
+15| [嘉兴](/huoche/zhan/jiaxing.htm)| 07:03| 07:06| 3分| -  
+16| [海宁](/huoche/zhan/haining.htm)| 07:28| 07:31| 3分| -  
+17| [杭州东](/huoche/zhan/hangzhoudong.htm)| 08:18| 08:24| 6分| -  
+18| [绍兴](/huoche/zhan/shaoxing.htm)| 09:05| 09:08| 3分| -  
+19| [上虞](/huoche/zhan/shangyu.htm)| 09:31| 09:34| 3分| -  
+20| [余姚](/huoche/zhan/yuyao.htm)| 10:03| 10:06| 3分| -  
+21| [宁波](/huoche/zhan/ningbo.htm)| 11:12| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

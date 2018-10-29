@@ -1,0 +1,41 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从重庆西开往桂林北的D4115动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D4115 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 重庆西  
+发车时间 | 18:44  
+到站时间 | 23:34  
+全程时间 | 4小时50分  
+终点站 | 桂林北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [重庆西](/huoche/zhan/chongqingxi.htm)| -| 18:44| 0分| -  
+2| [桐梓东](/huoche/zhan/tongzidong.htm)| 19:44| 19:46| 2分| -  
+3| [娄山关南](/huoche/zhan/loushanguannan.htm)| 19:58| 20:08| 10分| -  
+4| [遵义](/huoche/zhan/zunyi.htm)| 20:22| 20:26| 4分| -  
+5| [贵阳东](/huoche/zhan/guiyangdong.htm)| 21:14| 21:18| 4分| -  
+6| [都匀东](/huoche/zhan/duyundong.htm)| 21:56| 21:58| 2分| -  
+7| [桂林北](/huoche/zhan/guilinbei.htm)| 23:34| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

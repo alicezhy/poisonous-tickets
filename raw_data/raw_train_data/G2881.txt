@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从重庆西开往昆明南的G2881高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G2881 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 重庆西  
+发车时间 | 15:53  
+到站时间 | 20:45  
+全程时间 | 4小时52分  
+终点站 | 昆明南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [重庆西](/huoche/zhan/chongqingxi.htm)| -| 15:53| 0分| -  
+2| [遵义](/huoche/zhan/zunyi.htm)| 17:11| 17:13| 2分| -  
+3| [修文县](/huoche/zhan/xiuwenxian.htm)| 17:49| 17:51| 2分| -  
+4| [贵阳北](/huoche/zhan/guiyangbei.htm)| 18:06| 18:24| 18分| -  
+5| [安顺西](/huoche/zhan/anshunxi.htm)| 18:53| 18:55| 2分| -  
+6| [盘州](/huoche/zhan/panzhou.htm)| 19:42| 19:44| 2分| -  
+7| [曲靖北](/huoche/zhan/qujingbei.htm)| 20:08| 20:10| 2分| -  
+8| [昆明南](/huoche/zhan/kunmingnan.htm)| 20:45| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

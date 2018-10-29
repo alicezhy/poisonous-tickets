@@ -1,0 +1,65 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南京南开往昆明南的G1377高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1377 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 南京南  
+发车时间 | 07:39  
+到站时间 | 21:20  
+全程时间 | 13小时41分  
+终点站 | 昆明南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南京南](/huoche/zhan/nanjingnan.htm)| -| 07:39| 0分| -  
+2| [镇江南](/huoche/zhan/zhenjiangnan.htm)| 07:58| 08:00| 2分| -  
+3| [常州北](/huoche/zhan/changzhoubei.htm)| 08:17| 08:19| 2分| -  
+4| [无锡东](/huoche/zhan/wuxidong.htm)| 08:36| 08:39| 3分| -  
+5| [苏州北](/huoche/zhan/suzhoubei.htm)| 08:50| 08:52| 2分| -  
+6| [昆山南](/huoche/zhan/kunshannan.htm)| 09:03| 09:05| 2分| -  
+7| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 09:22| 09:28| 6分| -  
+8| [金山北](/huoche/zhan/jinshanbei.htm)| 09:46| 09:48| 2分| -  
+9| [嘉兴南](/huoche/zhan/jiaxingnan.htm)| 10:02| 10:04| 2分| -  
+10| [杭州东](/huoche/zhan/hangzhoudong.htm)| 10:27| 10:31| 4分| -  
+11| [义乌](/huoche/zhan/yiwu.htm)| 11:03| 11:05| 2分| -  
+12| [金华](/huoche/zhan/jinhua.htm)| 11:21| 11:23| 2分| -  
+13| [上饶](/huoche/zhan/shangrao.htm)| 12:10| 12:16| 6分| -  
+14| [鹰潭北](/huoche/zhan/yingtanbei.htm)| 12:42| 12:46| 4分| -  
+15| [南昌西](/huoche/zhan/nanchangxi.htm)| 13:21| 13:25| 4分| -  
+16| [宜春](/huoche/zhan/yichun.htm)| 14:07| 14:09| 2分| -  
+17| [长沙南](/huoche/zhan/changshanan.htm)| 14:53| 15:02| 9分| -  
+18| [韶山南](/huoche/zhan/shaoshannan.htm)| 15:25| 15:27| 2分| -  
+19| [娄底南](/huoche/zhan/loudinan.htm)| 15:44| 15:46| 2分| -  
+20| [邵阳北](/huoche/zhan/shaoyangbei.htm)| 16:02| 16:04| 2分| -  
+21| [怀化南](/huoche/zhan/huaihuanan.htm)| 16:45| 16:48| 3分| -  
+22| [芷江](/huoche/zhan/zhijiang2.htm)| 17:00| 17:02| 2分| -  
+23| [铜仁南](/huoche/zhan/tongrennan.htm)| 17:23| 17:25| 2分| -  
+24| [三穗](/huoche/zhan/sansui.htm)| 17:40| 17:42| 2分| -  
+25| [凯里南](/huoche/zhan/kailinan.htm)| 18:07| 18:09| 2分| -  
+26| [贵阳北](/huoche/zhan/guiyangbei.htm)| 18:47| 18:52| 5分| -  
+27| [安顺西](/huoche/zhan/anshunxi.htm)| 19:21| 19:23| 2分| -  
+28| [关岭](/huoche/zhan/guanling.htm)| 19:38| 19:40| 2分| -  
+29| [盘州](/huoche/zhan/panzhou.htm)| 20:17| 20:19| 2分| -  
+30| [曲靖北](/huoche/zhan/qujingbei.htm)| 20:43| 20:45| 2分| -  
+31| [昆明南](/huoche/zhan/kunmingnan.htm)| 21:20| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

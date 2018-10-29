@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从杭州开往包头的Z283直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z283 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 杭州  
+发车时间 | 17:04  
+到站时间 | 21:58  
+全程时间 | 28小时54分  
+终点站 | 包头  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [杭州](/huoche/zhan/hangzhou.htm)| \----| 17:04| 0分| -  
+2| [海宁](/huoche/zhan/haining.htm)| 17:38| 17:41| 3分| -  
+3| [嘉兴](/huoche/zhan/jiaxing.htm)| 17:59| 18:02| 3分| -  
+4| [上海南](/huoche/zhan/shanghainan.htm)| 18:54| 19:30| 36分| -  
+5| [苏州](/huoche/zhan/suzhou.htm)| 20:31| 20:41| 10分| -  
+6| [常州](/huoche/zhan/changzhou.htm)| 21:27| 21:30| 3分| -  
+7| [镇江](/huoche/zhan/zhenjiang.htm)| 22:04| 22:07| 3分| -  
+8| [南京](/huoche/zhan/nanjing.htm)| 22:44| 22:53| 9分| -  
+9| [蚌埠](/huoche/zhan/bengbu.htm)| 00:25| 00:28| 3分| -  
+10| [徐州](/huoche/zhan/xuzhou.htm)| 01:57| 02:17| 20分| -  
+11| [兖州](/huoche/zhan/yanzhou.htm)| 03:56| 03:59| 3分| -  
+12| [德州](/huoche/zhan/dezhou.htm)| 06:31| 06:33| 2分| -  
+13| [沧州](/huoche/zhan/cangzhou.htm)| 07:28| 07:32| 4分| -  
+14| [天津西](/huoche/zhan/tianjinxi.htm)| 08:43| 08:56| 13分| -  
+15| [沙岭子西](/huoche/zhan/shalingzixi.htm)| 13:59| 14:05| 6分| -  
+16| [大同](/huoche/zhan/datong.htm)| 16:50| 17:00| 10分| -  
+17| [集宁南](/huoche/zhan/jiningnan.htm)| 18:37| 18:43| 6分| -  
+18| [呼和浩特东](/huoche/zhan/huhehaotedong.htm)| 19:49| 20:01| 12分| -  
+19| [呼和浩特](/huoche/zhan/huhehaote.htm)| 20:15| 20:25| 10分| -  
+20| [包头东](/huoche/zhan/baotoudong.htm)| 21:37| 21:41| 4分| -  
+21| [包头](/huoche/zhan/baotou.htm)| 21:58| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

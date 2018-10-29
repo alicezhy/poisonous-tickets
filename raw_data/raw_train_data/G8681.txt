@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从贵阳北开往峨眉山的G8681高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G8681 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 贵阳北  
+发车时间 | 16:45  
+到站时间 | 22:12  
+全程时间 | 5小时27分  
+终点站 | 峨眉山  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [贵阳北](/huoche/zhan/guiyangbei.htm)| -| 16:45| 0分| -  
+2| [遵义](/huoche/zhan/zunyi.htm)| 17:31| 17:34| 3分| -  
+3| [珞璜南](/huoche/zhan/luohuangnan.htm)| 18:43| 18:45| 2分| -  
+4| [重庆西](/huoche/zhan/chongqingxi.htm)| 18:58| 19:10| 12分| -  
+5| [内江北](/huoche/zhan/neijiangbei.htm)| 19:52| 19:54| 2分| -  
+6| [资中北](/huoche/zhan/zizhongbei.htm)| 20:06| 20:08| 2分| -  
+7| [资阳北](/huoche/zhan/ziyangbei.htm)| 20:22| 20:24| 2分| -  
+8| [成都南](/huoche/zhan/chengdunan.htm)| 20:53| 20:59| 6分| -  
+9| [双流机场](/huoche/zhan/shuangliujichang.htm)| 21:09| 21:11| 2分| -  
+10| [眉山东](/huoche/zhan/meishandong.htm)| 21:33| 21:35| 2分| -  
+11| [乐山](/huoche/zhan/leshan.htm)| 21:54| 21:56| 2分| -  
+12| [峨眉山](/huoche/zhan/emeishan.htm)| 22:12| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

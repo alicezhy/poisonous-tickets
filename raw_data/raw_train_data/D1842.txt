@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从珠海开往成都东的D1842动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D1842 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 珠海  
+发车时间 | 07:43  
+到站时间 | 18:36  
+全程时间 | 10小时53分  
+终点站 | 成都东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [珠海](/huoche/zhan/zhuhai.htm)| -| 07:43| 0分| -  
+2| [中山](/huoche/zhan/zhongshan.htm)| 08:06| 08:10| 4分| -  
+3| [广州南](/huoche/zhan/guangzhounan.htm)| 08:38| 08:48| 10分| -  
+4| [佛山西](/huoche/zhan/foshanxi.htm)| 09:07| 09:09| 2分| -  
+5| [怀集](/huoche/zhan/huaiji.htm)| 09:54| 10:01| 7分| -  
+6| [贺州](/huoche/zhan/hezhou.htm)| 10:30| 10:32| 2分| -  
+7| [钟山西](/huoche/zhan/zhongshanxi.htm)| 10:44| 10:46| 2分| -  
+8| [阳朔](/huoche/zhan/yangshuo.htm)| 11:16| 11:18| 2分| -  
+9| [桂林西](/huoche/zhan/guilinxi.htm)| 11:42| 11:46| 4分| -  
+10| [从江](/huoche/zhan/congjiang.htm)| 12:35| 12:37| 2分| -  
+11| [都匀东](/huoche/zhan/duyundong.htm)| 13:25| 13:27| 2分| -  
+12| [贵阳东](/huoche/zhan/guiyangdong.htm)| 14:07| 14:14| 7分| -  
+13| [桐梓东](/huoche/zhan/tongzidong.htm)| 15:21| 15:28| 7分| -  
+14| [重庆西](/huoche/zhan/chongqingxi.htm)| 16:29| 16:37| 8分| -  
+15| [永川东](/huoche/zhan/yongchuandong.htm)| 17:02| 17:04| 2分| -  
+16| [内江北](/huoche/zhan/neijiangbei.htm)| 17:32| 17:42| 10分| -  
+17| [资阳北](/huoche/zhan/ziyangbei.htm)| 18:05| 18:07| 2分| -  
+18| [成都东](/huoche/zhan/chengdudong.htm)| 18:36| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

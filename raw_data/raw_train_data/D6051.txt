@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从济南西开往烟台的D6051动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D6051 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 济南西  
+发车时间 | 06:52  
+到站时间 | 11:10  
+全程时间 | 4小时18分  
+终点站 | 烟台  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [济南西](/huoche/zhan/jinanxi.htm)| -| 06:52| 0分| -  
+2| [济南](/huoche/zhan/jinan.htm)| 07:09| 07:14| 5分| -  
+3| [淄博](/huoche/zhan/zibo.htm)| 07:56| 08:00| 4分| -  
+4| [潍坊](/huoche/zhan/weifang.htm)| 08:35| 08:38| 3分| -  
+5| [高密](/huoche/zhan/gaomi.htm)| 09:05| 09:07| 2分| -  
+7| [即墨北](/huoche/zhan/jimobei.htm)| 09:36| 09:38| 2分| -  
+9| [莱阳](/huoche/zhan/laiyang.htm)| 10:05| 10:07| 2分| -  
+10| [海阳北](/huoche/zhan/haiyangbei.htm)| 10:21| 10:23| 2分| -  
+11| [桃村北](/huoche/zhan/taocunbei.htm)| 10:34| 10:42| 8分| -  
+12| [烟台](/huoche/zhan/yantai.htm)| 11:10| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

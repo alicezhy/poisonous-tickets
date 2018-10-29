@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从济南西开往西安北的G2054高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G2054 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 济南西  
+发车时间 | 15:25  
+到站时间 | 21:26  
+全程时间 | 6小时1分  
+终点站 | 西安北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [济南西](/huoche/zhan/jinanxi.htm)| \----| 15:25| 0分| -  
+2| [德州东](/huoche/zhan/dezhoudong.htm)| 15:59| 16:01| 2分| -  
+3| [衡水北](/huoche/zhan/hengshuibei.htm)| 16:28| 16:30| 2分| -  
+4| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 17:09| 17:12| 3分| -  
+5| [邢台东](/huoche/zhan/xingtaidong.htm)| 17:41| 17:44| 3分| -  
+6| [邯郸东](/huoche/zhan/handandong.htm)| 18:00| 18:03| 3分| -  
+7| [安阳东](/huoche/zhan/anyangdong.htm)| 18:20| 18:22| 2分| -  
+8| [新乡东](/huoche/zhan/xinxiangdong.htm)| 18:48| 18:50| 2分| -  
+9| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 19:13| 19:23| 10分| -  
+10| [洛阳龙门](/huoche/zhan/luoyanglongmen.htm)| 19:59| 20:01| 2分| -  
+11| [华山北](/huoche/zhan/huashanbei.htm)| 20:54| 20:56| 2分| -  
+12| [西安北](/huoche/zhan/xianbei.htm)| 21:26| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

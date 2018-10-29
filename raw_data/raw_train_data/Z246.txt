@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海南开往长沙的Z246直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z246 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 上海南  
+发车时间 | 20:42  
+到站时间 | 07:30  
+全程时间 | 10小时48分  
+终点站 | 长沙  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海南](/huoche/zhan/shanghainan.htm)| \----| 20:42| 0分| -  
+2| [嘉兴](/huoche/zhan/jiaxing.htm)| 21:23| 21:26| 3分| -  
+3| [杭州东](/huoche/zhan/hangzhoudong.htm)| 22:23| 22:29| 6分| -  
+4| [鹰潭](/huoche/zhan/yingtan.htm)| 02:49| 02:55| 6分| -  
+5| [株洲](/huoche/zhan/zhuzhou.htm)| 06:42| 06:50| 8分| -  
+6| [长沙](/huoche/zhan/changsha.htm)| 07:30| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

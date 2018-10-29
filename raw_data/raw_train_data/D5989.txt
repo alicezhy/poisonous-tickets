@@ -1,0 +1,41 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从汉口开往恩施的D5989动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D5989 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 汉口  
+发车时间 | 07:14  
+到站时间 | 11:17  
+全程时间 | 4小时3分  
+终点站 | 恩施  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [汉口](/huoche/zhan/hankou.htm)| \----| 07:14| 0分| -  
+2| [仙桃西](/huoche/zhan/xiantaoxi.htm)| 07:58| 08:00| 2分| -  
+3| [潜江](/huoche/zhan/qianjiang2.htm)| 08:11| 08:13| 2分| -  
+4| [荆州](/huoche/zhan/jingzhou2.htm)| 08:39| 08:41| 2分| -  
+5| [宜昌东](/huoche/zhan/yichangdong.htm)| 09:15| 09:26| 11分| -  
+6| [建始](/huoche/zhan/jianshi.htm)| 10:51| 10:54| 3分| -  
+7| [恩施](/huoche/zhan/enshi.htm)| 11:17| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

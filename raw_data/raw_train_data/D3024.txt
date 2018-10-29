@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从武昌开往上海虹桥的D3024动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D3024 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 武昌  
+发车时间 | 15:43  
+到站时间 | 21:35  
+全程时间 | 5小时52分  
+终点站 | 上海虹桥  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [武昌](/huoche/zhan/wuchang.htm)| -| 15:43| 0分| -  
+2| [汉口](/huoche/zhan/hankou.htm)| 16:02| 16:05| 3分| -  
+3| [麻城北](/huoche/zhan/machengbei.htm)| 16:43| 16:53| 10分| -  
+4| [六安](/huoche/zhan/liuan.htm)| 17:39| 17:46| 7分| -  
+5| [合肥南](/huoche/zhan/hefeinan.htm)| 18:10| 18:27| 17分| -  
+6| [南京南](/huoche/zhan/nanjingnan.htm)| 19:19| 19:22| 3分| -  
+7| [常州](/huoche/zhan/changzhou.htm)| 20:11| 20:14| 3分| -  
+8| [惠山](/huoche/zhan/huishan.htm)| 20:26| 20:31| 5分| -  
+9| [无锡](/huoche/zhan/wuxi.htm)| 20:40| 20:42| 2分| -  
+10| [苏州](/huoche/zhan/suzhou.htm)| 20:59| 21:01| 2分| -  
+11| [昆山南](/huoche/zhan/kunshannan.htm)| 21:13| 21:16| 3分| -  
+12| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 21:35| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

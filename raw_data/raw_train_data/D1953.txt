@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从重庆西开往太原南的D1953动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D1953 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 重庆西  
+发车时间 | 07:48  
+到站时间 | 17:16  
+全程时间 | 9小时28分  
+终点站 | 太原南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [重庆西](/huoche/zhan/chongqingxi.htm)| \----| 07:48| 0分| -  
+2| [武胜](/huoche/zhan/wusheng.htm)| 08:35| 08:38| 3分| -  
+3| [南充北](/huoche/zhan/nanchongbei.htm)| 09:06| 09:10| 4分| -  
+4| [南部](/huoche/zhan/nanbu.htm)| 09:39| 09:41| 2分| -  
+5| [阆中](/huoche/zhan/langzhong.htm)| 09:53| 09:55| 2分| -  
+6| [苍溪](/huoche/zhan/cangxi.htm)| 10:09| 10:11| 2分| -  
+7| [广元](/huoche/zhan/guangyuan.htm)| 10:51| 10:56| 5分| -  
+8| [朝天](/huoche/zhan/chaotian.htm)| 11:12| 11:14| 2分| -  
+9| [宁强南](/huoche/zhan/ningqiangnan.htm)| 11:24| 11:26| 2分| -  
+10| [汉中](/huoche/zhan/hanzhong.htm)| 11:51| 11:55| 4分| -  
+11| [洋县西](/huoche/zhan/yangxianxi.htm)| 12:12| 12:14| 2分| -  
+12| [西安北](/huoche/zhan/xianbei.htm)| 13:13| 13:35| 22分| -  
+13| [渭南北](/huoche/zhan/weinanbei.htm)| 13:58| 14:00| 2分| -  
+14| [大荔](/huoche/zhan/dali3.htm)| 14:18| 14:21| 3分| -  
+15| [永济北](/huoche/zhan/yongjibei.htm)| 14:40| 14:42| 2分| -  
+16| [侯马西](/huoche/zhan/houmaxi.htm)| 15:18| 15:20| 2分| -  
+17| [襄汾西](/huoche/zhan/xiangfengxi.htm)| 15:33| 15:35| 2分| -  
+18| [霍州东](/huoche/zhan/huozhoudong.htm)| 16:06| 16:08| 2分| -  
+19| [灵石东](/huoche/zhan/lingshidong.htm)| 16:24| 16:26| 2分| -  
+20| [祁县东](/huoche/zhan/qixiandong.htm)| 16:49| 16:51| 2分| -  
+21| [太原南](/huoche/zhan/taiyuannan.htm)| 17:16| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

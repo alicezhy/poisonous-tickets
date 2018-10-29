@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从周口开往上海的K1505快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1505 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 周口  
+发车时间 | 09:26  
+到站时间 | 22:35  
+全程时间 | 13小时9分  
+终点站 | 上海  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [周口](/huoche/zhan/zhoukou.htm)| -| 09:26| 0分| -  
+2| [项城](/huoche/zhan/xiangcheng.htm)| 09:52| 09:56| 4分| -  
+3| [沈丘](/huoche/zhan/shenqiu.htm)| 10:15| 10:19| 4分| -  
+4| [界首市](/huoche/zhan/jieshoushi.htm)| 10:43| 10:48| 5分| -  
+5| [太和北](/huoche/zhan/taihebei.htm)| 11:07| 11:13| 6分| -  
+6| [阜阳](/huoche/zhan/fuyang.htm)| 12:06| 12:19| 13分| -  
+7| [淮南](/huoche/zhan/huainan.htm)| 13:48| 13:52| 4分| -  
+8| [蚌埠](/huoche/zhan/bengbu.htm)| 15:54| 16:10| 16分| -  
+9| [滁州北](/huoche/zhan/chuzhoubei.htm)| 17:32| 17:35| 3分| -  
+10| [南京](/huoche/zhan/nanjing.htm)| 18:19| 18:29| 10分| -  
+11| [苏州](/huoche/zhan/suzhou.htm)| 21:17| 21:21| 4分| -  
+12| [上海](/huoche/zhan/shanghai.htm)| 22:35| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

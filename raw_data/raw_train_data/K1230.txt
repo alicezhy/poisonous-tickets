@@ -1,0 +1,62 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从齐齐哈尔开往大连的K1230快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1230 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 齐齐哈尔  
+发车时间 | 11:44  
+到站时间 | 05:40  
+全程时间 | 17小时56分  
+终点站 | 大连  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [齐齐哈尔](/huoche/zhan/qiqihaer.htm)| -| 11:44| 0分| -  
+2| [泰康](/huoche/zhan/taikang.htm)| 12:31| 12:48| 17分| -  
+3| [大庆西](/huoche/zhan/daqingxi.htm)| 13:16| 13:36| 20分| -  
+4| [银浪](/huoche/zhan/yinlang.htm)| 13:56| 13:58| 2分| -  
+5| [林源](/huoche/zhan/linyuan.htm)| 14:14| 14:16| 2分| -  
+6| [新华屯](/huoche/zhan/xinhuatun.htm)| 14:38| 14:40| 2分| -  
+7| [立志](/huoche/zhan/lizhi.htm)| 15:00| 15:02| 2分| -  
+8| [太阳升](/huoche/zhan/taiyangsheng.htm)| 15:13| 15:15| 2分| -  
+9| [新肇](/huoche/zhan/xinzhao.htm)| 15:35| 15:41| 6分| -  
+10| [大安北](/huoche/zhan/daanbei.htm)| 16:02| 16:36| 34分| -  
+11| [松原](/huoche/zhan/songyuan.htm)| 17:21| 17:31| 10分| -  
+12| [王府](/huoche/zhan/wangfu.htm)| 17:54| 17:56| 2分| -  
+13| [长春](/huoche/zhan/changchun.htm)| 20:02| 20:28| 26分| -  
+14| [公主岭](/huoche/zhan/gongzhuling.htm)| 21:06| 21:08| 2分| -  
+15| [四平](/huoche/zhan/siping.htm)| 21:47| 21:50| 3分| -  
+16| [开原](/huoche/zhan/kaiyuan.htm)| 22:39| 22:41| 2分| -  
+17| [铁岭](/huoche/zhan/tieling.htm)| 23:03| 23:06| 3分| -  
+18| [沈阳](/huoche/zhan/shenyang3.htm)| 00:01| 00:17| 16分| -  
+19| [辽阳](/huoche/zhan/liaoyang.htm)| 01:00| 01:04| 4分| -  
+20| [鞍山](/huoche/zhan/anshan.htm)| 01:23| 01:27| 4分| -  
+21| [海城](/huoche/zhan/haicheng.htm)| 01:52| 01:54| 2分| -  
+22| [大石桥](/huoche/zhan/dashiqiao.htm)| 02:24| 02:30| 6分| -  
+23| [盖州](/huoche/zhan/gaizhou.htm)| 02:49| 02:51| 2分| -  
+24| [熊岳城](/huoche/zhan/xiongyuecheng.htm)| 03:11| 03:13| 2分| -  
+25| [瓦房店](/huoche/zhan/wafangdian.htm)| 04:02| 04:05| 3分| -  
+26| [普兰店](/huoche/zhan/pulandian.htm)| 04:27| 04:30| 3分| -  
+27| [金州](/huoche/zhan/jinzhou3.htm)| 05:03| 05:06| 3分| -  
+28| [大连](/huoche/zhan/dalian.htm)| 05:40| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

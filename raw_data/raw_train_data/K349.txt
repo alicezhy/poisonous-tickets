@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京开往佳木斯的K349快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K349 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 北京  
+发车时间 | 14:08  
+到站时间 | 15:23  
+全程时间 | 25小时15分  
+终点站 | 佳木斯  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京](/huoche/zhan/beijing.htm)| \----| 14:08| 0分| -  
+2| [廊坊北](/huoche/zhan/langfangbei.htm)| 15:05| 15:12| 7分| -  
+3| [天津](/huoche/zhan/tianjin.htm)| 16:04| 16:16| 12分| -  
+4| [唐山](/huoche/zhan/tangshan.htm)| 17:36| 17:40| 4分| -  
+5| [山海关](/huoche/zhan/shanhaiguan.htm)| 20:02| 20:13| 11分| -  
+6| [葫芦岛](/huoche/zhan/huludao.htm)| 21:35| 21:38| 3分| -  
+7| [锦州](/huoche/zhan/jinzhou.htm)| 22:17| 22:25| 8分| -  
+8| [大虎山](/huoche/zhan/dahushan.htm)| 23:29| 23:37| 8分| -  
+9| [沈阳北](/huoche/zhan/shenyangbei.htm)| 01:23| 01:31| 8分| -  
+10| [四平](/huoche/zhan/siping.htm)| 03:25| 03:42| 17分| -  
+11| [长春](/huoche/zhan/changchun.htm)| 05:41| 05:49| 8分| -  
+12| [扶余](/huoche/zhan/fuyu.htm)| 07:18| 07:20| 2分| -  
+13| [哈尔滨东](/huoche/zhan/haerbindong.htm)| 08:50| 09:25| 35分| -  
+14| [绥化](/huoche/zhan/suihua.htm)| 10:42| 10:47| 5分| -  
+15| [铁力](/huoche/zhan/tieli2.htm)| 11:53| 11:56| 3分| -  
+16| [南岔](/huoche/zhan/nancha2.htm)| 13:31| 13:37| 6分| -  
+17| [汤原](/huoche/zhan/tangyuan.htm)| 14:38| 14:43| 5分| -  
+18| [佳木斯](/huoche/zhan/jiamusi.htm)| 15:23| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

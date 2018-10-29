@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从成都东开往杭州东的D2261动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D2261 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 成都东  
+发车时间 | 09:05  
+到站时间 | 22:24  
+全程时间 | 13小时19分  
+终点站 | 杭州东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [成都东](/huoche/zhan/chengdudong.htm)| \----| 09:05| 0分| -  
+2| [重庆北](/huoche/zhan/chongqingbei.htm)| 11:00| 11:18| 18分| -  
+3| [丰都](/huoche/zhan/fengdu.htm)| 12:10| 12:12| 2分| -  
+4| [石柱县](/huoche/zhan/shizhuxian.htm)| 12:32| 12:34| 2分| -  
+5| [恩施](/huoche/zhan/enshi.htm)| 13:40| 13:44| 4分| -  
+6| [建始](/huoche/zhan/jianshi.htm)| 14:06| 14:08| 2分| -  
+7| [宜昌东](/huoche/zhan/yichangdong.htm)| 15:33| 15:38| 5分| -  
+8| [枝江北](/huoche/zhan/zhijiangbei.htm)| 15:57| 15:59| 2分| -  
+9| [荆州](/huoche/zhan/jingzhou2.htm)| 16:18| 16:20| 2分| -  
+10| [潜江](/huoche/zhan/qianjiang2.htm)| 16:45| 16:47| 2分| -  
+11| [汉川](/huoche/zhan/hanchun.htm)| 17:20| 17:22| 2分| -  
+12| [汉口](/huoche/zhan/hankou.htm)| 17:46| 18:00| 14分| -  
+13| [红安西](/huoche/zhan/honganxi.htm)| 18:29| 18:31| 2分| -  
+14| [麻城北](/huoche/zhan/machengbei.htm)| 18:44| 18:46| 2分| -  
+15| [六安](/huoche/zhan/liuan.htm)| 19:31| 19:33| 2分| -  
+16| [合肥南](/huoche/zhan/hefeinan.htm)| 19:57| 20:06| 9分| -  
+17| [南京南](/huoche/zhan/nanjingnan.htm)| 20:58| 21:02| 4分| -  
+18| [宜兴](/huoche/zhan/yixing.htm)| 21:39| 21:41| 2分| -  
+19| [湖州](/huoche/zhan/huzhou.htm)| 21:59| 22:01| 2分| -  
+20| [杭州东](/huoche/zhan/hangzhoudong.htm)| 22:24| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

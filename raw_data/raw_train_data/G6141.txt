@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从怀化南开往深圳北的G6141高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G6141 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 怀化南  
+发车时间 | 18:13  
+到站时间 | 23:37  
+全程时间 | 5小时24分  
+终点站 | 深圳北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [怀化南](/huoche/zhan/huaihuanan.htm)| \----| 18:13| 0分| -  
+2| [溆浦南](/huoche/zhan/xupunan.htm)| 18:33| 18:35| 2分| -  
+3| [新化南](/huoche/zhan/xinhuanan.htm)| 18:52| 18:54| 2分| -  
+4| [邵阳北](/huoche/zhan/shaoyangbei.htm)| 19:07| 19:09| 2分| -  
+5| [湘潭北](/huoche/zhan/xiangtanbei.htm)| 19:46| 19:48| 2分| -  
+6| [长沙南](/huoche/zhan/changshanan.htm)| 20:01| 20:26| 25分| -  
+7| [衡阳东](/huoche/zhan/hengyangdong.htm)| 21:03| 21:05| 2分| -  
+8| [郴州西](/huoche/zhan/chenzhouxi.htm)| 21:38| 21:40| 2分| -  
+9| [广州南](/huoche/zhan/guangzhounan.htm)| 23:05| 23:08| 3分| -  
+10| [深圳北](/huoche/zhan/shenzhenbei.htm)| 23:37| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从大连开往沈阳的D7740动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D7740 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 大连  
+发车时间 | 06:23  
+到站时间 | 11:17  
+全程时间 | 4小时54分  
+终点站 | 沈阳  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [大连](/huoche/zhan/dalian.htm)| -| 06:23| 0分| -  
+2| [大连北](/huoche/zhan/dalianbei.htm)| 06:40| 06:42| 2分| -  
+3| [金州](/huoche/zhan/jinzhou3.htm)| 06:53| 06:55| 2分| -  
+4| [登沙河](/huoche/zhan/dengshahe.htm)| 07:13| 07:14| 1分| -  
+5| [杏树屯](/huoche/zhan/xingshutun.htm)| 07:21| 07:22| 1分| -  
+6| [皮口](/huoche/zhan/pikou.htm)| 07:34| 07:36| 2分| -  
+7| [城子坦](/huoche/zhan/chengzitan.htm)| 07:44| 07:45| 1分| -  
+8| [花园口](/huoche/zhan/huayuankou.htm)| 07:53| 07:55| 2分| -  
+9| [庄河北](/huoche/zhan/zhuanghebei.htm)| 08:11| 08:13| 2分| -  
+10| [青堆](/huoche/zhan/qingdui.htm)| 08:25| 08:27| 2分| -  
+11| [大孤山](/huoche/zhan/dagushan.htm)| 08:41| 08:43| 2分| -  
+12| [北井子](/huoche/zhan/beijingzi.htm)| 08:56| 08:57| 1分| -  
+13| [东港北](/huoche/zhan/donggangbei.htm)| 09:07| 09:09| 2分| -  
+14| [丹东西](/huoche/zhan/dandongxi.htm)| 09:18| 09:19| 1分| -  
+15| [丹东](/huoche/zhan/dandong.htm)| 09:31| 09:50| 19分| -  
+16| [通远堡西](/huoche/zhan/tongyuanpuxi.htm)| 10:16| 10:17| 1分| -  
+17| [本溪](/huoche/zhan/benxi.htm)| 10:38| 10:40| 2分| -  
+18| [沈阳南](/huoche/zhan/shenyangnan.htm)| 11:05| 11:06| 1分| -  
+19| [沈阳](/huoche/zhan/shenyang3.htm)| 11:17| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

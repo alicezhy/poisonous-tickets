@@ -1,0 +1,39 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南昌西开往萍乡北的G5009高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G5009 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 南昌西  
+发车时间 | 18:01  
+到站时间 | 19:35  
+全程时间 | 1小时34分  
+终点站 | 萍乡北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南昌西](/huoche/zhan/nanchangxi.htm)| -| 18:01| 0分| -  
+2| [高安](/huoche/zhan/gaoan.htm)| 18:16| 18:35| 19分| -  
+3| [新余北](/huoche/zhan/xinyubei.htm)| 18:57| 18:59| 2分| -  
+4| [宜春](/huoche/zhan/yichun.htm)| 19:14| 19:16| 2分| -  
+5| [萍乡北](/huoche/zhan/pingxiangbei2.htm)| 19:35| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

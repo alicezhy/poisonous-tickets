@@ -1,0 +1,63 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从青岛北开往哈尔滨西的K702快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K702 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 青岛北  
+发车时间 | 18:30  
+到站时间 | 20:59  
+全程时间 | 26小时29分  
+终点站 | 哈尔滨西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [青岛北](/huoche/zhan/qingdaobei.htm)| -| 18:30| 0分| -  
+2| [潍坊](/huoche/zhan/weifang.htm)| 20:14| 20:18| 4分| -  
+3| [淄博](/huoche/zhan/zibo.htm)| 21:22| 21:27| 5分| -  
+4| [大明湖](/huoche/zhan/daminghu.htm)| 23:04| 23:17| 13分| -  
+7| [德州](/huoche/zhan/dezhou.htm)| 00:50| 00:52| 2分| -  
+8| [沧州](/huoche/zhan/cangzhou.htm)| 02:15| 02:19| 4分| -  
+10| [天津](/huoche/zhan/tianjin.htm)| 04:05| 04:16| 11分| -  
+11| [唐山](/huoche/zhan/tangshan.htm)| 05:38| 05:57| 19分| -  
+13| [滦县](/huoche/zhan/luanxian.htm)| 06:45| 06:55| 10分| -  
+14| [昌黎](/huoche/zhan/changli.htm)| 07:34| 07:36| 2分| -  
+15| [北戴河](/huoche/zhan/beidaihe.htm)| 07:56| 07:59| 3分| -  
+16| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 08:17| 08:20| 3分| -  
+17| [山海关](/huoche/zhan/shanhaiguan.htm)| 08:50| 08:58| 8分| -  
+18| [绥中](/huoche/zhan/suizhong2.htm)| 09:40| 09:42| 2分| -  
+19| [葫芦岛](/huoche/zhan/huludao.htm)| 10:26| 10:35| 9分| -  
+20| [锦州](/huoche/zhan/jinzhou.htm)| 11:14| 11:20| 6分| -  
+21| [沟帮子](/huoche/zhan/goubangzi.htm)| 12:00| 12:03| 3分| -  
+22| [大虎山](/huoche/zhan/dahushan.htm)| 12:30| 12:34| 4分| -  
+23| [沈阳](/huoche/zhan/shenyang3.htm)| 14:12| 14:22| 10分| -  
+24| [沈阳北](/huoche/zhan/shenyangbei.htm)| 14:29| 14:37| 8分| -  
+25| [开原](/huoche/zhan/kaiyuan.htm)| 15:37| 15:39| 2分| -  
+26| [四平](/huoche/zhan/siping.htm)| 16:36| 16:38| 2分| -  
+27| [公主岭](/huoche/zhan/gongzhuling.htm)| 17:11| 17:13| 2分| -  
+28| [长春](/huoche/zhan/changchun.htm)| 17:58| 18:10| 12分| -  
+29| [德惠](/huoche/zhan/dehui.htm)| 18:59| 19:01| 2分| -  
+30| [陶赖昭](/huoche/zhan/taolaizhao.htm)| 19:28| 19:30| 2分| -  
+31| [扶余](/huoche/zhan/fuyu.htm)| 19:46| 19:48| 2分| -  
+32| [双城堡](/huoche/zhan/shuangchengbao.htm)| 20:23| 20:27| 4分| -  
+33| [哈尔滨西](/huoche/zhan/haerbinxi.htm)| 20:59| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

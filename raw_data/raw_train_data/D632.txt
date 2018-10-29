@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从武汉开往成都的D632动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D632 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 武汉  
+发车时间 | 06:35  
+到站时间 | 16:28  
+全程时间 | 9小时53分  
+终点站 | 成都  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [武汉](/huoche/zhan/wuhan.htm)| \----| 06:35| 0分| -  
+2| [汉口](/huoche/zhan/hankou.htm)| 06:55| 07:00| 5分| -  
+3| [天门南](/huoche/zhan/tianmennan.htm)| 07:35| 07:37| 2分| -  
+4| [荆州](/huoche/zhan/jingzhou2.htm)| 08:19| 08:21| 2分| -  
+5| [枝江北](/huoche/zhan/zhijiangbei.htm)| 08:39| 08:41| 2分| -  
+6| [宜昌东](/huoche/zhan/yichangdong.htm)| 09:01| 09:10| 9分| -  
+7| [建始](/huoche/zhan/jianshi.htm)| 10:35| 10:37| 2分| -  
+8| [恩施](/huoche/zhan/enshi.htm)| 11:00| 11:10| 10分| -  
+9| [利川](/huoche/zhan/lichuan.htm)| 11:45| 11:49| 4分| -  
+10| [丰都](/huoche/zhan/fengdu.htm)| 12:45| 12:47| 2分| -  
+11| [涪陵北](/huoche/zhan/fulingbei.htm)| 13:06| 13:08| 2分| -  
+12| [重庆北](/huoche/zhan/chongqingbei.htm)| 13:46| 13:58| 12分| -  
+13| [合川](/huoche/zhan/hechuan.htm)| 14:23| 14:26| 3分| -  
+14| [潼南](/huoche/zhan/tongnan.htm)| 14:50| 14:53| 3分| -  
+15| [遂宁](/huoche/zhan/suining.htm)| 15:23| 15:25| 2分| -  
+16| [成都](/huoche/zhan/chengdu.htm)| 16:28| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从深圳开往常德的K9076快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K9076 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 深圳  
+发车时间 | 19:31  
+到站时间 | 08:31  
+全程时间 | 13小时0分  
+终点站 | 常德  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [深圳](/huoche/zhan/shenzhen.htm)| \----| 19:31| 0分| -  
+2| [东莞](/huoche/zhan/dongguan2.htm)| 20:24| 20:26| 2分| -  
+3| [广州](/huoche/zhan/guangzhou.htm)| 21:22| 21:42| 20分| -  
+4| [韶关东](/huoche/zhan/shaoguandong.htm)| 00:01| 00:09| 8分| -  
+5| [衡阳](/huoche/zhan/hengyang.htm)| 03:42| 03:48| 6分| -  
+6| [长沙](/huoche/zhan/changsha.htm)| 05:50| 06:10| 20分| -  
+8| [益阳](/huoche/zhan/yiyang.htm)| 07:16| 07:31| 15分| -  
+9| [常德](/huoche/zhan/changde.htm)| 08:31| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

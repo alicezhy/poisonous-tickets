@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南宁东开往重庆西的D1792动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D1792 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 南宁东  
+发车时间 | 08:00  
+到站时间 | 15:44  
+全程时间 | 7小时44分  
+终点站 | 重庆西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南宁东](/huoche/zhan/nanningdong.htm)| -| 08:00| 0分| -  
+2| [柳州](/huoche/zhan/liuzhou.htm)| 09:04| 09:07| 3分| -  
+3| [桂林](/huoche/zhan/guilin.htm)| 10:12| 10:15| 3分| -  
+4| [桂林北](/huoche/zhan/guilinbei.htm)| 10:26| 10:33| 7分| -  
+5| [三江南](/huoche/zhan/sanjiangnan.htm)| 11:10| 11:17| 7分| -  
+6| [三都县](/huoche/zhan/sanduxian.htm)| 12:14| 12:16| 2分| -  
+7| [龙里北](/huoche/zhan/longlibei.htm)| 12:49| 12:57| 8分| -  
+8| [贵阳东](/huoche/zhan/guiyangdong.htm)| 13:16| 13:22| 6分| -  
+9| [息烽](/huoche/zhan/xifeng.htm)| 13:47| 13:49| 2分| -  
+10| [遵义](/huoche/zhan/zunyi.htm)| 14:17| 14:19| 2分| -  
+11| [桐梓东](/huoche/zhan/tongzidong.htm)| 14:40| 14:42| 2分| -  
+12| [重庆西](/huoche/zhan/chongqingxi.htm)| 15:44| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从香坊开往五常的6236普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 6236 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 香坊  
+发车时间 | 08:50  
+到站时间 | 11:25  
+全程时间 | 2小时35分  
+终点站 | 五常  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [香坊](/huoche/zhan/xiangfang.htm)| \----| 08:50| 0分| -  
+2| [孙家](/huoche/zhan/sunjia.htm)| 09:00| 09:03| 3分| -  
+3| [平房](/huoche/zhan/pingfang2.htm)| 09:16| 09:36| 20分| -  
+4| [牛家](/huoche/zhan/niujia.htm)| 09:57| 10:17| 20分| -  
+5| [拉林](/huoche/zhan/lalin.htm)| 10:31| 10:34| 3分| -  
+6| [背荫河](/huoche/zhan/beiyinhe.htm)| 10:45| 10:47| 2分| -  
+7| [安家](/huoche/zhan/anjia.htm)| 11:01| 11:09| 8分| -  
+8| [五常](/huoche/zhan/wuchang3.htm)| 11:25| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

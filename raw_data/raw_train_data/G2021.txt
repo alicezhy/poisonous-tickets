@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从郑州东开往兰州西的G2021高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G2021 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 郑州东  
+发车时间 | 08:32  
+到站时间 | 14:18  
+全程时间 | 5小时46分  
+终点站 | 兰州西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [郑州东](/huoche/zhan/zhengzhoudong.htm)| \----| 08:32| 0分| -  
+2| [郑州西](/huoche/zhan/zhengzhouxi.htm)| 08:48| 08:50| 2分| -  
+3| [洛阳龙门](/huoche/zhan/luoyanglongmen.htm)| 09:15| 09:17| 2分| -  
+4| [三门峡南](/huoche/zhan/sanmenxianan.htm)| 09:48| 09:50| 2分| -  
+5| [灵宝西](/huoche/zhan/lingbaoxi.htm)| 10:05| 10:07| 2分| -  
+6| [渭南北](/huoche/zhan/weinanbei.htm)| 10:36| 10:38| 2分| -  
+7| [西安北](/huoche/zhan/xianbei.htm)| 10:56| 11:03| 7分| -  
+8| [咸阳秦都](/huoche/zhan/xianyangqindu.htm)| 11:16| 11:18| 2分| -  
+9| [岐山](/huoche/zhan/qishan2.htm)| 11:48| 11:50| 2分| -  
+10| [宝鸡南](/huoche/zhan/baojinan.htm)| 12:04| 12:08| 4分| -  
+11| [天水南](/huoche/zhan/tianshuinan.htm)| 12:52| 12:54| 2分| -  
+12| [定西北](/huoche/zhan/dingxibei.htm)| 13:46| 13:48| 2分| -  
+13| [兰州西](/huoche/zhan/lanzhouxi.htm)| 14:18| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

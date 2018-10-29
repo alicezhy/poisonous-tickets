@@ -1,0 +1,61 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南京南开往龙岩的D3295动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D3295 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 南京南  
+发车时间 | 07:45  
+到站时间 | 17:52  
+全程时间 | 10小时7分  
+终点站 | 龙岩  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南京南](/huoche/zhan/nanjingnan.htm)| -| 07:45| 0分| -  
+2| [江宁](/huoche/zhan/jiangning.htm)| 07:53| 07:55| 2分| -  
+3| [溧阳](/huoche/zhan/liyang.htm)| 08:21| 08:23| 2分| -  
+4| [宜兴](/huoche/zhan/yixing.htm)| 08:35| 08:37| 2分| -  
+5| [长兴](/huoche/zhan/changxing.htm)| 08:49| 08:56| 7分| -  
+6| [湖州](/huoche/zhan/huzhou.htm)| 09:05| 09:07| 2分| -  
+7| [德清](/huoche/zhan/deqing.htm)| 09:20| 09:22| 2分| -  
+8| [杭州东](/huoche/zhan/hangzhoudong.htm)| 09:37| 09:41| 4分| -  
+9| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 10:00| 10:02| 2分| -  
+10| [绍兴东](/huoche/zhan/shaoxingdong.htm)| 10:14| 10:19| 5分| -  
+11| [余姚北](/huoche/zhan/yuyaobei.htm)| 10:31| 10:33| 2分| -  
+12| [宁波](/huoche/zhan/ningbo.htm)| 10:54| 10:58| 4分| -  
+13| [奉化](/huoche/zhan/fenghua.htm)| 11:15| 11:17| 2分| -  
+14| [三门县](/huoche/zhan/sanmenxian.htm)| 11:43| 11:45| 2分| -  
+15| [台州](/huoche/zhan/taizhou2.htm)| 12:04| 12:06| 2分| -  
+16| [永嘉](/huoche/zhan/yongjia.htm)| 12:42| 12:44| 2分| -  
+17| [温州南](/huoche/zhan/wenzhounan.htm)| 12:54| 12:56| 2分| -  
+18| [鳌江](/huoche/zhan/aojiang.htm)| 13:13| 13:15| 2分| -  
+19| [福鼎](/huoche/zhan/fuding.htm)| 13:37| 13:39| 2分| -  
+20| [宁德](/huoche/zhan/ningde.htm)| 14:16| 14:18| 2分| -  
+21| [福州南](/huoche/zhan/fuzhounan.htm)| 14:56| 15:02| 6分| -  
+22| [涵江](/huoche/zhan/hanjiang.htm)| 15:26| 15:35| 9分| -  
+23| [莆田](/huoche/zhan/putian.htm)| 15:45| 15:47| 2分| -  
+24| [泉州](/huoche/zhan/quanzhou2.htm)| 16:12| 16:14| 2分| -  
+25| [厦门北](/huoche/zhan/xiamenbei.htm)| 16:39| 16:47| 8分| -  
+26| [南靖](/huoche/zhan/nanjing2.htm)| 17:17| 17:19| 2分| -  
+27| [龙岩](/huoche/zhan/longyan.htm)| 17:52| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

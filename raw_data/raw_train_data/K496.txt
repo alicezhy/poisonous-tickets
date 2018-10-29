@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从六盘水开往上海南的K496快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K496 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 六盘水  
+发车时间 | 10:47  
+到站时间 | 16:56  
+全程时间 | 30小时9分  
+终点站 | 上海南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [六盘水](/huoche/zhan/liupanshui.htm)| -| 10:47| 0分| -  
+2| [六枝](/huoche/zhan/liuzhi.htm)| 12:09| 12:15| 6分| -  
+3| [安顺](/huoche/zhan/anshun.htm)| 12:55| 13:01| 6分| -  
+4| [贵阳](/huoche/zhan/guiyang.htm)| 14:15| 14:40| 25分| -  
+5| [凯里](/huoche/zhan/kaili.htm)| 17:02| 17:15| 13分| -  
+6| [玉屏](/huoche/zhan/yuping.htm)| 19:25| 19:29| 4分| -  
+7| [怀化](/huoche/zhan/huaihua.htm)| 21:05| 21:14| 9分| -  
+9| [株洲](/huoche/zhan/zhuzhou.htm)| 03:06| 03:32| 26分| -  
+10| [鹰潭](/huoche/zhan/yingtan.htm)| 07:55| 08:01| 6分| -  
+11| [贵溪](/huoche/zhan/guixi.htm)| 08:17| 08:21| 4分| -  
+12| [上饶](/huoche/zhan/shangrao.htm)| 09:16| 09:20| 4分| -  
+13| [玉山](/huoche/zhan/yushan.htm)| 09:41| 09:45| 4分| -  
+15| [杭州东](/huoche/zhan/hangzhoudong.htm)| 14:08| 14:14| 6分| -  
+16| [海宁](/huoche/zhan/haining.htm)| 14:50| 14:54| 4分| -  
+17| [嘉兴](/huoche/zhan/jiaxing.htm)| 15:14| 15:19| 5分| -  
+18| [嘉善](/huoche/zhan/jiashan.htm)| 15:37| 15:42| 5分| -  
+19| [松江](/huoche/zhan/songjiang.htm)| 16:21| 16:24| 3分| -  
+20| [上海南](/huoche/zhan/shanghainan.htm)| 16:56| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

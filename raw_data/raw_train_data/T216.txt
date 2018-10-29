@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从泰州开往北京的T216特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | T216 |  
+---|---|---|---  
+车型 | 特快火车  
+始发站 | 泰州  
+发车时间 | 19:58  
+到站时间 | 09:58  
+全程时间 | 14小时0分  
+终点站 | 北京  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [泰州](/huoche/zhan/taizhou.htm)| -| 19:58| 0分| -  
+2| [盐城](/huoche/zhan/yancheng2.htm)| 21:41| 21:49| 8分| -  
+3| [阜宁](/huoche/zhan/funing2.htm)| 22:32| 22:35| 3分| -  
+4| [淮安](/huoche/zhan/huaian.htm)| 23:18| 23:21| 3分| -  
+5| [沭阳](/huoche/zhan/shuyang.htm)| 23:59| 00:02| 3分| -  
+6| [徐州](/huoche/zhan/xuzhou.htm)| 01:57| 02:08| 11分| -  
+7| [德州](/huoche/zhan/dezhou.htm)| 06:25| 06:27| 2分| -  
+8| [沧州](/huoche/zhan/cangzhou.htm)| 07:21| 07:23| 2分| -  
+9| [天津西](/huoche/zhan/tianjinxi.htm)| 08:31| 08:35| 4分| -  
+10| [北京](/huoche/zhan/beijing.htm)| 09:58| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从恩施开往武汉的D5994动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D5994 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 恩施  
+发车时间 | 14:41  
+到站时间 | 19:25  
+全程时间 | 4小时44分  
+终点站 | 武汉  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [恩施](/huoche/zhan/enshi.htm)| \----| 14:41| 0分| -  
+2| [建始](/huoche/zhan/jianshi.htm)| 15:03| 15:05| 2分| -  
+3| [巴东](/huoche/zhan/badong.htm)| 15:38| 15:40| 2分| -  
+4| [宜昌东](/huoche/zhan/yichangdong.htm)| 16:37| 16:42| 5分| -  
+5| [荆州](/huoche/zhan/jingzhou2.htm)| 17:16| 17:19| 3分| -  
+6| [潜江](/huoche/zhan/qianjiang2.htm)| 17:44| 17:46| 2分| -  
+7| [天门南](/huoche/zhan/tianmennan.htm)| 18:09| 18:11| 2分| -  
+8| [汉川](/huoche/zhan/hanchun.htm)| 18:26| 18:28| 2分| -  
+9| [汉口](/huoche/zhan/hankou.htm)| 18:55| 19:04| 9分| -  
+10| [武汉](/huoche/zhan/wuhan.htm)| 19:25| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

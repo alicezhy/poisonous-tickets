@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京西开往合肥的K4159快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K4159 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 北京西  
+发车时间 | 23:56  
+到站时间 | 14:00  
+全程时间 | 14小时4分  
+终点站 | 合肥  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京西](/huoche/zhan/beijingxi.htm)| -| 23:56| 0分| -  
+2| [霸州](/huoche/zhan/bazhou.htm)| 01:07| 01:10| 3分| -  
+3| [任丘](/huoche/zhan/renqiu.htm)| 01:45| 01:48| 3分| -  
+4| [肃宁](/huoche/zhan/suning.htm)| 02:17| 02:20| 3分| -  
+5| [衡水](/huoche/zhan/hengshui.htm)| 03:23| 03:29| 6分| -  
+6| [聊城](/huoche/zhan/liaocheng.htm)| 05:08| 05:19| 11分| -  
+7| [梁山](/huoche/zhan/liangshan.htm)| 06:12| 06:15| 3分| -  
+8| [菏泽](/huoche/zhan/heze.htm)| 07:02| 07:11| 9分| -  
+9| [商丘南](/huoche/zhan/shangqiunan.htm)| 08:20| 08:24| 4分| -  
+10| [亳州](/huoche/zhan/bozhou.htm)| 09:09| 09:13| 4分| -  
+11| [阜阳](/huoche/zhan/fuyang.htm)| 10:22| 10:42| 20分| -  
+12| [淮南](/huoche/zhan/huainan.htm)| 12:06| 12:11| 5分| -  
+13| [合肥](/huoche/zhan/hefei.htm)| 14:00| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

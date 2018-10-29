@@ -1,0 +1,38 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从广安南开往成都东的D5165动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D5165 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 广安南  
+发车时间 | 21:25  
+到站时间 | 23:38  
+全程时间 | 2小时13分  
+终点站 | 成都东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [广安南](/huoche/zhan/guangannan.htm)| -| 21:25| 0分| -  
+2| [岳池](/huoche/zhan/yuechi.htm)| 21:35| 21:39| 4分| -  
+3| [南充](/huoche/zhan/nanchong.htm)| 22:11| 22:14| 3分| -  
+4| [成都东](/huoche/zhan/chengdudong.htm)| 23:38| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从新乡开往苏州的K1148快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1148 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 新乡  
+发车时间 | 17:30  
+到站时间 | 08:53  
+全程时间 | 15小时23分  
+终点站 | 苏州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [新乡](/huoche/zhan/xinxiang2.htm)| -| 17:30| 0分| -  
+2| [郑州](/huoche/zhan/zhengzhou.htm)| 19:01| 19:28| 27分| -  
+3| [开封](/huoche/zhan/kaifeng.htm)| 20:30| 20:40| 10分| -  
+4| [民权](/huoche/zhan/minquan.htm)| 21:44| 21:48| 4分| -  
+5| [商丘](/huoche/zhan/shangqiu.htm)| 22:28| 22:36| 8分| -  
+6| [砀山](/huoche/zhan/dangshan.htm)| 23:38| 23:41| 3分| -  
+7| [徐州](/huoche/zhan/xuzhou.htm)| 00:48| 00:54| 6分| -  
+8| [蚌埠](/huoche/zhan/bengbu.htm)| 03:10| 03:34| 24分| -  
+9| [南京](/huoche/zhan/nanjing.htm)| 05:40| 05:56| 16分| -  
+10| [无锡](/huoche/zhan/wuxi.htm)| 07:51| 08:08| 17分| -  
+11| [苏州](/huoche/zhan/suzhou.htm)| 08:53| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

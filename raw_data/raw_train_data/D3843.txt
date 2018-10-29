@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从广州南开往昆明南的D3843动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D3843 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 广州南  
+发车时间 | 11:56  
+到站时间 | 20:48  
+全程时间 | 8小时52分  
+终点站 | 昆明南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [广州南](/huoche/zhan/guangzhounan.htm)| -| 11:56| 0分| -  
+2| [佛山西](/huoche/zhan/foshanxi.htm)| 12:15| 12:17| 2分| -  
+3| [三水南](/huoche/zhan/sanshuinan.htm)| 12:29| 12:37| 8分| -  
+4| [肇庆东](/huoche/zhan/zhaoqingdong.htm)| 12:50| 12:52| 2分| -  
+5| [梧州南](/huoche/zhan/wuzhounan.htm)| 13:52| 13:57| 5分| -  
+6| [平南南](/huoche/zhan/pingnannan.htm)| 14:28| 14:30| 2分| -  
+7| [贵港](/huoche/zhan/guigang.htm)| 15:04| 15:06| 2分| -  
+8| [南宁东](/huoche/zhan/nanningdong.htm)| 15:56| 15:59| 3分| -  
+9| [南宁](/huoche/zhan/nanning.htm)| 16:10| 16:14| 4分| -  
+10| [平果](/huoche/zhan/pingguo.htm)| 16:57| 17:01| 4分| -  
+11| [田东北](/huoche/zhan/tiandongbei.htm)| 17:23| 17:27| 4分| -  
+12| [百色](/huoche/zhan/baise.htm)| 17:51| 17:55| 4分| -  
+13| [富宁](/huoche/zhan/funing3.htm)| 18:38| 18:40| 2分| -  
+14| [弥勒](/huoche/zhan/mile.htm)| 20:10| 20:13| 3分| -  
+15| [昆明南](/huoche/zhan/kunmingnan.htm)| 20:48| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

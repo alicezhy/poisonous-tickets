@@ -1,0 +1,56 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从天津开往深圳东的K1619快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1619 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 天津  
+发车时间 | 22:20  
+到站时间 | 06:22  
+全程时间 | 32小时2分  
+终点站 | 深圳东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [天津](/huoche/zhan/tianjin.htm)| -| 22:20| 0分| -  
+2| [聊城](/huoche/zhan/liaocheng.htm)| 03:27| 03:35| 8分| -  
+3| [菏泽](/huoche/zhan/heze.htm)| 05:05| 05:11| 6分| -  
+4| [商丘南](/huoche/zhan/shangqiunan.htm)| 06:23| 06:27| 4分| -  
+5| [亳州](/huoche/zhan/bozhou.htm)| 07:08| 07:13| 5分| -  
+6| [阜阳](/huoche/zhan/fuyang.htm)| 08:24| 08:49| 25分| -  
+7| [淮滨](/huoche/zhan/huaibin.htm)| 09:50| 09:55| 5分| -  
+8| [潢川](/huoche/zhan/huangchuan.htm)| 10:33| 10:38| 5分| -  
+9| [光山](/huoche/zhan/guangshan.htm)| 10:53| 11:06| 13分| -  
+10| [新县](/huoche/zhan/xinxian.htm)| 11:32| 11:35| 3分| -  
+11| [麻城](/huoche/zhan/macheng.htm)| 12:16| 12:24| 8分| -  
+12| [黄州](/huoche/zhan/huangzhou.htm)| 13:04| 13:07| 3分| -  
+13| [浠水](/huoche/zhan/xishui.htm)| 13:31| 13:34| 3分| -  
+14| [蕲春](/huoche/zhan/qinchun.htm)| 13:55| 14:07| 12分| -  
+15| [武穴](/huoche/zhan/wuxue.htm)| 14:51| 14:56| 5分| -  
+16| [南昌](/huoche/zhan/nanchang.htm)| 16:59| 17:20| 21分| -  
+17| [吉安](/huoche/zhan/jian6.htm)| 20:12| 20:16| 4分| -  
+18| [赣州](/huoche/zhan/ganzhou.htm)| 22:13| 22:17| 4分| -  
+19| [龙川](/huoche/zhan/longchuan.htm)| 02:04| 02:18| 14分| -  
+20| [惠州](/huoche/zhan/huizhou.htm)| 04:05| 04:07| 2分| -  
+21| [东莞东](/huoche/zhan/dongguandong.htm)| 04:58| 05:04| 6分| -  
+22| [深圳东](/huoche/zhan/shenzhendong.htm)| 06:22| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

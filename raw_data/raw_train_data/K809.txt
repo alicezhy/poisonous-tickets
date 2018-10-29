@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从怀化开往苏州的K809快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K809 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 怀化  
+发车时间 | 12:00  
+到站时间 | 14:54  
+全程时间 | 26小时54分  
+终点站 | 苏州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [怀化](/huoche/zhan/huaihua.htm)| -| 12:00| 0分| -  
+2| [麻阳](/huoche/zhan/mayang.htm)| 12:37| 12:40| 3分| -  
+3| [吉首](/huoche/zhan/jishou.htm)| 13:30| 13:36| 6分| -  
+4| [张家界](/huoche/zhan/zhangjiajie.htm)| 15:41| 15:55| 14分| -  
+5| [慈利](/huoche/zhan/cili.htm)| 17:05| 17:08| 3分| -  
+6| [石门县北](/huoche/zhan/shimenxianbei.htm)| 17:38| 18:08| 30分| -  
+7| [常德](/huoche/zhan/changde.htm)| 18:59| 19:05| 6分| -  
+8| [益阳](/huoche/zhan/yiyang.htm)| 20:07| 20:13| 6分| -  
+9| [长沙](/huoche/zhan/changsha.htm)| 21:24| 21:48| 24分| -  
+10| [株洲](/huoche/zhan/zhuzhou.htm)| 22:27| 22:40| 13分| -  
+13| [义乌](/huoche/zhan/yiwu.htm)| 08:36| 08:39| 3分| -  
+14| [诸暨](/huoche/zhan/zhuji.htm)| 09:07| 09:10| 3分| -  
+15| [杭州](/huoche/zhan/hangzhou.htm)| 10:28| 10:41| 13分| -  
+16| [海宁](/huoche/zhan/haining.htm)| 11:25| 11:28| 3分| -  
+17| [嘉兴](/huoche/zhan/jiaxing.htm)| 11:48| 11:51| 3分| -  
+18| [上海南](/huoche/zhan/shanghainan.htm)| 12:58| 13:34| 36分| -  
+19| [昆山](/huoche/zhan/kunshan.htm)| 14:27| 14:30| 3分| -  
+20| [苏州](/huoche/zhan/suzhou.htm)| 14:54| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

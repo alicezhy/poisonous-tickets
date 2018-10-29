@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从银川开往中卫的7534普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 7534 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 银川  
+发车时间 | 07:20  
+到站时间 | 15:00  
+全程时间 | 7小时40分  
+终点站 | 中卫  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [银川](/huoche/zhan/yinchuan.htm)| -| 07:20| 0分| -  
+3| [灵武](/huoche/zhan/lingwu.htm)| 08:13| 08:15| 2分| -  
+4| [宁东](/huoche/zhan/ningdong.htm)| 08:29| 08:31| 2分| -  
+5| [宁东南](/huoche/zhan/ningdongnan.htm)| 08:41| 08:44| 3分| -  
+6| [盐池](/huoche/zhan/yanchi2.htm)| 09:50| 09:52| 2分| -  
+7| [定边](/huoche/zhan/dingbian2.htm)| 10:14| 11:10| 56分| -  
+8| [太阳山](/huoche/zhan/taiyangshang.htm)| 12:44| 12:51| 7分| -  
+9| [红寺堡](/huoche/zhan/hongshibao.htm)| 13:32| 13:35| 3分| -  
+11| [黄羊湾](/huoche/zhan/HuangYangWan.htm)| 14:27| 14:29| 2分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

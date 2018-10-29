@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从洛阳开往福州的K32快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K32 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 洛阳  
+发车时间 | 13:18  
+到站时间 | 13:28  
+全程时间 | 24小时10分  
+终点站 | 福州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [洛阳](/huoche/zhan/luoyang.htm)| -| 13:18| 0分| -  
+2| [洛阳东](/huoche/zhan/luoyangdong.htm)| 13:26| 13:29| 3分| -  
+3| [巩义](/huoche/zhan/gongyi.htm)| 14:02| 14:05| 3分| -  
+4| [郑州](/huoche/zhan/zhengzhou.htm)| 15:08| 15:30| 22分| -  
+5| [开封](/huoche/zhan/kaifeng.htm)| 16:22| 16:26| 4分| -  
+6| [兰考](/huoche/zhan/lankao.htm)| 16:54| 16:59| 5分| -  
+7| [民权](/huoche/zhan/minquan.htm)| 17:20| 17:26| 6分| -  
+8| [商丘](/huoche/zhan/shangqiu.htm)| 18:06| 18:10| 4分| -  
+9| [亳州](/huoche/zhan/bozhou.htm)| 19:00| 19:04| 4分| -  
+10| [阜阳](/huoche/zhan/fuyang.htm)| 20:13| 20:28| 15分| -  
+11| [潢川](/huoche/zhan/huangchuan.htm)| 22:03| 22:10| 7分| -  
+12| [光山](/huoche/zhan/guangshan.htm)| 22:26| 22:30| 4分| -  
+13| [九江](/huoche/zhan/jiujiang.htm)| 02:24| 02:30| 6分| -  
+14| [鹰潭](/huoche/zhan/yingtan.htm)| 05:47| 05:55| 8分| -  
+15| [武夷山](/huoche/zhan/wuyishan.htm)| 08:08| 08:12| 4分| -  
+16| [建阳](/huoche/zhan/jianyang.htm)| 08:58| 09:02| 4分| -  
+17| [建瓯](/huoche/zhan/jianou.htm)| 09:48| 09:52| 4分| -  
+18| [南平南](/huoche/zhan/nanpingnan.htm)| 10:57| 11:01| 4分| -  
+19| [古田](/huoche/zhan/gutian.htm)| 11:58| 12:01| 3分| -  
+20| [福州](/huoche/zhan/fuzhou.htm)| 13:28| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

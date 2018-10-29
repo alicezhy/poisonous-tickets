@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从阜阳开往上海的K8365快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K8365 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 阜阳  
+发车时间 | 13:05  
+到站时间 | 22:41  
+全程时间 | 9小时36分  
+终点站 | 上海  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [阜阳](/huoche/zhan/fuyang.htm)| -| 13:05| 0分| -  
+2| [颍上](/huoche/zhan/yingshang.htm)| 13:36| 13:39| 3分| -  
+3| [淮南](/huoche/zhan/huainan.htm)| 14:38| 14:42| 4分| -  
+4| [蚌埠](/huoche/zhan/bengbu.htm)| 16:22| 16:47| 25分| -  
+5| [滁州北](/huoche/zhan/chuzhoubei.htm)| 18:11| 18:15| 4分| -  
+6| [南京](/huoche/zhan/nanjing.htm)| 19:00| 19:10| 10分| -  
+7| [苏州](/huoche/zhan/suzhou.htm)| 21:29| 21:33| 4分| -  
+8| [上海](/huoche/zhan/shanghai.htm)| 22:41| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从蚌埠南开往广州南的G1747高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1747 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 蚌埠南  
+发车时间 | 15:40  
+到站时间 | 23:43  
+全程时间 | 8小时3分  
+终点站 | 广州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [蚌埠南](/huoche/zhan/bengbunan.htm)| \----| 15:40| 0分| -  
+2| [淮南东](/huoche/zhan/huainandong.htm)| 15:56| 15:58| 2分| -  
+3| [合肥](/huoche/zhan/hefei.htm)| 16:25| 16:43| 18分| -  
+4| [六安](/huoche/zhan/liuan.htm)| 17:22| 17:24| 2分| -  
+5| [金寨](/huoche/zhan/jinzhai.htm)| 17:43| 17:45| 2分| -  
+6| [麻城北](/huoche/zhan/machengbei.htm)| 18:18| 18:20| 2分| -  
+7| [红安西](/huoche/zhan/honganxi.htm)| 18:34| 18:45| 11分| -  
+8| [武汉](/huoche/zhan/wuhan.htm)| 19:09| 19:12| 3分| -  
+9| [咸宁北](/huoche/zhan/xianningbei.htm)| 19:36| 19:38| 2分| -  
+10| [岳阳东](/huoche/zhan/yueyangdong.htm)| 20:08| 20:10| 2分| -  
+11| [长沙南](/huoche/zhan/changshanan.htm)| 20:45| 20:52| 7分| -  
+12| [株洲西](/huoche/zhan/zhuzhouxi.htm)| 21:07| 21:09| 2分| -  
+13| [衡阳东](/huoche/zhan/hengyangdong.htm)| 21:36| 21:38| 2分| -  
+14| [郴州西](/huoche/zhan/chenzhouxi.htm)| 22:11| 22:13| 2分| -  
+15| [韶关](/huoche/zhan/shaoguan.htm)| 22:44| 22:46| 2分| -  
+16| [广州南](/huoche/zhan/guangzhounan.htm)| 23:43| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

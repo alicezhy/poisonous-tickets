@@ -1,0 +1,74 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从长春开往昆明的K2288快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K2288 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 长春  
+发车时间 | 19:09  
+到站时间 | 05:41  
+全程时间 | 58小时32分  
+终点站 | 昆明  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [长春](/huoche/zhan/changchun.htm)| \----| 19:09| 0分| -  
+2| [公主岭](/huoche/zhan/gongzhuling.htm)| 19:47| 19:49| 2分| -  
+3| [四平](/huoche/zhan/siping.htm)| 20:28| 20:30| 2分| -  
+4| [昌图](/huoche/zhan/changtu.htm)| 21:03| 21:05| 2分| -  
+5| [开原](/huoche/zhan/kaiyuan.htm)| 21:25| 21:27| 2分| -  
+6| [铁岭](/huoche/zhan/tieling.htm)| 21:49| 21:51| 2分| -  
+7| [沈阳北](/huoche/zhan/shenyangbei.htm)| 22:41| 22:49| 8分| -  
+8| [锦州](/huoche/zhan/jinzhou.htm)| 01:21| 01:29| 8分| -  
+9| [葫芦岛](/huoche/zhan/huludao.htm)| 02:02| 02:05| 3分| -  
+10| [山海关](/huoche/zhan/shanhaiguan.htm)| 03:33| 03:52| 19分| -  
+11| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 04:12| 04:15| 3分| -  
+12| [唐山](/huoche/zhan/tangshan.htm)| 06:08| 06:28| 20分| -  
+13| [天津](/huoche/zhan/tianjin.htm)| 08:16| 08:38| 22分| -  
+14| [霸州西](/huoche/zhan/bazhouxi.htm)| 10:26| 10:28| 2分| -  
+15| [白洋淀](/huoche/zhan/baiyangdian.htm)| 10:54| 10:56| 2分| -  
+16| [徐水](/huoche/zhan/xushui.htm)| 11:12| 11:14| 2分| -  
+17| [保定](/huoche/zhan/baoding.htm)| 11:32| 11:38| 6分| -  
+18| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 13:04| 13:15| 11分| -  
+19| [安阳](/huoche/zhan/anyang.htm)| 15:50| 16:08| 18分| -  
+20| [新乡](/huoche/zhan/xinxiang2.htm)| 17:13| 17:36| 23分| -  
+21| [焦作](/huoche/zhan/jiaozuo.htm)| 18:26| 18:29| 3分| -  
+22| [月山](/huoche/zhan/yueshan.htm)| 18:47| 18:50| 3分| -  
+23| [关林](/huoche/zhan/guanlin.htm)| 20:43| 21:03| 20分| -  
+24| [平顶山西](/huoche/zhan/pingdingshanxi.htm)| 22:35| 22:39| 4分| -  
+26| [南阳](/huoche/zhan/nanyang.htm)| 00:18| 00:21| 3分| -  
+27| [襄阳](/huoche/zhan/xiangyang2.htm)| 02:08| 02:38| 30分| -  
+28| [荆门](/huoche/zhan/jingmen.htm)| 04:02| 04:05| 3分| -  
+29| [石门县北](/huoche/zhan/shimenxianbei.htm)| 07:02| 07:08| 6分| -  
+30| [张家界](/huoche/zhan/zhangjiajie.htm)| 08:49| 08:59| 10分| -  
+31| [吉首](/huoche/zhan/jishou.htm)| 11:10| 11:16| 6分| -  
+32| [怀化](/huoche/zhan/huaihua.htm)| 13:42| 14:02| 20分| -  
+33| [凯里](/huoche/zhan/kaili.htm)| 18:04| 18:12| 8分| -  
+34| [福泉](/huoche/zhan/fuquan.htm)| 19:01| 19:05| 4分| -  
+35| [贵阳](/huoche/zhan/guiyang.htm)| 20:48| 21:27| 39分| -  
+36| [安顺](/huoche/zhan/anshun.htm)| 22:40| 22:45| 5分| -  
+37| [六枝](/huoche/zhan/liuzhi.htm)| 23:26| 23:31| 5分| -  
+38| [六盘水](/huoche/zhan/liupanshui.htm)| 01:07| 01:19| 12分| -  
+39| [宣威](/huoche/zhan/xuanwei.htm)| 02:52| 02:58| 6分| -  
+40| [曲靖](/huoche/zhan/qujing.htm)| 04:02| 04:07| 5分| -  
+41| [昆明](/huoche/zhan/kunming.htm)| 05:41| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

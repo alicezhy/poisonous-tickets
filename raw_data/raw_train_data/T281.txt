@@ -1,0 +1,65 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从乌鲁木齐开往南宁的T281特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | T281 |  
+---|---|---|---  
+车型 | 特快火车  
+始发站 | 乌鲁木齐  
+发车时间 | 19:03  
+到站时间 | 11:50  
+全程时间 | 64小时47分  
+终点站 | 南宁  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [乌鲁木齐](/huoche/zhan/wulumuqi.htm)| -| 19:03| 0分| -  
+3| [吐鲁番](/huoche/zhan/tulufan.htm)| 21:03| 21:09| 6分| -  
+4| [鄯善](/huoche/zhan/shanshan.htm)| 22:36| 22:42| 6分| -  
+5| [哈密](/huoche/zhan/hami.htm)| 01:02| 01:20| 18分| -  
+6| [柳园](/huoche/zhan/liuyuan.htm)| 04:38| 04:45| 7分| -  
+7| [嘉峪关](/huoche/zhan/jiayuguan.htm)| 07:37| 07:44| 7分| -  
+8| [酒泉](/huoche/zhan/jiuquan.htm)| 08:03| 08:08| 5分| -  
+9| [张掖](/huoche/zhan/zhangye.htm)| 09:55| 10:01| 6分| -  
+10| [金昌](/huoche/zhan/jinchang.htm)| 11:38| 11:42| 4分| -  
+11| [武威](/huoche/zhan/wuwei.htm)| 12:27| 12:33| 6分| -  
+12| [兰州](/huoche/zhan/lanzhou.htm)| 15:37| 15:52| 15分| -  
+13| [定西](/huoche/zhan/dingxi.htm)| 17:08| 17:20| 12分| -  
+14| [陇西](/huoche/zhan/longxi.htm)| 18:12| 18:18| 6分| -  
+15| [天水](/huoche/zhan/tianshui.htm)| 20:14| 20:26| 12分| -  
+16| [宝鸡](/huoche/zhan/baoji.htm)| 22:59| 23:17| 18分| -  
+17| [西安](/huoche/zhan/xian.htm)| 00:56| 01:06| 10分| -  
+18| [西峡](/huoche/zhan/xixia2.htm)| 05:29| 05:35| 6分| -  
+19| [内乡](/huoche/zhan/naxiang.htm)| 06:42| 06:47| 5分| -  
+20| [镇平](/huoche/zhan/zhenping.htm)| 07:45| 07:48| 3分| -  
+21| [邓州](/huoche/zhan/dengzhou.htm)| 09:53| 09:56| 3分| -  
+22| [襄阳](/huoche/zhan/xiangyang2.htm)| 11:03| 11:33| 30分| -  
+23| [荆门](/huoche/zhan/jingmen.htm)| 13:03| 13:05| 2分| -  
+24| [当阳](/huoche/zhan/dangyang.htm)| 13:39| 13:42| 3分| -  
+25| [松滋](/huoche/zhan/songzi.htm)| 15:09| 15:21| 12分| -  
+26| [石门县北](/huoche/zhan/shimenxianbei.htm)| 16:28| 16:33| 5分| -  
+27| [张家界](/huoche/zhan/zhangjiajie.htm)| 18:55| 19:11| 16分| -  
+28| [吉首](/huoche/zhan/jishou.htm)| 20:53| 21:01| 8分| -  
+29| [怀化](/huoche/zhan/huaihua.htm)| 22:35| 22:55| 20分| -  
+30| [柳江](/huoche/zhan/liujiang.htm)| 07:01| 07:16| 15分| -  
+31| [来宾](/huoche/zhan/laibin.htm)| 08:07| 08:12| 5分| -  
+32| [南宁](/huoche/zhan/nanning.htm)| 11:50| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海虹桥开往武汉的G4583高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G4583 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 上海虹桥  
+发车时间 | 17:28  
+到站时间 | 22:35  
+全程时间 | 5小时7分  
+终点站 | 武汉  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| \----| 17:28| 0分| -  
+2| [苏州北](/huoche/zhan/suzhoubei.htm)| 17:51| 17:53| 2分| -  
+3| [无锡东](/huoche/zhan/wuxidong.htm)| 18:03| 18:05| 2分| -  
+4| [镇江南](/huoche/zhan/zhenjiangnan.htm)| 18:35| 18:36| 1分| -  
+5| [南京南](/huoche/zhan/nanjingnan.htm)| 18:56| 19:04| 8分| -  
+6| [合肥南](/huoche/zhan/hefeinan.htm)| 19:56| 20:00| 4分| -  
+7| [六安](/huoche/zhan/liuan.htm)| 20:24| 20:26| 2分| -  
+8| [金寨](/huoche/zhan/jinzhai.htm)| 20:43| 20:45| 2分| -  
+9| [麻城北](/huoche/zhan/machengbei.htm)| 21:47| 21:50| 3分| -  
+10| [红安西](/huoche/zhan/honganxi.htm)| 22:04| 22:08| 4分| -  
+11| [武汉](/huoche/zhan/wuhan.htm)| 22:35| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

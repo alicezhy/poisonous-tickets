@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京南开往吉林的G383高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G383 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 北京南  
+发车时间 | 07:35  
+到站时间 | 14:54  
+全程时间 | 7小时19分  
+终点站 | 吉林  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京南](/huoche/zhan/beijingnan.htm)| \----| 07:35| 0分| -  
+2| [廊坊](/huoche/zhan/langfang.htm)| 07:56| 07:58| 2分| -  
+3| [天津西](/huoche/zhan/tianjinxi.htm)| 08:17| 08:21| 4分| -  
+4| [唐山](/huoche/zhan/tangshan.htm)| 08:58| 09:08| 10分| -  
+5| [滦河](/huoche/zhan/luanhe.htm)| 09:25| 09:32| 7分| -  
+6| [北戴河](/huoche/zhan/beidaihe.htm)| 09:51| 09:54| 3分| -  
+7| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 10:05| 10:08| 3分| -  
+8| [绥中北](/huoche/zhan/suizhongbei.htm)| 10:47| 10:48| 1分| -  
+9| [盘锦北](/huoche/zhan/panjinbei.htm)| 11:45| 11:46| 1分| -  
+10| [台安](/huoche/zhan/taian.htm)| 12:05| 12:07| 2分| -  
+11| [沈阳北](/huoche/zhan/shenyangbei.htm)| 12:51| 12:54| 3分| -  
+12| [昌图西](/huoche/zhan/changtuxi.htm)| 13:28| 13:29| 1分| -  
+13| [长春](/huoche/zhan/changchun.htm)| 14:11| 14:14| 3分| -  
+14| [吉林](/huoche/zhan/jilin.htm)| 14:54| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

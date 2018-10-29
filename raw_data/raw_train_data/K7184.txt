@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从齐齐哈尔开往乌伊岭的K7184快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7184 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 齐齐哈尔  
+发车时间 | 18:13  
+到站时间 | 08:10  
+全程时间 | 13小时57分  
+终点站 | 乌伊岭  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [齐齐哈尔](/huoche/zhan/qiqihaer.htm)| \----| 18:13| 0分| -  
+2| [大庆](/huoche/zhan/daqing.htm)| 19:32| 19:34| 2分| -  
+3| [哈尔滨](/huoche/zhan/haerbin.htm)| 21:15| 22:10| 55分| -  
+4| [绥化](/huoche/zhan/suihua.htm)| 23:33| 23:41| 8分| -  
+5| [南岔](/huoche/zhan/nancha2.htm)| 02:19| 02:56| 37分| -  
+6| [金山屯](/huoche/zhan/jinshantun.htm)| 03:41| 03:45| 4分| -  
+7| [西林](/huoche/zhan/xilin.htm)| 04:00| 04:02| 2分| -  
+8| [美溪](/huoche/zhan/meixi.htm)| 04:29| 04:31| 2分| -  
+9| [伊春](/huoche/zhan/yichun2.htm)| 04:56| 05:01| 5分| -  
+10| [友好](/huoche/zhan/youhao.htm)| 05:20| 05:22| 2分| -  
+11| [红山](/huoche/zhan/hongshan2.htm)| 05:47| 05:50| 3分| -  
+12| [五营](/huoche/zhan/wuying.htm)| 06:25| 06:27| 2分| -  
+13| [红星](/huoche/zhan/hongxing.htm)| 06:53| 06:55| 2分| -  
+14| [新青](/huoche/zhan/xinqing.htm)| 07:11| 07:13| 2分| -  
+15| [汤旺河](/huoche/zhan/tangwanghe.htm)| 07:41| 07:44| 3分| -  
+16| [乌伊岭](/huoche/zhan/wuyiling.htm)| 08:10| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

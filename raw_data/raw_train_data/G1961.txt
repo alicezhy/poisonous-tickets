@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从郑州东开往宁波的G1961高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1961 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 郑州东  
+发车时间 | 07:17  
+到站时间 | 13:42  
+全程时间 | 6小时25分  
+终点站 | 宁波  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [郑州东](/huoche/zhan/zhengzhoudong.htm)| -| 07:17| 0分| -  
+2| [开封北](/huoche/zhan/kaifengbei.htm)| 07:37| 07:39| 2分| -  
+3| [商丘](/huoche/zhan/shangqiu.htm)| 08:14| 08:17| 3分| -  
+4| [永城北](/huoche/zhan/yongchengbei.htm)| 08:42| 08:44| 2分| -  
+5| [徐州东](/huoche/zhan/xuzhoudong.htm)| 09:11| 09:16| 5分| -  
+6| [宿州东](/huoche/zhan/suzhoudong.htm)| 09:34| 09:40| 6分| -  
+7| [滁州](/huoche/zhan/chuzhou.htm)| 10:28| 10:35| 7分| -  
+8| [南京南](/huoche/zhan/nanjingnan.htm)| 10:54| 10:58| 4分| -  
+9| [溧水](/huoche/zhan/lishui2.htm)| 11:15| 11:18| 3分| -  
+10| [宜兴](/huoche/zhan/yixing.htm)| 11:40| 11:42| 2分| -  
+11| [湖州](/huoche/zhan/huzhou.htm)| 11:58| 12:03| 5分| -  
+12| [德清](/huoche/zhan/deqing.htm)| 12:17| 12:19| 2分| -  
+13| [杭州东](/huoche/zhan/hangzhoudong.htm)| 12:32| 12:40| 8分| -  
+14| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 12:59| 13:02| 3分| -  
+15| [余姚北](/huoche/zhan/yuyaobei.htm)| 13:20| 13:22| 2分| -  
+16| [宁波](/huoche/zhan/ningbo.htm)| 13:42| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

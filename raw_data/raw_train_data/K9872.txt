@@ -1,0 +1,41 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从兰州开往姚渡的K9872快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K9872 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 兰州  
+发车时间 | 09:20  
+到站时间 | 14:41  
+全程时间 | 5小时21分  
+终点站 | 姚渡  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [兰州](/huoche/zhan/lanzhou.htm)| -| 09:20| 0分| -  
+2| [渭源](/huoche/zhan/weiyuan.htm)| 10:46| 10:50| 4分| -  
+3| [漳县](/huoche/zhan/zhangxian2.htm)| 11:22| 11:25| 3分| -  
+4| [岷县](/huoche/zhan/minxian.htm)| 11:51| 11:55| 4分| -  
+5| [哈达铺](/huoche/zhan/hadapu.htm)| 12:17| 12:21| 4分| -  
+6| [陇南](/huoche/zhan/longnan2.htm)| 13:40| 13:45| 5分| -  
+7| [姚渡](/huoche/zhan/yaodu.htm)| 14:41| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

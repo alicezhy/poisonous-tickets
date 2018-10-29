@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海开往石家庄北的K1013快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1013 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 上海  
+发车时间 | 15:05  
+到站时间 | 13:20  
+全程时间 | 22小时15分  
+终点站 | 石家庄北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海](/huoche/zhan/shanghai.htm)| \----| 15:05| 0分| -  
+2| [昆山](/huoche/zhan/kunshan.htm)| 15:39| 15:43| 4分| -  
+3| [苏州](/huoche/zhan/suzhou.htm)| 16:07| 16:11| 4分| -  
+4| [无锡](/huoche/zhan/wuxi.htm)| 16:39| 16:43| 4分| -  
+5| [镇江](/huoche/zhan/zhenjiang.htm)| 18:26| 18:29| 3分| -  
+6| [南京](/huoche/zhan/nanjing.htm)| 19:23| 19:42| 19分| -  
+7| [蚌埠](/huoche/zhan/bengbu.htm)| 21:40| 21:51| 11分| -  
+8| [宿州](/huoche/zhan/suzhou2.htm)| 22:47| 22:57| 10分| -  
+9| [徐州](/huoche/zhan/xuzhou.htm)| 23:54| 00:11| 17分| -  
+10| [兖州](/huoche/zhan/yanzhou.htm)| 04:46| 04:52| 6分| -  
+11| [济宁](/huoche/zhan/jining2.htm)| 05:16| 05:18| 2分| -  
+12| [菏泽](/huoche/zhan/heze.htm)| 06:29| 07:04| 35分| -  
+13| [聊城](/huoche/zhan/liaocheng.htm)| 08:56| 09:05| 9分| -  
+14| [清河城](/huoche/zhan/qinghecheng.htm)| 10:10| 10:20| 10分| -  
+15| [枣强](/huoche/zhan/zaoqiang.htm)| 10:56| 10:59| 3分| -  
+16| [衡水](/huoche/zhan/hengshui.htm)| 11:30| 11:40| 10分| -  
+17| [辛集](/huoche/zhan/xinji.htm)| 12:12| 12:14| 2分| -  
+18| [晋州](/huoche/zhan/jinzhou4.htm)| 12:29| 12:31| 2分| -  
+19| [石家庄北](/huoche/zhan/shijiazhuangbei.htm)| 13:20| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

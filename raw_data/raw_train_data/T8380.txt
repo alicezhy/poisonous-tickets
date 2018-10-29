@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从汕头开往广州东的T8380特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | T8380 |  
+---|---|---|---  
+车型 | 特快火车  
+始发站 | 汕头  
+发车时间 | 10:20  
+到站时间 | 19:15  
+全程时间 | 8小时55分  
+终点站 | 广州东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [汕头](/huoche/zhan/shantou.htm)| -| 10:20| 0分| -  
+2| [潮州](/huoche/zhan/chaozhou.htm)| 10:53| 11:00| 7分| -  
+3| [揭阳](/huoche/zhan/jieyang.htm)| 11:20| 11:28| 8分| -  
+4| [丰顺](/huoche/zhan/fengshun.htm)| 11:50| 11:52| 2分| -  
+5| [梅州](/huoche/zhan/meizhou.htm)| 13:06| 13:32| 26分| -  
+6| [兴宁](/huoche/zhan/xingning.htm)| 14:20| 14:23| 3分| -  
+7| [龙川](/huoche/zhan/longchuan.htm)| 15:20| 15:35| 15分| -  
+8| [河源](/huoche/zhan/heyuan.htm)| 16:27| 16:30| 3分| -  
+9| [惠州](/huoche/zhan/huizhou.htm)| 17:25| 17:30| 5分| -  
+10| [东莞东](/huoche/zhan/dongguandong.htm)| 18:14| 18:17| 3分| -  
+11| [广州东](/huoche/zhan/guangzhoudong.htm)| 19:15| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京开往包头的Z317直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z317 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 北京  
+发车时间 | 22:49  
+到站时间 | 10:19  
+全程时间 | 11小时30分  
+终点站 | 包头  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京](/huoche/zhan/beijing.htm)| -| 22:49| 0分| -  
+3| [大同](/huoche/zhan/datong.htm)| 04:54| 05:03| 9分| -  
+4| [集宁南](/huoche/zhan/jiningnan.htm)| 06:40| 06:46| 6分| -  
+5| [呼和浩特](/huoche/zhan/huhehaote.htm)| 08:04| 08:26| 22分| -  
+6| [包头东](/huoche/zhan/baotoudong.htm)| 09:58| 10:02| 4分| -  
+7| [包头](/huoche/zhan/baotou.htm)| 10:19| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

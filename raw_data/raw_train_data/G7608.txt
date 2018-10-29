@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从宁波开往南京南的G7608高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7608 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 宁波  
+发车时间 | 12:58  
+到站时间 | 15:30  
+全程时间 | 2小时32分  
+终点站 | 南京南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [宁波](/huoche/zhan/ningbo.htm)| \----| 12:58| 0分| -  
+2| [绍兴东](/huoche/zhan/shaoxingdong.htm)| 13:24| 13:26| 2分| -  
+3| [杭州东](/huoche/zhan/hangzhoudong.htm)| 13:52| 14:00| 8分| -  
+4| [湖州](/huoche/zhan/huzhou.htm)| 14:21| 14:23| 2分| -  
+5| [长兴](/huoche/zhan/changxing.htm)| 14:32| 14:34| 2分| -  
+6| [宜兴](/huoche/zhan/yixing.htm)| 14:47| 14:49| 2分| -  
+7| [溧阳](/huoche/zhan/liyang.htm)| 15:00| 15:02| 2分| -  
+8| [南京南](/huoche/zhan/nanjingnan.htm)| 15:30| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

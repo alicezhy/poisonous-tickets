@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从青岛开往银川的K1286快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1286 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 青岛  
+发车时间 | 11:33  
+到站时间 | 09:50  
+全程时间 | 22小时17分  
+终点站 | 银川  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [青岛](/huoche/zhan/qingdao.htm)| -| 11:33| 0分| -  
+2| [青岛北](/huoche/zhan/qingdaobei.htm)| 11:53| 12:08| 15分| -  
+3| [蓝村](/huoche/zhan/lancun.htm)| 12:35| 12:38| 3分| -  
+4| [胶州](/huoche/zhan/jiaozhou.htm)| 12:54| 13:02| 8分| -  
+5| [潍坊](/huoche/zhan/weifang.htm)| 14:10| 14:20| 10分| -  
+6| [淄博](/huoche/zhan/zibo.htm)| 15:24| 15:28| 4分| -  
+7| [济南东](/huoche/zhan/jinandong.htm)| 17:00| 17:17| 17分| -  
+10| [晏城](/huoche/zhan/yancheng.htm)| 17:50| 17:53| 3分| -  
+11| [禹城](/huoche/zhan/yucheng.htm)| 18:06| 18:09| 3分| -  
+12| [德州](/huoche/zhan/dezhou.htm)| 19:03| 19:08| 5分| -  
+13| [衡水](/huoche/zhan/hengshui.htm)| 19:57| 20:01| 4分| -  
+14| [辛集](/huoche/zhan/xinji.htm)| 20:35| 20:37| 2分| -  
+16| [石家庄北](/huoche/zhan/shijiazhuangbei.htm)| 21:38| 21:46| 8分| -  
+19| [太原](/huoche/zhan/taiyuan.htm)| 23:42| 23:59| 17分| -  
+25| [绥德](/huoche/zhan/suide.htm)| 03:54| 03:58| 4分| -  
+27| [靖边](/huoche/zhan/jingbian.htm)| 05:25| 05:31| 6分| -  
+28| [定边](/huoche/zhan/dingbian2.htm)| 06:47| 07:00| 13分| -  
+29| [盐池](/huoche/zhan/yanchi2.htm)| 07:22| 07:24| 2分| -  
+31| [银川](/huoche/zhan/yinchuan.htm)| 09:50| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

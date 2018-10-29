@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海虹桥开往宁波的G7549高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7549 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 上海虹桥  
+发车时间 | 08:10  
+到站时间 | 10:22  
+全程时间 | 2小时12分  
+终点站 | 宁波  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| \----| 08:10| 0分| -  
+2| [金山北](/huoche/zhan/jinshanbei.htm)| 08:28| 08:33| 5分| -  
+3| [嘉兴南](/huoche/zhan/jiaxingnan.htm)| 08:47| 08:49| 2分| -  
+4| [杭州东](/huoche/zhan/hangzhoudong.htm)| 09:12| 09:14| 2分| -  
+5| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 09:33| 09:35| 2分| -  
+6| [绍兴东](/huoche/zhan/shaoxingdong.htm)| 09:46| 09:48| 2分| -  
+7| [余姚北](/huoche/zhan/yuyaobei.htm)| 10:00| 10:02| 2分| -  
+8| [宁波](/huoche/zhan/ningbo.htm)| 10:22| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

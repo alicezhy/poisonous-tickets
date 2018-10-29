@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从赣州开往广州东的K1665快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1665 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 赣州  
+发车时间 | 07:51  
+到站时间 | 14:15  
+全程时间 | 6小时24分  
+终点站 | 广州东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [赣州](/huoche/zhan/ganzhou.htm)| -| 07:51| 0分| -  
+2| [大余](/huoche/zhan/dayu.htm)| 08:56| 09:00| 4分| -  
+3| [南雄](/huoche/zhan/nanxiong.htm)| 09:35| 09:40| 5分| -  
+4| [始兴](/huoche/zhan/shixing.htm)| 10:01| 10:06| 5分| -  
+5| [丹霞山](/huoche/zhan/danxiashan.htm)| 10:27| 10:33| 6分| -  
+6| [韶关东](/huoche/zhan/shaoguandong.htm)| 11:07| 11:13| 6分| -  
+7| [英德](/huoche/zhan/yingde.htm)| 12:07| 12:23| 16分| -  
+8| [广州北](/huoche/zhan/guangzhoubei.htm)| 13:32| 13:35| 3分| -  
+9| [广州东](/huoche/zhan/guangzhoudong.htm)| 14:15| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

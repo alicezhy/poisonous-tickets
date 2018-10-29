@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从大连北开往济南西的G392高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G392 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 大连北  
+发车时间 | 15:03  
+到站时间 | 21:31  
+全程时间 | 6小时28分  
+终点站 | 济南西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [大连北](/huoche/zhan/dalianbei.htm)| \----| 15:03| 0分| -  
+2| [鲅鱼圈](/huoche/zhan/bayuquan.htm)| 15:43| 15:45| 2分| -  
+3| [营口东](/huoche/zhan/yingkoudong.htm)| 16:03| 16:05| 2分| -  
+4| [盘锦](/huoche/zhan/panjin.htm)| 16:35| 16:37| 2分| -  
+5| [葫芦岛北](/huoche/zhan/huludaobei.htm)| 17:25| 17:26| 1分| -  
+6| [山海关](/huoche/zhan/shanhaiguan.htm)| 18:09| 18:11| 2分| -  
+7| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 18:25| 18:27| 2分| -  
+8| [滦河](/huoche/zhan/luanhe.htm)| 18:52| 18:55| 3分| -  
+9| [唐山](/huoche/zhan/tangshan.htm)| 19:13| 19:15| 2分| -  
+10| [滨海北](/huoche/zhan/binhaibei.htm)| 19:31| 19:33| 2分| -  
+11| [天津](/huoche/zhan/tianjin.htm)| 19:54| 19:56| 2分| -  
+12| [天津西](/huoche/zhan/tianjinxi.htm)| 20:04| 20:07| 3分| -  
+13| [沧州西](/huoche/zhan/cangzhouxi.htm)| 20:37| 20:39| 2分| -  
+14| [德州东](/huoche/zhan/dezhoudong.htm)| 21:05| 21:07| 2分| -  
+15| [济南西](/huoche/zhan/jinanxi.htm)| 21:31| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

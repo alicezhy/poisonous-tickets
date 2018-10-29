@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从承德开往平泉的6455普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 6455 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 承德  
+发车时间 | 14:54  
+到站时间 | 17:06  
+全程时间 | 2小时12分  
+终点站 | 平泉  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [承德](/huoche/zhan/chengde.htm)| -| 14:54| 0分| -  
+2| [承德东](/huoche/zhan/chengdedong.htm)| 15:06| 15:07| 1分| -  
+3| [上板城](/huoche/zhan/shangbancheng.htm)| 15:19| 15:20| 1分| -  
+4| [下板城](/huoche/zhan/xiabancheng.htm)| 15:39| 15:40| 1分| -  
+5| [甲山](/huoche/zhan/jiashan2.htm)| 15:49| 15:50| 1分| -  
+6| [永和](/huoche/zhan/YongHe.htm)| 15:59| 16:00| 1分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

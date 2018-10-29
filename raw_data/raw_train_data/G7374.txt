@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从金寨开往江山的G7374高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7374 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 金寨  
+发车时间 | 14:10  
+到站时间 | 21:09  
+全程时间 | 6小时59分  
+终点站 | 江山  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [金寨](/huoche/zhan/jinzhai.htm)| \----| 14:10| 0分| -  
+2| [六安](/huoche/zhan/liuan.htm)| 14:27| 14:31| 4分| -  
+3| [合肥南](/huoche/zhan/hefeinan.htm)| 14:55| 15:03| 8分| -  
+4| [全椒](/huoche/zhan/quanjiao.htm)| 15:38| 15:40| 2分| -  
+5| [南京南](/huoche/zhan/nanjingnan.htm)| 16:01| 16:04| 3分| -  
+6| [常州](/huoche/zhan/changzhou.htm)| 16:49| 16:51| 2分| -  
+7| [无锡](/huoche/zhan/wuxi.htm)| 17:05| 17:07| 2分| -  
+8| [苏州](/huoche/zhan/suzhou.htm)| 17:22| 17:24| 2分| -  
+9| [阳澄湖](/huoche/zhan/yangchenghu.htm)| 17:34| 17:35| 1分| -  
+10| [昆山南](/huoche/zhan/kunshannan.htm)| 17:42| 17:48| 6分| -  
+11| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 18:08| 18:13| 5分| -  
+12| [金山北](/huoche/zhan/jinshanbei.htm)| 18:32| 18:34| 2分| -  
+13| [杭州东](/huoche/zhan/hangzhoudong.htm)| 19:07| 19:23| 16分| -  
+14| [诸暨](/huoche/zhan/zhuji.htm)| 19:46| 19:48| 2分| -  
+15| [义乌](/huoche/zhan/yiwu.htm)| 20:02| 20:04| 2分| -  
+16| [金华](/huoche/zhan/jinhua.htm)| 20:20| 20:22| 2分| -  
+17| [龙游](/huoche/zhan/longyou.htm)| 20:37| 20:44| 7分| -  
+18| [衢州](/huoche/zhan/quzhou.htm)| 20:55| 20:57| 2分| -  
+19| [江山](/huoche/zhan/jiangshan.htm)| 21:09| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

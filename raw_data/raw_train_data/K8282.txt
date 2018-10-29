@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从日照开往济南的K8282快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K8282 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 日照  
+发车时间 | 15:40  
+到站时间 | 21:56  
+全程时间 | 6小时16分  
+终点站 | 济南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [日照](/huoche/zhan/rizhao.htm)| -| 15:40| 0分| -  
+2| [莒南](/huoche/zhan/junan.htm)| 16:29| 16:33| 4分| -  
+3| [临沂](/huoche/zhan/linyi.htm)| 17:09| 17:15| 6分| -  
+4| [费县](/huoche/zhan/feixian.htm)| 17:43| 17:47| 4分| -  
+5| [平邑](/huoche/zhan/pingyi.htm)| 18:13| 18:17| 4分| -  
+6| [泗水](/huoche/zhan/sishui.htm)| 18:41| 18:48| 7分| -  
+7| [曲阜](/huoche/zhan/qufu.htm)| 19:07| 19:12| 5分| -  
+8| [兖州](/huoche/zhan/yanzhou.htm)| 19:41| 19:47| 6分| -  
+9| [磁窑](/huoche/zhan/ciyao.htm)| 20:21| 20:30| 9分| -  
+10| [泰山](/huoche/zhan/taishan.htm)| 20:55| 20:58| 3分| -  
+11| [济南](/huoche/zhan/jinan.htm)| 21:56| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

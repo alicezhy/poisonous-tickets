@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从哈尔滨西开往大连北的G730高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G730 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 哈尔滨西  
+发车时间 | 17:49  
+到站时间 | 22:11  
+全程时间 | 4小时22分  
+终点站 | 大连北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [哈尔滨西](/huoche/zhan/haerbinxi.htm)| -| 17:49| 0分| -  
+2| [德惠西](/huoche/zhan/dehuixi.htm)| 18:27| 18:29| 2分| -  
+3| [长春西](/huoche/zhan/changchunxi.htm)| 18:52| 18:54| 2分| -  
+4| [昌图西](/huoche/zhan/changtuxi.htm)| 19:32| 19:34| 2分| -  
+5| [沈阳北](/huoche/zhan/shenyangbei.htm)| 20:09| 20:12| 3分| -  
+6| [鞍山西](/huoche/zhan/anshanxi.htm)| 20:46| 20:48| 2分| -  
+7| [海城西](/huoche/zhan/haichengxi.htm)| 21:00| 21:02| 2分| -  
+8| [盖州西](/huoche/zhan/gaizhouxi.htm)| 21:21| 21:23| 2分| -  
+9| [大连北](/huoche/zhan/dalianbei.htm)| 22:11| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

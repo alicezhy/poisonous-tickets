@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从成都开往北京西的T8特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | T8 |  
+---|---|---|---  
+车型 | 特快火车  
+始发站 | 成都  
+发车时间 | 08:30  
+到站时间 | 12:31  
+全程时间 | 28小时1分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [成都](/huoche/zhan/chengdu.htm)| -| 08:30| 0分| -  
+2| [德阳](/huoche/zhan/deyang.htm)| 09:17| 09:23| 6分| -  
+3| [绵阳](/huoche/zhan/mianyang.htm)| 10:07| 10:12| 5分| -  
+4| [江油](/huoche/zhan/jiangyou.htm)| 10:49| 10:54| 5分| -  
+5| [广元](/huoche/zhan/guangyuan.htm)| 13:41| 13:53| 12分| -  
+6| [略阳](/huoche/zhan/lueyang.htm)| 16:18| 16:21| 3分| -  
+7| [徽县](/huoche/zhan/huixian.htm)| 17:26| 17:28| 2分| -  
+8| [两当](/huoche/zhan/liangdang.htm)| 17:46| 17:49| 3分| -  
+9| [凤县](/huoche/zhan/fengxian.htm)| 18:17| 18:19| 2分| -  
+10| [宝鸡](/huoche/zhan/baoji.htm)| 20:29| 20:48| 19分| -  
+11| [西安](/huoche/zhan/xian.htm)| 22:27| 22:47| 20分| -  
+12| [延安](/huoche/zhan/yanan.htm)| 01:51| 01:54| 3分| -  
+13| [太原](/huoche/zhan/taiyuan.htm)| 07:21| 07:27| 6分| -  
+14| [阳泉北](/huoche/zhan/yangquanbei.htm)| 08:19| 08:32| 13分| -  
+15| [石家庄北](/huoche/zhan/shijiazhuangbei.htm)| 09:29| 09:39| 10分| -  
+16| [保定](/huoche/zhan/baoding.htm)| 10:54| 10:58| 4分| -  
+17| [北京西](/huoche/zhan/beijingxi.htm)| 12:31| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

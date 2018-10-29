@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南阳开往北京的K184快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K184 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 南阳  
+发车时间 | 19:39  
+到站时间 | 12:04  
+全程时间 | 16小时25分  
+终点站 | 北京  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南阳](/huoche/zhan/nanyang.htm)| -| 19:39| 0分| -  
+2| [南召](/huoche/zhan/nanzhao.htm)| 20:21| 20:24| 3分| -  
+3| [鲁山](/huoche/zhan/lushan2.htm)| 20:56| 20:59| 3分| -  
+4| [平顶山西](/huoche/zhan/pingdingshanxi.htm)| 21:16| 21:20| 4分| -  
+5| [汝州](/huoche/zhan/ruzhou.htm)| 21:54| 21:58| 4分| -  
+7| [巩义](/huoche/zhan/gongyi.htm)| 23:54| 23:58| 4分| -  
+8| [郑州](/huoche/zhan/zhengzhou.htm)| 01:17| 01:45| 28分| -  
+9| [新乡](/huoche/zhan/xinxiang2.htm)| 03:01| 03:03| 2分| -  
+10| [安阳](/huoche/zhan/anyang.htm)| 04:08| 04:11| 3分| -  
+11| [邯郸](/huoche/zhan/handan.htm)| 04:48| 04:54| 6分| -  
+12| [邢台](/huoche/zhan/xingtai.htm)| 05:25| 05:38| 13分| -  
+13| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 06:50| 06:56| 6分| -  
+14| [定州](/huoche/zhan/dingzhou.htm)| 07:43| 08:14| 31分| -  
+15| [保定](/huoche/zhan/baoding.htm)| 08:51| 08:59| 8分| -  
+16| [徐水](/huoche/zhan/xushui.htm)| 09:16| 10:01| 45分| -  
+17| [高碑店](/huoche/zhan/gaobeidian.htm)| 10:24| 10:26| 2分| -  
+18| [北京](/huoche/zhan/beijing.htm)| 12:04| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

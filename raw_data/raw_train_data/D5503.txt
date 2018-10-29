@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南京开往南通的D5503动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D5503 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 南京  
+发车时间 | 07:00  
+到站时间 | 09:33  
+全程时间 | 2小时33分  
+终点站 | 南通  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南京](/huoche/zhan/nanjing.htm)| -| 07:00| 0分| -  
+2| [扬州](/huoche/zhan/yangzhou.htm)| 07:51| 07:53| 2分| -  
+3| [泰州](/huoche/zhan/taizhou.htm)| 08:25| 08:27| 2分| -  
+4| [姜堰](/huoche/zhan/jiangyan.htm)| 08:37| 08:39| 2分| -  
+5| [海安县](/huoche/zhan/haianxian.htm)| 08:58| 09:00| 2分| -  
+6| [南通](/huoche/zhan/nantong.htm)| 09:33| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

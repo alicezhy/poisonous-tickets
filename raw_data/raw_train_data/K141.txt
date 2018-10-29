@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从成都开往南宁的K141快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K141 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 成都  
+发车时间 | 14:43  
+到站时间 | 09:20  
+全程时间 | 18小时37分  
+终点站 | 南宁  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [成都](/huoche/zhan/chengdu.htm)| -| 14:43| 0分| -  
+2| [重庆西](/huoche/zhan/chongqingxi.htm)| 17:49| 18:00| 11分| -  
+3| [遵义南](/huoche/zhan/zunyinan.htm)| 20:26| 20:48| 22分| -  
+4| [贵阳](/huoche/zhan/guiyang.htm)| 22:06| 22:40| 34分| -  
+5| [贵定南](/huoche/zhan/guidingnan.htm)| 23:24| 23:32| 8分| -  
+6| [麻尾](/huoche/zhan/mawei.htm)| 01:58| 02:06| 8分| -  
+7| [金城江](/huoche/zhan/jinchengjiang.htm)| 03:30| 03:39| 9分| -  
+8| [柳州](/huoche/zhan/liuzhou.htm)| 05:35| 05:42| 7分| -  
+9| [来宾](/huoche/zhan/laibin.htm)| 06:32| 06:37| 5分| -  
+10| [南宁](/huoche/zhan/nanning.htm)| 09:20| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

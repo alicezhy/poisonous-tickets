@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南昌西开往郑州东的G2044高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G2044 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 南昌西  
+发车时间 | 08:55  
+到站时间 | 14:00  
+全程时间 | 5小时5分  
+终点站 | 郑州东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南昌西](/huoche/zhan/nanchangxi.htm)| -| 08:55| 0分| -  
+2| [永修](/huoche/zhan/yongxiu.htm)| 09:15| 09:17| 2分| -  
+3| [共青城](/huoche/zhan/gongqingcheng.htm)| 09:29| 09:31| 2分| -  
+4| [德安](/huoche/zhan/dean.htm)| 09:37| 09:39| 2分| -  
+5| [庐山](/huoche/zhan/lushan.htm)| 09:55| 09:57| 2分| -  
+6| [瑞昌西](/huoche/zhan/ruichangxi.htm)| 10:09| 10:11| 2分| -  
+7| [阳新](/huoche/zhan/yangxin.htm)| 10:29| 10:31| 2分| -  
+8| [大冶北](/huoche/zhan/dayebei.htm)| 10:46| 10:48| 2分| -  
+9| [黄石北](/huoche/zhan/huangshibei.htm)| 10:55| 10:57| 2分| -  
+10| [鄂州](/huoche/zhan/ezhou.htm)| 11:09| 11:11| 2分| -  
+11| [武汉](/huoche/zhan/wuhan.htm)| 11:36| 11:41| 5分| -  
+13| [信阳东](/huoche/zhan/xinyangdong.htm)| 12:24| 12:26| 2分| -  
+14| [驻马店西](/huoche/zhan/zhumadianxi.htm)| 12:51| 12:58| 7分| -  
+15| [漯河西](/huoche/zhan/luohexi.htm)| 13:16| 13:19| 3分| -  
+16| [许昌东](/huoche/zhan/xuchangdong.htm)| 13:35| 13:37| 2分| -  
+17| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 14:00| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

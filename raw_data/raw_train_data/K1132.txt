@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从西安开往烟台的K1132快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1132 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 西安  
+发车时间 | 13:08  
+到站时间 | 13:21  
+全程时间 | 24小时13分  
+终点站 | 烟台  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [西安](/huoche/zhan/xian.htm)| -| 13:08| 0分| -  
+2| [渭南](/huoche/zhan/weinan.htm)| 13:46| 13:49| 3分| -  
+3| [三门峡](/huoche/zhan/sanmenxia2.htm)| 16:32| 16:35| 3分| -  
+4| [洛阳](/huoche/zhan/luoyang.htm)| 18:16| 18:21| 5分| -  
+5| [巩义](/huoche/zhan/gongyi.htm)| 19:11| 19:14| 3分| -  
+6| [郑州](/huoche/zhan/zhengzhou.htm)| 20:11| 20:21| 10分| -  
+7| [开封](/huoche/zhan/kaifeng.htm)| 21:09| 21:13| 4分| -  
+8| [兰考](/huoche/zhan/lankao.htm)| 21:41| 21:45| 4分| -  
+9| [民权](/huoche/zhan/minquan.htm)| 22:07| 22:10| 3分| -  
+10| [商丘](/huoche/zhan/shangqiu.htm)| 22:50| 22:57| 7分| -  
+11| [砀山](/huoche/zhan/dangshan.htm)| 23:49| 23:52| 3分| -  
+12| [徐州](/huoche/zhan/xuzhou.htm)| 00:58| 01:18| 20分| -  
+13| [泰山](/huoche/zhan/taishan.htm)| 05:22| 05:31| 9分| -  
+14| [济南](/huoche/zhan/jinan.htm)| 06:44| 06:52| 8分| -  
+15| [章丘](/huoche/zhan/zhangqiu.htm)| 07:24| 07:40| 16分| -  
+16| [淄博](/huoche/zhan/zibo.htm)| 08:15| 08:18| 3分| -  
+17| [潍坊](/huoche/zhan/weifang.htm)| 09:13| 09:16| 3分| -  
+18| [胶州](/huoche/zhan/jiaozhou.htm)| 10:16| 10:22| 6分| -  
+19| [蓝村](/huoche/zhan/lancun.htm)| 10:38| 10:44| 6分| -  
+20| [莱阳](/huoche/zhan/laiyang.htm)| 11:41| 11:48| 7分| -  
+21| [烟台](/huoche/zhan/yantai.htm)| 13:21| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

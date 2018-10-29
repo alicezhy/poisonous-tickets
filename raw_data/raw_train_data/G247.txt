@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从合肥南开往青岛的G247高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G247 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 合肥南  
+发车时间 | 06:40  
+到站时间 | 12:29  
+全程时间 | 5小时49分  
+终点站 | 青岛  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [合肥南](/huoche/zhan/hefeinan.htm)| \----| 06:40| 0分| -  
+2| [淮南东](/huoche/zhan/huainandong.htm)| 07:18| 07:20| 2分| -  
+3| [蚌埠南](/huoche/zhan/bengbunan.htm)| 07:38| 07:40| 2分| -  
+4| [宿州东](/huoche/zhan/suzhoudong.htm)| 08:03| 08:05| 2分| -  
+5| [徐州东](/huoche/zhan/xuzhoudong.htm)| 08:24| 08:26| 2分| -  
+6| [枣庄](/huoche/zhan/zaozhuang.htm)| 08:44| 08:46| 2分| -  
+7| [滕州东](/huoche/zhan/tengzhoudong.htm)| 08:59| 09:01| 2分| -  
+8| [济南](/huoche/zhan/jinan.htm)| 09:49| 09:52| 3分| -  
+9| [淄博](/huoche/zhan/zibo.htm)| 10:34| 10:38| 4分| -  
+10| [潍坊](/huoche/zhan/weifang.htm)| 11:13| 11:15| 2分| -  
+11| [青岛](/huoche/zhan/qingdao.htm)| 12:29| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

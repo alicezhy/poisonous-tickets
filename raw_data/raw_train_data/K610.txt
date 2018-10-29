@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从韩城开往北京的K610快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K610 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 韩城  
+发车时间 | 14:20  
+到站时间 | 05:14  
+全程时间 | 14小时54分  
+终点站 | 北京  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [韩城](/huoche/zhan/hancheng.htm)| -| 14:20| 0分| -  
+2| [河津](/huoche/zhan/hejin2.htm)| 15:07| 15:10| 3分| -  
+3| [稷山](/huoche/zhan/jishan.htm)| 15:33| 15:36| 3分| -  
+4| [新绛](/huoche/zhan/xinjiang2.htm)| 15:55| 15:58| 3分| -  
+5| [侯马](/huoche/zhan/houma.htm)| 16:17| 16:22| 5分| -  
+6| [襄汾](/huoche/zhan/xiangfen.htm)| 16:51| 16:53| 2分| -  
+7| [临汾](/huoche/zhan/linfen.htm)| 17:15| 17:21| 6分| -  
+8| [洪洞](/huoche/zhan/hongdong.htm)| 17:40| 17:43| 3分| -  
+9| [霍州](/huoche/zhan/huozhou.htm)| 18:21| 18:24| 3分| -  
+10| [灵石](/huoche/zhan/lingshi.htm)| 19:00| 19:03| 3分| -  
+11| [介休](/huoche/zhan/jiexiu.htm)| 19:33| 19:37| 4分| -  
+12| [平遥](/huoche/zhan/pingyao.htm)| 19:58| 20:02| 4分| -  
+13| [祁县](/huoche/zhan/qixian.htm)| 20:17| 20:20| 3分| -  
+14| [太谷](/huoche/zhan/taigu.htm)| 20:39| 20:42| 3分| -  
+15| [榆次](/huoche/zhan/yuci.htm)| 21:10| 21:14| 4分| -  
+16| [太原](/huoche/zhan/taiyuan.htm)| 22:00| 22:31| 31分| -  
+17| [石家庄北](/huoche/zhan/shijiazhuangbei.htm)| 00:30| 00:42| 12分| -  
+18| [晋州](/huoche/zhan/jinzhou4.htm)| 01:21| 01:24| 3分| -  
+19| [肃宁](/huoche/zhan/suning.htm)| 02:52| 02:54| 2分| -  
+20| [任丘](/huoche/zhan/renqiu.htm)| 03:19| 03:21| 2分| -  
+21| [北京](/huoche/zhan/beijing.htm)| 05:14| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

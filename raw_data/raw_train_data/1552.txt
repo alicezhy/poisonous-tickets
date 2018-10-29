@@ -1,0 +1,58 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从连云港东开往太原的1552普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 1552 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 连云港东  
+发车时间 | 15:46  
+到站时间 | 11:25  
+全程时间 | 19小时39分  
+终点站 | 太原  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [连云港东](/huoche/zhan/lianyungangdong.htm)| \----| 15:46| 0分| -  
+2| [东海县](/huoche/zhan/donghaixian.htm)| 16:43| 16:48| 5分| -  
+3| [新沂](/huoche/zhan/xinyi.htm)| 17:26| 17:29| 3分| -  
+4| [邳州](/huoche/zhan/pizhou.htm)| 17:53| 17:57| 4分| -  
+5| [徐州](/huoche/zhan/xuzhou.htm)| 18:52| 19:02| 10分| -  
+6| [黄口](/huoche/zhan/huangkou.htm)| 19:35| 19:39| 4分| -  
+7| [砀山](/huoche/zhan/dangshan.htm)| 20:00| 20:05| 5分| -  
+8| [虞城县](/huoche/zhan/yuchengxian.htm)| 20:43| 20:59| 16分| -  
+9| [商丘](/huoche/zhan/shangqiu.htm)| 21:14| 21:19| 5分| -  
+10| [民权](/huoche/zhan/minquan.htm)| 21:56| 22:00| 4分| -  
+11| [开封](/huoche/zhan/kaifeng.htm)| 22:50| 22:56| 6分| -  
+12| [郑州](/huoche/zhan/zhengzhou.htm)| 23:43| 00:02| 19分| -  
+13| [新乡](/huoche/zhan/xinxiang2.htm)| 01:05| 01:23| 18分| -  
+14| [焦作](/huoche/zhan/jiaozuo.htm)| 02:13| 02:18| 5分| -  
+15| [月山](/huoche/zhan/yueshan.htm)| 02:36| 02:40| 4分| -  
+16| [晋城](/huoche/zhan/jincheng2.htm)| 03:30| 03:35| 5分| -  
+17| [高平](/huoche/zhan/gaoping2.htm)| 04:20| 04:25| 5分| -  
+18| [长治](/huoche/zhan/changzhi.htm)| 05:19| 05:25| 6分| -  
+19| [长治北](/huoche/zhan/changzhibei.htm)| 05:45| 06:08| 23分| -  
+20| [沁县](/huoche/zhan/qinxian.htm)| 07:34| 07:36| 2分| -  
+21| [武乡](/huoche/zhan/wuxiang.htm)| 08:02| 08:04| 2分| -  
+22| [榆社](/huoche/zhan/yushe.htm)| 08:36| 08:39| 3分| -  
+23| [榆次](/huoche/zhan/yuci.htm)| 10:53| 10:57| 4分| -  
+24| [太原](/huoche/zhan/taiyuan.htm)| 11:25| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

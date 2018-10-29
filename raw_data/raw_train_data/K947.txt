@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从厦门开往贵阳的K947快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K947 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 厦门  
+发车时间 | 20:17  
+到站时间 | 05:13  
+全程时间 | 32小时56分  
+终点站 | 贵阳  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [厦门](/huoche/zhan/xiamen.htm)| \----| 20:17| 0分| -  
+2| [漳州东](/huoche/zhan/zhangzhoudong.htm)| 21:09| 21:14| 5分| -  
+3| [漳平](/huoche/zhan/zhangping.htm)| 23:23| 23:27| 4分| -  
+4| [永安](/huoche/zhan/yongan.htm)| 01:23| 01:27| 4分| -  
+5| [邵武](/huoche/zhan/shaowu.htm)| 06:10| 06:16| 6分| -  
+6| [光泽](/huoche/zhan/guangze.htm)| 06:47| 06:51| 4分| -  
+7| [资溪](/huoche/zhan/zixi.htm)| 07:41| 07:44| 3分| -  
+8| [鹰潭](/huoche/zhan/yingtan.htm)| 09:04| 09:34| 30分| -  
+9| [东乡](/huoche/zhan/dongxiang.htm)| 09:59| 10:03| 4分| -  
+10| [进贤](/huoche/zhan/jinxian.htm)| 10:31| 10:42| 11分| -  
+11| [丰城](/huoche/zhan/fengcheng.htm)| 11:23| 11:26| 3分| -  
+12| [樟树](/huoche/zhan/zhangshu.htm)| 11:43| 11:46| 3分| -  
+13| [新余](/huoche/zhan/xinyu.htm)| 12:33| 12:40| 7分| -  
+14| [宜春](/huoche/zhan/yichun.htm)| 13:15| 13:19| 4分| -  
+15| [萍乡](/huoche/zhan/pingxiang.htm)| 14:03| 14:07| 4分| -  
+16| [醴陵](/huoche/zhan/liling.htm)| 14:32| 14:36| 4分| -  
+17| [株洲](/huoche/zhan/zhuzhou.htm)| 15:34| 15:52| 18分| -  
+18| [湘潭](/huoche/zhan/xiangtan2.htm)| 16:17| 16:20| 3分| -  
+19| [娄底](/huoche/zhan/loudi.htm)| 17:27| 17:33| 6分| -  
+20| [冷水江东](/huoche/zhan/lingshuijiangdong.htm)| 18:39| 18:45| 6分| -  
+21| [怀化](/huoche/zhan/huaihua.htm)| 21:58| 22:16| 18分| -  
+23| [凯里](/huoche/zhan/kaili.htm)| 02:28| 02:36| 8分| -  
+24| [贵阳](/huoche/zhan/guiyang.htm)| 05:13| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

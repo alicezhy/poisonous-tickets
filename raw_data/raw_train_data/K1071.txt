@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京西开往安庆的K1071快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1071 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 北京西  
+发车时间 | 12:10  
+到站时间 | 06:18  
+全程时间 | 18小时8分  
+终点站 | 安庆  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京西](/huoche/zhan/beijingxi.htm)| -| 12:10| 0分| -  
+2| [任丘](/huoche/zhan/renqiu.htm)| 13:39| 13:42| 3分| -  
+3| [肃宁](/huoche/zhan/suning.htm)| 14:09| 14:11| 2分| -  
+4| [衡水](/huoche/zhan/hengshui.htm)| 15:11| 15:16| 5分| -  
+5| [清河城](/huoche/zhan/qinghecheng.htm)| 16:06| 16:10| 4分| -  
+6| [临清](/huoche/zhan/linqing.htm)| 16:33| 16:41| 8分| -  
+7| [聊城](/huoche/zhan/liaocheng.htm)| 17:12| 17:19| 7分| -  
+8| [梁山](/huoche/zhan/liangshan.htm)| 18:05| 18:08| 3分| -  
+9| [菏泽](/huoche/zhan/heze.htm)| 18:58| 19:02| 4分| -  
+10| [商丘南](/huoche/zhan/shangqiunan.htm)| 20:27| 20:30| 3分| -  
+11| [亳州](/huoche/zhan/bozhou.htm)| 21:15| 21:19| 4分| -  
+12| [阜阳](/huoche/zhan/fuyang.htm)| 22:37| 22:57| 20分| -  
+13| [淮南](/huoche/zhan/huainan.htm)| 01:01| 01:05| 4分| -  
+14| [合肥](/huoche/zhan/hefei.htm)| 02:34| 02:48| 14分| -  
+15| [庐江](/huoche/zhan/lujiang.htm)| 03:55| 03:58| 3分| -  
+16| [桐城](/huoche/zhan/tongcheng.htm)| 04:26| 04:31| 5分| -  
+17| [安庆西](/huoche/zhan/anqingxi.htm)| 04:58| 05:11| 13分| -  
+18| [安庆](/huoche/zhan/anqing2.htm)| 06:18| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

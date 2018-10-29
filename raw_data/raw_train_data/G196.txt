@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从青岛北开往北京南的G196高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G196 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 青岛北  
+发车时间 | 16:12  
+到站时间 | 20:40  
+全程时间 | 4小时28分  
+终点站 | 北京南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [青岛北](/huoche/zhan/qingdaobei.htm)| -| 16:12| 0分| -  
+2| [高密](/huoche/zhan/gaomi.htm)| 16:44| 16:46| 2分| -  
+3| [潍坊](/huoche/zhan/weifang.htm)| 17:13| 17:16| 3分| -  
+4| [淄博](/huoche/zhan/zibo.htm)| 17:51| 17:54| 3分| -  
+5| [济南](/huoche/zhan/jinan.htm)| 18:41| 18:43| 2分| -  
+6| [济南西](/huoche/zhan/jinanxi.htm)| 18:59| 19:01| 2分| -  
+7| [天津南](/huoche/zhan/tianjinnan.htm)| 20:04| 20:06| 2分| -  
+8| [北京南](/huoche/zhan/beijingnan.htm)| 20:40| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

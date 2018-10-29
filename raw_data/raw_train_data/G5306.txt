@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从厦门北开往南昌西的G5306高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G5306 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 厦门北  
+发车时间 | 14:04  
+到站时间 | 19:18  
+全程时间 | 5小时14分  
+终点站 | 南昌西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [厦门北](/huoche/zhan/xiamenbei.htm)| -| 14:04| 0分| -  
+2| [泉州](/huoche/zhan/quanzhou2.htm)| 14:29| 14:31| 2分| -  
+3| [仙游](/huoche/zhan/xianyou.htm)| 14:49| 14:51| 2分| -  
+4| [莆田](/huoche/zhan/putian.htm)| 15:02| 15:03| 1分| -  
+5| [福清](/huoche/zhan/fuqing.htm)| 15:22| 15:31| 9分| -  
+6| [福州](/huoche/zhan/fuzhou.htm)| 15:58| 16:03| 5分| -  
+7| [闽清北](/huoche/zhan/minqingbei.htm)| 16:22| 16:24| 2分| -  
+8| [南平北](/huoche/zhan/nanpingbei.htm)| 16:44| 16:46| 2分| -  
+9| [建瓯西](/huoche/zhan/jianouxi.htm)| 17:02| 17:04| 2分| -  
+10| [武夷山东](/huoche/zhan/wuyishandong.htm)| 17:19| 17:21| 2分| -  
+11| [武夷山北](/huoche/zhan/wuyishanbei.htm)| 17:34| 17:36| 2分| -  
+12| [上饶](/huoche/zhan/shangrao.htm)| 17:58| 18:03| 5分| -  
+13| [弋阳](/huoche/zhan/yiyang3.htm)| 18:25| 18:27| 2分| -  
+15| [抚州东](/huoche/zhan/fuzhoudong.htm)| 18:49| 18:51| 2分| -  
+16| [南昌西](/huoche/zhan/nanchangxi.htm)| 19:18| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

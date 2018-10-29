@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从成都开往呼和浩特东的K197快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K197 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 成都  
+发车时间 | 15:45  
+到站时间 | 22:44  
+全程时间 | 30小时59分  
+终点站 | 呼和浩特东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [成都](/huoche/zhan/chengdu.htm)| -| 15:45| 0分| -  
+2| [绵阳](/huoche/zhan/mianyang.htm)| 17:12| 17:17| 5分| -  
+3| [江油](/huoche/zhan/jiangyou.htm)| 17:54| 18:19| 25分| -  
+4| [广元](/huoche/zhan/guangyuan.htm)| 21:16| 21:30| 14分| -  
+5| [陇南](/huoche/zhan/longnan2.htm)| 23:34| 23:41| 7分| -  
+6| [哈达铺](/huoche/zhan/hadapu.htm)| 01:07| 01:14| 7分| -  
+7| [渭源](/huoche/zhan/weiyuan.htm)| 02:30| 02:36| 6分| -  
+8| [兰州](/huoche/zhan/lanzhou.htm)| 04:12| 04:28| 16分| -  
+9| [皋兰](/huoche/zhan/gaolan.htm)| 05:42| 05:50| 8分| -  
+10| [景泰](/huoche/zhan/jingtai.htm)| 09:10| 09:14| 4分| -  
+11| [中卫](/huoche/zhan/zhongwei.htm)| 11:20| 11:28| 8分| -  
+12| [银川](/huoche/zhan/yinchuan.htm)| 13:57| 14:06| 9分| -  
+13| [石嘴山](/huoche/zhan/shizuishan.htm)| 14:42| 14:46| 4分| -  
+14| [惠农](/huoche/zhan/huinong.htm)| 15:24| 15:30| 6分| -  
+15| [乌海西](/huoche/zhan/wuhaixi.htm)| 15:47| 15:50| 3分| -  
+16| [乌海](/huoche/zhan/wuhai.htm)| 16:11| 16:26| 15分| -  
+17| [临河](/huoche/zhan/linhe.htm)| 18:00| 18:06| 6分| -  
+18| [乌拉特前旗](/huoche/zhan/wulateqianqi.htm)| 19:12| 19:14| 2分| -  
+19| [包头](/huoche/zhan/baotou.htm)| 20:23| 20:31| 8分| -  
+20| [包头东](/huoche/zhan/baotoudong.htm)| 20:46| 20:50| 4分| -  
+21| [萨拉齐](/huoche/zhan/salaqi.htm)| 21:18| 21:20| 2分| -  
+22| [呼和浩特](/huoche/zhan/huhehaote.htm)| 22:24| 22:32| 8分| -  
+23| [呼和浩特东](/huoche/zhan/huhehaotedong.htm)| 22:44| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

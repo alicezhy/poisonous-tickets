@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从长沙西开往湘潭的C6975城际高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | C6975 |  
+---|---|---|---  
+车型 | 城际高铁  
+始发站 | 长沙西  
+发车时间 | 21:18  
+到站时间 | 22:39  
+全程时间 | 1小时21分  
+终点站 | 湘潭  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [长沙西](/huoche/zhan/changshaxi.htm)| -| 21:18| 0分| -  
+2| [麓谷](/huoche/zhan/lugu.htm)| 21:23| 21:25| 2分| -  
+3| [尖山](/huoche/zhan/jianshan.htm)| 21:28| 21:29| 1分| -  
+4| [谷山](/huoche/zhan/gushan.htm)| 21:32| 21:34| 2分| -  
+5| [八方山](/huoche/zhan/bafangshan.htm)| 21:37| 21:38| 1分| -  
+6| [观沙岭](/huoche/zhan/guanshaling.htm)| 21:41| 21:43| 2分| -  
+7| [开福寺](/huoche/zhan/kaifusi.htm)| 21:46| 21:48| 2分| -  
+8| [长沙](/huoche/zhan/changsha.htm)| 21:54| 21:58| 4分| -  
+9| [香樟路](/huoche/zhan/xiangzhanglu.htm)| 22:04| 22:05| 1分| -  
+10| [暮云](/huoche/zhan/muyun.htm)| 22:16| 22:17| 1分| -  
+11| [板塘](/huoche/zhan/bantang.htm)| 22:29| 22:31| 2分| -  
+12| [湘潭](/huoche/zhan/xiangtan2.htm)| 22:39| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

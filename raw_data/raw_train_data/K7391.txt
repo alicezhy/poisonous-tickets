@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从白山市开往吉林的K7391快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7391 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 白山市  
+发车时间 | 21:45  
+到站时间 | 08:49  
+全程时间 | 11小时4分  
+终点站 | 吉林  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [白山市](/huoche/zhan/baishanshi.htm)| -| 21:45| 0分| -  
+2| [通化](/huoche/zhan/tonghua.htm)| 22:47| 23:02| 15分| -  
+3| [三源浦](/huoche/zhan/sanyuanpu.htm)| 00:06| 00:09| 3分| -  
+4| [柳河](/huoche/zhan/liuhe2.htm)| 01:01| 01:09| 8分| -  
+5| [梅河口](/huoche/zhan/meihekou.htm)| 01:41| 01:48| 7分| -  
+6| [辽源](/huoche/zhan/liaoyuan.htm)| 03:18| 03:32| 14分| -  
+7| [四平](/huoche/zhan/siping.htm)| 05:11| 05:32| 21分| -  
+8| [公主岭](/huoche/zhan/gongzhuling.htm)| 06:05| 06:14| 9分| -  
+9| [长春](/huoche/zhan/changchun.htm)| 06:58| 07:06| 8分| -  
+10| [九台](/huoche/zhan/jiutai.htm)| 07:52| 07:56| 4分| -  
+11| [吉林](/huoche/zhan/jilin.htm)| 08:49| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

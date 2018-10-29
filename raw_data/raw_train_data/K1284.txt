@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从济南开往深圳东的K1284快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1284 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 济南  
+发车时间 | 10:25  
+到站时间 | 13:23  
+全程时间 | 26小时58分  
+终点站 | 深圳东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [济南](/huoche/zhan/jinan.htm)| \----| 10:25| 0分| -  
+2| [聊城](/huoche/zhan/liaocheng.htm)| 12:15| 12:21| 6分| -  
+3| [阳谷](/huoche/zhan/yanggu.htm)| 12:48| 12:54| 6分| -  
+4| [梁山](/huoche/zhan/liangshan.htm)| 13:17| 13:29| 12分| -  
+5| [菏泽](/huoche/zhan/heze.htm)| 14:16| 14:22| 6分| -  
+6| [曹县](/huoche/zhan/caoxian.htm)| 14:57| 15:01| 4分| -  
+7| [商丘南](/huoche/zhan/shangqiunan.htm)| 15:40| 15:44| 4分| -  
+8| [亳州](/huoche/zhan/bozhou.htm)| 16:25| 16:28| 3分| -  
+9| [阜阳](/huoche/zhan/fuyang.htm)| 17:44| 17:57| 13分| -  
+10| [淮滨](/huoche/zhan/huaibin.htm)| 18:48| 18:51| 3分| -  
+11| [潢川](/huoche/zhan/huangchuan.htm)| 19:29| 19:33| 4分| -  
+12| [新县](/huoche/zhan/xinxian.htm)| 20:12| 20:15| 3分| -  
+13| [麻城](/huoche/zhan/macheng.htm)| 20:56| 21:04| 8分| -  
+14| [黄州](/huoche/zhan/huangzhou.htm)| 21:44| 21:50| 6分| -  
+15| [蕲春](/huoche/zhan/qinchun.htm)| 22:31| 22:36| 5分| -  
+16| [武穴](/huoche/zhan/wuxue.htm)| 23:07| 23:10| 3分| -  
+17| [九江](/huoche/zhan/jiujiang.htm)| 23:51| 23:54| 3分| -  
+18| [南昌](/huoche/zhan/nanchang.htm)| 01:11| 01:33| 22分| -  
+19| [吉安](/huoche/zhan/jian6.htm)| 04:01| 04:05| 4分| -  
+20| [赣州](/huoche/zhan/ganzhou.htm)| 06:09| 06:13| 4分| -  
+22| [龙川](/huoche/zhan/longchuan.htm)| 10:03| 10:06| 3分| -  
+23| [东莞东](/huoche/zhan/dongguandong.htm)| 12:38| 12:43| 5分| -  
+24| [深圳东](/huoche/zhan/shenzhendong.htm)| 13:23| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

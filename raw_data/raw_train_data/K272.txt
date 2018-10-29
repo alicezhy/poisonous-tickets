@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从井冈山开往上海南的K272快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K272 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 井冈山  
+发车时间 | 18:13  
+到站时间 | 07:46  
+全程时间 | 13小时33分  
+终点站 | 上海南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [井冈山](/huoche/zhan/jinggangshan.htm)| -| 18:13| 0分| -  
+2| [吉安](/huoche/zhan/jian6.htm)| 19:10| 19:14| 4分| -  
+3| [峡江](/huoche/zhan/xiajiang.htm)| 19:58| 20:01| 3分| -  
+4| [新干](/huoche/zhan/xingan2.htm)| 20:16| 20:19| 3分| -  
+5| [樟树东](/huoche/zhan/zhangshudong.htm)| 20:44| 20:47| 3分| -  
+6| [鹰潭](/huoche/zhan/yingtan.htm)| 22:53| 23:03| 10分| -  
+7| [义乌](/huoche/zhan/yiwu.htm)| 04:08| 04:11| 3分| -  
+8| [杭州东](/huoche/zhan/hangzhoudong.htm)| 05:33| 05:39| 6分| -  
+9| [海宁](/huoche/zhan/haining.htm)| 06:16| 06:19| 3分| -  
+10| [嘉兴](/huoche/zhan/jiaxing.htm)| 06:40| 06:43| 3分| -  
+11| [松江](/huoche/zhan/songjiang.htm)| 07:19| 07:22| 3分| -  
+12| [上海南](/huoche/zhan/shanghainan.htm)| 07:46| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

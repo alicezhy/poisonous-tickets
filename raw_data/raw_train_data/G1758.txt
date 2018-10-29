@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从重庆西开往福州南的G1758高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1758 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 重庆西  
+发车时间 | 09:13  
+到站时间 | 20:07  
+全程时间 | 10小时54分  
+终点站 | 福州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [重庆西](/huoche/zhan/chongqingxi.htm)| \----| 09:13| 0分| -  
+2| [赶水东](/huoche/zhan/ganshuidong.htm)| 09:49| 09:51| 2分| -  
+3| [遵义](/huoche/zhan/zunyi.htm)| 10:37| 10:39| 2分| -  
+4| [息烽](/huoche/zhan/xifeng.htm)| 11:06| 11:08| 2分| -  
+5| [贵阳东](/huoche/zhan/guiyangdong.htm)| 11:33| 11:39| 6分| -  
+6| [凯里南](/huoche/zhan/kailinan.htm)| 12:13| 12:16| 3分| -  
+7| [怀化南](/huoche/zhan/huaihuanan.htm)| 13:16| 13:19| 3分| -  
+8| [娄底南](/huoche/zhan/loudinan.htm)| 14:11| 14:22| 11分| -  
+9| [长沙南](/huoche/zhan/changshanan.htm)| 14:57| 15:06| 9分| -  
+10| [萍乡北](/huoche/zhan/pingxiangbei2.htm)| 15:35| 15:37| 2分| -  
+11| [宜春](/huoche/zhan/yichun.htm)| 15:55| 15:57| 2分| -  
+12| [新余北](/huoche/zhan/xinyubei.htm)| 16:12| 16:14| 2分| -  
+13| [南昌西](/huoche/zhan/nanchangxi.htm)| 16:46| 16:52| 6分| -  
+14| [弋阳](/huoche/zhan/yiyang3.htm)| 17:36| 17:39| 3分| -  
+15| [上饶](/huoche/zhan/shangrao.htm)| 18:00| 18:03| 3分| -  
+16| [武夷山东](/huoche/zhan/wuyishandong.htm)| 18:33| 18:35| 2分| -  
+17| [南平北](/huoche/zhan/nanpingbei.htm)| 19:02| 19:04| 2分| -  
+18| [福州](/huoche/zhan/fuzhou.htm)| 19:41| 19:50| 9分| -  
+19| [福州南](/huoche/zhan/fuzhounan.htm)| 20:07| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

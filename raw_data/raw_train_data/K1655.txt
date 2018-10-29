@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从襄阳开往深圳东的K1655快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1655 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 襄阳  
+发车时间 | 07:16  
+到站时间 | 05:32  
+全程时间 | 22小时16分  
+终点站 | 深圳东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [襄阳](/huoche/zhan/xiangyang2.htm)| -| 07:16| 0分| -  
+2| [枣阳](/huoche/zhan/zaoyang.htm)| 07:59| 08:01| 2分| -  
+3| [随州](/huoche/zhan/suizhou.htm)| 08:51| 08:53| 2分| -  
+4| [安陆](/huoche/zhan/anlu.htm)| 09:29| 09:31| 2分| -  
+5| [云梦](/huoche/zhan/yunmeng.htm)| 09:48| 09:51| 3分| -  
+6| [武昌](/huoche/zhan/wuchang.htm)| 11:09| 11:20| 11分| -  
+7| [鄂州](/huoche/zhan/ezhou.htm)| 12:20| 12:23| 3分| -  
+8| [黄石](/huoche/zhan/huangshi.htm)| 12:45| 12:49| 4分| -  
+9| [阳新](/huoche/zhan/yangxin.htm)| 13:17| 13:45| 28分| -  
+10| [庐山](/huoche/zhan/lushan.htm)| 14:52| 15:02| 10分| -  
+11| [南昌](/huoche/zhan/nanchang.htm)| 16:09| 16:29| 20分| -  
+12| [吉安](/huoche/zhan/jian6.htm)| 19:19| 19:23| 4分| -  
+13| [赣州](/huoche/zhan/ganzhou.htm)| 21:27| 21:31| 4分| -  
+14| [龙川](/huoche/zhan/longchuan.htm)| 01:53| 01:56| 3分| -  
+15| [河源](/huoche/zhan/heyuan.htm)| 02:55| 02:58| 3分| -  
+16| [惠州](/huoche/zhan/huizhou.htm)| 03:57| 04:00| 3分| -  
+17| [东莞东](/huoche/zhan/dongguandong.htm)| 04:45| 04:51| 6分| -  
+18| [深圳东](/huoche/zhan/shenzhendong.htm)| 05:32| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

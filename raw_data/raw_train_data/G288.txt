@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从长沙南开往青岛的G288高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G288 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 长沙南  
+发车时间 | 08:00  
+到站时间 | 18:26  
+全程时间 | 10小时26分  
+终点站 | 青岛  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [长沙南](/huoche/zhan/changshanan.htm)| \----| 08:00| 0分| -  
+2| [岳阳东](/huoche/zhan/yueyangdong.htm)| 08:33| 08:35| 2分| -  
+3| [赤壁北](/huoche/zhan/chibibei.htm)| 08:57| 08:59| 2分| -  
+4| [咸宁北](/huoche/zhan/xianningbei.htm)| 09:12| 09:14| 2分| -  
+5| [武汉](/huoche/zhan/wuhan.htm)| 09:40| 09:43| 3分| -  
+6| [信阳东](/huoche/zhan/xinyangdong.htm)| 10:26| 10:28| 2分| -  
+7| [驻马店西](/huoche/zhan/zhumadianxi.htm)| 10:53| 10:55| 2分| -  
+8| [漯河西](/huoche/zhan/luohexi.htm)| 11:13| 11:15| 2分| -  
+9| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 11:55| 11:59| 4分| -  
+10| [民权北](/huoche/zhan/minquanbei.htm)| 12:38| 12:41| 3分| -  
+11| [商丘](/huoche/zhan/shangqiu.htm)| 12:57| 13:00| 3分| -  
+12| [徐州东](/huoche/zhan/xuzhoudong.htm)| 13:45| 14:18| 33分| -  
+13| [泰安](/huoche/zhan/taian2.htm)| 15:09| 15:11| 2分| -  
+14| [济南](/huoche/zhan/jinan.htm)| 15:35| 15:38| 3分| -  
+15| [淄博](/huoche/zhan/zibo.htm)| 16:20| 16:22| 2分| -  
+16| [青州市](/huoche/zhan/qingzhoushi.htm)| 16:40| 16:42| 2分| -  
+17| [潍坊](/huoche/zhan/weifang.htm)| 17:03| 17:05| 2分| -  
+18| [青岛北](/huoche/zhan/qingdaobei.htm)| 18:02| 18:05| 3分| -  
+19| [青岛](/huoche/zhan/qingdao.htm)| 18:26| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

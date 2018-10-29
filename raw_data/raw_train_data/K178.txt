@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从西宁开往郑州的K178快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K178 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 西宁  
+发车时间 | 11:10  
+到站时间 | 08:18  
+全程时间 | 21小时8分  
+终点站 | 郑州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [西宁](/huoche/zhan/xining.htm)| -| 11:10| 0分| -  
+2| [平安驿](/huoche/zhan/pinganyi.htm)| 11:41| 11:47| 6分| -  
+3| [乐都](/huoche/zhan/ledu.htm)| 12:09| 12:14| 5分| -  
+4| [海石湾](/huoche/zhan/haishiwan.htm)| 13:00| 13:09| 9分| -  
+5| [兰州西](/huoche/zhan/lanzhouxi.htm)| 14:25| 14:28| 3分| -  
+6| [兰州](/huoche/zhan/lanzhou.htm)| 14:40| 14:58| 18分| -  
+7| [定西](/huoche/zhan/dingxi.htm)| 16:14| 16:20| 6分| -  
+8| [陇西](/huoche/zhan/longxi.htm)| 17:13| 17:17| 4分| -  
+9| [甘谷](/huoche/zhan/gangu.htm)| 18:29| 18:32| 3分| -  
+10| [天水](/huoche/zhan/tianshui.htm)| 19:46| 19:52| 6分| -  
+11| [宝鸡](/huoche/zhan/baoji.htm)| 22:31| 22:39| 8分| -  
+12| [咸阳](/huoche/zhan/xianyang.htm)| 00:30| 00:41| 11分| -  
+13| [西安](/huoche/zhan/xian.htm)| 01:05| 01:15| 10分| -  
+14| [三门峡](/huoche/zhan/sanmenxia2.htm)| 04:31| 04:34| 3分| -  
+15| [新安县](/huoche/zhan/xinanxian.htm)| 05:52| 05:55| 3分| -  
+16| [洛阳](/huoche/zhan/luoyang.htm)| 06:22| 06:40| 18分| -  
+17| [郑州](/huoche/zhan/zhengzhou.htm)| 08:18| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

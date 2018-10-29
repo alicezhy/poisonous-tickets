@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南昌开往冠豸山的D6513动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D6513 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 南昌  
+发车时间 | 08:20  
+到站时间 | 15:02  
+全程时间 | 6小时42分  
+终点站 | 冠豸山  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南昌](/huoche/zhan/nanchang.htm)| -| 08:20| 0分| -  
+2| [抚州](/huoche/zhan/fuzhou2.htm)| 09:12| 09:14| 2分| -  
+3| [南城](/huoche/zhan/nancheng.htm)| 09:34| 09:37| 3分| -  
+4| [建宁县北](/huoche/zhan/jianningxianbei.htm)| 10:06| 10:09| 3分| -  
+5| [泰宁](/huoche/zhan/taining.htm)| 10:22| 10:24| 2分| -  
+6| [将乐](/huoche/zhan/jiangle.htm)| 10:42| 10:44| 2分| -  
+7| [三明北](/huoche/zhan/sanmingbei.htm)| 11:03| 11:07| 4分| -  
+9| [莆田](/huoche/zhan/putian.htm)| 12:14| 12:16| 2分| -  
+10| [泉州](/huoche/zhan/quanzhou2.htm)| 12:41| 12:43| 2分| -  
+11| [厦门北](/huoche/zhan/xiamenbei.htm)| 13:09| 13:13| 4分| -  
+12| [漳州](/huoche/zhan/zhangzhou.htm)| 13:32| 13:34| 2分| -  
+13| [南靖](/huoche/zhan/nanjing2.htm)| 13:49| 13:51| 2分| -  
+14| [龙岩](/huoche/zhan/longyan.htm)| 14:23| 14:27| 4分| -  
+15| [古田会址](/huoche/zhan/gutianhuizhi.htm)| 14:43| 14:45| 2分| -  
+16| [冠豸山](/huoche/zhan/guanzhishan.htm)| 15:02| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

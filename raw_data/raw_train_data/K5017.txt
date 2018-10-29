@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从凌源开往沈阳的K5017快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K5017 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 凌源  
+发车时间 | 09:24  
+到站时间 | 18:18  
+全程时间 | 8小时54分  
+终点站 | 沈阳  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [凌源](/huoche/zhan/lingyuan.htm)| \----| 09:24| 0分| -  
+2| [叶柏寿](/huoche/zhan/yebaishou.htm)| 10:03| 10:09| 6分| -  
+3| [公营子](/huoche/zhan/gongyingzi.htm)| 10:29| 10:32| 3分| -  
+4| [朝阳南](/huoche/zhan/chaoyangna.htm)| 11:35| 11:40| 5分| -  
+5| [北票南](/huoche/zhan/beipiaonan.htm)| 12:28| 12:30| 2分| -  
+6| [义县西](/huoche/zhan/yixianxi.htm)| 13:25| 13:32| 7分| -  
+7| [清河门](/huoche/zhan/qinghemen.htm)| 14:24| 14:29| 5分| -  
+8| [阜新南](/huoche/zhan/fuxinnan.htm)| 15:17| 15:25| 8分| -  
+9| [阿金](/huoche/zhan/ajin.htm)| 15:42| 15:46| 4分| -  
+10| [新邱](/huoche/zhan/xinqiu.htm)| 15:56| 16:00| 4分| -  
+11| [新立屯](/huoche/zhan/xinlitun.htm)| 16:37| 16:42| 5分| -  
+12| [沈阳](/huoche/zhan/shenyang3.htm)| 18:18| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

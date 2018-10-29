@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从金寨开往杭州东的G9404高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G9404 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 金寨  
+发车时间 | 17:10  
+到站时间 | 22:12  
+全程时间 | 5小时2分  
+终点站 | 杭州东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [金寨](/huoche/zhan/jinzhai.htm)| \----| 17:10| 0分| -  
+2| [六安](/huoche/zhan/liuan.htm)| 17:28| 17:35| 7分| -  
+3| [合肥南](/huoche/zhan/hefeinan.htm)| 17:59| 18:21| 22分| -  
+4| [南京南](/huoche/zhan/nanjingnan.htm)| 19:13| 19:29| 16分| -  
+5| [镇江南](/huoche/zhan/zhenjiangnan.htm)| 19:49| 19:51| 2分| -  
+6| [常州北](/huoche/zhan/changzhoubei.htm)| 20:08| 20:10| 2分| -  
+7| [无锡东](/huoche/zhan/wuxidong.htm)| 20:27| 20:29| 2分| -  
+8| [苏州北](/huoche/zhan/suzhoubei.htm)| 20:40| 20:43| 3分| -  
+9| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 21:08| 21:19| 11分| -  
+10| [嘉兴南](/huoche/zhan/jiaxingnan.htm)| 21:47| 21:49| 2分| -  
+11| [杭州东](/huoche/zhan/hangzhoudong.htm)| 22:12| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

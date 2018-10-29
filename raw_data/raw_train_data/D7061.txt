@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从利川开往黄冈东的D7061动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D7061 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 利川  
+发车时间 | 14:30  
+到站时间 | 20:35  
+全程时间 | 6小时5分  
+终点站 | 黄冈东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [利川](/huoche/zhan/lichuan.htm)| -| 14:30| 0分| -  
+2| [恩施](/huoche/zhan/enshi.htm)| 15:02| 15:10| 8分| -  
+3| [巴东](/huoche/zhan/badong.htm)| 16:02| 16:04| 2分| -  
+4| [宜昌东](/huoche/zhan/yichangdong.htm)| 17:01| 17:11| 10分| -  
+5| [枝江北](/huoche/zhan/zhijiangbei.htm)| 17:30| 17:32| 2分| -  
+6| [荆州](/huoche/zhan/jingzhou2.htm)| 17:51| 17:53| 2分| -  
+7| [潜江](/huoche/zhan/qianjiang2.htm)| 18:18| 18:20| 2分| -  
+8| [汉川](/huoche/zhan/hanchun.htm)| 18:53| 18:55| 2分| -  
+9| [汉口](/huoche/zhan/hankou.htm)| 19:19| 19:23| 4分| -  
+10| [武汉](/huoche/zhan/wuhan.htm)| 19:49| 19:53| 4分| -  
+11| [黄冈西](/huoche/zhan/huanggangxi.htm)| 20:18| 20:20| 2分| -  
+12| [黄冈](/huoche/zhan/huanggang.htm)| 20:25| 20:27| 2分| -  
+13| [黄冈东](/huoche/zhan/huanggangdong.htm)| 20:35| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

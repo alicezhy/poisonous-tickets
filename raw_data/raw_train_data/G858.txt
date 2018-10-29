@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从西安北开往武汉的G858高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G858 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 西安北  
+发车时间 | 15:18  
+到站时间 | 19:48  
+全程时间 | 4小时30分  
+终点站 | 武汉  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [西安北](/huoche/zhan/xianbei.htm)| \----| 15:18| 0分| -  
+2| [华山北](/huoche/zhan/huashanbei.htm)| 15:48| 15:50| 2分| -  
+3| [洛阳龙门](/huoche/zhan/luoyanglongmen.htm)| 16:42| 16:44| 2分| -  
+4| [郑州](/huoche/zhan/zhengzhou.htm)| 17:22| 17:26| 4分| -  
+5| [许昌东](/huoche/zhan/xuchangdong.htm)| 18:00| 18:02| 2分| -  
+6| [漯河西](/huoche/zhan/luohexi.htm)| 18:18| 18:20| 2分| -  
+7| [信阳东](/huoche/zhan/xinyangdong.htm)| 18:58| 19:04| 6分| -  
+8| [武汉](/huoche/zhan/wuhan.htm)| 19:48| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

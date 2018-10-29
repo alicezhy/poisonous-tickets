@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从兰州开往厦门的Z128直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z128 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 兰州  
+发车时间 | 15:18  
+到站时间 | 22:06  
+全程时间 | 30小时48分  
+终点站 | 厦门  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [兰州](/huoche/zhan/lanzhou.htm)| -| 15:18| 0分| -  
+2| [陇西](/huoche/zhan/longxi.htm)| 17:23| 17:30| 7分| -  
+3| [天水](/huoche/zhan/tianshui.htm)| 19:26| 19:36| 10分| -  
+4| [宝鸡](/huoche/zhan/baoji.htm)| 22:09| 22:17| 8分| -  
+5| [西安](/huoche/zhan/xian.htm)| 23:47| 00:09| 22分| -  
+6| [洛阳](/huoche/zhan/luoyang.htm)| 04:32| 04:38| 6分| -  
+7| [平顶山西](/huoche/zhan/pingdingshanxi.htm)| 06:24| 06:26| 2分| -  
+8| [漯河](/huoche/zhan/luohe.htm)| 08:06| 08:12| 6分| -  
+9| [信阳](/huoche/zhan/xinyang.htm)| 09:31| 09:34| 3分| -  
+10| [武昌](/huoche/zhan/wuchang.htm)| 11:51| 12:14| 23分| -  
+11| [南昌](/huoche/zhan/nanchang.htm)| 15:18| 15:35| 17分| -  
+12| [抚州](/huoche/zhan/fuzhou2.htm)| 16:32| 16:36| 4分| -  
+13| [三明北](/huoche/zhan/sanmingbei.htm)| 18:32| 18:36| 4分| -  
+14| [莆田](/huoche/zhan/putian.htm)| 20:19| 20:35| 16分| -  
+15| [厦门](/huoche/zhan/xiamen.htm)| 22:06| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从兰州开往泰州的K417快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K417 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 兰州  
+发车时间 | 08:40  
+到站时间 | 13:19  
+全程时间 | 28小时39分  
+终点站 | 泰州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [兰州](/huoche/zhan/lanzhou.htm)| -| 08:40| 0分| -  
+2| [定西](/huoche/zhan/dingxi.htm)| 09:56| 09:59| 3分| -  
+3| [陇西](/huoche/zhan/longxi.htm)| 10:52| 10:55| 3分| -  
+4| [武山](/huoche/zhan/wushan.htm)| 11:20| 11:23| 3分| -  
+5| [甘谷](/huoche/zhan/gangu.htm)| 11:55| 11:59| 4分| -  
+6| [天水](/huoche/zhan/tianshui.htm)| 13:13| 13:19| 6分| -  
+7| [宝鸡](/huoche/zhan/baoji.htm)| 15:57| 16:07| 10分| -  
+9| [兴平](/huoche/zhan/xingping.htm)| 17:24| 17:26| 2分| -  
+10| [咸阳](/huoche/zhan/xianyang.htm)| 17:43| 17:46| 3分| -  
+11| [西安](/huoche/zhan/xian.htm)| 18:10| 18:20| 10分| -  
+12| [渭南](/huoche/zhan/weinan.htm)| 19:03| 19:06| 3分| -  
+13| [洛阳](/huoche/zhan/luoyang.htm)| 23:33| 23:38| 5分| -  
+14| [郑州](/huoche/zhan/zhengzhou.htm)| 01:43| 01:55| 12分| -  
+16| [商丘](/huoche/zhan/shangqiu.htm)| 04:06| 04:11| 5分| -  
+17| [砀山](/huoche/zhan/dangshan.htm)| 04:55| 05:15| 20分| -  
+18| [徐州](/huoche/zhan/xuzhou.htm)| 06:10| 06:25| 15分| -  
+19| [新沂](/huoche/zhan/xinyi.htm)| 07:45| 07:48| 3分| -  
+20| [沭阳](/huoche/zhan/shuyang.htm)| 08:24| 08:27| 3分| -  
+21| [淮安](/huoche/zhan/huaian.htm)| 09:07| 09:10| 3分| -  
+22| [阜宁](/huoche/zhan/funing2.htm)| 09:53| 09:56| 3分| -  
+24| [盐城](/huoche/zhan/yancheng2.htm)| 10:52| 10:58| 6分| -  
+25| [东台](/huoche/zhan/dongtai.htm)| 11:39| 11:48| 9分| -  
+26| [泰州](/huoche/zhan/taizhou.htm)| 13:19| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海开往南京的G7036高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7036 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 上海  
+发车时间 | 08:10  
+到站时间 | 10:14  
+全程时间 | 2小时4分  
+终点站 | 南京  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海](/huoche/zhan/shanghai.htm)| -| 08:10| 0分| -  
+2| [昆山南](/huoche/zhan/kunshannan.htm)| 08:29| 08:31| 2分| -  
+3| [苏州](/huoche/zhan/suzhou.htm)| 08:42| 08:44| 2分| -  
+4| [无锡](/huoche/zhan/wuxi.htm)| 08:59| 09:01| 2分| -  
+5| [惠山](/huoche/zhan/huishan.htm)| 09:10| 09:11| 1分| -  
+6| [丹阳](/huoche/zhan/danyang.htm)| 09:33| 09:39| 6分| -  
+7| [镇江](/huoche/zhan/zhenjiang.htm)| 09:51| 09:53| 2分| -  
+8| [南京](/huoche/zhan/nanjing.htm)| 10:14| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

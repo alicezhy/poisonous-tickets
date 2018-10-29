@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从温州南开往武汉的G2041高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G2041 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 温州南  
+发车时间 | 13:12  
+到站时间 | 19:37  
+全程时间 | 6小时25分  
+终点站 | 武汉  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [温州南](/huoche/zhan/wenzhounan.htm)| -| 13:12| 0分| -  
+2| [青田](/huoche/zhan/qingtian.htm)| 13:31| 13:33| 2分| -  
+3| [丽水](/huoche/zhan/lishui.htm)| 13:52| 13:54| 2分| -  
+4| [缙云西](/huoche/zhan/jinyunxi.htm)| 14:07| 14:09| 2分| -  
+5| [永康南](/huoche/zhan/yongkangnan.htm)| 14:20| 14:22| 2分| -  
+6| [武义北](/huoche/zhan/wuyibei.htm)| 14:33| 14:36| 3分| -  
+7| [金华南](/huoche/zhan/jinhuanan.htm)| 14:47| 14:50| 3分| -  
+8| [衢州](/huoche/zhan/quzhou.htm)| 15:21| 15:23| 2分| -  
+9| [上饶](/huoche/zhan/shangrao.htm)| 15:51| 15:54| 3分| -  
+10| [鹰潭北](/huoche/zhan/yingtanbei.htm)| 16:20| 16:22| 2分| -  
+11| [抚州东](/huoche/zhan/fuzhoudong.htm)| 16:36| 16:38| 2分| -  
+12| [南昌西](/huoche/zhan/nanchangxi.htm)| 17:04| 17:08| 4分| -  
+13| [永修](/huoche/zhan/yongxiu.htm)| 17:28| 17:30| 2分| -  
+14| [共青城](/huoche/zhan/gongqingcheng.htm)| 17:42| 17:44| 2分| -  
+15| [庐山](/huoche/zhan/lushan.htm)| 18:03| 18:05| 2分| -  
+16| [枫林](/huoche/zhan/fenglin.htm)| 18:25| 18:27| 2分| -  
+17| [阳新](/huoche/zhan/yangxin.htm)| 18:38| 18:40| 2分| -  
+18| [黄石北](/huoche/zhan/huangshibei.htm)| 18:58| 19:00| 2分| -  
+19| [鄂州](/huoche/zhan/ezhou.htm)| 19:12| 19:14| 2分| -  
+20| [武汉](/huoche/zhan/wuhan.htm)| 19:37| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

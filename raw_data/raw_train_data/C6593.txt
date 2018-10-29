@@ -1,0 +1,39 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从青岛北开往威海的C6593城际高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | C6593 |  
+---|---|---|---  
+车型 | 城际高铁  
+始发站 | 青岛北  
+发车时间 | 12:06  
+到站时间 | 13:55  
+全程时间 | 1小时49分  
+终点站 | 威海  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [青岛北](/huoche/zhan/qingdaobei.htm)| -| 12:06| 0分| -  
+2| [海阳北](/huoche/zhan/haiyangbei.htm)| 12:54| 12:56| 2分| -  
+3| [桃村北](/huoche/zhan/taocunbei.htm)| 13:07| 13:09| 2分| -  
+4| [烟台南](/huoche/zhan/yantainan.htm)| 13:26| 13:28| 2分| -  
+5| [威海](/huoche/zhan/weihai.htm)| 13:55| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

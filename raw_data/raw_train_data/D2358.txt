@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从深圳北开往赣州的D2358动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D2358 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 深圳北  
+发车时间 | 12:56  
+到站时间 | 19:33  
+全程时间 | 6小时37分  
+终点站 | 赣州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [深圳北](/huoche/zhan/shenzhenbei.htm)| \----| 12:56| 0分| -  
+2| [惠东](/huoche/zhan/huidong.htm)| 13:33| 13:35| 2分| -  
+3| [汕尾](/huoche/zhan/shanwei.htm)| 14:00| 14:02| 2分| -  
+4| [普宁](/huoche/zhan/puning.htm)| 14:38| 14:40| 2分| -  
+5| [潮汕](/huoche/zhan/chaoshan.htm)| 15:07| 15:09| 2分| -  
+6| [饶平](/huoche/zhan/raoping.htm)| 15:30| 15:32| 2分| -  
+7| [漳州](/huoche/zhan/zhangzhou.htm)| 16:15| 16:27| 12分| -  
+8| [南靖](/huoche/zhan/nanjing2.htm)| 16:42| 16:46| 4分| -  
+9| [龙岩](/huoche/zhan/longyan.htm)| 17:18| 17:22| 4分| -  
+10| [古田会址](/huoche/zhan/gutianhuizhi.htm)| 17:38| 17:40| 2分| -  
+11| [冠豸山](/huoche/zhan/guanzhishan.htm)| 17:56| 17:58| 2分| -  
+12| [长汀南](/huoche/zhan/changtingnan.htm)| 18:16| 18:18| 2分| -  
+13| [瑞金](/huoche/zhan/ruijin.htm)| 18:34| 18:36| 2分| -  
+14| [于都](/huoche/zhan/yudu.htm)| 19:04| 19:06| 2分| -  
+15| [赣州](/huoche/zhan/ganzhou.htm)| 19:33| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

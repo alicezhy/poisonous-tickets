@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从汉口开往重庆北的D627动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D627 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 汉口  
+发车时间 | 07:31  
+到站时间 | 14:02  
+全程时间 | 6小时31分  
+终点站 | 重庆北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [汉口](/huoche/zhan/hankou.htm)| \----| 07:31| 0分| -  
+2| [潜江](/huoche/zhan/qianjiang2.htm)| 08:22| 08:24| 2分| -  
+3| [荆州](/huoche/zhan/jingzhou2.htm)| 08:50| 08:52| 2分| -  
+4| [宜昌东](/huoche/zhan/yichangdong.htm)| 09:26| 09:33| 7分| -  
+5| [巴东](/huoche/zhan/badong.htm)| 10:27| 10:29| 2分| -  
+6| [恩施](/huoche/zhan/enshi.htm)| 11:23| 11:29| 6分| -  
+7| [利川](/huoche/zhan/lichuan.htm)| 12:04| 12:06| 2分| -  
+8| [石柱县](/huoche/zhan/shizhuxian.htm)| 12:46| 12:48| 2分| -  
+9| [涪陵北](/huoche/zhan/fulingbei.htm)| 13:22| 13:24| 2分| -  
+10| [重庆北](/huoche/zhan/chongqingbei.htm)| 14:02| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

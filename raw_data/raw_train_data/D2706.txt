@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从乌鲁木齐开往兰州西的D2706动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D2706 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 乌鲁木齐  
+发车时间 | 09:42  
+到站时间 | 20:59  
+全程时间 | 11小时17分  
+终点站 | 兰州西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [乌鲁木齐](/huoche/zhan/wulumuqi.htm)| 00:00| 09:42| 0分| -  
+3| [吐鲁番北](/huoche/zhan/tulufanbei.htm)| 10:44| 10:47| 3分| -  
+4| [鄯善北](/huoche/zhan/shanshanbei.htm)| 11:19| 11:22| 3分| -  
+5| [吐哈](/huoche/zhan/tuha.htm)| 11:37| 11:38| 1分| -  
+6| [哈密](/huoche/zhan/hami.htm)| 12:56| 13:02| 6分| -  
+7| [柳园南](/huoche/zhan/liuyuannan.htm)| 14:28| 14:31| 3分| -  
+8| [嘉峪关南](/huoche/zhan/jiayuguannan.htm)| 16:19| 16:25| 6分| -  
+9| [酒泉南](/huoche/zhan/jiuquannan.htm)| 16:37| 16:39| 2分| -  
+10| [清水北](/huoche/zhan/qingshuibei.htm)| 17:04| 17:06| 2分| -  
+12| [张掖西](/huoche/zhan/zhangyexi.htm)| 17:52| 17:54| 2分| -  
+13| [西宁](/huoche/zhan/xining.htm)| 19:41| 19:47| 6分| -  
+15| [兰州西](/huoche/zhan/lanzhouxi.htm)| 20:59| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

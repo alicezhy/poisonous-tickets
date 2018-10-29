@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从湛江开往昆明的K983快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K983 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 湛江  
+发车时间 | 13:45  
+到站时间 | 09:43  
+全程时间 | 19小时58分  
+终点站 | 昆明  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [湛江](/huoche/zhan/zhanjiang2.htm)| -| 13:45| 0分| -  
+2| [遂溪](/huoche/zhan/suixi2.htm)| 14:08| 14:11| 3分| -  
+3| [廉江](/huoche/zhan/lianjiang2.htm)| 14:29| 14:32| 3分| -  
+4| [河唇](/huoche/zhan/hechun.htm)| 14:43| 14:46| 3分| -  
+5| [文地](/huoche/zhan/wendi.htm)| 15:12| 15:15| 3分| -  
+6| [陆川](/huoche/zhan/luchuan.htm)| 15:45| 15:48| 3分| -  
+7| [玉林](/huoche/zhan/yulin.htm)| 16:18| 16:30| 12分| -  
+8| [兴业](/huoche/zhan/xingye.htm)| 16:55| 16:58| 3分| -  
+9| [贵港](/huoche/zhan/guigang.htm)| 17:37| 17:42| 5分| -  
+10| [黎塘](/huoche/zhan/litang.htm)| 18:31| 18:36| 5分| -  
+12| [南宁](/huoche/zhan/nanning.htm)| 20:30| 20:55| 25分| -  
+13| [平果](/huoche/zhan/pingguo.htm)| 22:03| 22:10| 7分| -  
+14| [百色](/huoche/zhan/baise.htm)| 23:45| 23:56| 11分| -  
+15| [兴义](/huoche/zhan/xingyi.htm)| 04:05| 04:11| 6分| -  
+16| [威舍](/huoche/zhan/weishe.htm)| 04:46| 04:56| 10分| -  
+17| [罗平](/huoche/zhan/luoping.htm)| 05:59| 06:03| 4分| -  
+18| [师宗](/huoche/zhan/shizong.htm)| 06:39| 06:42| 3分| -  
+19| [石林](/huoche/zhan/shilin.htm)| 07:39| 07:41| 2分| -  
+20| [宜良北](/huoche/zhan/yiliangbei.htm)| 08:04| 08:06| 2分| -  
+21| [昆明](/huoche/zhan/kunming.htm)| 09:43| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

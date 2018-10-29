@@ -1,0 +1,41 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从香港西九龙开往潮汕的G6388高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G6388 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 香港西九龙  
+发车时间 | 16:37  
+到站时间 | 19:34  
+全程时间 | 2小时57分  
+终点站 | 潮汕  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [香港西九龙](/huoche/zhan/xianggangxijiulong.htm)| -| 16:37| 0分| -  
+2| [深圳北](/huoche/zhan/shenzhenbei.htm)| 16:56| 17:15| 19分| -  
+3| [深圳坪山](/huoche/zhan/shenzhenpingshan.htm)| 17:36| 17:38| 2分| -  
+4| [惠东](/huoche/zhan/huidong.htm)| 17:58| 18:00| 2分| -  
+5| [汕尾](/huoche/zhan/shanwei.htm)| 18:25| 18:27| 2分| -  
+6| [潮阳](/huoche/zhan/chaoyang2.htm)| 19:15| 19:17| 2分| -  
+7| [潮汕](/huoche/zhan/chaoshan.htm)| 19:34| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

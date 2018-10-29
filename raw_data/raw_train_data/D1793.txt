@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从重庆西开往北海的D1793动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D1793 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 重庆西  
+发车时间 | 07:54  
+到站时间 | 17:10  
+全程时间 | 9小时16分  
+终点站 | 北海  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [重庆西](/huoche/zhan/chongqingxi.htm)| -| 07:54| 0分| -  
+2| [綦江东](/huoche/zhan/qijiangdong.htm)| 08:20| 08:22| 2分| -  
+3| [遵义](/huoche/zhan/zunyi.htm)| 09:18| 09:20| 2分| -  
+4| [贵阳东](/huoche/zhan/guiyangdong.htm)| 10:08| 10:12| 4分| -  
+5| [都匀东](/huoche/zhan/duyundong.htm)| 10:49| 10:59| 10分| -  
+6| [桂林北](/huoche/zhan/guilinbei.htm)| 12:35| 12:40| 5分| -  
+7| [鹿寨北](/huoche/zhan/luzhaibei.htm)| 13:27| 13:29| 2分| -  
+8| [柳州](/huoche/zhan/liuzhou.htm)| 13:58| 14:01| 3分| -  
+9| [来宾北](/huoche/zhan/laibinbei.htm)| 14:26| 14:29| 3分| -  
+10| [宾阳](/huoche/zhan/binyang.htm)| 14:50| 14:52| 2分| -  
+11| [南宁东](/huoche/zhan/nanningdong.htm)| 15:18| 15:43| 25分| -  
+12| [钦州东](/huoche/zhan/qinzhoudong.htm)| 16:25| 16:27| 2分| -  
+13| [合浦](/huoche/zhan/hepu.htm)| 16:54| 16:56| 2分| -  
+14| [北海](/huoche/zhan/beihai.htm)| 17:10| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

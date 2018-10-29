@@ -1,0 +1,62 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从昆明南开往济南西的G286高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G286 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 昆明南  
+发车时间 | 07:17  
+到站时间 | 21:45  
+全程时间 | 14小时28分  
+终点站 | 济南西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [昆明南](/huoche/zhan/kunmingnan.htm)| -| 07:17| 0分| -  
+2| [曲靖北](/huoche/zhan/qujingbei.htm)| 07:52| 07:54| 2分| -  
+3| [盘州](/huoche/zhan/panzhou.htm)| 08:18| 08:20| 2分| -  
+4| [安顺西](/huoche/zhan/anshunxi.htm)| 09:06| 09:08| 2分| -  
+5| [贵阳北](/huoche/zhan/guiyangbei.htm)| 09:39| 09:43| 4分| -  
+6| [凯里南](/huoche/zhan/kailinan.htm)| 10:21| 10:23| 2分| -  
+7| [铜仁南](/huoche/zhan/tongrennan.htm)| 10:58| 11:00| 2分| -  
+8| [芷江](/huoche/zhan/zhijiang2.htm)| 11:21| 11:28| 7分| -  
+9| [怀化南](/huoche/zhan/huaihuanan.htm)| 11:41| 11:45| 4分| -  
+10| [邵阳北](/huoche/zhan/shaoyangbei.htm)| 12:25| 12:27| 2分| -  
+11| [娄底南](/huoche/zhan/loudinan.htm)| 12:43| 12:45| 2分| -  
+12| [湘潭北](/huoche/zhan/xiangtanbei.htm)| 13:11| 13:14| 3分| -  
+13| [长沙南](/huoche/zhan/changshanan.htm)| 13:27| 13:35| 8分| -  
+14| [岳阳东](/huoche/zhan/yueyangdong.htm)| 14:08| 14:15| 7分| -  
+15| [咸宁北](/huoche/zhan/xianningbei.htm)| 14:45| 14:51| 6分| -  
+16| [武汉](/huoche/zhan/wuhan.htm)| 15:17| 15:21| 4分| -  
+17| [信阳东](/huoche/zhan/xinyangdong.htm)| 16:05| 16:07| 2分| -  
+18| [许昌东](/huoche/zhan/xuchangdong.htm)| 16:57| 16:59| 2分| -  
+19| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 17:21| 17:26| 5分| -  
+20| [开封北](/huoche/zhan/kaifengbei.htm)| 17:46| 17:48| 2分| -  
+21| [商丘](/huoche/zhan/shangqiu.htm)| 18:23| 18:25| 2分| -  
+22| [砀山南](/huoche/zhan/dangshannan.htm)| 18:43| 18:45| 2分| -  
+23| [萧县北](/huoche/zhan/xiaoxianbei.htm)| 19:04| 19:13| 9分| -  
+24| [徐州东](/huoche/zhan/xuzhoudong.htm)| 19:31| 20:01| 30分| -  
+25| [枣庄](/huoche/zhan/zaozhuang.htm)| 20:19| 20:26| 7分| -  
+26| [曲阜东](/huoche/zhan/qufudong.htm)| 20:50| 20:58| 8分| -  
+27| [泰安](/huoche/zhan/taian2.htm)| 21:17| 21:27| 10分| -  
+28| [济南西](/huoche/zhan/jinanxi.htm)| 21:45| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,63 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京南开往厦门北的G323高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G323 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 北京南  
+发车时间 | 10:10  
+到站时间 | 21:46  
+全程时间 | 11小时36分  
+终点站 | 厦门北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京南](/huoche/zhan/beijingnan.htm)| \----| 10:10| 0分| -  
+2| [廊坊](/huoche/zhan/langfang.htm)| 10:31| 10:33| 2分| -  
+3| [德州东](/huoche/zhan/dezhoudong.htm)| 11:30| 11:32| 2分| -  
+4| [济南西](/huoche/zhan/jinanxi.htm)| 11:56| 11:58| 2分| -  
+5| [泰安](/huoche/zhan/taian2.htm)| 12:15| 12:17| 2分| -  
+6| [枣庄](/huoche/zhan/zaozhuang.htm)| 12:55| 12:57| 2分| -  
+7| [徐州东](/huoche/zhan/xuzhoudong.htm)| 13:15| 13:17| 2分| -  
+8| [宿州东](/huoche/zhan/suzhoudong.htm)| 13:36| 13:41| 5分| -  
+9| [淮南东](/huoche/zhan/huainandong.htm)| 14:15| 14:17| 2分| -  
+10| [合肥南](/huoche/zhan/hefeinan.htm)| 14:56| 15:02| 6分| -  
+11| [长临河](/huoche/zhan/changlinhe.htm)| 15:13| 15:15| 2分| -  
+12| [巢湖东](/huoche/zhan/chaohudong.htm)| 15:30| 15:32| 2分| -  
+13| [铜陵北](/huoche/zhan/tonglingbei.htm)| 15:52| 15:54| 2分| -  
+14| [泾县](/huoche/zhan/jingxian.htm)| 16:11| 16:13| 2分| -  
+15| [旌德](/huoche/zhan/jingde.htm)| 16:27| 16:29| 2分| -  
+16| [歙县北](/huoche/zhan/shexianbei.htm)| 16:46| 16:48| 2分| -  
+17| [黄山北](/huoche/zhan/huangshanbei.htm)| 16:57| 17:00| 3分| -  
+18| [婺源](/huoche/zhan/wuyuan2.htm)| 17:21| 17:23| 2分| -  
+19| [上饶](/huoche/zhan/shangrao.htm)| 17:47| 17:49| 2分| -  
+20| [武夷山东](/huoche/zhan/wuyishandong.htm)| 18:18| 18:20| 2分| -  
+21| [南平北](/huoche/zhan/nanpingbei.htm)| 18:47| 18:49| 2分| -  
+22| [古田北](/huoche/zhan/gutianbei.htm)| 19:04| 19:06| 2分| -  
+23| [福州](/huoche/zhan/fuzhou.htm)| 19:34| 19:37| 3分| -  
+24| [福州南](/huoche/zhan/fuzhounan.htm)| 19:53| 19:56| 3分| -  
+25| [福清](/huoche/zhan/fuqing.htm)| 20:11| 20:13| 2分| -  
+26| [涵江](/huoche/zhan/hanjiang.htm)| 20:26| 20:28| 2分| -  
+27| [莆田](/huoche/zhan/putian.htm)| 20:38| 20:45| 7分| -  
+28| [泉州](/huoche/zhan/quanzhou2.htm)| 21:12| 21:21| 9分| -  
+29| [厦门北](/huoche/zhan/xiamenbei.htm)| 21:46| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

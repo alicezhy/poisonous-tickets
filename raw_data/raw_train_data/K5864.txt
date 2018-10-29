@@ -1,0 +1,39 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从赣州开往九江的K5864快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K5864 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 赣州  
+发车时间 | 23:10  
+到站时间 | 08:10  
+全程时间 | 9小时0分  
+终点站 | 九江  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [赣州](/huoche/zhan/ganzhou.htm)| \----| 23:10| 0分| -  
+2| [兴国](/huoche/zhan/xingguo.htm)| 00:50| 00:55| 5分| -  
+3| [吉安](/huoche/zhan/jian6.htm)| 03:16| 03:20| 4分| -  
+4| [南昌](/huoche/zhan/nanchang.htm)| 06:34| 06:43| 9分| -  
+5| [九江](/huoche/zhan/jiujiang.htm)| 08:10| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

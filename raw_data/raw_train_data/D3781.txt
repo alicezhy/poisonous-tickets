@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从百色开往广州南的D3781动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D3781 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 百色  
+发车时间 | 07:56  
+到站时间 | 14:11  
+全程时间 | 6小时15分  
+终点站 | 广州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [百色](/huoche/zhan/baise.htm)| -| 07:56| 0分| -  
+2| [田阳](/huoche/zhan/tianyang.htm)| 08:11| 08:15| 4分| -  
+3| [田东北](/huoche/zhan/tiandongbei.htm)| 08:26| 08:28| 2分| -  
+4| [平果](/huoche/zhan/pingguo.htm)| 08:51| 08:55| 4分| -  
+5| [隆安东](/huoche/zhan/longandong.htm)| 09:08| 09:10| 2分| -  
+6| [南宁](/huoche/zhan/nanning.htm)| 09:46| 09:55| 9分| -  
+7| [宾阳](/huoche/zhan/binyang.htm)| 10:32| 10:34| 2分| -  
+8| [贵港](/huoche/zhan/guigang.htm)| 10:56| 10:59| 3分| -  
+9| [平南南](/huoche/zhan/pingnannan.htm)| 11:33| 11:35| 2分| -  
+10| [藤县](/huoche/zhan/tengxian.htm)| 11:59| 12:01| 2分| -  
+11| [梧州南](/huoche/zhan/wuzhounan.htm)| 12:14| 12:18| 4分| -  
+12| [云浮东](/huoche/zhan/yunfudong.htm)| 12:57| 12:59| 2分| -  
+13| [三水南](/huoche/zhan/sanshuinan.htm)| 13:32| 13:34| 2分| -  
+14| [佛山西](/huoche/zhan/foshanxi.htm)| 13:46| 13:51| 5分| -  
+15| [广州南](/huoche/zhan/guangzhounan.htm)| 14:11| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

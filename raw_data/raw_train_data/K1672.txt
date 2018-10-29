@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从九江开往温州的K1672快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1672 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 九江  
+发车时间 | 18:41  
+到站时间 | 07:48  
+全程时间 | 13小时7分  
+终点站 | 温州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [九江](/huoche/zhan/jiujiang.htm)| -| 18:41| 0分| -  
+2| [南昌](/huoche/zhan/nanchang.htm)| 19:58| 20:18| 20分| -  
+3| [向塘](/huoche/zhan/xiangtang.htm)| 20:39| 20:43| 4分| -  
+4| [进贤](/huoche/zhan/jinxian.htm)| 21:10| 21:13| 3分| -  
+5| [东乡](/huoche/zhan/dongxiang.htm)| 21:40| 21:43| 3分| -  
+6| [鹰潭](/huoche/zhan/yingtan.htm)| 22:10| 22:16| 6分| -  
+7| [贵溪](/huoche/zhan/guixi.htm)| 22:32| 22:36| 4分| -  
+8| [横峰](/huoche/zhan/hengfeng.htm)| 23:25| 23:28| 3分| -  
+9| [上饶](/huoche/zhan/shangrao.htm)| 23:56| 00:02| 6分| -  
+10| [玉山](/huoche/zhan/yushan.htm)| 00:23| 00:27| 4分| -  
+11| [金华南](/huoche/zhan/jinhuanan.htm)| 03:28| 03:33| 5分| -  
+12| [永康](/huoche/zhan/yongkang.htm)| 04:17| 04:19| 2分| -  
+13| [丽水](/huoche/zhan/lishui.htm)| 05:20| 05:23| 3分| -  
+14| [温州](/huoche/zhan/wenzhou.htm)| 07:48| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

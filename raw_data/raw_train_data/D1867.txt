@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从重庆西开往广州南的D1867动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D1867 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 重庆西  
+发车时间 | 09:54  
+到站时间 | 17:45  
+全程时间 | 7小时51分  
+终点站 | 广州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [重庆西](/huoche/zhan/chongqingxi.htm)| \----| 09:54| 0分| -  
+2| [珞璜南](/huoche/zhan/luohuangnan.htm)| 10:07| 10:14| 7分| -  
+3| [娄山关南](/huoche/zhan/loushanguannan.htm)| 11:13| 11:15| 2分| -  
+4| [贵阳东](/huoche/zhan/guiyangdong.htm)| 12:13| 12:18| 5分| -  
+5| [龙洞堡](/huoche/zhan/longdongbao.htm)| 12:29| 12:32| 3分| -  
+6| [三都县](/huoche/zhan/sanduxian.htm)| 13:10| 13:12| 2分| -  
+7| [榕江](/huoche/zhan/rongjiang.htm)| 13:37| 13:39| 2分| -  
+8| [恭城](/huoche/zhan/gongcheng.htm)| 15:23| 15:25| 2分| -  
+9| [贺州](/huoche/zhan/hezhou.htm)| 15:53| 15:55| 2分| -  
+10| [怀集](/huoche/zhan/huaiji.htm)| 16:25| 16:27| 2分| -  
+11| [广宁](/huoche/zhan/guangning.htm)| 16:44| 16:46| 2分| -  
+12| [佛山西](/huoche/zhan/foshanxi.htm)| 17:17| 17:24| 7分| -  
+13| [广州南](/huoche/zhan/guangzhounan.htm)| 17:45| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

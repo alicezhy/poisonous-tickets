@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从福州开往北京南的G302高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G302 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 福州  
+发车时间 | 07:01  
+到站时间 | 16:33  
+全程时间 | 9小时32分  
+终点站 | 北京南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [福州](/huoche/zhan/fuzhou.htm)| -| 07:01| 0分| -  
+2| [南平北](/huoche/zhan/nanpingbei.htm)| 07:35| 07:38| 3分| -  
+3| [建瓯西](/huoche/zhan/jianouxi.htm)| 07:54| 07:56| 2分| -  
+4| [上饶](/huoche/zhan/shangrao.htm)| 08:36| 08:38| 2分| -  
+5| [德兴](/huoche/zhan/dexing.htm)| 08:55| 08:57| 2分| -  
+6| [婺源](/huoche/zhan/wuyuan2.htm)| 09:08| 09:10| 2分| -  
+7| [黄山北](/huoche/zhan/huangshanbei.htm)| 09:34| 09:38| 4分| -  
+8| [歙县北](/huoche/zhan/shexianbei.htm)| 09:46| 09:48| 2分| -  
+9| [南陵](/huoche/zhan/naling.htm)| 10:19| 10:21| 2分| -  
+10| [铜陵北](/huoche/zhan/tonglingbei.htm)| 10:33| 10:35| 2分| -  
+11| [无为](/huoche/zhan/mowei.htm)| 10:47| 10:49| 2分| -  
+12| [合肥南](/huoche/zhan/hefeinan.htm)| 11:19| 11:24| 5分| -  
+13| [水家湖](/huoche/zhan/shuijiahu.htm)| 11:58| 12:00| 2分| -  
+14| [蚌埠南](/huoche/zhan/bengbunan.htm)| 12:21| 12:23| 2分| -  
+15| [徐州东](/huoche/zhan/xuzhoudong.htm)| 13:00| 13:10| 10分| -  
+16| [泰安](/huoche/zhan/taian2.htm)| 14:01| 14:03| 2分| -  
+17| [济南西](/huoche/zhan/jinanxi.htm)| 14:20| 14:22| 2分| -  
+18| [沧州西](/huoche/zhan/cangzhouxi.htm)| 15:08| 15:14| 6分| -  
+19| [天津南](/huoche/zhan/tianjinnan.htm)| 15:36| 15:51| 15分| -  
+20| [廊坊](/huoche/zhan/langfang.htm)| 16:09| 16:11| 2分| -  
+21| [北京南](/huoche/zhan/beijingnan.htm)| 16:33| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,56 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从汉中开往广州的K768快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K768 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 汉中  
+发车时间 | 13:57  
+到站时间 | 17:56  
+全程时间 | 27小时59分  
+终点站 | 广州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [汉中](/huoche/zhan/hanzhong.htm)| -| 13:57| 0分| -  
+2| [城固](/huoche/zhan/chenggu.htm)| 14:23| 14:28| 5分| -  
+3| [西乡](/huoche/zhan/xixiang.htm)| 15:22| 15:24| 2分| -  
+5| [汉阴](/huoche/zhan/hanyin.htm)| 16:45| 16:49| 4分| -  
+6| [安康](/huoche/zhan/ankang.htm)| 17:35| 17:50| 15分| -  
+7| [旬阳](/huoche/zhan/xunyang.htm)| 18:30| 18:32| 2分| -  
+8| [白河县](/huoche/zhan/baihexian.htm)| 19:49| 20:02| 13分| -  
+9| [十堰](/huoche/zhan/shiyan.htm)| 21:04| 21:07| 3分| -  
+10| [襄阳东](/huoche/zhan/xiangyangdong.htm)| 23:11| 23:25| 14分| -  
+11| [武昌](/huoche/zhan/wuchang.htm)| 03:23| 03:41| 18分| -  
+12| [咸宁](/huoche/zhan/xianning.htm)| 04:44| 04:47| 3分| -  
+13| [临湘](/huoche/zhan/linxiang.htm)| 06:34| 06:36| 2分| -  
+14| [岳阳](/huoche/zhan/yueyang.htm)| 07:05| 07:11| 6分| -  
+15| [长沙](/huoche/zhan/changsha.htm)| 08:38| 08:51| 13分| -  
+16| [株洲](/huoche/zhan/zhuzhou.htm)| 09:38| 09:44| 6分| -  
+17| [衡山](/huoche/zhan/hengshan.htm)| 10:34| 10:37| 3分| -  
+18| [衡阳](/huoche/zhan/hengyang.htm)| 11:14| 11:20| 6分| -  
+19| [耒阳](/huoche/zhan/leiyang.htm)| 12:05| 12:07| 2分| -  
+20| [乐昌](/huoche/zhan/lechang.htm)| 14:10| 14:13| 3分| -  
+21| [韶关东](/huoche/zhan/shaoguandong.htm)| 14:49| 14:55| 6分| -  
+22| [英德](/huoche/zhan/yingde.htm)| 15:49| 15:51| 2分| -  
+23| [广州](/huoche/zhan/guangzhou.htm)| 17:56| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

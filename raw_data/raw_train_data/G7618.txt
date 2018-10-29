@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从合肥南开往温州南的G7618高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7618 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 合肥南  
+发车时间 | 15:35  
+到站时间 | 20:45  
+全程时间 | 5小时10分  
+终点站 | 温州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [合肥南](/huoche/zhan/hefeinan.htm)| -| 15:35| 0分| -  
+2| [南京南](/huoche/zhan/nanjingnan.htm)| 16:27| 16:33| 6分| -  
+3| [溧水](/huoche/zhan/lishui2.htm)| 16:49| 16:51| 2分| -  
+4| [宜兴](/huoche/zhan/yixing.htm)| 17:13| 17:15| 2分| -  
+5| [长兴](/huoche/zhan/changxing.htm)| 17:27| 17:29| 2分| -  
+6| [湖州](/huoche/zhan/huzhou.htm)| 17:38| 17:40| 2分| -  
+7| [德清](/huoche/zhan/deqing.htm)| 17:53| 17:55| 2分| -  
+8| [杭州东](/huoche/zhan/hangzhoudong.htm)| 18:08| 18:15| 7分| -  
+9| [义乌](/huoche/zhan/yiwu.htm)| 18:48| 18:50| 2分| -  
+10| [金华南](/huoche/zhan/jinhuanan.htm)| 19:07| 19:10| 3分| -  
+11| [永康南](/huoche/zhan/yongkangnan.htm)| 19:32| 19:35| 3分| -  
+12| [缙云西](/huoche/zhan/jinyunxi.htm)| 19:45| 19:47| 2分| -  
+13| [丽水](/huoche/zhan/lishui.htm)| 20:00| 20:03| 3分| -  
+14| [青田](/huoche/zhan/qingtian.htm)| 20:23| 20:25| 2分| -  
+15| [温州南](/huoche/zhan/wenzhounan.htm)| 20:45| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

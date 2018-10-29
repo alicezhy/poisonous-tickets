@@ -1,0 +1,39 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从重庆西开往成都东的G8596高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G8596 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 重庆西  
+发车时间 | 13:18  
+到站时间 | 14:58  
+全程时间 | 1小时40分  
+终点站 | 成都东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [重庆西](/huoche/zhan/chongqingxi.htm)| -| 13:18| 0分| -  
+2| [永川东](/huoche/zhan/yongchuandong.htm)| 13:41| 13:43| 2分| -  
+3| [大足南](/huoche/zhan/dazunan.htm)| 13:52| 13:55| 3分| -  
+4| [隆昌北](/huoche/zhan/longchangbei.htm)| 14:09| 14:12| 3分| -  
+5| [成都东](/huoche/zhan/chengdudong.htm)| 14:58| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

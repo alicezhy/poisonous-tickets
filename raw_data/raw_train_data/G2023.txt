@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从商丘开往兰州西的G2023高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G2023 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 商丘  
+发车时间 | 08:22  
+到站时间 | 15:23  
+全程时间 | 7小时1分  
+终点站 | 兰州西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [商丘](/huoche/zhan/shangqiu.htm)| -| 08:22| 0分| -  
+2| [民权北](/huoche/zhan/minquanbei.htm)| 08:37| 08:39| 2分| -  
+3| [兰考南](/huoche/zhan/lankaonan.htm)| 08:52| 08:54| 2分| -  
+4| [开封北](/huoche/zhan/kaifengbei.htm)| 09:10| 09:12| 2分| -  
+5| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 09:33| 09:41| 8分| -  
+6| [渑池南](/huoche/zhan/mianchinan.htm)| 10:31| 10:33| 2分| -  
+7| [三门峡南](/huoche/zhan/sanmenxianan.htm)| 10:50| 10:52| 2分| -  
+8| [华山北](/huoche/zhan/huashanbei.htm)| 11:19| 11:21| 2分| -  
+9| [渭南北](/huoche/zhan/weinanbei.htm)| 11:39| 11:41| 2分| -  
+10| [西安北](/huoche/zhan/xianbei.htm)| 12:00| 12:12| 12分| -  
+11| [岐山](/huoche/zhan/qishan2.htm)| 12:51| 12:53| 2分| -  
+12| [宝鸡南](/huoche/zhan/baojinan.htm)| 13:07| 13:10| 3分| -  
+13| [天水南](/huoche/zhan/tianshuinan.htm)| 13:54| 13:58| 4分| -  
+14| [秦安](/huoche/zhan/qinan.htm)| 14:13| 14:15| 2分| -  
+15| [兰州西](/huoche/zhan/lanzhouxi.htm)| 15:23| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

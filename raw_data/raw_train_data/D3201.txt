@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海虹桥开往厦门北的D3201动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D3201 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 上海虹桥  
+发车时间 | 08:20  
+到站时间 | 16:26  
+全程时间 | 8小时6分  
+终点站 | 厦门北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| \----| 08:20| 0分| -  
+2| [松江南](/huoche/zhan/songjiangnan.htm)| 08:34| 08:39| 5分| -  
+3| [嘉兴南](/huoche/zhan/jiaxingnan.htm)| 08:58| 09:01| 3分| -  
+4| [杭州东](/huoche/zhan/hangzhoudong.htm)| 09:28| 09:31| 3分| -  
+5| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 09:50| 09:52| 2分| -  
+6| [绍兴东](/huoche/zhan/shaoxingdong.htm)| 10:04| 10:06| 2分| -  
+7| [庄桥](/huoche/zhan/zhuangqiao.htm)| 10:28| 10:30| 2分| -  
+8| [宁波](/huoche/zhan/ningbo.htm)| 10:41| 10:47| 6分| -  
+9| [临海](/huoche/zhan/linhai.htm)| 11:33| 11:35| 2分| -  
+10| [温岭](/huoche/zhan/wenling.htm)| 11:54| 11:56| 2分| -  
+11| [温州南](/huoche/zhan/wenzhounan.htm)| 12:31| 12:33| 2分| -  
+12| [瑞安](/huoche/zhan/ruian.htm)| 12:44| 12:46| 2分| -  
+13| [鳌江](/huoche/zhan/aojiang.htm)| 12:56| 12:58| 2分| -  
+14| [苍南](/huoche/zhan/cangnan.htm)| 13:09| 13:11| 2分| -  
+15| [霞浦](/huoche/zhan/xiapu.htm)| 13:43| 13:45| 2分| -  
+16| [连江](/huoche/zhan/lianjiang3.htm)| 14:24| 14:26| 2分| -  
+17| [福州南](/huoche/zhan/fuzhounan.htm)| 14:46| 14:50| 4分| -  
+18| [莆田](/huoche/zhan/putian.htm)| 15:20| 15:33| 13分| -  
+19| [泉州](/huoche/zhan/quanzhou2.htm)| 15:58| 16:00| 2分| -  
+20| [厦门北](/huoche/zhan/xiamenbei.htm)| 16:26| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

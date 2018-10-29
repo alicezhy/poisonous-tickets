@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从重庆北开往西安北的D1968动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D1968 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 重庆北  
+发车时间 | 08:41  
+到站时间 | 13:52  
+全程时间 | 5小时11分  
+终点站 | 西安北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [重庆北](/huoche/zhan/chongqingbei.htm)| -| 08:41| 0分| -  
+2| [合川](/huoche/zhan/hechuan.htm)| 09:06| 09:08| 2分| -  
+3| [武胜](/huoche/zhan/wusheng.htm)| 09:34| 09:36| 2分| -  
+4| [阆中](/huoche/zhan/langzhong.htm)| 10:36| 10:39| 3分| -  
+5| [广元](/huoche/zhan/guangyuan.htm)| 11:28| 11:32| 4分| -  
+6| [汉中](/huoche/zhan/hanzhong.htm)| 12:15| 12:19| 4分| -  
+7| [城固北](/huoche/zhan/chenggubei.htm)| 12:31| 12:34| 3分| -  
+8| [鄠邑](/huoche/zhan/huyi.htm)| 13:24| 13:34| 10分| -  
+9| [西安北](/huoche/zhan/xianbei.htm)| 13:52| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

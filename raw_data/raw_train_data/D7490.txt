@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从湛江西开往广州南的D7490动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D7490 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 湛江西  
+发车时间 | 11:56  
+到站时间 | 15:08  
+全程时间 | 3小时12分  
+终点站 | 广州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [湛江西](/huoche/zhan/zhanjiangxi.htm)| -| 11:56| 0分| -  
+2| [茂名](/huoche/zhan/maoming2.htm)| 12:28| 12:30| 2分| -  
+3| [马踏](/huoche/zhan/mata.htm)| 12:51| 12:53| 2分| -  
+4| [阳江](/huoche/zhan/yangjiang.htm)| 13:19| 13:21| 2分| -  
+5| [开平南](/huoche/zhan/kaipingnan.htm)| 13:54| 13:56| 2分| -  
+6| [台山](/huoche/zhan/taishan2.htm)| 14:05| 14:07| 2分| -  
+7| [新会](/huoche/zhan/xinhui.htm)| 14:29| 14:31| 2分| -  
+8| [小榄](/huoche/zhan/xiaolan.htm)| 14:45| 14:47| 2分| -  
+9| [广州南](/huoche/zhan/guangzhounan.htm)| 15:08| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

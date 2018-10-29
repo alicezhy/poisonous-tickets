@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南宁开往重庆西的D1794动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D1794 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 南宁  
+发车时间 | 13:20  
+到站时间 | 21:31  
+全程时间 | 8小时11分  
+终点站 | 重庆西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南宁](/huoche/zhan/nanning.htm)| -| 13:20| 0分| -  
+2| [南宁东](/huoche/zhan/nanningdong.htm)| 13:31| 13:35| 4分| -  
+3| [来宾北](/huoche/zhan/laibinbei.htm)| 14:17| 14:20| 3分| -  
+4| [柳州](/huoche/zhan/liuzhou.htm)| 14:46| 14:52| 6分| -  
+5| [永福南](/huoche/zhan/yongfunan.htm)| 15:38| 15:40| 2分| -  
+6| [桂林北](/huoche/zhan/guilinbei.htm)| 16:10| 16:20| 10分| -  
+7| [三江南](/huoche/zhan/sanjiangnan.htm)| 16:57| 16:59| 2分| -  
+8| [三都县](/huoche/zhan/sanduxian.htm)| 17:58| 18:00| 2分| -  
+9| [龙洞堡](/huoche/zhan/longdongbao.htm)| 18:40| 18:42| 2分| -  
+10| [贵阳东](/huoche/zhan/guiyangdong.htm)| 18:53| 19:01| 8分| -  
+11| [遵义南](/huoche/zhan/zunyinan.htm)| 19:41| 19:43| 2分| -  
+12| [娄山关南](/huoche/zhan/loushanguannan.htm)| 20:06| 20:08| 2分| -  
+13| [赶水东](/huoche/zhan/ganshuidong.htm)| 20:44| 20:47| 3分| -  
+14| [綦江东](/huoche/zhan/qijiangdong.htm)| 21:01| 21:04| 3分| -  
+15| [重庆西](/huoche/zhan/chongqingxi.htm)| 21:31| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

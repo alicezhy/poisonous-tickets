@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从青岛北开往哈尔滨西的G1248高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1248 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 青岛北  
+发车时间 | 08:12  
+到站时间 | 19:07  
+全程时间 | 10小时55分  
+终点站 | 哈尔滨西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [青岛北](/huoche/zhan/qingdaobei.htm)| \----| 08:12| 0分| -  
+2| [高密](/huoche/zhan/gaomi.htm)| 08:44| 08:46| 2分| -  
+3| [潍坊](/huoche/zhan/weifang.htm)| 09:13| 09:18| 5分| -  
+4| [淄博](/huoche/zhan/zibo.htm)| 09:53| 09:59| 6分| -  
+5| [济南](/huoche/zhan/jinan.htm)| 10:46| 10:48| 2分| -  
+6| [济南西](/huoche/zhan/jinanxi.htm)| 11:04| 11:12| 8分| -  
+7| [沧州西](/huoche/zhan/cangzhouxi.htm)| 11:57| 11:59| 2分| -  
+8| [天津西](/huoche/zhan/tianjinxi.htm)| 12:29| 12:35| 6分| -  
+9| [天津](/huoche/zhan/tianjin.htm)| 12:43| 12:45| 2分| -  
+10| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 13:49| 13:51| 2分| -  
+11| [山海关](/huoche/zhan/shanhaiguan.htm)| 14:05| 14:15| 10分| -  
+12| [绥中北](/huoche/zhan/suizhongbei.htm)| 14:39| 14:40| 1分| -  
+13| [葫芦岛北](/huoche/zhan/huludaobei.htm)| 15:01| 15:03| 2分| -  
+14| [盘锦北](/huoche/zhan/panjinbei.htm)| 15:40| 15:41| 1分| -  
+15| [沈阳北](/huoche/zhan/shenyangbei.htm)| 16:40| 16:42| 2分| -  
+16| [开原西](/huoche/zhan/kaiyuanxi.htm)| 17:10| 17:11| 1分| -  
+17| [四平东](/huoche/zhan/sipingdong.htm)| 17:32| 17:34| 2分| -  
+18| [长春西](/huoche/zhan/changchunxi.htm)| 18:01| 18:03| 2分| -  
+19| [德惠西](/huoche/zhan/dehuixi.htm)| 18:27| 18:28| 1分| -  
+20| [哈尔滨西](/huoche/zhan/haerbinxi.htm)| 19:07| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

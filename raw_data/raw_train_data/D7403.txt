@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从饶平开往深圳北的D7403动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D7403 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 饶平  
+发车时间 | 13:30  
+到站时间 | 16:04  
+全程时间 | 2小时34分  
+终点站 | 深圳北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [饶平](/huoche/zhan/raoping.htm)| -| 13:30| 0分| -  
+2| [潮汕](/huoche/zhan/chaoshan.htm)| 13:47| 13:50| 3分| -  
+3| [普宁](/huoche/zhan/puning.htm)| 14:15| 14:17| 2分| -  
+4| [陆丰](/huoche/zhan/lufeng2.htm)| 14:41| 14:43| 2分| -  
+5| [惠州南](/huoche/zhan/huizhounan.htm)| 15:30| 15:32| 2分| -  
+6| [深圳北](/huoche/zhan/shenzhenbei.htm)| 16:04| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

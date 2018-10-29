@@ -1,0 +1,64 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从成都开往上海南的K352快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K352 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 成都  
+发车时间 | 23:51  
+到站时间 | 12:35  
+全程时间 | 36小时44分  
+终点站 | 上海南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [成都](/huoche/zhan/chengdu.htm)| -| 23:51| 0分| -  
+2| [遂宁](/huoche/zhan/suining.htm)| 01:24| 01:29| 5分| -  
+3| [南充](/huoche/zhan/nanchong.htm)| 02:12| 02:22| 10分| -  
+4| [营山](/huoche/zhan/yingshan2.htm)| 02:58| 03:04| 6分| -  
+5| [达州](/huoche/zhan/dazhou.htm)| 04:16| 04:24| 8分| -  
+6| [宣汉](/huoche/zhan/xuanhan.htm)| 05:04| 05:06| 2分| -  
+7| [万源](/huoche/zhan/wanyuan.htm)| 06:02| 06:04| 2分| -  
+8| [紫阳](/huoche/zhan/ziyang2.htm)| 06:55| 06:59| 4分| -  
+9| [安康](/huoche/zhan/ankang.htm)| 07:36| 07:48| 12分| -  
+10| [旬阳](/huoche/zhan/xunyang.htm)| 08:28| 08:30| 2分| -  
+11| [白河县](/huoche/zhan/baihexian.htm)| 09:34| 09:37| 3分| -  
+12| [十堰](/huoche/zhan/shiyan.htm)| 10:40| 10:43| 3分| -  
+13| [武当山](/huoche/zhan/wudangshan.htm)| 11:01| 11:04| 3分| -  
+14| [谷城](/huoche/zhan/gucheng.htm)| 11:55| 12:08| 13分| -  
+15| [襄阳东](/huoche/zhan/xiangyangdong.htm)| 13:14| 13:35| 21分| -  
+16| [随州](/huoche/zhan/suizhou.htm)| 15:37| 15:41| 4分| -  
+17| [安陆](/huoche/zhan/anlu.htm)| 16:45| 16:47| 2分| -  
+18| [武昌](/huoche/zhan/wuchang.htm)| 19:05| 19:43| 38分| -  
+19| [鄂州](/huoche/zhan/ezhou.htm)| 20:43| 20:46| 3分| -  
+20| [黄石](/huoche/zhan/huangshi.htm)| 21:08| 21:11| 3分| -  
+21| [阳新](/huoche/zhan/yangxin.htm)| 21:39| 21:42| 3分| -  
+22| [南昌](/huoche/zhan/nanchang.htm)| 23:47| 23:55| 8分| -  
+23| [上饶](/huoche/zhan/shangrao.htm)| 03:11| 03:17| 6分| -  
+24| [衢州](/huoche/zhan/quzhou.htm)| 06:46| 06:49| 3分| -  
+25| [义乌](/huoche/zhan/yiwu.htm)| 08:27| 08:33| 6分| -  
+26| [杭州东](/huoche/zhan/hangzhoudong.htm)| 10:01| 10:07| 6分| -  
+27| [海宁](/huoche/zhan/haining.htm)| 10:43| 10:46| 3分| -  
+28| [嘉兴](/huoche/zhan/jiaxing.htm)| 11:06| 11:09| 3分| -  
+29| [松江](/huoche/zhan/songjiang.htm)| 11:50| 12:02| 12分| -  
+30| [上海南](/huoche/zhan/shanghainan.htm)| 12:35| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

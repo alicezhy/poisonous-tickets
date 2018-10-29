@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从茂名西开往桂林北的5506普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 5506 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 茂名西  
+发车时间 | 09:35  
+到站时间 | 20:21  
+全程时间 | 10小时46分  
+终点站 | 桂林北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [茂名西](/huoche/zhan/maomingxi.htm)| -| 09:35| 0分| -  
+2| [化州](/huoche/zhan/huazhou.htm)| 09:57| 10:00| 3分| -  
+4| [文地](/huoche/zhan/wendi.htm)| 11:07| 11:10| 3分| -  
+5| [陆川](/huoche/zhan/luchuan.htm)| 11:40| 11:43| 3分| -  
+6| [玉林](/huoche/zhan/yulin.htm)| 12:16| 12:34| 18分| -  
+7| [兴业](/huoche/zhan/xingye.htm)| 12:59| 13:02| 3分| -  
+8| [贵港](/huoche/zhan/guigang.htm)| 13:41| 13:46| 5分| -  
+9| [黎塘](/huoche/zhan/litang.htm)| 14:35| 14:55| 20分| -  
+10| [来宾](/huoche/zhan/laibin.htm)| 15:49| 15:53| 4分| -  
+11| [柳州](/huoche/zhan/liuzhou.htm)| 17:06| 17:13| 7分| -  
+12| [鹿寨](/huoche/zhan/luzhai.htm)| 17:50| 17:53| 3分| -  
+13| [桂林](/huoche/zhan/guilin.htm)| 20:04| 20:09| 5分| -  
+14| [桂林北](/huoche/zhan/guilinbei.htm)| 20:21| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

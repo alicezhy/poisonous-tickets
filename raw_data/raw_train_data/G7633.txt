@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从丽水开往合肥南的G7633高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7633 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 丽水  
+发车时间 | 08:08  
+到站时间 | 12:13  
+全程时间 | 4小时5分  
+终点站 | 合肥南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [丽水](/huoche/zhan/lishui.htm)| -| 08:08| 0分| -  
+2| [永康南](/huoche/zhan/yongkangnan.htm)| 08:27| 08:29| 2分| -  
+3| [武义北](/huoche/zhan/wuyibei.htm)| 08:40| 08:42| 2分| -  
+4| [金华南](/huoche/zhan/jinhuanan.htm)| 08:53| 08:56| 3分| -  
+5| [义乌](/huoche/zhan/yiwu.htm)| 09:15| 09:17| 2分| -  
+6| [杭州东](/huoche/zhan/hangzhoudong.htm)| 09:50| 09:55| 5分| -  
+7| [德清](/huoche/zhan/deqing.htm)| 10:08| 10:10| 2分| -  
+8| [湖州](/huoche/zhan/huzhou.htm)| 10:23| 10:25| 2分| -  
+9| [宜兴](/huoche/zhan/yixing.htm)| 10:42| 10:44| 2分| -  
+10| [南京南](/huoche/zhan/nanjingnan.htm)| 11:17| 11:21| 4分| -  
+11| [合肥南](/huoche/zhan/hefeinan.htm)| 12:13| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从深圳北开往漯河西的G554高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G554 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 深圳北  
+发车时间 | 13:29  
+到站时间 | 21:27  
+全程时间 | 7小时58分  
+终点站 | 漯河西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [深圳北](/huoche/zhan/shenzhenbei.htm)| \----| 13:29| 0分| -  
+2| [虎门](/huoche/zhan/humen.htm)| 13:46| 13:48| 2分| -  
+3| [广州南](/huoche/zhan/guangzhounan.htm)| 14:05| 14:08| 3分| -  
+4| [郴州西](/huoche/zhan/chenzhouxi.htm)| 15:25| 15:27| 2分| -  
+5| [衡阳东](/huoche/zhan/hengyangdong.htm)| 16:00| 16:02| 2分| -  
+6| [株洲西](/huoche/zhan/zhuzhouxi.htm)| 16:29| 16:31| 2分| -  
+7| [长沙南](/huoche/zhan/changshanan.htm)| 16:49| 16:54| 5分| -  
+8| [汨罗东](/huoche/zhan/miluodong.htm)| 17:12| 17:22| 10分| -  
+9| [岳阳东](/huoche/zhan/yueyangdong.htm)| 17:43| 17:49| 6分| -  
+10| [赤壁北](/huoche/zhan/chibibei.htm)| 18:11| 18:13| 2分| -  
+11| [咸宁北](/huoche/zhan/xianningbei.htm)| 18:26| 18:49| 23分| -  
+12| [武汉](/huoche/zhan/wuhan.htm)| 19:15| 19:43| 28分| -  
+13| [孝感北](/huoche/zhan/xiaoganbei.htm)| 20:13| 20:15| 2分| -  
+14| [信阳东](/huoche/zhan/xinyangdong.htm)| 20:33| 20:35| 2分| -  
+15| [明港东](/huoche/zhan/mingangdong.htm)| 20:48| 20:50| 2分| -  
+16| [驻马店西](/huoche/zhan/zhumadianxi.htm)| 21:07| 21:09| 2分| -  
+17| [漯河西](/huoche/zhan/luohexi.htm)| 21:27| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

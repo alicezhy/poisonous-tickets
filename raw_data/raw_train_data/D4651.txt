@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从宁波开往武夷山东的D4651动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D4651 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 宁波  
+发车时间 | 15:06  
+到站时间 | 20:28  
+全程时间 | 5小时22分  
+终点站 | 武夷山东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [宁波](/huoche/zhan/ningbo.htm)| -| 15:06| 0分| -  
+2| [奉化](/huoche/zhan/fenghua.htm)| 15:23| 15:25| 2分| -  
+3| [台州](/huoche/zhan/taizhou2.htm)| 16:06| 16:08| 2分| -  
+4| [温州南](/huoche/zhan/wenzhounan.htm)| 16:52| 16:55| 3分| -  
+5| [瑞安](/huoche/zhan/ruian.htm)| 17:06| 17:08| 2分| -  
+6| [福鼎](/huoche/zhan/fuding.htm)| 17:39| 17:41| 2分| -  
+7| [福安](/huoche/zhan/fuan.htm)| 18:10| 18:13| 3分| -  
+8| [福州](/huoche/zhan/fuzhou.htm)| 19:04| 19:15| 11分| -  
+9| [南平北](/huoche/zhan/nanpingbei.htm)| 19:54| 19:56| 2分| -  
+10| [武夷山东](/huoche/zhan/wuyishandong.htm)| 20:28| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

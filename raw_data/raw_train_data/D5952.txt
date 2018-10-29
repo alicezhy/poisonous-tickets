@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从大冶北开往宜昌东的D5952动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D5952 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 大冶北  
+发车时间 | 07:42  
+到站时间 | 10:55  
+全程时间 | 3小时13分  
+终点站 | 宜昌东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [大冶北](/huoche/zhan/dayebei.htm)| -| 07:42| 0分| -  
+2| [黄石北](/huoche/zhan/huangshibei.htm)| 07:49| 07:51| 2分| -  
+3| [鄂州](/huoche/zhan/ezhou.htm)| 08:02| 08:04| 2分| -  
+4| [武汉](/huoche/zhan/wuhan.htm)| 08:27| 08:31| 4分| -  
+5| [汉口](/huoche/zhan/hankou.htm)| 08:50| 08:54| 4分| -  
+6| [天门南](/huoche/zhan/tianmennan.htm)| 09:29| 09:31| 2分| -  
+7| [潜江](/huoche/zhan/qianjiang2.htm)| 09:51| 09:53| 2分| -  
+8| [荆州](/huoche/zhan/jingzhou2.htm)| 10:19| 10:21| 2分| -  
+9| [宜昌东](/huoche/zhan/yichangdong.htm)| 10:55| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

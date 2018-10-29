@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从武威南开往兰州的7506普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 7506 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 武威南  
+发车时间 | 10:50  
+到站时间 | 16:37  
+全程时间 | 5小时47分  
+终点站 | 兰州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [武威南](/huoche/zhan/wuweinan.htm)| -| 10:50| 0分| -  
+2| [黄羊镇](/huoche/zhan/huangyangzhen.htm)| 11:15| 11:29| 14分| -  
+3| [古浪](/huoche/zhan/gulang.htm)| 11:49| 11:56| 7分| -  
+4| [龙沟](/huoche/zhan/longgou.htm)| 12:27| 12:29| 2分| -  
+5| [打柴沟](/huoche/zhan/dachaigou.htm)| 12:52| 12:55| 3分| -  
+6| [天祝](/huoche/zhan/tianzhu2.htm)| 13:11| 13:27| 16分| -  
+7| [永登](/huoche/zhan/yongdeng.htm)| 14:35| 14:38| 3分| -  
+8| [龙泉寺](/huoche/zhan/longquansi.htm)| 15:06| 15:07| 1分| -  
+9| [河口南](/huoche/zhan/hekounan.htm)| 15:39| 15:42| 3分| -  
+10| [坡底下](/huoche/zhan/podixia.htm)| 15:50| 15:51| 1分| -  
+11| [西固城](/huoche/zhan/xigucheng.htm)| 16:02| 16:03| 1分| -  
+12| [陈官营](/huoche/zhan/chenguanying.htm)| 16:10| 16:11| 1分| -  
+13| [兰州西](/huoche/zhan/lanzhouxi.htm)| 16:21| 16:27| 6分| -  
+14| [兰州](/huoche/zhan/lanzhou.htm)| 16:37| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

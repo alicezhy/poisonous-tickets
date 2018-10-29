@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从重庆北开往北京西的T10特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | T10 |  
+---|---|---|---  
+车型 | 特快火车  
+始发站 | 重庆北  
+发车时间 | 10:42  
+到站时间 | 11:12  
+全程时间 | 24小时30分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [重庆北](/huoche/zhan/chongqingbei.htm)| \----| 10:42| 0分| -  
+2| [广安](/huoche/zhan/guangan.htm)| 11:59| 12:06| 7分| -  
+3| [渠县](/huoche/zhan/quxian.htm)| 12:33| 12:41| 8分| -  
+4| [达州](/huoche/zhan/dazhou.htm)| 13:27| 13:35| 8分| -  
+5| [万源](/huoche/zhan/wanyuan.htm)| 15:06| 15:08| 2分| -  
+6| [安康](/huoche/zhan/ankang.htm)| 16:33| 16:40| 7分| -  
+7| [十堰](/huoche/zhan/shiyan.htm)| 19:20| 19:25| 5分| -  
+8| [襄阳](/huoche/zhan/xiangyang2.htm)| 21:33| 21:53| 20分| -  
+9| [郑州](/huoche/zhan/zhengzhou.htm)| 04:10| 04:31| 21分| -  
+10| [邢台](/huoche/zhan/xingtai.htm)| 07:17| 07:22| 5分| -  
+11| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 08:25| 08:31| 6分| -  
+12| [北京西](/huoche/zhan/beijingxi.htm)| 11:12| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

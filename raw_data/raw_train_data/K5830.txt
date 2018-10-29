@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海开往徐州的K5830快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K5830 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 上海  
+发车时间 | 22:03  
+到站时间 | 08:13  
+全程时间 | 10小时10分  
+终点站 | 徐州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海](/huoche/zhan/shanghai.htm)| \----| 22:03| 0分| -  
+2| [苏州](/huoche/zhan/suzhou.htm)| 23:13| 23:17| 4分| -  
+3| [无锡](/huoche/zhan/wuxi.htm)| 23:45| 23:50| 5分| -  
+4| [南京](/huoche/zhan/nanjing.htm)| 02:58| 03:17| 19分| -  
+5| [滁州北](/huoche/zhan/chuzhoubei.htm)| 04:02| 04:06| 4分| -  
+6| [蚌埠](/huoche/zhan/bengbu.htm)| 05:53| 06:06| 13分| -  
+7| [宿州](/huoche/zhan/suzhou2.htm)| 07:18| 07:22| 4分| -  
+8| [徐州](/huoche/zhan/xuzhou.htm)| 08:13| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南京南开往厦门北的G1675高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1675 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 南京南  
+发车时间 | 13:16  
+到站时间 | 20:51  
+全程时间 | 7小时35分  
+终点站 | 厦门北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南京南](/huoche/zhan/nanjingnan.htm)| -| 13:16| 0分| -  
+2| [溧水](/huoche/zhan/lishui2.htm)| 13:32| 13:34| 2分| -  
+3| [溧阳](/huoche/zhan/liyang.htm)| 13:49| 13:55| 6分| -  
+4| [宜兴](/huoche/zhan/yixing.htm)| 14:07| 14:09| 2分| -  
+5| [长兴](/huoche/zhan/changxing.htm)| 14:23| 14:28| 5分| -  
+6| [湖州](/huoche/zhan/huzhou.htm)| 14:38| 14:40| 2分| -  
+7| [德清](/huoche/zhan/deqing.htm)| 14:53| 14:59| 6分| -  
+8| [杭州东](/huoche/zhan/hangzhoudong.htm)| 15:14| 15:17| 3分| -  
+9| [义乌](/huoche/zhan/yiwu.htm)| 15:50| 15:56| 6分| -  
+10| [金华](/huoche/zhan/jinhua.htm)| 16:13| 16:15| 2分| -  
+11| [衢州](/huoche/zhan/quzhou.htm)| 16:37| 16:39| 2分| -  
+12| [上饶](/huoche/zhan/shangrao.htm)| 17:10| 17:15| 5分| -  
+13| [武夷山东](/huoche/zhan/wuyishandong.htm)| 17:44| 17:46| 2分| -  
+14| [南平北](/huoche/zhan/nanpingbei.htm)| 18:13| 18:16| 3分| -  
+15| [福州](/huoche/zhan/fuzhou.htm)| 18:53| 19:05| 12分| -  
+16| [福清](/huoche/zhan/fuqing.htm)| 19:32| 19:34| 2分| -  
+17| [莆田](/huoche/zhan/putian.htm)| 19:53| 19:55| 2分| -  
+18| [泉州](/huoche/zhan/quanzhou2.htm)| 20:20| 20:25| 5分| -  
+19| [厦门北](/huoche/zhan/xiamenbei.htm)| 20:51| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

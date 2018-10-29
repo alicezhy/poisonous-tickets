@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从呼和浩特东开往乌兰浩特的1819普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 1819 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 呼和浩特东  
+发车时间 | 18:16  
+到站时间 | 17:01  
+全程时间 | 22小时45分  
+终点站 | 乌兰浩特  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [呼和浩特东](/huoche/zhan/huhehaotedong.htm)| -| 18:16| 0分| -  
+2| [集宁南](/huoche/zhan/jiningnan.htm)| 20:09| 20:24| 15分| -  
+3| [商都](/huoche/zhan/shangdu.htm)| 21:33| 21:35| 2分| -  
+4| [化德](/huoche/zhan/huade.htm)| 22:21| 22:23| 2分| -  
+5| [正镶白旗](/huoche/zhan/zhengxiangbaiqi.htm)| 23:41| 23:47| 6分| -  
+6| [桑根达来](/huoche/zhan/sanggendalai.htm)| 00:56| 01:02| 6分| -  
+7| [林西](/huoche/zhan/linxi.htm)| 05:02| 05:13| 11分| -  
+8| [大板](/huoche/zhan/daban2.htm)| 06:37| 06:52| 15分| -  
+9| [林东](/huoche/zhan/lindong.htm)| 08:04| 08:06| 2分| -  
+10| [查布嘎](/huoche/zhan/chabuga.htm)| 08:56| 08:58| 2分| -  
+11| [开鲁](/huoche/zhan/kailu.htm)| 10:19| 10:21| 2分| -  
+12| [通辽](/huoche/zhan/tongliao.htm)| 11:43| 11:58| 15分| -  
+13| [宝龙山](/huoche/zhan/baolongshan.htm)| 12:48| 12:51| 3分| -  
+14| [开通](/huoche/zhan/kaitong.htm)| 14:14| 14:17| 3分| -  
+15| [白城](/huoche/zhan/baicheng.htm)| 15:35| 15:50| 15分| -  
+16| [平台](/huoche/zhan/pingtai.htm)| 16:10| 16:12| 2分| -  
+17| [镇西](/huoche/zhan/zhenxi.htm)| 16:29| 16:31| 2分| -  
+18| [乌兰浩特](/huoche/zhan/wulanhaote.htm)| 17:01| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

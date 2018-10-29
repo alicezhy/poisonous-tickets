@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南昌西开往徐州东的G1666高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1666 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 南昌西  
+发车时间 | 14:00  
+到站时间 | 20:22  
+全程时间 | 6小时22分  
+终点站 | 徐州东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南昌西](/huoche/zhan/nanchangxi.htm)| \----| 14:00| 0分| -  
+2| [鹰潭北](/huoche/zhan/yingtanbei.htm)| 14:34| 14:37| 3分| -  
+3| [上饶](/huoche/zhan/shangrao.htm)| 15:03| 15:05| 2分| -  
+4| [金华](/huoche/zhan/jinhua.htm)| 15:49| 15:51| 2分| -  
+5| [义乌](/huoche/zhan/yiwu.htm)| 16:07| 16:11| 4分| -  
+6| [杭州东](/huoche/zhan/hangzhoudong.htm)| 16:45| 16:55| 10分| -  
+7| [湖州](/huoche/zhan/huzhou.htm)| 17:16| 17:19| 3分| -  
+8| [宜兴](/huoche/zhan/yixing.htm)| 17:38| 17:40| 2分| -  
+9| [溧水](/huoche/zhan/lishui2.htm)| 18:02| 18:04| 2分| -  
+10| [南京南](/huoche/zhan/nanjingnan.htm)| 18:20| 18:25| 5分| -  
+11| [定远](/huoche/zhan/dingyuan.htm)| 18:56| 19:03| 7分| -  
+12| [蚌埠南](/huoche/zhan/bengbunan.htm)| 19:19| 19:34| 15分| -  
+13| [宿州东](/huoche/zhan/suzhoudong.htm)| 19:57| 20:02| 5分| -  
+14| [徐州东](/huoche/zhan/xuzhoudong.htm)| 20:22| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

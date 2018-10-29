@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从长春开往白城的Z5001直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z5001 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 长春  
+发车时间 | 07:10  
+到站时间 | 10:50  
+全程时间 | 3小时40分  
+终点站 | 白城  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [长春](/huoche/zhan/changchun.htm)| \----| 07:10| 0分| -  
+2| [华家](/huoche/zhan/huajia2.htm)| 07:47| 07:49| 2分| -  
+3| [农安](/huoche/zhan/nongan.htm)| 08:00| 08:02| 2分| -  
+4| [哈拉海](/huoche/zhan/halahai.htm)| 08:18| 08:20| 2分| -  
+5| [松原](/huoche/zhan/songyuan.htm)| 08:49| 08:53| 4分| -  
+6| [长山屯](/huoche/zhan/changshantun.htm)| 09:14| 09:16| 2分| -  
+7| [大安](/huoche/zhan/daan.htm)| 09:30| 09:36| 6分| -  
+8| [两家](/huoche/zhan/liangjia2.htm)| 09:52| 09:54| 2分| -  
+9| [安广](/huoche/zhan/anguang.htm)| 10:04| 10:06| 2分| -  
+10| [白城](/huoche/zhan/baicheng.htm)| 10:50| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

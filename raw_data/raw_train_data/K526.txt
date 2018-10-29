@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从福州开往南京的K526快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K526 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 福州  
+发车时间 | 12:08  
+到站时间 | 08:09  
+全程时间 | 20小时1分  
+终点站 | 南京  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [福州](/huoche/zhan/fuzhou.htm)| \----| 12:08| 0分| -  
+2| [南平南](/huoche/zhan/nanpingnan.htm)| 14:48| 15:10| 22分| -  
+3| [建瓯](/huoche/zhan/jianou.htm)| 16:02| 16:06| 4分| -  
+4| [建阳](/huoche/zhan/jianyang.htm)| 16:54| 16:58| 4分| -  
+5| [武夷山](/huoche/zhan/wuyishan.htm)| 17:44| 17:50| 6分| -  
+6| [上饶](/huoche/zhan/shangrao.htm)| 20:40| 20:46| 6分| -  
+7| [玉山](/huoche/zhan/yushan.htm)| 21:07| 21:10| 3分| -  
+8| [衢州](/huoche/zhan/quzhou.htm)| 22:10| 22:13| 3分| -  
+9| [义乌](/huoche/zhan/yiwu.htm)| 23:59| 00:02| 3分| -  
+10| [诸暨](/huoche/zhan/zhuji.htm)| 00:34| 00:42| 8分| -  
+11| [杭州东](/huoche/zhan/hangzhoudong.htm)| 02:05| 02:11| 6分| -  
+12| [嘉兴](/huoche/zhan/jiaxing.htm)| 03:01| 03:04| 3分| -  
+13| [上海南](/huoche/zhan/shanghainan.htm)| 03:58| 04:14| 16分| -  
+14| [苏州](/huoche/zhan/suzhou.htm)| 05:31| 05:35| 4分| -  
+15| [南京](/huoche/zhan/nanjing.htm)| 08:09| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

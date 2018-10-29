@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从大连北开往武汉的G2628高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G2628 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 大连北  
+发车时间 | 08:13  
+到站时间 | 19:14  
+全程时间 | 11小时1分  
+终点站 | 武汉  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [大连北](/huoche/zhan/dalianbei.htm)| -| 08:13| 0分| -  
+2| [鲅鱼圈](/huoche/zhan/bayuquan.htm)| 08:53| 08:55| 2分| -  
+3| [营口东](/huoche/zhan/yingkoudong.htm)| 09:13| 09:22| 9分| -  
+4| [盘锦](/huoche/zhan/panjin.htm)| 09:49| 09:51| 2分| -  
+5| [锦州南](/huoche/zhan/jinzhounan.htm)| 10:25| 10:27| 2分| -  
+6| [山海关](/huoche/zhan/shanhaiguan.htm)| 11:23| 11:26| 3分| -  
+7| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 11:40| 11:45| 5分| -  
+8| [唐山](/huoche/zhan/tangshan.htm)| 12:23| 12:25| 2分| -  
+9| [天津西](/huoche/zhan/tianjinxi.htm)| 13:00| 13:04| 4分| -  
+10| [胜芳](/huoche/zhan/shengfang.htm)| 13:22| 13:25| 3分| -  
+11| [霸州西](/huoche/zhan/bazhouxi.htm)| 13:41| 13:45| 4分| -  
+12| [保定东](/huoche/zhan/baodingdong.htm)| 14:13| 14:16| 3分| -  
+13| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 14:52| 14:54| 2分| -  
+14| [高邑西](/huoche/zhan/gaoyixi.htm)| 15:09| 15:16| 7分| -  
+15| [邯郸东](/huoche/zhan/handandong.htm)| 15:45| 15:48| 3分| -  
+16| [鹤壁东](/huoche/zhan/hebidong.htm)| 16:15| 16:17| 2分| -  
+17| [新乡东](/huoche/zhan/xinxiangdong.htm)| 16:33| 16:35| 2分| -  
+18| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 16:56| 17:00| 4分| -  
+19| [许昌东](/huoche/zhan/xuchangdong.htm)| 17:22| 17:24| 2分| -  
+20| [漯河西](/huoche/zhan/luohexi.htm)| 17:40| 17:42| 2分| -  
+21| [驻马店西](/huoche/zhan/zhumadianxi.htm)| 18:00| 18:02| 2分| -  
+22| [信阳东](/huoche/zhan/xinyangdong.htm)| 18:27| 18:29| 2分| -  
+23| [武汉](/huoche/zhan/wuhan.htm)| 19:14| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

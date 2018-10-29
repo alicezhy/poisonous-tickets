@@ -1,0 +1,41 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京开往衡水的K7773快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7773 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 北京  
+发车时间 | 09:46  
+到站时间 | 13:18  
+全程时间 | 3小时32分  
+终点站 | 衡水  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京](/huoche/zhan/beijing.htm)| -| 09:46| 0分| -  
+2| [黄村](/huoche/zhan/huangcun.htm)| 10:19| 10:21| 2分| -  
+3| [霸州](/huoche/zhan/bazhou.htm)| 11:03| 11:05| 2分| -  
+4| [任丘](/huoche/zhan/renqiu.htm)| 11:42| 11:44| 2分| -  
+5| [肃宁](/huoche/zhan/suning.htm)| 12:11| 12:13| 2分| -  
+6| [深州](/huoche/zhan/shenzhou.htm)| 12:45| 12:47| 2分| -  
+7| [衡水](/huoche/zhan/hengshui.htm)| 13:18| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

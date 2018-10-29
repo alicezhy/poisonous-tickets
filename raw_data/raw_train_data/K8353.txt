@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从杭州开往连云港东的K8353快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K8353 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 杭州  
+发车时间 | 17:52  
+到站时间 | 10:00  
+全程时间 | 16小时8分  
+终点站 | 连云港东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [杭州](/huoche/zhan/hangzhou.htm)| \----| 17:52| 0分| -  
+2| [海宁](/huoche/zhan/haining.htm)| 18:31| 18:34| 3分| -  
+3| [嘉兴](/huoche/zhan/jiaxing.htm)| 18:54| 18:57| 3分| -  
+4| [嘉善](/huoche/zhan/jiashan.htm)| 19:10| 19:13| 3分| -  
+5| [上海南](/huoche/zhan/shanghainan.htm)| 19:57| 20:30| 33分| -  
+6| [昆山](/huoche/zhan/kunshan.htm)| 22:13| 22:28| 15分| -  
+7| [苏州](/huoche/zhan/suzhou.htm)| 22:52| 22:56| 4分| -  
+8| [常州](/huoche/zhan/changzhou.htm)| 23:56| 23:59| 3分| -  
+9| [丹阳](/huoche/zhan/danyang.htm)| 00:26| 00:29| 3分| -  
+10| [南京](/huoche/zhan/nanjing.htm)| 01:31| 01:40| 9分| -  
+11| [蚌埠](/huoche/zhan/bengbu.htm)| 04:17| 04:21| 4分| -  
+12| [宿州](/huoche/zhan/suzhou2.htm)| 05:33| 05:48| 15分| -  
+13| [徐州](/huoche/zhan/xuzhou.htm)| 06:39| 06:50| 11分| -  
+14| [邳州](/huoche/zhan/pizhou.htm)| 07:39| 07:48| 9分| -  
+15| [新沂](/huoche/zhan/xinyi.htm)| 08:17| 08:22| 5分| -  
+16| [东海县](/huoche/zhan/donghaixian.htm)| 08:52| 08:57| 5分| -  
+17| [连云港东](/huoche/zhan/lianyungangdong.htm)| 10:00| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

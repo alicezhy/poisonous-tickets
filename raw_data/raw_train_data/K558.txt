@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从延安开往上海的K558快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K558 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 延安  
+发车时间 | 13:25  
+到站时间 | 13:48  
+全程时间 | 24小时23分  
+终点站 | 上海  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [延安](/huoche/zhan/yanan.htm)| \----| 13:25| 0分| -  
+2| [富县东](/huoche/zhan/fuxiandong.htm)| 14:07| 14:09| 2分| -  
+3| [西安](/huoche/zhan/xian.htm)| 16:53| 17:14| 21分| -  
+4| [渭南](/huoche/zhan/weinan.htm)| 17:54| 17:57| 3分| -  
+5| [灵宝](/huoche/zhan/lingbao.htm)| 20:01| 20:10| 9分| -  
+6| [三门峡](/huoche/zhan/sanmenxia2.htm)| 20:51| 20:54| 3分| -  
+7| [洛阳](/huoche/zhan/luoyang.htm)| 22:36| 22:41| 5分| -  
+8| [郑州](/huoche/zhan/zhengzhou.htm)| 00:12| 00:27| 15分| -  
+9| [商丘](/huoche/zhan/shangqiu.htm)| 02:34| 02:39| 5分| -  
+10| [徐州](/huoche/zhan/xuzhou.htm)| 04:39| 04:45| 6分| -  
+11| [蚌埠](/huoche/zhan/bengbu.htm)| 06:29| 06:34| 5分| -  
+12| [明光](/huoche/zhan/mingguang.htm)| 07:12| 07:23| 11分| -  
+13| [南京](/huoche/zhan/nanjing.htm)| 09:16| 09:24| 8分| -  
+14| [镇江](/huoche/zhan/zhenjiang.htm)| 10:04| 10:14| 10分| -  
+15| [苏州](/huoche/zhan/suzhou.htm)| 12:40| 12:44| 4分| -  
+16| [上海](/huoche/zhan/shanghai.htm)| 13:48| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从苏州开往重庆北的T236特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | T236 |  
+---|---|---|---  
+车型 | 特快火车  
+始发站 | 苏州  
+发车时间 | 11:47  
+到站时间 | 16:00  
+全程时间 | 28小时13分  
+终点站 | 重庆北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [苏州](/huoche/zhan/suzhou.htm)| \----| 11:47| 0分| -  
+2| [无锡](/huoche/zhan/wuxi.htm)| 12:12| 12:16| 4分| -  
+3| [南京](/huoche/zhan/nanjing.htm)| 13:57| 14:09| 12分| -  
+4| [马鞍山](/huoche/zhan/maanshan.htm)| 15:34| 15:40| 6分| -  
+5| [芜湖](/huoche/zhan/wuhu.htm)| 16:19| 16:49| 30分| -  
+6| [巢湖](/huoche/zhan/chaohu.htm)| 17:49| 17:54| 5分| -  
+7| [合肥](/huoche/zhan/hefei.htm)| 18:47| 19:02| 15分| -  
+8| [固始](/huoche/zhan/gushi.htm)| 21:08| 21:11| 3分| -  
+9| [商城](/huoche/zhan/shangcheng.htm)| 21:27| 21:30| 3分| -  
+10| [潢川](/huoche/zhan/huangchuan.htm)| 21:56| 22:00| 4分| -  
+12| [襄阳](/huoche/zhan/xiangyang2.htm)| 03:13| 03:36| 23分| -  
+13| [安康](/huoche/zhan/ankang.htm)| 08:40| 08:49| 9分| -  
+14| [宣汉](/huoche/zhan/xuanhan.htm)| 11:33| 11:36| 3分| -  
+15| [达州](/huoche/zhan/dazhou.htm)| 12:28| 12:35| 7分| -  
+16| [渠县](/huoche/zhan/quxian.htm)| 13:29| 13:45| 16分| -  
+17| [广安](/huoche/zhan/guangan.htm)| 14:15| 14:21| 6分| -  
+18| [重庆北](/huoche/zhan/chongqingbei.htm)| 16:00| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从大连开往沈阳的K7381快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7381 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 大连  
+发车时间 | 13:17  
+到站时间 | 19:02  
+全程时间 | 5小时45分  
+终点站 | 沈阳  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [大连](/huoche/zhan/dalian.htm)| \----| 13:17| 0分| -  
+2| [金州](/huoche/zhan/jinzhou3.htm)| 13:42| 13:45| 3分| -  
+3| [普兰店](/huoche/zhan/pulandian.htm)| 14:17| 14:20| 3分| -  
+4| [瓦房店](/huoche/zhan/wafangdian.htm)| 14:40| 14:43| 3分| -  
+5| [熊岳城](/huoche/zhan/xiongyuecheng.htm)| 15:32| 15:35| 3分| -  
+6| [大石桥](/huoche/zhan/dashiqiao.htm)| 16:18| 16:21| 3分| -  
+7| [海城](/huoche/zhan/haicheng.htm)| 16:46| 16:48| 2分| -  
+8| [鞍山](/huoche/zhan/anshan.htm)| 17:14| 17:17| 3分| -  
+9| [灵山](/huoche/zhan/LingShan.htm)| 17:28| 17:30| 2分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从西安开往深圳的K1350快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1350 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 西安  
+发车时间 | 14:37  
+到站时间 | 20:26  
+全程时间 | 29小时49分  
+终点站 | 深圳  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [西安](/huoche/zhan/xian.htm)| -| 14:37| 0分| -  
+2| [渭南](/huoche/zhan/weinan.htm)| 15:16| 15:18| 2分| -  
+3| [潼关](/huoche/zhan/tongguan2.htm)| 16:25| 16:28| 3分| -  
+4| [三门峡](/huoche/zhan/sanmenxia2.htm)| 18:09| 18:12| 3分| -  
+5| [新安县](/huoche/zhan/xinanxian.htm)| 19:36| 19:39| 3分| -  
+6| [洛阳](/huoche/zhan/luoyang.htm)| 20:03| 20:09| 6分| -  
+7| [郑州](/huoche/zhan/zhengzhou.htm)| 22:09| 22:27| 18分| -  
+8| [许昌](/huoche/zhan/xuchang.htm)| 23:22| 23:35| 13分| -  
+9| [武昌](/huoche/zhan/wuchang.htm)| 05:17| 05:30| 13分| -  
+10| [岳阳](/huoche/zhan/yueyang.htm)| 07:50| 07:55| 5分| -  
+11| [长沙](/huoche/zhan/changsha.htm)| 09:22| 09:37| 15分| -  
+12| [株洲](/huoche/zhan/zhuzhou.htm)| 10:16| 10:22| 6分| -  
+13| [衡阳](/huoche/zhan/hengyang.htm)| 11:45| 12:01| 16分| -  
+14| [郴州](/huoche/zhan/chenzhou.htm)| 13:42| 13:47| 5分| -  
+15| [韶关东](/huoche/zhan/shaoguandong.htm)| 15:26| 15:32| 6分| -  
+16| [广州](/huoche/zhan/guangzhou.htm)| 18:02| 18:22| 20分| -  
+17| [东莞](/huoche/zhan/dongguan2.htm)| 19:16| 19:24| 8分| -  
+18| [深圳](/huoche/zhan/shenzhen.htm)| 20:26| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

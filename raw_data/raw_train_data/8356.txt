@@ -1,0 +1,39 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从阎良开往西安的8356普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 8356 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 阎良  
+发车时间 | 10:08  
+到站时间 | 12:35  
+全程时间 | 2小时27分  
+终点站 | 西安  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [阎良](/huoche/zhan/yanliang.htm)| 10:07| 10:08| 0分| -  
+2| [三原](/huoche/zhan/sanyuan2.htm)| 10:42| 10:43| 1分| -  
+3| [永乐店](/huoche/zhan/yongledian.htm)| 10:53| 10:54| 1分| -  
+4| [咸阳](/huoche/zhan/xianyang.htm)| 11:47| 12:10| 23分| -  
+5| [西安](/huoche/zhan/xian.htm)| 12:35| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

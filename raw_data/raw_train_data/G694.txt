@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从太原南开往武汉的G694高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G694 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 太原南  
+发车时间 | 16:37  
+到站时间 | 22:29  
+全程时间 | 5小时52分  
+终点站 | 武汉  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [太原南](/huoche/zhan/taiyuannan.htm)| -| 16:37| 0分| -  
+2| [阳泉北](/huoche/zhan/yangquanbei.htm)| 17:23| 17:25| 2分| -  
+3| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 18:05| 18:30| 25分| -  
+4| [邯郸东](/huoche/zhan/handandong.htm)| 19:09| 19:11| 2分| -  
+5| [安阳东](/huoche/zhan/anyangdong.htm)| 19:28| 19:30| 2分| -  
+6| [鹤壁东](/huoche/zhan/hebidong.htm)| 19:45| 19:47| 2分| -  
+7| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 20:19| 20:22| 3分| -  
+8| [驻马店西](/huoche/zhan/zhumadianxi.htm)| 21:09| 21:11| 2分| -  
+9| [信阳东](/huoche/zhan/xinyangdong.htm)| 21:36| 21:38| 2分| -  
+10| [孝感北](/huoche/zhan/xiaoganbei.htm)| 21:56| 21:58| 2分| -  
+11| [武汉](/huoche/zhan/wuhan.htm)| 22:29| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

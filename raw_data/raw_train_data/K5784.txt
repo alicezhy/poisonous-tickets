@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从江山开往上海南的K5784快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K5784 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 江山  
+发车时间 | 07:20  
+到站时间 | 14:48  
+全程时间 | 7小时28分  
+终点站 | 上海南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [江山](/huoche/zhan/jiangshan.htm)| \----| 07:20| 0分| -  
+2| [衢州](/huoche/zhan/quzhou.htm)| 07:39| 07:44| 5分| -  
+3| [义乌](/huoche/zhan/yiwu.htm)| 09:28| 09:32| 4分| -  
+4| [诸暨](/huoche/zhan/zhuji.htm)| 09:58| 10:03| 5分| -  
+5| [杭州](/huoche/zhan/hangzhou.htm)| 11:08| 11:22| 14分| -  
+6| [嘉兴](/huoche/zhan/jiaxing.htm)| 12:16| 12:19| 3分| -  
+7| [嘉善](/huoche/zhan/jiashan.htm)| 12:53| 12:57| 4分| -  
+8| [松江](/huoche/zhan/songjiang.htm)| 13:27| 13:38| 11分| -  
+9| [上海南](/huoche/zhan/shanghainan.htm)| 14:48| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

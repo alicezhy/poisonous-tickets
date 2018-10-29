@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从青岛开往福州的K67快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K67 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 青岛  
+发车时间 | 06:01  
+到站时间 | 09:38  
+全程时间 | 27小时37分  
+终点站 | 福州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [青岛](/huoche/zhan/qingdao.htm)| \----| 06:01| 0分| -  
+2| [蓝村](/huoche/zhan/lancun.htm)| 06:45| 07:13| 28分| -  
+3| [胶州](/huoche/zhan/jiaozhou.htm)| 07:29| 07:36| 7分| -  
+4| [潍坊](/huoche/zhan/weifang.htm)| 08:44| 08:51| 7分| -  
+5| [淄博](/huoche/zhan/zibo.htm)| 09:55| 10:07| 12分| -  
+6| [济南](/huoche/zhan/jinan.htm)| 11:21| 11:31| 10分| -  
+8| [泰山](/huoche/zhan/taishan.htm)| 12:24| 12:30| 6分| -  
+9| [兖州](/huoche/zhan/yanzhou.htm)| 13:28| 13:33| 5分| -  
+10| [邹城](/huoche/zhan/zoucheng.htm)| 13:48| 13:50| 2分| -  
+11| [滕州](/huoche/zhan/tengzhou.htm)| 14:16| 14:19| 3分| -  
+12| [枣庄西](/huoche/zhan/zaozhuangxi.htm)| 14:41| 14:44| 3分| -  
+13| [徐州](/huoche/zhan/xuzhou.htm)| 15:43| 15:55| 12分| -  
+15| [淮北](/huoche/zhan/huaibei.htm)| 16:49| 16:54| 5分| -  
+17| [涡阳](/huoche/zhan/guoyang.htm)| 18:03| 18:11| 8分| -  
+18| [阜阳](/huoche/zhan/fuyang.htm)| 19:57| 20:14| 17分| -  
+19| [潢川](/huoche/zhan/huangchuan.htm)| 21:34| 21:37| 3分| -  
+20| [麻城](/huoche/zhan/macheng.htm)| 22:56| 23:05| 9分| -  
+21| [蕲春](/huoche/zhan/qinchun.htm)| 00:26| 00:39| 13分| -  
+22| [九江](/huoche/zhan/jiujiang.htm)| 01:46| 01:52| 6分| -  
+24| [三明北](/huoche/zhan/sanmingbei.htm)| 07:23| 07:27| 4分| -  
+25| [福州](/huoche/zhan/fuzhou.htm)| 09:38| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,39 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从霍尔果斯开往乌鲁木齐的Y952普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Y952 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 霍尔果斯  
+发车时间 | 23:02  
+到站时间 | 07:20  
+全程时间 | 8小时18分  
+终点站 | 乌鲁木齐  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [霍尔果斯](/huoche/zhan/huoerguosi.htm)| -| 23:02| 0分| -  
+2| [伊宁](/huoche/zhan/yining.htm)| 23:52| 23:58| 6分| -  
+3| [奎屯](/huoche/zhan/kuitun.htm)| 04:41| 04:53| 12分| -  
+4| [石河子](/huoche/zhan/shihezi.htm)| 05:50| 05:52| 2分| -  
+5| [乌鲁木齐](/huoche/zhan/wulumuqi.htm)| 07:20| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

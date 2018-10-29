@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从贵阳开往西安的K1034快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1034 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 贵阳  
+发车时间 | 17:03  
+到站时间 | 09:49  
+全程时间 | 16小时46分  
+终点站 | 西安  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [贵阳](/huoche/zhan/guiyang.htm)| -| 17:03| 0分| -  
+2| [遵义](/huoche/zhan/zunyi.htm)| 19:32| 19:59| 27分| -  
+3| [重庆西](/huoche/zhan/chongqingxi.htm)| 22:37| 23:19| 42分| -  
+4| [渠县](/huoche/zhan/quxian.htm)| 01:34| 01:41| 7分| -  
+5| [达州](/huoche/zhan/dazhou.htm)| 02:26| 02:37| 11分| -  
+6| [万源](/huoche/zhan/wanyuan.htm)| 04:10| 04:12| 2分| -  
+7| [紫阳](/huoche/zhan/ziyang2.htm)| 05:03| 05:05| 2分| -  
+8| [安康](/huoche/zhan/ankang.htm)| 05:42| 06:00| 18分| -  
+9| [旬阳北](/huoche/zhan/xunyangbei.htm)| 06:43| 06:46| 3分| -  
+10| [小河镇](/huoche/zhan/xiaohezhen.htm)| 07:10| 07:12| 2分| -  
+11| [镇安](/huoche/zhan/zhenan.htm)| 07:38| 07:40| 2分| -  
+12| [西安南](/huoche/zhan/xiannan.htm)| 08:48| 08:51| 3分| -  
+13| [西安](/huoche/zhan/xian.htm)| 09:49| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

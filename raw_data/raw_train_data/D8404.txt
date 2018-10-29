@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北海开往桂林的D8404动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D8404 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 北海  
+发车时间 | 09:29  
+到站时间 | 14:39  
+全程时间 | 5小时10分  
+终点站 | 桂林  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北海](/huoche/zhan/beihai.htm)| -| 09:29| 0分| -  
+2| [合浦](/huoche/zhan/hepu.htm)| 09:42| 09:44| 2分| -  
+3| [钦州东](/huoche/zhan/qinzhoudong.htm)| 10:10| 10:12| 2分| -  
+4| [南宁](/huoche/zhan/nanning.htm)| 11:14| 11:40| 26分| -  
+5| [南宁东](/huoche/zhan/nanningdong.htm)| 11:51| 11:55| 4分| -  
+6| [宾阳](/huoche/zhan/binyang.htm)| 12:21| 12:23| 2分| -  
+7| [来宾北](/huoche/zhan/laibinbei.htm)| 12:43| 12:45| 2分| -  
+8| [柳州](/huoche/zhan/liuzhou.htm)| 13:11| 13:17| 6分| -  
+9| [鹿寨北](/huoche/zhan/luzhaibei.htm)| 13:45| 13:50| 5分| -  
+10| [永福南](/huoche/zhan/yongfunan.htm)| 14:13| 14:16| 3分| -  
+11| [桂林](/huoche/zhan/guilin.htm)| 14:39| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

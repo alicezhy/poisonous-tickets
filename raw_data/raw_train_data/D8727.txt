@@ -1,0 +1,41 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从昆明南开往大理的D8727动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D8727 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 昆明南  
+发车时间 | 16:47  
+到站时间 | 19:33  
+全程时间 | 2小时46分  
+终点站 | 大理  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [昆明南](/huoche/zhan/kunmingnan.htm)| -| 16:47| 0分| -  
+2| [昆明](/huoche/zhan/kunming.htm)| 17:05| 17:12| 7分| -  
+4| [禄丰南](/huoche/zhan/lufengnan.htm)| 17:49| 17:52| 3分| -  
+5| [广通北](/huoche/zhan/guangtongbei.htm)| 18:08| 18:10| 2分| -  
+6| [楚雄](/huoche/zhan/chuxiong.htm)| 18:24| 18:26| 2分| -  
+7| [祥云](/huoche/zhan/xiangyun.htm)| 19:07| 19:09| 2分| -  
+8| [大理](/huoche/zhan/dali2.htm)| 19:33| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

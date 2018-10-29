@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从徐州东开往贵阳北的G1533高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1533 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 徐州东  
+发车时间 | 09:02  
+到站时间 | 19:36  
+全程时间 | 10小时34分  
+终点站 | 贵阳北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [徐州东](/huoche/zhan/xuzhoudong.htm)| -| 09:02| 0分| -  
+2| [永城北](/huoche/zhan/yongchengbei.htm)| 09:28| 09:30| 2分| -  
+3| [商丘](/huoche/zhan/shangqiu.htm)| 09:53| 09:55| 2分| -  
+4| [民权北](/huoche/zhan/minquanbei.htm)| 10:11| 10:13| 2分| -  
+5| [兰考南](/huoche/zhan/lankaonan.htm)| 10:26| 10:33| 7分| -  
+6| [开封北](/huoche/zhan/kaifengbei.htm)| 10:49| 10:51| 2分| -  
+7| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 11:12| 11:39| 27分| -  
+8| [许昌东](/huoche/zhan/xuchangdong.htm)| 12:03| 12:05| 2分| -  
+9| [漯河西](/huoche/zhan/luohexi.htm)| 12:21| 12:37| 16分| -  
+10| [信阳东](/huoche/zhan/xinyangdong.htm)| 13:15| 13:17| 2分| -  
+11| [武汉](/huoche/zhan/wuhan.htm)| 14:03| 14:13| 10分| -  
+12| [咸宁北](/huoche/zhan/xianningbei.htm)| 14:37| 14:51| 14分| -  
+13| [岳阳东](/huoche/zhan/yueyangdong.htm)| 15:21| 15:23| 2分| -  
+14| [长沙南](/huoche/zhan/changshanan.htm)| 15:59| 16:03| 4分| -  
+15| [邵阳北](/huoche/zhan/shaoyangbei.htm)| 16:49| 16:51| 2分| -  
+16| [怀化南](/huoche/zhan/huaihuanan.htm)| 17:32| 17:35| 3分| -  
+17| [芷江](/huoche/zhan/zhijiang2.htm)| 17:47| 17:49| 2分| -  
+18| [铜仁南](/huoche/zhan/tongrennan.htm)| 18:10| 18:12| 2分| -  
+19| [凯里南](/huoche/zhan/kailinan.htm)| 18:48| 18:50| 2分| -  
+20| [贵定北](/huoche/zhan/guidingbei.htm)| 19:13| 19:15| 2分| -  
+21| [贵阳北](/huoche/zhan/guiyangbei.htm)| 19:36| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

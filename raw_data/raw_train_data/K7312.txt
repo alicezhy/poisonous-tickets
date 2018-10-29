@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从舒兰开往长春的K7312快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7312 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 舒兰  
+发车时间 | 05:42  
+到站时间 | 10:28  
+全程时间 | 4小时46分  
+终点站 | 长春  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [舒兰](/huoche/zhan/shulan.htm)| -| 05:42| 0分| -  
+2| [谢家镇](/huoche/zhan/xiejiazheng.htm)| 06:11| 06:13| 2分| -  
+3| [新立镇](/huoche/zhan/xinlizheng.htm)| 06:33| 06:35| 2分| -  
+4| [榆树](/huoche/zhan/yushu.htm)| 07:03| 07:08| 5分| -  
+5| [刘家店](/huoche/zhan/liujiadian.htm)| 07:34| 07:36| 2分| -  
+6| [五棵树](/huoche/zhan/wukeshu.htm)| 07:53| 07:55| 2分| -  
+7| [陶赖昭](/huoche/zhan/taolaizhao.htm)| 08:24| 08:26| 2分| -  
+8| [姚家](/huoche/zhan/yaojia.htm)| 08:35| 08:37| 2分| -  
+9| [达家沟](/huoche/zhan/dajiagou.htm)| 08:49| 08:51| 2分| -  
+10| [德惠](/huoche/zhan/dehui.htm)| 09:03| 09:06| 3分| -  
+11| [布海](/huoche/zhan/buhai.htm)| 09:19| 09:29| 10分| -  
+12| [沃皮](/huoche/zhan/wopi.htm)| 09:43| 09:45| 2分| -  
+13| [米沙子](/huoche/zhan/mishazi.htm)| 09:54| 09:56| 2分| -  
+14| [长春](/huoche/zhan/changchun.htm)| 10:28| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

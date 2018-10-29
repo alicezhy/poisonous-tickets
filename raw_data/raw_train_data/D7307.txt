@@ -1,0 +1,41 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从海口东开往三亚的D7307动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D7307 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 海口东  
+发车时间 | 07:40  
+到站时间 | 09:25  
+全程时间 | 1小时45分  
+终点站 | 三亚  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [海口东](/huoche/zhan/haikoudong.htm)| \----| 07:40| 0分| -  
+2| [美兰](/huoche/zhan/meilan.htm)| 07:47| 07:49| 2分| -  
+3| [文昌](/huoche/zhan/wenchang.htm)| 08:06| 08:07| 1分| -  
+4| [琼海](/huoche/zhan/qionghai.htm)| 08:23| 08:24| 1分| -  
+5| [万宁](/huoche/zhan/wangning.htm)| 08:42| 08:43| 1分| -  
+6| [陵水](/huoche/zhan/lingshui.htm)| 08:59| 09:00| 1分| -  
+7| [三亚](/huoche/zhan/sanya.htm)| 09:25| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

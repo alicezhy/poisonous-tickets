@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从深圳开往苏州的K34快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K34 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 深圳  
+发车时间 | 12:17  
+到站时间 | 17:05  
+全程时间 | 28小时48分  
+终点站 | 苏州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [深圳](/huoche/zhan/shenzhen.htm)| -| 12:17| 0分| -  
+3| [东莞东](/huoche/zhan/dongguandong.htm)| 13:04| 13:08| 4分| -  
+4| [惠州](/huoche/zhan/huizhou.htm)| 13:51| 13:55| 4分| -  
+5| [河源](/huoche/zhan/heyuan.htm)| 14:48| 14:52| 4分| -  
+6| [龙川](/huoche/zhan/longchuan.htm)| 15:49| 15:52| 3分| -  
+7| [和平](/huoche/zhan/heping.htm)| 16:41| 16:48| 7分| -  
+8| [定南](/huoche/zhan/dingnan.htm)| 17:20| 17:33| 13分| -  
+9| [龙南](/huoche/zhan/longnan.htm)| 17:53| 17:56| 3分| -  
+10| [赣州](/huoche/zhan/ganzhou.htm)| 19:17| 19:23| 6分| -  
+11| [吉安](/huoche/zhan/jian6.htm)| 21:22| 21:26| 4分| -  
+14| [鹰潭](/huoche/zhan/yingtan.htm)| 00:48| 01:05| 17分| -  
+17| [景德镇](/huoche/zhan/jingdezhen.htm)| 03:50| 03:56| 6分| -  
+18| [祁门](/huoche/zhan/qimen.htm)| 06:15| 06:21| 6分| -  
+19| [黄山](/huoche/zhan/huangshan.htm)| 07:29| 07:34| 5分| -  
+20| [绩溪县](/huoche/zhan/jixixian.htm)| 08:32| 08:43| 11分| -  
+21| [宣城](/huoche/zhan/xuancheng.htm)| 10:52| 10:57| 5分| -  
+22| [芜湖](/huoche/zhan/wuhu.htm)| 11:59| 12:05| 6分| -  
+23| [马鞍山](/huoche/zhan/maanshan.htm)| 12:48| 12:51| 3分| -  
+24| [南京](/huoche/zhan/nanjing.htm)| 14:03| 14:24| 21分| -  
+27| [苏州](/huoche/zhan/suzhou.htm)| 17:05| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

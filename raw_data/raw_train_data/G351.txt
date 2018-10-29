@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京南开往黄山北的G351高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G351 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 北京南  
+发车时间 | 15:30  
+到站时间 | 22:10  
+全程时间 | 6小时40分  
+终点站 | 黄山北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京南](/huoche/zhan/beijingnan.htm)| \----| 15:30| 0分| -  
+2| [沧州西](/huoche/zhan/cangzhouxi.htm)| 16:21| 16:23| 2分| -  
+3| [德州东](/huoche/zhan/dezhoudong.htm)| 16:50| 16:52| 2分| -  
+4| [济南西](/huoche/zhan/jinanxi.htm)| 17:16| 17:18| 2分| -  
+5| [泰安](/huoche/zhan/taian2.htm)| 17:35| 17:40| 5分| -  
+6| [曲阜东](/huoche/zhan/qufudong.htm)| 18:00| 18:02| 2分| -  
+7| [徐州东](/huoche/zhan/xuzhoudong.htm)| 18:38| 18:41| 3分| -  
+8| [蚌埠南](/huoche/zhan/bengbunan.htm)| 19:18| 19:20| 2分| -  
+9| [合肥南](/huoche/zhan/hefeinan.htm)| 20:09| 20:29| 20分| -  
+10| [巢湖东](/huoche/zhan/chaohudong.htm)| 20:50| 20:52| 2分| -  
+11| [铜陵北](/huoche/zhan/tonglingbei.htm)| 21:12| 21:14| 2分| -  
+12| [南陵](/huoche/zhan/naling.htm)| 21:26| 21:28| 2分| -  
+13| [绩溪北](/huoche/zhan/jixibei.htm)| 21:53| 21:55| 2分| -  
+14| [黄山北](/huoche/zhan/huangshanbei.htm)| 22:10| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

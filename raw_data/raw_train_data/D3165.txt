@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从杭州东开往龙岩的D3165动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D3165 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 杭州东  
+发车时间 | 12:09  
+到站时间 | 20:38  
+全程时间 | 8小时29分  
+终点站 | 龙岩  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [杭州东](/huoche/zhan/hangzhoudong.htm)| \----| 12:09| 0分| -  
+2| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 12:29| 12:31| 2分| -  
+3| [余姚北](/huoche/zhan/yuyaobei.htm)| 12:50| 12:52| 2分| -  
+4| [宁波](/huoche/zhan/ningbo.htm)| 13:13| 13:17| 4分| -  
+5| [三门县](/huoche/zhan/sanmenxian.htm)| 13:56| 13:58| 2分| -  
+6| [台州](/huoche/zhan/taizhou2.htm)| 14:17| 14:19| 2分| -  
+7| [绅坊](/huoche/zhan/shenfang2.htm)| 14:44| 14:46| 2分| -  
+8| [温州南](/huoche/zhan/wenzhounan.htm)| 15:09| 15:12| 3分| -  
+9| [霞浦](/huoche/zhan/xiapu.htm)| 16:03| 16:05| 2分| -  
+10| [福安](/huoche/zhan/fuan.htm)| 16:18| 16:20| 2分| -  
+11| [罗源](/huoche/zhan/luoyuan.htm)| 16:40| 16:42| 2分| -  
+12| [连江](/huoche/zhan/lianjiang3.htm)| 16:56| 16:58| 2分| -  
+13| [福州南](/huoche/zhan/fuzhounan.htm)| 17:17| 17:23| 6分| -  
+14| [莆田](/huoche/zhan/putian.htm)| 17:53| 17:55| 2分| -  
+15| [泉州](/huoche/zhan/quanzhou2.htm)| 18:20| 18:22| 2分| -  
+16| [厦门北](/huoche/zhan/xiamenbei.htm)| 18:48| 19:02| 14分| -  
+17| [角美](/huoche/zhan/jiaomei.htm)| 19:15| 19:36| 21分| -  
+18| [漳州](/huoche/zhan/zhangzhou.htm)| 19:47| 19:49| 2分| -  
+19| [南靖](/huoche/zhan/nanjing2.htm)| 20:04| 20:06| 2分| -  
+20| [龙岩](/huoche/zhan/longyan.htm)| 20:38| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

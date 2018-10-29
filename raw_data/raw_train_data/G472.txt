@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从烟台开往北京南的G472高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G472 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 烟台  
+发车时间 | 06:43  
+到站时间 | 12:38  
+全程时间 | 5小时55分  
+终点站 | 北京南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [烟台](/huoche/zhan/yantai.htm)| -| 06:43| 0分| -  
+2| [莱阳](/huoche/zhan/laiyang.htm)| 07:27| 07:29| 2分| -  
+3| [莱西北](/huoche/zhan/laixibei.htm)| 07:40| 07:42| 2分| -  
+4| [即墨北](/huoche/zhan/jimobei.htm)| 08:02| 08:09| 7分| -  
+5| [潍坊](/huoche/zhan/weifang.htm)| 09:01| 09:06| 5分| -  
+6| [青州市](/huoche/zhan/qingzhoushi.htm)| 09:27| 09:29| 2分| -  
+7| [淄博](/huoche/zhan/zibo.htm)| 09:47| 09:49| 2分| -  
+8| [济南](/huoche/zhan/jinan.htm)| 10:36| 10:38| 2分| -  
+9| [济南西](/huoche/zhan/jinanxi.htm)| 10:55| 11:05| 10分| -  
+12| [北京南](/huoche/zhan/beijingnan.htm)| 12:38| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

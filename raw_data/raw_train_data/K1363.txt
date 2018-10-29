@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京西开往成都的K1363快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1363 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 北京西  
+发车时间 | 22:06  
+到站时间 | 07:46  
+全程时间 | 33小时40分  
+终点站 | 成都  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京西](/huoche/zhan/beijingxi.htm)| -| 22:06| 0分| -  
+2| [保定](/huoche/zhan/baoding.htm)| 23:36| 23:40| 4分| -  
+3| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 01:06| 01:12| 6分| -  
+4| [邯郸](/huoche/zhan/handan.htm)| 02:51| 02:55| 4分| -  
+5| [新乡](/huoche/zhan/xinxiang2.htm)| 04:42| 04:52| 10分| -  
+6| [洛阳](/huoche/zhan/luoyang.htm)| 07:44| 08:02| 18分| -  
+7| [西安南](/huoche/zhan/xiannan.htm)| 13:08| 13:15| 7分| -  
+8| [安康](/huoche/zhan/ankang.htm)| 16:15| 17:04| 49分| -  
+9| [汉中](/huoche/zhan/hanzhong.htm)| 21:49| 21:51| 2分| -  
+10| [广元](/huoche/zhan/guangyuan.htm)| 02:11| 02:35| 24分| -  
+11| [江油](/huoche/zhan/jiangyou.htm)| 05:12| 05:17| 5分| -  
+12| [绵阳](/huoche/zhan/mianyang.htm)| 05:54| 06:00| 6分| -  
+13| [德阳](/huoche/zhan/deyang.htm)| 06:42| 06:47| 5分| -  
+14| [成都](/huoche/zhan/chengdu.htm)| 07:46| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

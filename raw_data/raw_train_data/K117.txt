@@ -1,0 +1,63 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京西开往攀枝花的K117快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K117 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 北京西  
+发车时间 | 11:36  
+到站时间 | 04:52  
+全程时间 | 41小时16分  
+终点站 | 攀枝花  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京西](/huoche/zhan/beijingxi.htm)| 00:00| 11:36| 0分| -  
+2| [涿州](/huoche/zhan/zhuozhou.htm)| 12:21| 12:31| 10分| -  
+3| [保定](/huoche/zhan/baoding.htm)| 13:20| 13:24| 4分| -  
+4| [定州](/huoche/zhan/dingzhou.htm)| 14:01| 14:04| 3分| -  
+5| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 15:18| 15:28| 10分| -  
+6| [高邑](/huoche/zhan/gaoyi.htm)| 15:57| 16:08| 11分| -  
+7| [临城](/huoche/zhan/lincheng.htm)| 16:19| 16:21| 2分| -  
+8| [邢台](/huoche/zhan/xingtai.htm)| 16:50| 16:54| 4分| -  
+9| [安阳](/huoche/zhan/anyang.htm)| 18:23| 18:26| 3分| -  
+10| [鹤壁](/huoche/zhan/hebi2.htm)| 18:55| 18:57| 2分| -  
+11| [新乡](/huoche/zhan/xinxiang2.htm)| 19:37| 19:47| 10分| -  
+12| [郑州](/huoche/zhan/zhengzhou.htm)| 20:44| 21:00| 16分| -  
+13| [巩义](/huoche/zhan/gongyi.htm)| 22:00| 22:02| 2分| -  
+14| [平顶山西](/huoche/zhan/pingdingshanxi.htm)| 00:18| 00:22| 4分| -  
+15| [鲁山](/huoche/zhan/lushan2.htm)| 00:42| 00:45| 3分| -  
+16| [南阳](/huoche/zhan/nanyang.htm)| 02:01| 02:05| 4分| -  
+17| [襄阳](/huoche/zhan/xiangyang2.htm)| 04:05| 04:28| 23分| -  
+18| [安康](/huoche/zhan/ankang.htm)| 08:33| 08:43| 10分| -  
+19| [宣汉](/huoche/zhan/xuanhan.htm)| 11:27| 11:30| 3分| -  
+20| [达州](/huoche/zhan/dazhou.htm)| 12:14| 12:20| 6分| -  
+21| [南充](/huoche/zhan/nanchong.htm)| 13:57| 14:00| 3分| -  
+22| [成都](/huoche/zhan/chengdu.htm)| 17:02| 17:28| 26分| -  
+23| [眉山](/huoche/zhan/meishan.htm)| 18:42| 18:45| 3分| -  
+24| [峨眉](/huoche/zhan/emei.htm)| 19:26| 19:29| 3分| -  
+25| [普雄](/huoche/zhan/puxiong.htm)| 23:20| 23:28| 8分| -  
+26| [冕宁](/huoche/zhan/mianning.htm)| 01:18| 01:23| 5分| -  
+27| [西昌](/huoche/zhan/xichang.htm)| 02:01| 02:07| 6分| -  
+28| [米易](/huoche/zhan/miyi.htm)| 03:58| 04:02| 4分| -  
+29| [攀枝花](/huoche/zhan/panzhihua.htm)| 04:52| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

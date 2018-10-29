@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从石家庄开往深圳北的G531高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G531 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 石家庄  
+发车时间 | 09:15  
+到站时间 | 18:25  
+全程时间 | 9小时10分  
+终点站 | 深圳北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [石家庄](/huoche/zhan/shijiazhuang2.htm)| \----| 09:15| 0分| -  
+2| [邢台东](/huoche/zhan/xingtaidong.htm)| 09:42| 09:49| 7分| -  
+3| [安阳东](/huoche/zhan/anyangdong.htm)| 10:20| 10:22| 2分| -  
+4| [新乡东](/huoche/zhan/xinxiangdong.htm)| 10:47| 10:49| 2分| -  
+5| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 11:11| 11:14| 3分| -  
+6| [驻马店西](/huoche/zhan/zhumadianxi.htm)| 12:02| 12:04| 2分| -  
+7| [信阳东](/huoche/zhan/xinyangdong.htm)| 12:29| 12:40| 11分| -  
+8| [孝感北](/huoche/zhan/xiaoganbei.htm)| 12:58| 13:00| 2分| -  
+9| [武汉](/huoche/zhan/wuhan.htm)| 13:31| 13:36| 5分| -  
+10| [咸宁北](/huoche/zhan/xianningbei.htm)| 14:00| 14:02| 2分| -  
+11| [长沙南](/huoche/zhan/changshanan.htm)| 15:01| 15:05| 4分| -  
+12| [郴州西](/huoche/zhan/chenzhouxi.htm)| 16:10| 16:12| 2分| -  
+13| [清远](/huoche/zhan/qingyuan2.htm)| 17:09| 17:14| 5分| -  
+14| [广州北](/huoche/zhan/guangzhoubei.htm)| 17:27| 17:29| 2分| -  
+15| [广州南](/huoche/zhan/guangzhounan.htm)| 17:51| 17:56| 5分| -  
+16| [深圳北](/huoche/zhan/shenzhenbei.htm)| 18:25| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

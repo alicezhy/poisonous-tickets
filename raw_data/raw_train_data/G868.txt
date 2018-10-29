@@ -1,0 +1,62 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从温州南开往西安北的G868高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G868 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 温州南  
+发车时间 | 09:22  
+到站时间 | 23:16  
+全程时间 | 13小时54分  
+终点站 | 西安北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [温州南](/huoche/zhan/wenzhounan.htm)| \----| 09:22| 0分| -  
+2| [青田](/huoche/zhan/qingtian.htm)| 09:41| 09:43| 2分| -  
+3| [丽水](/huoche/zhan/lishui.htm)| 10:02| 10:05| 3分| -  
+4| [永康南](/huoche/zhan/yongkangnan.htm)| 10:26| 10:28| 2分| -  
+5| [金华南](/huoche/zhan/jinhuanan.htm)| 10:46| 10:48| 2分| -  
+6| [金华](/huoche/zhan/jinhua.htm)| 11:01| 11:05| 4分| -  
+7| [龙游](/huoche/zhan/longyou.htm)| 11:20| 11:27| 7分| -  
+8| [衢州](/huoche/zhan/quzhou.htm)| 11:38| 11:44| 6分| -  
+9| [玉山南](/huoche/zhan/yushannan.htm)| 12:08| 12:17| 9分| -  
+10| [上饶](/huoche/zhan/shangrao.htm)| 12:32| 12:49| 17分| -  
+11| [婺源](/huoche/zhan/wuyuan2.htm)| 13:13| 13:17| 4分| -  
+12| [景德镇北](/huoche/zhan/jingdezhenbei.htm)| 13:45| 13:49| 4分| -  
+13| [鄱阳](/huoche/zhan/poyang.htm)| 14:07| 14:09| 2分| -  
+14| [都昌](/huoche/zhan/duchang.htm)| 14:30| 14:32| 2分| -  
+15| [九江](/huoche/zhan/jiujiang.htm)| 15:03| 15:07| 4分| -  
+16| [阳新](/huoche/zhan/yangxin.htm)| 15:42| 15:44| 2分| -  
+17| [大冶北](/huoche/zhan/dayebei.htm)| 15:59| 16:02| 3分| -  
+18| [黄石北](/huoche/zhan/huangshibei.htm)| 16:09| 16:36| 27分| -  
+19| [鄂州](/huoche/zhan/ezhou.htm)| 16:50| 17:03| 13分| -  
+20| [武汉](/huoche/zhan/wuhan.htm)| 17:28| 17:33| 5分| -  
+21| [孝感北](/huoche/zhan/xiaoganbei.htm)| 18:03| 18:37| 34分| -  
+22| [信阳东](/huoche/zhan/xinyangdong.htm)| 18:56| 18:58| 2分| -  
+23| [驻马店西](/huoche/zhan/zhumadianxi.htm)| 19:23| 19:41| 18分| -  
+24| [漯河西](/huoche/zhan/luohexi.htm)| 19:59| 20:13| 14分| -  
+25| [郑州](/huoche/zhan/zhengzhou.htm)| 20:59| 21:11| 12分| -  
+26| [郑州西](/huoche/zhan/zhengzhouxi.htm)| 21:28| 21:32| 4分| -  
+27| [洛阳龙门](/huoche/zhan/luoyanglongmen.htm)| 21:57| 21:59| 2分| -  
+28| [西安北](/huoche/zhan/xianbei.htm)| 23:16| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

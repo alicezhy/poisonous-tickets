@@ -1,0 +1,39 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从兰州开往北京西的Z56直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z56 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 兰州  
+发车时间 | 21:10  
+到站时间 | 13:38  
+全程时间 | 16小时28分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [兰州](/huoche/zhan/lanzhou.htm)| -| 21:10| 0分| -  
+2| [中卫](/huoche/zhan/zhongwei.htm)| 02:17| 02:23| 6分| -  
+3| [太原南](/huoche/zhan/taiyuannan.htm)| 08:57| 09:05| 8分| -  
+4| [石家庄北](/huoche/zhan/shijiazhuangbei.htm)| 10:58| 11:06| 8分| -  
+5| [北京西](/huoche/zhan/beijingxi.htm)| 13:38| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从厦门开往西安的K244快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K244 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 厦门  
+发车时间 | 16:09  
+到站时间 | 04:55  
+全程时间 | 36小时46分  
+终点站 | 西安  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [厦门](/huoche/zhan/xiamen.htm)| -| 16:09| 0分| -  
+2| [漳州东](/huoche/zhan/zhangzhoudong.htm)| 17:11| 17:21| 10分| -  
+3| [漳平](/huoche/zhan/zhangping.htm)| 19:30| 19:34| 4分| -  
+4| [永安](/huoche/zhan/yongan.htm)| 21:40| 21:46| 6分| -  
+5| [邵武](/huoche/zhan/shaowu.htm)| 04:46| 04:52| 6分| -  
+6| [资溪](/huoche/zhan/zixi.htm)| 06:27| 06:36| 9分| -  
+7| [鹰潭](/huoche/zhan/yingtan.htm)| 08:33| 08:57| 24分| -  
+8| [东乡](/huoche/zhan/dongxiang.htm)| 09:22| 09:26| 4分| -  
+9| [进贤](/huoche/zhan/jinxian.htm)| 09:54| 09:58| 4分| -  
+10| [向塘](/huoche/zhan/xiangtang.htm)| 10:24| 10:34| 10分| -  
+11| [南昌](/huoche/zhan/nanchang.htm)| 11:00| 11:19| 19分| -  
+12| [九江](/huoche/zhan/jiujiang.htm)| 12:36| 12:43| 7分| -  
+13| [武穴](/huoche/zhan/wuxue.htm)| 13:55| 14:04| 9分| -  
+14| [黄州](/huoche/zhan/huangzhou.htm)| 15:16| 15:32| 16分| -  
+15| [麻城](/huoche/zhan/macheng.htm)| 16:13| 16:28| 15分| -  
+16| [新县](/huoche/zhan/xinxian.htm)| 17:17| 17:20| 3分| -  
+17| [潢川](/huoche/zhan/huangchuan.htm)| 18:04| 18:07| 3分| -  
+18| [息县](/huoche/zhan/xixian2.htm)| 18:36| 18:39| 3分| -  
+19| [罗山](/huoche/zhan/luoshan.htm)| 19:00| 19:03| 3分| -  
+21| [西安](/huoche/zhan/xian.htm)| 04:55| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

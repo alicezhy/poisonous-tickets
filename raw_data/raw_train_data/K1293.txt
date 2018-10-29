@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从太原开往烟台的K1293快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1293 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 太原  
+发车时间 | 17:25  
+到站时间 | 10:18  
+全程时间 | 16小时53分  
+终点站 | 烟台  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [太原](/huoche/zhan/taiyuan.htm)| -| 17:25| 0分| -  
+2| [阳泉北](/huoche/zhan/yangquanbei.htm)| 19:05| 19:09| 4分| -  
+3| [石家庄北](/huoche/zhan/shijiazhuangbei.htm)| 20:18| 21:06| 48分| -  
+4| [晋州](/huoche/zhan/jinzhou4.htm)| 21:48| 21:50| 2分| -  
+5| [辛集](/huoche/zhan/xinji.htm)| 22:06| 22:09| 3分| -  
+6| [衡水](/huoche/zhan/hengshui.htm)| 22:46| 22:56| 10分| -  
+7| [清河城](/huoche/zhan/qinghecheng.htm)| 23:46| 23:49| 3分| -  
+8| [聊城](/huoche/zhan/liaocheng.htm)| 00:42| 01:12| 30分| -  
+9| [大明湖](/huoche/zhan/daminghu.htm)| 03:18| 03:27| 9分| -  
+10| [淄博](/huoche/zhan/zibo.htm)| 04:28| 04:31| 3分| -  
+11| [青州市](/huoche/zhan/qingzhoushi.htm)| 04:57| 05:00| 3分| -  
+12| [潍坊](/huoche/zhan/weifang.htm)| 05:32| 05:35| 3分| -  
+13| [蓝村](/huoche/zhan/lancun.htm)| 07:06| 07:20| 14分| -  
+14| [莱西](/huoche/zhan/laixi.htm)| 08:02| 08:09| 7分| -  
+15| [莱阳](/huoche/zhan/laiyang.htm)| 08:27| 08:34| 7分| -  
+16| [桃村](/huoche/zhan/taocun.htm)| 09:10| 09:16| 6分| -  
+17| [烟台](/huoche/zhan/yantai.htm)| 10:18| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

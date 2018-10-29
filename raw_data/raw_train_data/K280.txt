@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从十堰开往北京西的K280快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K280 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 十堰  
+发车时间 | 11:20  
+到站时间 | 08:51  
+全程时间 | 21小时31分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [十堰](/huoche/zhan/shiyan.htm)| \----| 11:20| 0分| -  
+2| [武当山](/huoche/zhan/wudangshan.htm)| 11:38| 11:41| 3分| -  
+3| [谷城](/huoche/zhan/gucheng.htm)| 12:30| 12:33| 3分| -  
+4| [襄阳](/huoche/zhan/xiangyang2.htm)| 13:40| 14:07| 27分| -  
+5| [邓州](/huoche/zhan/dengzhou.htm)| 15:15| 15:20| 5分| -  
+6| [鲁山](/huoche/zhan/lushan2.htm)| 17:26| 17:32| 6分| -  
+7| [平顶山](/huoche/zhan/pingdingshan2.htm)| 18:26| 18:35| 9分| -  
+8| [漯河](/huoche/zhan/luohe.htm)| 20:05| 20:45| 40分| -  
+9| [许昌](/huoche/zhan/xuchang.htm)| 21:32| 21:37| 5分| -  
+10| [长葛](/huoche/zhan/changge.htm)| 21:52| 22:03| 11分| -  
+11| [郑州](/huoche/zhan/zhengzhou.htm)| 22:50| 23:20| 30分| -  
+12| [新乡](/huoche/zhan/xinxiang2.htm)| 00:35| 00:40| 5分| -  
+13| [邯郸](/huoche/zhan/handan.htm)| 02:29| 02:33| 4分| -  
+14| [邢台](/huoche/zhan/xingtai.htm)| 03:06| 03:34| 28分| -  
+15| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 04:45| 05:05| 20分| -  
+16| [保定](/huoche/zhan/baoding.htm)| 06:32| 06:43| 11分| -  
+17| [高碑店](/huoche/zhan/gaobeidian.htm)| 07:20| 07:43| 23分| -  
+18| [北京西](/huoche/zhan/beijingxi.htm)| 08:51| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

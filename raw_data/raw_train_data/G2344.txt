@@ -1,0 +1,61 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南宁东开往宁波的G2344高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G2344 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 南宁东  
+发车时间 | 08:40  
+到站时间 | 20:57  
+全程时间 | 12小时17分  
+终点站 | 宁波  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南宁东](/huoche/zhan/nanningdong.htm)| -| 08:40| 0分| -  
+2| [宾阳](/huoche/zhan/binyang.htm)| 09:06| 09:08| 2分| -  
+3| [柳州](/huoche/zhan/liuzhou.htm)| 09:50| 09:54| 4分| -  
+4| [桂林](/huoche/zhan/guilin.htm)| 10:59| 11:03| 4分| -  
+5| [兴安北](/huoche/zhan/xinganbei.htm)| 11:35| 11:37| 2分| -  
+6| [全州南](/huoche/zhan/quanzhounan.htm)| 11:58| 12:00| 2分| -  
+7| [东安东](/huoche/zhan/dongandong.htm)| 12:23| 12:25| 2分| -  
+8| [永州](/huoche/zhan/yongzhou.htm)| 12:42| 12:46| 4分| -  
+9| [祁东](/huoche/zhan/qidong.htm)| 13:12| 13:14| 2分| -  
+10| [衡阳东](/huoche/zhan/hengyangdong.htm)| 13:46| 13:48| 2分| -  
+11| [株洲西](/huoche/zhan/zhuzhouxi.htm)| 14:15| 14:21| 6分| -  
+12| [长沙南](/huoche/zhan/changshanan.htm)| 14:41| 14:49| 8分| -  
+13| [醴陵东](/huoche/zhan/lilingdong.htm)| 15:13| 15:15| 2分| -  
+14| [萍乡北](/huoche/zhan/pingxiangbei2.htm)| 15:25| 15:27| 2分| -  
+15| [新余北](/huoche/zhan/xinyubei.htm)| 15:55| 15:57| 2分| -  
+16| [南昌西](/huoche/zhan/nanchangxi.htm)| 16:30| 16:35| 5分| -  
+17| [鹰潭北](/huoche/zhan/yingtanbei.htm)| 17:10| 17:12| 2分| -  
+18| [上饶](/huoche/zhan/shangrao.htm)| 17:38| 17:41| 3分| -  
+19| [江山](/huoche/zhan/jiangshan.htm)| 18:03| 18:06| 3分| -  
+20| [衢州](/huoche/zhan/quzhou.htm)| 18:17| 18:20| 3分| -  
+21| [金华](/huoche/zhan/jinhua.htm)| 18:41| 18:44| 3分| -  
+22| [义乌](/huoche/zhan/yiwu.htm)| 19:00| 19:02| 2分| -  
+23| [杭州东](/huoche/zhan/hangzhoudong.htm)| 19:36| 19:51| 15分| -  
+24| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 20:09| 20:11| 2分| -  
+25| [绍兴东](/huoche/zhan/shaoxingdong.htm)| 20:22| 20:24| 2分| -  
+26| [余姚北](/huoche/zhan/yuyaobei.htm)| 20:36| 20:38| 2分| -  
+27| [宁波](/huoche/zhan/ningbo.htm)| 20:57| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

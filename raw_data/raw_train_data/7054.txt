@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从泰山开往淄博的7054普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 7054 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 泰山  
+发车时间 | 13:15  
+到站时间 | 18:49  
+全程时间 | 5小时34分  
+终点站 | 淄博  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [泰山](/huoche/zhan/taishan.htm)| -| 13:15| 0分| -  
+2| [上高镇](/huoche/zhan/shanggaozhen.htm)| 13:25| 13:27| 2分| -  
+3| [燕家庄](/huoche/zhan/yanjiazhuang.htm)| 13:39| 13:41| 2分| -  
+4| [范镇](/huoche/zhan/fanzhen.htm)| 13:54| 13:56| 2分| -  
+5| [司家岭](/huoche/zhan/sijialing.htm)| 14:05| 14:07| 2分| -  
+6| [蔺家楼](/huoche/zhan/linjialou.htm)| 14:21| 14:23| 2分| -  
+8| [莱芜东](/huoche/zhan/laiwudong.htm)| 14:41| 14:48| 7分| -  
+9| [常庄](/huoche/zhan/changzhuang.htm)| 15:40| 15:42| 2分| -  
+10| [南博山](/huoche/zhan/nanboshan.htm)| 15:53| 15:55| 2分| -  
+11| [源迁](/huoche/zhan/yuanqian.htm)| 16:09| 16:11| 2分| -  
+12| [黑旺](/huoche/zhan/heiwang.htm)| 17:01| 17:03| 2分| -  
+13| [南仇](/huoche/zhan/nanchou.htm)| 17:28| 17:30| 2分| -  
+17| [淄博](/huoche/zhan/zibo.htm)| 18:49| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

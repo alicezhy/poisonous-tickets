@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京西开往兰州西的G427高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G427 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 北京西  
+发车时间 | 06:20  
+到站时间 | 14:24  
+全程时间 | 8小时4分  
+终点站 | 兰州西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京西](/huoche/zhan/beijingxi.htm)| -| 06:20| 0分| -  
+2| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 07:32| 07:36| 4分| -  
+3| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 09:06| 09:10| 4分| -  
+4| [洛阳龙门](/huoche/zhan/luoyanglongmen.htm)| 09:46| 09:49| 3分| -  
+5| [西安北](/huoche/zhan/xianbei.htm)| 11:06| 11:15| 9分| -  
+6| [杨陵南](/huoche/zhan/yanglingnan.htm)| 11:43| 11:45| 2分| -  
+7| [宝鸡南](/huoche/zhan/baojinan.htm)| 12:10| 12:13| 3分| -  
+8| [天水南](/huoche/zhan/tianshuinan.htm)| 12:57| 12:59| 2分| -  
+9| [秦安](/huoche/zhan/qinan.htm)| 13:14| 13:16| 2分| -  
+10| [兰州西](/huoche/zhan/lanzhouxi.htm)| 14:24| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

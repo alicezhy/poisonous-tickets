@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从石家庄开往荣成的D1621动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D1621 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 石家庄  
+发车时间 | 07:40  
+到站时间 | 14:38  
+全程时间 | 6小时58分  
+终点站 | 荣成  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [石家庄](/huoche/zhan/shijiazhuang2.htm)| -| 07:40| 0分| -  
+2| [石家庄东](/huoche/zhan/shijiazhuangdong.htm)| 07:54| 07:56| 2分| -  
+3| [衡水北](/huoche/zhan/hengshuibei.htm)| 08:25| 08:27| 2分| -  
+4| [德州东](/huoche/zhan/dezhoudong.htm)| 08:54| 08:56| 2分| -  
+5| [平原东](/huoche/zhan/pingyuandong.htm)| 09:08| 09:10| 2分| -  
+6| [禹城东](/huoche/zhan/yuchengdong.htm)| 09:20| 09:22| 2分| -  
+7| [济南西](/huoche/zhan/jinanxi.htm)| 09:46| 09:51| 5分| -  
+8| [济南](/huoche/zhan/jinan.htm)| 10:08| 10:10| 2分| -  
+9| [章丘](/huoche/zhan/zhangqiu.htm)| 10:33| 10:35| 2分| -  
+10| [淄博](/huoche/zhan/zibo.htm)| 10:58| 11:00| 2分| -  
+11| [青州市](/huoche/zhan/qingzhoushi.htm)| 11:18| 11:20| 2分| -  
+12| [潍坊](/huoche/zhan/weifang.htm)| 11:41| 11:43| 2分| -  
+13| [高密](/huoche/zhan/gaomi.htm)| 12:10| 12:12| 2分| -  
+14| [莱阳](/huoche/zhan/laiyang.htm)| 13:04| 13:07| 3分| -  
+15| [海阳北](/huoche/zhan/haiyangbei.htm)| 13:20| 13:22| 2分| -  
+16| [烟台南](/huoche/zhan/yantainan.htm)| 13:46| 13:48| 2分| -  
+17| [威海](/huoche/zhan/weihai.htm)| 14:15| 14:17| 2分| -  
+18| [荣成](/huoche/zhan/rongcheng.htm)| 14:38| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

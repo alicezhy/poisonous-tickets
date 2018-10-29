@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海虹桥开往北京南的G140高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G140 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 上海虹桥  
+发车时间 | 13:34  
+到站时间 | 19:41  
+全程时间 | 6小时7分  
+终点站 | 北京南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| \----| 13:34| 0分| -  
+2| [苏州北](/huoche/zhan/suzhoubei.htm)| 13:57| 13:59| 2分| -  
+3| [常州北](/huoche/zhan/changzhoubei.htm)| 14:21| 14:23| 2分| -  
+4| [镇江南](/huoche/zhan/zhenjiangnan.htm)| 14:41| 14:46| 5分| -  
+5| [南京南](/huoche/zhan/nanjingnan.htm)| 15:04| 15:06| 2分| -  
+6| [滁州](/huoche/zhan/chuzhou.htm)| 15:24| 15:26| 2分| -  
+7| [曲阜东](/huoche/zhan/qufudong.htm)| 17:00| 17:02| 2分| -  
+8| [泰安](/huoche/zhan/taian2.htm)| 17:21| 17:23| 2分| -  
+9| [济南西](/huoche/zhan/jinanxi.htm)| 17:41| 17:43| 2分| -  
+10| [德州东](/huoche/zhan/dezhoudong.htm)| 18:07| 18:09| 2分| -  
+11| [沧州西](/huoche/zhan/cangzhouxi.htm)| 18:36| 18:42| 6分| -  
+12| [天津南](/huoche/zhan/tianjinnan.htm)| 19:05| 19:07| 2分| -  
+13| [北京南](/huoche/zhan/beijingnan.htm)| 19:41| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

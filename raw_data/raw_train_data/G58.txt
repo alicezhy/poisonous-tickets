@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从宁波开往北京南的G58高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G58 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 宁波  
+发车时间 | 07:45  
+到站时间 | 14:43  
+全程时间 | 6小时58分  
+终点站 | 北京南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [宁波](/huoche/zhan/ningbo.htm)| -| 07:45| 0分| -  
+2| [绍兴东](/huoche/zhan/shaoxingdong.htm)| 08:11| 08:13| 2分| -  
+3| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 08:25| 08:27| 2分| -  
+4| [杭州东](/huoche/zhan/hangzhoudong.htm)| 08:45| 08:50| 5分| -  
+5| [长兴](/huoche/zhan/changxing.htm)| 09:17| 09:19| 2分| -  
+6| [溧水](/huoche/zhan/lishui2.htm)| 09:49| 09:51| 2分| -  
+7| [南京南](/huoche/zhan/nanjingnan.htm)| 10:07| 10:11| 4分| -  
+8| [滁州](/huoche/zhan/chuzhou.htm)| 10:29| 10:31| 2分| -  
+9| [徐州东](/huoche/zhan/xuzhoudong.htm)| 11:34| 11:37| 3分| -  
+10| [枣庄](/huoche/zhan/zaozhuang.htm)| 11:55| 11:57| 2分| -  
+11| [曲阜东](/huoche/zhan/qufudong.htm)| 12:21| 12:23| 2分| -  
+12| [济南西](/huoche/zhan/jinanxi.htm)| 12:54| 13:05| 11分| -  
+13| [德州东](/huoche/zhan/dezhoudong.htm)| 13:29| 13:31| 2分| -  
+14| [北京南](/huoche/zhan/beijingnan.htm)| 14:43| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从聊城开往义乌的K1510快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1510 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 聊城  
+发车时间 | 12:58  
+到站时间 | 08:24  
+全程时间 | 19小时26分  
+终点站 | 义乌  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [聊城](/huoche/zhan/liaocheng.htm)| -| 12:58| 0分| -  
+2| [台前](/huoche/zhan/taiqian.htm)| 13:33| 13:36| 3分| -  
+3| [郓城](/huoche/zhan/yuncheng2.htm)| 14:03| 14:07| 4分| -  
+4| [菏泽](/huoche/zhan/heze.htm)| 14:42| 15:08| 26分| -  
+5| [巨野](/huoche/zhan/juye.htm)| 15:48| 15:52| 4分| -  
+6| [济宁](/huoche/zhan/jining2.htm)| 16:23| 16:27| 4分| -  
+7| [兖州](/huoche/zhan/yanzhou.htm)| 17:19| 17:27| 8分| -  
+8| [邹城](/huoche/zhan/zoucheng.htm)| 17:42| 17:45| 3分| -  
+9| [滕州](/huoche/zhan/tengzhou.htm)| 18:11| 18:13| 2分| -  
+10| [枣庄西](/huoche/zhan/zaozhuangxi.htm)| 18:35| 18:39| 4分| -  
+11| [徐州](/huoche/zhan/xuzhou.htm)| 19:44| 20:04| 20分| -  
+12| [蚌埠](/huoche/zhan/bengbu.htm)| 22:17| 22:31| 14分| -  
+13| [南京](/huoche/zhan/nanjing.htm)| 00:39| 00:46| 7分| -  
+15| [苏州](/huoche/zhan/suzhou.htm)| 03:07| 03:11| 4分| -  
+17| [上海南](/huoche/zhan/shanghainan.htm)| 04:21| 04:56| 35分| -  
+19| [嘉兴](/huoche/zhan/jiaxing.htm)| 05:43| 05:46| 3分| -  
+20| [杭州东](/huoche/zhan/hangzhoudong.htm)| 06:45| 06:51| 6分| -  
+21| [诸暨](/huoche/zhan/zhuji.htm)| 07:45| 07:48| 3分| -  
+22| [义乌](/huoche/zhan/yiwu.htm)| 08:24| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,67 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从牡丹江开往日照的K1452快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1452 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 牡丹江  
+发车时间 | 20:45  
+到站时间 | 06:42  
+全程时间 | 33小时57分  
+终点站 | 日照  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [牡丹江](/huoche/zhan/mudanjiang.htm)| \----| 20:45| 0分| -  
+2| [海林](/huoche/zhan/hailin.htm)| 21:06| 21:11| 5分| -  
+3| [亚布力](/huoche/zhan/yabuli.htm)| 22:37| 22:40| 3分| -  
+4| [哈尔滨东](/huoche/zhan/haerbindong.htm)| 01:18| 01:36| 18分| -  
+5| [长春](/huoche/zhan/changchun.htm)| 04:50| 05:00| 10分| -  
+6| [公主岭](/huoche/zhan/gongzhuling.htm)| 05:40| 05:42| 2分| -  
+7| [四平](/huoche/zhan/siping.htm)| 06:21| 06:23| 2分| -  
+8| [昌图](/huoche/zhan/changtu.htm)| 06:56| 06:58| 2分| -  
+9| [铁岭](/huoche/zhan/tieling.htm)| 07:37| 07:39| 2分| -  
+10| [沈阳北](/huoche/zhan/shenyangbei.htm)| 08:27| 08:37| 10分| -  
+11| [大虎山](/huoche/zhan/dahushan.htm)| 10:06| 10:08| 2分| -  
+12| [沟帮子](/huoche/zhan/goubangzi.htm)| 10:37| 10:39| 2分| -  
+13| [锦州](/huoche/zhan/jinzhou.htm)| 11:22| 11:26| 4分| -  
+14| [葫芦岛](/huoche/zhan/huludao.htm)| 11:59| 12:02| 3分| -  
+15| [兴城](/huoche/zhan/xingcheng.htm)| 12:18| 12:20| 2分| -  
+16| [绥中](/huoche/zhan/suizhong2.htm)| 12:51| 12:53| 2分| -  
+17| [山海关](/huoche/zhan/shanhaiguan.htm)| 13:42| 13:48| 6分| -  
+18| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 14:06| 14:15| 9分| -  
+19| [唐山](/huoche/zhan/tangshan.htm)| 16:28| 16:35| 7分| -  
+20| [芦台](/huoche/zhan/lutai.htm)| 17:08| 17:12| 4分| -  
+21| [塘沽](/huoche/zhan/tanggu.htm)| 17:41| 17:46| 5分| -  
+22| [天津](/huoche/zhan/tianjin.htm)| 18:30| 18:45| 15分| -  
+23| [静海](/huoche/zhan/jinghai.htm)| 19:25| 19:28| 3分| -  
+24| [青县](/huoche/zhan/qingxian.htm)| 19:54| 19:57| 3分| -  
+25| [沧州](/huoche/zhan/cangzhou.htm)| 20:17| 20:24| 7分| -  
+26| [吴桥](/huoche/zhan/wuqiao.htm)| 21:21| 21:32| 11分| -  
+27| [德州](/huoche/zhan/dezhou.htm)| 21:58| 22:01| 3分| -  
+28| [禹城](/huoche/zhan/yucheng.htm)| 23:17| 23:19| 2分| -  
+29| [济南](/huoche/zhan/jinan.htm)| 00:07| 00:25| 18分| -  
+30| [泰山](/huoche/zhan/taishan.htm)| 01:17| 01:20| 3分| -  
+31| [兖州](/huoche/zhan/yanzhou.htm)| 02:58| 03:04| 6分| -  
+32| [临沂](/huoche/zhan/linyi.htm)| 05:02| 05:07| 5分| -  
+33| [日照](/huoche/zhan/rizhao.htm)| 06:42| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

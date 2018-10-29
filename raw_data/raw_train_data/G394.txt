@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从哈尔滨西开往北京南的G394高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G394 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 哈尔滨西  
+发车时间 | 07:06  
+到站时间 | 14:38  
+全程时间 | 7小时32分  
+终点站 | 北京南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [哈尔滨西](/huoche/zhan/haerbinxi.htm)| \----| 07:06| 0分| -  
+2| [长春西](/huoche/zhan/changchunxi.htm)| 08:05| 08:07| 2分| -  
+3| [四平东](/huoche/zhan/sipingdong.htm)| 08:34| 08:36| 2分| -  
+4| [开原西](/huoche/zhan/kaiyuanxi.htm)| 09:00| 09:02| 2分| -  
+5| [沈阳北](/huoche/zhan/shenyangbei.htm)| 09:31| 09:33| 2分| -  
+6| [辽中](/huoche/zhan/liaozhong.htm)| 10:05| 10:06| 1分| -  
+7| [台安](/huoche/zhan/taian.htm)| 10:19| 10:20| 1分| -  
+8| [盘锦北](/huoche/zhan/panjinbei.htm)| 10:40| 10:41| 1分| -  
+9| [绥中北](/huoche/zhan/suizhongbei.htm)| 11:38| 11:39| 1分| -  
+10| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 12:15| 12:21| 6分| -  
+11| [滦河](/huoche/zhan/luanhe.htm)| 12:46| 12:48| 2分| -  
+12| [唐山](/huoche/zhan/tangshan.htm)| 13:06| 13:08| 2分| -  
+13| [滨海](/huoche/zhan/binhai.htm)| 13:29| 13:31| 2分| -  
+14| [天津](/huoche/zhan/tianjin.htm)| 13:47| 13:49| 2分| -  
+15| [天津西](/huoche/zhan/tianjinxi.htm)| 13:57| 14:00| 3分| -  
+16| [北京南](/huoche/zhan/beijingnan.htm)| 14:38| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

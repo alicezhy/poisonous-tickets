@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从菏泽开往烟台的K5506快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K5506 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 菏泽  
+发车时间 | 11:56  
+到站时间 | 23:18  
+全程时间 | 11小时22分  
+终点站 | 烟台  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [菏泽](/huoche/zhan/heze.htm)| -| 11:56| 0分| -  
+2| [郓城](/huoche/zhan/yuncheng2.htm)| 12:29| 12:32| 3分| -  
+3| [梁山](/huoche/zhan/liangshan.htm)| 12:48| 12:51| 3分| -  
+4| [阳谷](/huoche/zhan/yanggu.htm)| 13:14| 13:17| 3分| -  
+5| [聊城](/huoche/zhan/liaocheng.htm)| 13:44| 13:50| 6分| -  
+6| [晏城](/huoche/zhan/yancheng.htm)| 15:01| 15:06| 5分| -  
+7| [大明湖](/huoche/zhan/daminghu.htm)| 15:45| 15:56| 11分| -  
+8| [淄博](/huoche/zhan/zibo.htm)| 17:07| 17:12| 5分| -  
+9| [潍坊](/huoche/zhan/weifang.htm)| 18:16| 18:21| 5分| -  
+10| [胶州](/huoche/zhan/jiaozhou.htm)| 19:26| 19:32| 6分| -  
+11| [蓝村](/huoche/zhan/lancun.htm)| 19:48| 20:10| 22分| -  
+12| [莱西](/huoche/zhan/laixi.htm)| 20:55| 21:00| 5分| -  
+13| [莱阳](/huoche/zhan/laiyang.htm)| 21:19| 21:24| 5分| -  
+14| [桃村](/huoche/zhan/taocun.htm)| 22:03| 22:08| 5分| -  
+15| [烟台](/huoche/zhan/yantai.htm)| 23:18| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

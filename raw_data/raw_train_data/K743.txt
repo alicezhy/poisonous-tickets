@@ -1,0 +1,58 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从郑州开往厦门的K743快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K743 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 郑州  
+发车时间 | 12:45  
+到站时间 | 12:29  
+全程时间 | 23小时44分  
+终点站 | 厦门  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [郑州](/huoche/zhan/zhengzhou.htm)| -| 12:45| 0分| -  
+2| [开封](/huoche/zhan/kaifeng.htm)| 13:31| 13:36| 5分| -  
+3| [兰考](/huoche/zhan/lankao.htm)| 14:04| 14:09| 5分| -  
+4| [民权](/huoche/zhan/minquan.htm)| 14:31| 14:35| 4分| -  
+5| [商丘](/huoche/zhan/shangqiu.htm)| 15:15| 15:21| 6分| -  
+6| [亳州](/huoche/zhan/bozhou.htm)| 16:10| 16:15| 5分| -  
+7| [阜阳](/huoche/zhan/fuyang.htm)| 17:27| 17:35| 8分| -  
+8| [淮滨](/huoche/zhan/huaibin.htm)| 18:33| 18:36| 3分| -  
+9| [潢川](/huoche/zhan/huangchuan.htm)| 19:14| 19:17| 3分| -  
+10| [光山](/huoche/zhan/guangshan.htm)| 19:32| 19:35| 3分| -  
+11| [新县](/huoche/zhan/xinxian.htm)| 20:00| 20:03| 3分| -  
+12| [麻城](/huoche/zhan/macheng.htm)| 20:44| 20:50| 6分| -  
+13| [浠水](/huoche/zhan/xishui.htm)| 21:51| 21:54| 3分| -  
+14| [蕲春](/huoche/zhan/qinchun.htm)| 22:14| 22:17| 3分| -  
+15| [九江](/huoche/zhan/jiujiang.htm)| 23:21| 23:27| 6分| -  
+17| [南昌](/huoche/zhan/nanchang.htm)| 00:44| 00:55| 11分| -  
+18| [吉安](/huoche/zhan/jian6.htm)| 03:40| 03:44| 4分| -  
+19| [赣州](/huoche/zhan/ganzhou.htm)| 05:55| 06:29| 34分| -  
+20| [瑞金](/huoche/zhan/ruijin.htm)| 07:43| 07:46| 3分| -  
+21| [长汀南](/huoche/zhan/changtingnan.htm)| 08:10| 08:13| 3分| -  
+22| [古田会址](/huoche/zhan/gutianhuizhi.htm)| 09:42| 09:44| 2分| -  
+23| [龙岩](/huoche/zhan/longyan.htm)| 10:06| 10:10| 4分| -  
+24| [漳州](/huoche/zhan/zhangzhou.htm)| 11:34| 11:36| 2分| -  
+25| [厦门](/huoche/zhan/xiamen.htm)| 12:29| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

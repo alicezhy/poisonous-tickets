@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从临汾西开往北京西的D2002动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D2002 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 临汾西  
+发车时间 | 07:40  
+到站时间 | 12:52  
+全程时间 | 5小时12分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [临汾西](/huoche/zhan/linfenxi.htm)| \----| 07:40| 0分| -  
+2| [洪洞西](/huoche/zhan/hongtongxi.htm)| 07:51| 07:53| 2分| -  
+3| [灵石东](/huoche/zhan/lingshidong.htm)| 08:21| 08:23| 2分| -  
+4| [平遥古城](/huoche/zhan/pingyaogucheng.htm)| 08:39| 08:41| 2分| -  
+5| [晋中](/huoche/zhan/jingzhong2.htm)| 09:07| 09:09| 2分| -  
+6| [太原南](/huoche/zhan/taiyuannan.htm)| 09:21| 09:27| 6分| -  
+7| [阳泉北](/huoche/zhan/yangquanbei.htm)| 10:15| 10:21| 6分| -  
+8| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 11:00| 11:02| 2分| -  
+9| [正定机场](/huoche/zhan/zhengdingjichang.htm)| 11:16| 11:29| 13分| -  
+10| [高碑店东](/huoche/zhan/gaobeidiandong.htm)| 12:14| 12:20| 6分| -  
+11| [北京西](/huoche/zhan/beijingxi.htm)| 12:52| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

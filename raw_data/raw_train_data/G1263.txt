@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从哈尔滨西开往郑州东的G1263高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1263 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 哈尔滨西  
+发车时间 | 11:16  
+到站时间 | 22:05  
+全程时间 | 10小时49分  
+终点站 | 郑州东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [哈尔滨西](/huoche/zhan/haerbinxi.htm)| \----| 11:16| 0分| -  
+2| [双城北](/huoche/zhan/shuangchengbei.htm)| 11:32| 11:34| 2分| -  
+3| [德惠西](/huoche/zhan/dehuixi.htm)| 12:01| 12:03| 2分| -  
+4| [长春西](/huoche/zhan/changchunxi.htm)| 12:27| 12:29| 2分| -  
+5| [铁岭西](/huoche/zhan/tielingxi.htm)| 13:21| 13:22| 1分| -  
+6| [沈阳北](/huoche/zhan/shenyangbei.htm)| 13:40| 13:42| 2分| -  
+7| [锦州南](/huoche/zhan/jinzhounan.htm)| 15:01| 15:02| 1分| -  
+8| [葫芦岛北](/huoche/zhan/huludaobei.htm)| 15:19| 15:20| 1分| -  
+9| [山海关](/huoche/zhan/shanhaiguan.htm)| 16:03| 16:05| 2分| -  
+10| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 16:19| 16:22| 3分| -  
+11| [滦河](/huoche/zhan/luanhe.htm)| 16:47| 16:50| 3分| -  
+12| [唐山](/huoche/zhan/tangshan.htm)| 17:08| 17:10| 2分| -  
+13| [滨海](/huoche/zhan/binhai.htm)| 17:30| 17:33| 3分| -  
+14| [天津](/huoche/zhan/tianjin.htm)| 17:50| 17:52| 2分| -  
+15| [天津西](/huoche/zhan/tianjinxi.htm)| 18:00| 18:06| 6分| -  
+16| [胜芳](/huoche/zhan/shengfang.htm)| 18:23| 18:25| 2分| -  
+18| [白洋淀](/huoche/zhan/baiyangdian.htm)| 18:55| 18:58| 3分| -  
+19| [保定东](/huoche/zhan/baodingdong.htm)| 19:19| 19:21| 2分| -  
+20| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 19:57| 20:16| 19分| -  
+21| [邢台东](/huoche/zhan/xingtaidong.htm)| 20:43| 20:45| 2分| -  
+22| [邯郸东](/huoche/zhan/handandong.htm)| 21:01| 21:03| 2分| -  
+23| [新乡东](/huoche/zhan/xinxiangdong.htm)| 21:41| 21:43| 2分| -  
+24| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 22:05| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

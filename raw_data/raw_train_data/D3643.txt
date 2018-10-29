@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南宁东开往珠海的D3643动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D3643 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 南宁东  
+发车时间 | 16:56  
+到站时间 | 21:54  
+全程时间 | 4小时58分  
+终点站 | 珠海  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南宁东](/huoche/zhan/nanningdong.htm)| -| 16:56| 0分| -  
+2| [贵港](/huoche/zhan/guigang.htm)| 17:45| 17:47| 2分| -  
+3| [平南南](/huoche/zhan/pingnannan.htm)| 18:21| 18:23| 2分| -  
+4| [梧州南](/huoche/zhan/wuzhounan.htm)| 18:56| 19:00| 4分| -  
+5| [郁南](/huoche/zhan/yunan.htm)| 19:14| 19:16| 2分| -  
+6| [三水南](/huoche/zhan/sanshuinan.htm)| 20:14| 20:16| 2分| -  
+7| [佛山西](/huoche/zhan/foshanxi.htm)| 20:28| 20:30| 2分| -  
+8| [广州南](/huoche/zhan/guangzhounan.htm)| 20:50| 20:57| 7分| -  
+9| [中山](/huoche/zhan/zhongshan.htm)| 21:26| 21:28| 2分| -  
+10| [珠海](/huoche/zhan/zhuhai.htm)| 21:54| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

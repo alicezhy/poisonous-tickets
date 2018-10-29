@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从杭州开往上海南的K5782快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K5782 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 杭州  
+发车时间 | 13:38  
+到站时间 | 16:30  
+全程时间 | 2小时52分  
+终点站 | 上海南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [杭州](/huoche/zhan/hangzhou.htm)| \----| 13:38| 0分| -  
+2| [海宁](/huoche/zhan/haining.htm)| 14:17| 14:21| 4分| -  
+3| [嘉兴](/huoche/zhan/jiaxing.htm)| 14:39| 14:44| 5分| -  
+4| [嘉善](/huoche/zhan/jiashan.htm)| 14:57| 15:02| 5分| -  
+5| [松江](/huoche/zhan/songjiang.htm)| 15:51| 15:56| 5分| -  
+6| [上海南](/huoche/zhan/shanghainan.htm)| 16:30| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

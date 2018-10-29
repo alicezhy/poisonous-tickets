@@ -1,0 +1,39 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京西开往太原南的G623高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G623 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 北京西  
+发车时间 | 18:45  
+到站时间 | 21:50  
+全程时间 | 3小时5分  
+终点站 | 太原南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京西](/huoche/zhan/beijingxi.htm)| \----| 18:45| 0分| -  
+2| [涿州东](/huoche/zhan/zhuozhoudong.htm)| 19:10| 19:23| 13分| -  
+3| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 20:17| 20:20| 3分| -  
+4| [阳泉北](/huoche/zhan/yangquanbei.htm)| 21:00| 21:04| 4分| -  
+5| [太原南](/huoche/zhan/taiyuannan.htm)| 21:50| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

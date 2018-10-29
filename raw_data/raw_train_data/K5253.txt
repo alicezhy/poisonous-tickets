@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从唐山开往北京的K5253快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K5253 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 唐山  
+发车时间 | 13:27  
+到站时间 | 18:01  
+全程时间 | 4小时34分  
+终点站 | 北京  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [唐山](/huoche/zhan/tangshan.htm)| \----| 13:27| 0分| -  
+2| [唐山北](/huoche/zhan/tangshanbei.htm)| 13:50| 14:19| 29分| -  
+3| [玉田县](/huoche/zhan/yutianxian.htm)| 14:41| 14:48| 7分| -  
+4| [三河县](/huoche/zhan/sanhexian.htm)| 16:00| 16:32| 32分| -  
+5| [燕郊](/huoche/zhan/yanjiao.htm)| 16:51| 17:32| 41分| -  
+6| [北京](/huoche/zhan/beijing.htm)| 18:01| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

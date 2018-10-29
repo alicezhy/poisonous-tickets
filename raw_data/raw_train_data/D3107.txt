@@ -1,0 +1,61 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海虹桥开往深圳北的D3107动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D3107 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 上海虹桥  
+发车时间 | 09:40  
+到站时间 | 21:38  
+全程时间 | 11小时58分  
+终点站 | 深圳北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| \----| 09:40| 0分| -  
+2| [嘉善南](/huoche/zhan/jiashannan.htm)| 10:04| 10:10| 6分| -  
+3| [嘉兴南](/huoche/zhan/jiaxingnan.htm)| 10:18| 10:27| 9分| -  
+4| [桐乡](/huoche/zhan/tongxiang.htm)| 10:38| 10:58| 20分| -  
+5| [海宁西](/huoche/zhan/hainingxi.htm)| 11:07| 11:09| 2分| -  
+6| [杭州东](/huoche/zhan/hangzhoudong.htm)| 11:22| 11:25| 3分| -  
+7| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 11:44| 11:46| 2分| -  
+8| [宁波](/huoche/zhan/ningbo.htm)| 12:22| 12:26| 4分| -  
+9| [宁海](/huoche/zhan/ninghai.htm)| 12:54| 12:56| 2分| -  
+10| [台州](/huoche/zhan/taizhou2.htm)| 13:26| 13:28| 2分| -  
+11| [温岭](/huoche/zhan/wenling.htm)| 13:39| 13:41| 2分| -  
+12| [永嘉](/huoche/zhan/yongjia.htm)| 14:10| 14:12| 2分| -  
+13| [温州南](/huoche/zhan/wenzhounan.htm)| 14:22| 14:24| 2分| -  
+14| [鳌江](/huoche/zhan/aojiang.htm)| 14:41| 14:43| 2分| -  
+15| [霞浦](/huoche/zhan/xiapu.htm)| 15:21| 15:23| 2分| -  
+16| [福州南](/huoche/zhan/fuzhounan.htm)| 16:18| 16:22| 4分| -  
+17| [涵江](/huoche/zhan/hanjiang.htm)| 16:46| 16:48| 2分| -  
+18| [莆田](/huoche/zhan/putian.htm)| 16:58| 17:00| 2分| -  
+19| [泉州](/huoche/zhan/quanzhou2.htm)| 17:25| 17:27| 2分| -  
+20| [厦门北](/huoche/zhan/xiamenbei.htm)| 17:52| 17:56| 4分| -  
+21| [漳州](/huoche/zhan/zhangzhou.htm)| 18:15| 18:17| 2分| -  
+22| [诏安](/huoche/zhan/zhaoan.htm)| 18:55| 18:57| 2分| -  
+23| [潮汕](/huoche/zhan/chaoshan.htm)| 19:21| 19:23| 2分| -  
+24| [葵潭](/huoche/zhan/kuitan.htm)| 19:59| 20:01| 2分| -  
+25| [惠东](/huoche/zhan/huidong.htm)| 20:46| 20:48| 2分| -  
+26| [深圳坪山](/huoche/zhan/shenzhenpingshan.htm)| 21:09| 21:11| 2分| -  
+27| [深圳北](/huoche/zhan/shenzhenbei.htm)| 21:38| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

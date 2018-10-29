@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从成都开往昆明的K853快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K853 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 成都  
+发车时间 | 08:54  
+到站时间 | 05:28  
+全程时间 | 20小时34分  
+终点站 | 昆明  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [成都](/huoche/zhan/chengdu.htm)| -| 08:54| 0分| -  
+2| [简阳](/huoche/zhan/jianyang2.htm)| 10:16| 10:19| 3分| -  
+3| [资阳](/huoche/zhan/ziyang.htm)| 10:57| 11:03| 6分| -  
+4| [内江](/huoche/zhan/najiang.htm)| 12:38| 12:48| 10分| -  
+5| [自贡](/huoche/zhan/zigong.htm)| 13:34| 13:38| 4分| -  
+6| [宜宾](/huoche/zhan/yibin.htm)| 15:05| 15:11| 6分| -  
+7| [水富](/huoche/zhan/shuifu.htm)| 15:42| 15:45| 3分| -  
+8| [盐津](/huoche/zhan/yanjin.htm)| 17:05| 17:13| 8分| -  
+9| [大关](/huoche/zhan/daguan.htm)| 18:00| 18:03| 3分| -  
+10| [昭通](/huoche/zhan/zhaotong.htm)| 21:02| 21:07| 5分| -  
+11| [草海](/huoche/zhan/caohai.htm)| 22:34| 22:40| 6分| -  
+12| [六盘水](/huoche/zhan/liupanshui.htm)| 00:04| 00:35| 31分| -  
+13| [宣威](/huoche/zhan/xuanwei.htm)| 02:44| 02:50| 6分| -  
+14| [曲靖](/huoche/zhan/qujing.htm)| 03:49| 03:54| 5分| -  
+15| [昆明](/huoche/zhan/kunming.htm)| 05:28| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

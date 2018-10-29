@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从青岛北开往通化的K970快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K970 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 青岛北  
+发车时间 | 10:19  
+到站时间 | 11:13  
+全程时间 | 24小时54分  
+终点站 | 通化  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [青岛北](/huoche/zhan/qingdaobei.htm)| \----| 10:19| 0分| -  
+2| [蓝村](/huoche/zhan/lancun.htm)| 10:46| 10:49| 3分| -  
+3| [胶州](/huoche/zhan/jiaozhou.htm)| 11:05| 11:08| 3分| -  
+4| [潍坊](/huoche/zhan/weifang.htm)| 12:16| 12:20| 4分| -  
+5| [淄博](/huoche/zhan/zibo.htm)| 13:25| 13:34| 9分| -  
+6| [大明湖](/huoche/zhan/daminghu.htm)| 14:44| 15:01| 17分| -  
+9| [平原](/huoche/zhan/pingyuan.htm)| 16:08| 16:15| 7分| -  
+10| [德州](/huoche/zhan/dezhou.htm)| 16:48| 16:53| 5分| -  
+11| [东光](/huoche/zhan/dongguang.htm)| 17:25| 17:27| 2分| -  
+12| [沧州](/huoche/zhan/cangzhou.htm)| 18:01| 18:04| 3分| -  
+13| [杨柳青](/huoche/zhan/yangliuqing.htm)| 19:07| 19:09| 2分| -  
+15| [天津](/huoche/zhan/tianjin.htm)| 19:49| 20:19| 30分| -  
+16| [唐山](/huoche/zhan/tangshan.htm)| 21:39| 21:41| 2分| -  
+17| [山海关](/huoche/zhan/shanhaiguan.htm)| 23:42| 23:48| 6分| -  
+19| [沈阳](/huoche/zhan/shenyang3.htm)| 04:15| 04:38| 23分| -  
+20| [抚顺北](/huoche/zhan/fushunbei.htm)| 05:26| 05:29| 3分| -  
+21| [南杂木](/huoche/zhan/nanzamu.htm)| 06:10| 06:12| 2分| -  
+22| [清原](/huoche/zhan/qingyuan.htm)| 07:02| 07:04| 2分| -  
+23| [山城镇](/huoche/zhan/shanchengzhen.htm)| 07:51| 07:54| 3分| -  
+24| [梅河口](/huoche/zhan/meihekou.htm)| 08:17| 08:44| 27分| -  
+25| [柳河](/huoche/zhan/liuhe2.htm)| 09:19| 09:21| 2分| -  
+26| [三源浦](/huoche/zhan/sanyuanpu.htm)| 10:09| 10:11| 2分| -  
+27| [通化](/huoche/zhan/tonghua.htm)| 11:13| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

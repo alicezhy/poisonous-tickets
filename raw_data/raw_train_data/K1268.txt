@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从福州开往重庆北的K1268快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1268 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 福州  
+发车时间 | 10:37  
+到站时间 | 11:13  
+全程时间 | 24小时36分  
+终点站 | 重庆北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [福州](/huoche/zhan/fuzhou.htm)| -| 10:37| 0分| -  
+2| [南昌西](/huoche/zhan/nanchangxi.htm)| 16:11| 16:26| 15分| -  
+3| [庐山](/huoche/zhan/lushan.htm)| 17:34| 17:38| 4分| -  
+4| [黄石](/huoche/zhan/huangshi.htm)| 19:14| 19:17| 3分| -  
+5| [武昌](/huoche/zhan/wuchang.htm)| 20:37| 21:00| 23分| -  
+6| [宜昌东](/huoche/zhan/yichangdong.htm)| 00:04| 00:42| 38分| -  
+7| [万州](/huoche/zhan/wanzhou.htm)| 05:18| 05:24| 6分| -  
+8| [达州](/huoche/zhan/dazhou.htm)| 08:07| 08:19| 12分| -  
+9| [渠县](/huoche/zhan/quxian.htm)| 09:14| 09:18| 4分| -  
+10| [广安](/huoche/zhan/guangan.htm)| 09:48| 09:53| 5分| -  
+11| [重庆北](/huoche/zhan/chongqingbei.htm)| 11:13| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从重庆北开往深圳北的G1314高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1314 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 重庆北  
+发车时间 | 07:50  
+到站时间 | 20:25  
+全程时间 | 12小时35分  
+终点站 | 深圳北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [重庆北](/huoche/zhan/chongqingbei.htm)| -| 07:50| 0分| -  
+2| [长寿北](/huoche/zhan/changshoubei.htm)| 08:19| 08:32| 13分| -  
+3| [利川](/huoche/zhan/lichuan.htm)| 09:48| 09:50| 2分| -  
+4| [恩施](/huoche/zhan/enshi.htm)| 10:22| 10:26| 4分| -  
+5| [宜昌东](/huoche/zhan/yichangdong.htm)| 12:10| 12:15| 5分| -  
+6| [荆州](/huoche/zhan/jingzhou2.htm)| 12:49| 12:54| 5分| -  
+7| [潜江](/huoche/zhan/qianjiang2.htm)| 13:19| 13:21| 2分| -  
+8| [天门南](/huoche/zhan/tianmennan.htm)| 13:41| 13:43| 2分| -  
+9| [汉川](/huoche/zhan/hanchun.htm)| 13:59| 14:01| 2分| -  
+10| [汉口](/huoche/zhan/hankou.htm)| 14:25| 14:41| 16分| -  
+11| [武汉](/huoche/zhan/wuhan.htm)| 15:04| 15:12| 8分| -  
+12| [咸宁北](/huoche/zhan/xianningbei.htm)| 15:36| 15:46| 10分| -  
+13| [汨罗东](/huoche/zhan/miluodong.htm)| 16:31| 16:33| 2分| -  
+14| [长沙南](/huoche/zhan/changshanan.htm)| 16:52| 16:55| 3分| -  
+15| [株洲西](/huoche/zhan/zhuzhouxi.htm)| 17:10| 17:12| 2分| -  
+16| [衡阳东](/huoche/zhan/hengyangdong.htm)| 17:39| 17:41| 2分| -  
+17| [郴州西](/huoche/zhan/chenzhouxi.htm)| 18:14| 18:16| 2分| -  
+18| [韶关](/huoche/zhan/shaoguan.htm)| 18:47| 18:49| 2分| -  
+19| [广州南](/huoche/zhan/guangzhounan.htm)| 19:45| 19:49| 4分| -  
+20| [虎门](/huoche/zhan/humen.htm)| 20:06| 20:08| 2分| -  
+21| [深圳北](/huoche/zhan/shenzhenbei.htm)| 20:25| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

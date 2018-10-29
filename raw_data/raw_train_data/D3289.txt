@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从武汉开往厦门北的D3289动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D3289 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 武汉  
+发车时间 | 14:00  
+到站时间 | 21:30  
+全程时间 | 7小时30分  
+终点站 | 厦门北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [武汉](/huoche/zhan/wuhan.htm)| -| 14:00| 0分| -  
+2| [鄂州](/huoche/zhan/ezhou.htm)| 14:22| 14:24| 2分| -  
+3| [黄石北](/huoche/zhan/huangshibei.htm)| 14:36| 14:38| 2分| -  
+4| [大冶北](/huoche/zhan/dayebei.htm)| 14:46| 14:48| 2分| -  
+5| [白沙铺](/huoche/zhan/baishapu.htm)| 14:57| 14:59| 2分| -  
+6| [阳新](/huoche/zhan/yangxin.htm)| 15:08| 15:12| 4分| -  
+7| [瑞昌西](/huoche/zhan/ruichangxi.htm)| 15:30| 15:32| 2分| -  
+8| [德安](/huoche/zhan/dean.htm)| 15:56| 15:58| 2分| -  
+9| [南昌西](/huoche/zhan/nanchangxi.htm)| 16:31| 16:37| 6分| -  
+10| [抚州](/huoche/zhan/fuzhou2.htm)| 17:16| 17:18| 2分| -  
+11| [南城](/huoche/zhan/nancheng.htm)| 17:38| 17:40| 2分| -  
+12| [泰宁](/huoche/zhan/taining.htm)| 18:18| 18:20| 2分| -  
+13| [三明北](/huoche/zhan/sanmingbei.htm)| 18:53| 18:57| 4分| -  
+14| [尤溪](/huoche/zhan/youxi2.htm)| 19:15| 19:18| 3分| -  
+15| [永泰](/huoche/zhan/yongtai.htm)| 19:52| 19:54| 2分| -  
+16| [泉州](/huoche/zhan/quanzhou2.htm)| 20:53| 20:58| 5分| -  
+17| [晋江](/huoche/zhan/jinjiang.htm)| 21:10| 21:12| 2分| -  
+18| [厦门北](/huoche/zhan/xiamenbei.htm)| 21:30| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从宁武开往岢岚的8819普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 8819 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 宁武  
+发车时间 | 12:38  
+到站时间 | 14:32  
+全程时间 | 1小时54分  
+终点站 | 岢岚  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [宁武](/huoche/zhan/ningwu.htm)| -| 12:38| 0分| -  
+2| [神池](/huoche/zhan/shenchi.htm)| 12:58| 13:00| 2分| -  
+3| [五寨](/huoche/zhan/wuzhai.htm)| 13:42| 13:45| 3分| -  
+4| [安塘](/huoche/zhan/antang.htm)| 14:05| 14:08| 3分| -  
+5| [秦家庄](/huoche/zhan/qinjiazhuang.htm)| 14:17| 14:20| 3分| -  
+6| [岢岚](/huoche/zhan/kelan.htm)| 14:32| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

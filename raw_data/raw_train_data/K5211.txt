@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京西开往邯郸的K5211快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K5211 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 北京西  
+发车时间 | 14:05  
+到站时间 | 22:05  
+全程时间 | 8小时0分  
+终点站 | 邯郸  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京西](/huoche/zhan/beijingxi.htm)| \----| 14:05| 0分| -  
+2| [涿州](/huoche/zhan/zhuozhou.htm)| 14:49| 15:07| 18分| -  
+3| [高碑店](/huoche/zhan/gaobeidian.htm)| 15:21| 15:24| 3分| -  
+4| [保定](/huoche/zhan/baoding.htm)| 16:02| 16:35| 33分| -  
+5| [定州](/huoche/zhan/dingzhou.htm)| 17:12| 17:15| 3分| -  
+6| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 18:54| 19:16| 22分| -  
+7| [高邑](/huoche/zhan/gaoyi.htm)| 19:45| 20:03| 18分| -  
+8| [邢台](/huoche/zhan/xingtai.htm)| 20:40| 20:44| 4分| -  
+9| [邯郸](/huoche/zhan/handan.htm)| 22:05| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

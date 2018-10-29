@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海开往洛阳的K735快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K735 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 上海  
+发车时间 | 14:06  
+到站时间 | 07:11  
+全程时间 | 17小时5分  
+终点站 | 洛阳  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海](/huoche/zhan/shanghai.htm)| -| 14:06| 0分| -  
+2| [昆山](/huoche/zhan/kunshan.htm)| 14:48| 14:57| 9分| -  
+3| [苏州](/huoche/zhan/suzhou.htm)| 15:21| 15:24| 3分| -  
+5| [丹阳](/huoche/zhan/danyang.htm)| 16:51| 17:01| 10分| -  
+6| [镇江](/huoche/zhan/zhenjiang.htm)| 17:21| 17:24| 3分| -  
+7| [南京](/huoche/zhan/nanjing.htm)| 18:10| 18:19| 9分| -  
+8| [滁州北](/huoche/zhan/chuzhoubei.htm)| 18:57| 19:01| 4分| -  
+9| [蚌埠](/huoche/zhan/bengbu.htm)| 21:06| 21:09| 3分| -  
+10| [徐州](/huoche/zhan/xuzhou.htm)| 23:00| 23:08| 8分| -  
+11| [商丘](/huoche/zhan/shangqiu.htm)| 01:59| 02:03| 4分| -  
+12| [兰考](/huoche/zhan/lankao.htm)| 03:05| 03:09| 4分| -  
+13| [开封](/huoche/zhan/kaifeng.htm)| 03:40| 03:44| 4分| -  
+14| [郑州](/huoche/zhan/zhengzhou.htm)| 04:30| 05:06| 36分| -  
+15| [巩义](/huoche/zhan/gongyi.htm)| 06:17| 06:19| 2分| -  
+16| [偃师](/huoche/zhan/yanshi.htm)| 06:38| 06:42| 4分| -  
+17| [洛阳](/huoche/zhan/luoyang.htm)| 07:11| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

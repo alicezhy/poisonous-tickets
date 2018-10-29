@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从平原东开往荣成的D6077动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D6077 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 平原东  
+发车时间 | 17:08  
+到站时间 | 22:43  
+全程时间 | 5小时35分  
+终点站 | 荣成  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [平原东](/huoche/zhan/pingyuandong.htm)| -| 17:08| 0分| -  
+2| [禹城东](/huoche/zhan/yuchengdong.htm)| 17:18| 17:20| 2分| -  
+3| [济南西](/huoche/zhan/jinanxi.htm)| 17:43| 17:49| 6分| -  
+4| [济南](/huoche/zhan/jinan.htm)| 18:06| 18:10| 4分| -  
+5| [淄博](/huoche/zhan/zibo.htm)| 18:52| 18:56| 4分| -  
+6| [潍坊](/huoche/zhan/weifang.htm)| 19:31| 19:38| 7分| -  
+7| [莱阳](/huoche/zhan/laiyang.htm)| 20:53| 20:55| 2分| -  
+8| [烟台南](/huoche/zhan/yantainan.htm)| 21:28| 21:30| 2分| -  
+9| [牟平](/huoche/zhan/muping.htm)| 21:41| 21:42| 1分| -  
+10| [威海北](/huoche/zhan/weihaibei.htm)| 21:58| 22:00| 2分| -  
+11| [威海](/huoche/zhan/weihai.htm)| 22:08| 22:16| 8分| -  
+12| [文登东](/huoche/zhan/wendengdong.htm)| 22:29| 22:31| 2分| -  
+13| [荣成](/huoche/zhan/rongcheng.htm)| 22:43| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

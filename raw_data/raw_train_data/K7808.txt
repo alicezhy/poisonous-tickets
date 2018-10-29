@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从运城开往大同的K7808快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7808 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 运城  
+发车时间 | 08:00  
+到站时间 | 20:12  
+全程时间 | 12小时12分  
+终点站 | 大同  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [运城](/huoche/zhan/yuncheng.htm)| -| 08:00| 0分| -  
+2| [闻喜](/huoche/zhan/wenxi.htm)| 08:34| 08:36| 2分| -  
+3| [东镇](/huoche/zhan/dongzhen.htm)| 08:48| 08:51| 3分| -  
+4| [侯马](/huoche/zhan/houma.htm)| 09:20| 09:28| 8分| -  
+5| [临汾](/huoche/zhan/linfen.htm)| 10:16| 10:22| 6分| -  
+6| [洪洞](/huoche/zhan/hongdong.htm)| 10:40| 10:42| 2分| -  
+7| [霍州](/huoche/zhan/huozhou.htm)| 11:19| 11:21| 2分| -  
+8| [灵石](/huoche/zhan/lingshi.htm)| 11:57| 11:59| 2分| -  
+9| [介休](/huoche/zhan/jiexiu.htm)| 12:25| 12:33| 8分| -  
+10| [平遥](/huoche/zhan/pingyao.htm)| 12:55| 12:58| 3分| -  
+11| [太谷](/huoche/zhan/taigu.htm)| 13:29| 13:31| 2分| -  
+12| [榆次](/huoche/zhan/yuci.htm)| 13:58| 14:02| 4分| -  
+13| [太原南](/huoche/zhan/taiyuannan.htm)| 14:19| 14:22| 3分| -  
+14| [太原](/huoche/zhan/taiyuan.htm)| 14:35| 14:50| 15分| -  
+15| [忻州](/huoche/zhan/xinzhou.htm)| 15:58| 16:01| 3分| -  
+16| [原平](/huoche/zhan/yuanping.htm)| 16:29| 16:32| 3分| -  
+17| [宁武](/huoche/zhan/ningwu.htm)| 17:35| 17:40| 5分| -  
+18| [朔州](/huoche/zhan/shuozhou.htm)| 18:10| 18:18| 8分| -  
+19| [岱岳](/huoche/zhan/daiyue.htm)| 18:49| 18:53| 4分| -  
+20| [怀仁](/huoche/zhan/huairen.htm)| 19:24| 19:28| 4分| -  
+21| [大同](/huoche/zhan/datong.htm)| 20:12| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

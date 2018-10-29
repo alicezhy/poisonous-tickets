@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从西宁开往重庆的K2638快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K2638 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 西宁  
+发车时间 | 20:50  
+到站时间 | 12:39  
+全程时间 | 15小时49分  
+终点站 | 重庆  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [西宁](/huoche/zhan/xining.htm)| \----| 20:50| 0分| -  
+2| [平安驿](/huoche/zhan/pinganyi.htm)| 21:21| 21:26| 5分| -  
+3| [乐都](/huoche/zhan/ledu.htm)| 21:48| 21:52| 4分| -  
+4| [海石湾](/huoche/zhan/haishiwan.htm)| 22:24| 22:31| 7分| -  
+5| [兰州](/huoche/zhan/lanzhou.htm)| 23:56| 00:11| 15分| -  
+6| [渭源](/huoche/zhan/weiyuan.htm)| 01:43| 01:48| 5分| -  
+7| [岷县](/huoche/zhan/minxian.htm)| 02:43| 02:47| 4分| -  
+8| [哈达铺](/huoche/zhan/hadapu.htm)| 03:09| 03:13| 4分| -  
+9| [陇南](/huoche/zhan/longnan2.htm)| 04:32| 04:38| 6分| -  
+10| [广元](/huoche/zhan/guangyuan.htm)| 06:27| 06:53| 26分| -  
+11| [阆中](/huoche/zhan/langzhong.htm)| 07:58| 08:03| 5分| -  
+12| [南部](/huoche/zhan/nanbu.htm)| 08:18| 08:23| 5分| -  
+13| [南充北](/huoche/zhan/nanchongbei.htm)| 09:00| 09:05| 5分| -  
+14| [武胜](/huoche/zhan/wusheng.htm)| 09:40| 09:45| 5分| -  
+15| [合川](/huoche/zhan/hechuan.htm)| 10:22| 10:26| 4分| -  
+16| [重庆](/huoche/zhan/chongqing.htm)| 12:39| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从桂林北开往大理的D3934动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D3934 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 桂林北  
+发车时间 | 06:50  
+到站时间 | 17:26  
+全程时间 | 10小时36分  
+终点站 | 大理  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [桂林北](/huoche/zhan/guilinbei.htm)| \----| 06:50| 0分| -  
+2| [桂林](/huoche/zhan/guilin.htm)| 07:01| 07:05| 4分| -  
+3| [鹿寨北](/huoche/zhan/luzhaibei.htm)| 07:45| 07:47| 2分| -  
+4| [柳州](/huoche/zhan/liuzhou.htm)| 08:16| 08:20| 4分| -  
+5| [宾阳](/huoche/zhan/binyang.htm)| 09:02| 09:04| 2分| -  
+6| [南宁东](/huoche/zhan/nanningdong.htm)| 09:30| 09:37| 7分| -  
+7| [南宁](/huoche/zhan/nanning.htm)| 09:48| 09:55| 7分| -  
+8| [平果](/huoche/zhan/pingguo.htm)| 10:38| 10:42| 4分| -  
+9| [田东北](/huoche/zhan/tiandongbei.htm)| 11:04| 11:08| 4分| -  
+10| [田阳](/huoche/zhan/tianyang.htm)| 11:20| 11:22| 2分| -  
+11| [百色](/huoche/zhan/baise.htm)| 11:38| 11:42| 4分| -  
+12| [富宁](/huoche/zhan/funing3.htm)| 12:25| 12:27| 2分| -  
+13| [广南县](/huoche/zhan/guangnanxian.htm)| 12:53| 12:56| 3分| -  
+14| [普者黑](/huoche/zhan/puzhehei.htm)| 13:29| 13:33| 4分| -  
+15| [弥勒](/huoche/zhan/mile.htm)| 14:12| 14:14| 2分| -  
+16| [昆明南](/huoche/zhan/kunmingnan.htm)| 14:49| 14:56| 7分| -  
+17| [昆明](/huoche/zhan/kunming.htm)| 15:14| 15:18| 4分| -  
+18| [楚雄](/huoche/zhan/chuxiong.htm)| 16:17| 16:19| 2分| -  
+19| [祥云](/huoche/zhan/xiangyun.htm)| 17:00| 17:02| 2分| -  
+20| [大理](/huoche/zhan/dali2.htm)| 17:26| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

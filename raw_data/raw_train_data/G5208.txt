@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从萍乡北开往厦门的G5208高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G5208 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 萍乡北  
+发车时间 | 12:18  
+到站时间 | 18:57  
+全程时间 | 6小时39分  
+终点站 | 厦门  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [萍乡北](/huoche/zhan/pingxiangbei2.htm)| -| 12:18| 0分| -  
+2| [宜春](/huoche/zhan/yichun.htm)| 12:35| 12:37| 2分| -  
+3| [高安](/huoche/zhan/gaoan.htm)| 13:09| 13:11| 2分| -  
+4| [南昌西](/huoche/zhan/nanchangxi.htm)| 13:27| 13:30| 3分| -  
+5| [鹰潭北](/huoche/zhan/yingtanbei.htm)| 14:04| 14:06| 2分| -  
+6| [弋阳](/huoche/zhan/yiyang3.htm)| 14:19| 14:21| 2分| -  
+7| [上饶](/huoche/zhan/shangrao.htm)| 14:42| 14:44| 2分| -  
+8| [武夷山北](/huoche/zhan/wuyishanbei.htm)| 15:07| 15:09| 2分| -  
+9| [武夷山东](/huoche/zhan/wuyishandong.htm)| 15:21| 15:23| 2分| -  
+10| [南平北](/huoche/zhan/nanpingbei.htm)| 15:50| 15:52| 2分| -  
+11| [古田北](/huoche/zhan/gutianbei.htm)| 16:07| 16:10| 3分| -  
+12| [福州](/huoche/zhan/fuzhou.htm)| 16:37| 16:42| 5分| -  
+13| [福州南](/huoche/zhan/fuzhounan.htm)| 16:58| 17:01| 3分| -  
+14| [莆田](/huoche/zhan/putian.htm)| 17:31| 17:40| 9分| -  
+15| [厦门北](/huoche/zhan/xiamenbei.htm)| 18:31| 18:33| 2分| -  
+16| [厦门](/huoche/zhan/xiamen.htm)| 18:57| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

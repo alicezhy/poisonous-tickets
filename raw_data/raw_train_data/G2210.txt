@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从成都东开往郑州东的G2210高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G2210 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 成都东  
+发车时间 | 15:29  
+到站时间 | 22:00  
+全程时间 | 6小时31分  
+终点站 | 郑州东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [成都东](/huoche/zhan/chengdudong.htm)| \----| 15:29| 0分| -  
+2| [德阳](/huoche/zhan/deyang.htm)| 15:53| 15:56| 3分| -  
+3| [绵阳](/huoche/zhan/mianyang.htm)| 16:13| 16:15| 2分| -  
+4| [广元](/huoche/zhan/guangyuan.htm)| 17:08| 17:14| 6分| -  
+5| [汉中](/huoche/zhan/hanzhong.htm)| 17:58| 18:04| 6分| -  
+6| [鄠邑](/huoche/zhan/huyi.htm)| 19:01| 19:05| 4分| -  
+7| [西安北](/huoche/zhan/xianbei.htm)| 19:27| 19:34| 7分| -  
+8| [渭南北](/huoche/zhan/weinanbei.htm)| 19:51| 19:53| 2分| -  
+9| [三门峡南](/huoche/zhan/sanmenxianan.htm)| 20:33| 20:35| 2分| -  
+10| [渑池南](/huoche/zhan/mianchinan.htm)| 20:53| 20:55| 2分| -  
+11| [洛阳龙门](/huoche/zhan/luoyanglongmen.htm)| 21:13| 21:15| 2分| -  
+12| [巩义南](/huoche/zhan/gongyinan.htm)| 21:29| 21:31| 2分| -  
+13| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 22:00| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

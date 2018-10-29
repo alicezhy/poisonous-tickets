@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从昆明开往西宁的K986快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K986 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 昆明  
+发车时间 | 18:54  
+到站时间 | 06:46  
+全程时间 | 35小时52分  
+终点站 | 西宁  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [昆明](/huoche/zhan/kunming.htm)| -| 18:54| 0分| -  
+3| [禄丰南](/huoche/zhan/lufengnan.htm)| 20:03| 20:05| 2分| -  
+4| [广通北](/huoche/zhan/guangtongbei.htm)| 20:33| 20:42| 9分| -  
+6| [元谋](/huoche/zhan/yuanmou.htm)| 22:07| 22:10| 3分| -  
+7| [攀枝花](/huoche/zhan/panzhihua.htm)| 23:38| 23:45| 7分| -  
+8| [西昌](/huoche/zhan/xichang.htm)| 02:49| 02:54| 5分| -  
+9| [峨眉](/huoche/zhan/emei.htm)| 09:55| 10:03| 8分| -  
+10| [眉山](/huoche/zhan/meishan.htm)| 11:04| 11:11| 7分| -  
+11| [成都](/huoche/zhan/chengdu.htm)| 14:03| 14:50| 47分| -  
+12| [绵阳](/huoche/zhan/mianyang.htm)| 16:30| 16:34| 4分| -  
+13| [江油](/huoche/zhan/jiangyou.htm)| 17:11| 17:19| 8分| -  
+14| [广元](/huoche/zhan/guangyuan.htm)| 20:53| 21:05| 12分| -  
+15| [陇南](/huoche/zhan/longnan2.htm)| 23:11| 23:16| 5分| -  
+16| [哈达铺](/huoche/zhan/hadapu.htm)| 00:43| 00:47| 4分| -  
+17| [岷县](/huoche/zhan/minxian.htm)| 01:10| 01:13| 3分| -  
+19| [渭源](/huoche/zhan/weiyuan.htm)| 02:09| 02:13| 4分| -  
+21| [兰州](/huoche/zhan/lanzhou.htm)| 03:49| 04:04| 15分| -  
+24| [西宁](/huoche/zhan/xining.htm)| 06:46| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

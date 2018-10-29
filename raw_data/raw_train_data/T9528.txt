@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从和田开往乌鲁木齐的T9528特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | T9528 |  
+---|---|---|---  
+车型 | 特快火车  
+始发站 | 和田  
+发车时间 | 14:29  
+到站时间 | 14:14  
+全程时间 | 23小时45分  
+终点站 | 乌鲁木齐  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [和田](/huoche/zhan/hetian.htm)| \----| 14:29| 0分| -  
+2| [墨玉](/huoche/zhan/muyu.htm)| 14:47| 14:50| 3分| -  
+3| [皮山](/huoche/zhan/pishang.htm)| 16:12| 16:17| 5分| -  
+4| [叶城](/huoche/zhan/yecheng.htm)| 17:07| 17:12| 5分| -  
+5| [莎车](/huoche/zhan/shache.htm)| 18:04| 18:08| 4分| -  
+6| [英吉沙](/huoche/zhan/yingjiesha.htm)| 19:47| 19:49| 2分| -  
+7| [喀什](/huoche/zhan/kashi.htm)| 20:36| 20:56| 20分| -  
+8| [巴楚](/huoche/zhan/bachu.htm)| 23:54| 23:58| 4分| -  
+9| [阿克苏](/huoche/zhan/akesu.htm)| 03:08| 03:16| 8分| -  
+10| [库车](/huoche/zhan/kuche.htm)| 05:31| 05:39| 8分| -  
+11| [库尔勒](/huoche/zhan/kuerle.htm)| 08:31| 08:55| 24分| -  
+12| [焉耆](/huoche/zhan/yanqi.htm)| 09:29| 09:33| 4分| -  
+13| [吐鲁番北](/huoche/zhan/tulufanbei.htm)| 12:06| 12:29| 23分| -  
+14| [乌鲁木齐南](/huoche/zhan/wulumuqinan.htm)| 13:55| 14:00| 5分| -  
+15| [乌鲁木齐](/huoche/zhan/wulumuqi.htm)| 14:14| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

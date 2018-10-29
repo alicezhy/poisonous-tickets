@@ -1,0 +1,62 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从青岛北开往襄阳的K1196快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1196 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 青岛北  
+发车时间 | 20:10  
+到站时间 | 21:53  
+全程时间 | 25小时43分  
+终点站 | 襄阳  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [青岛北](/huoche/zhan/qingdaobei.htm)| -| 20:10| 0分| -  
+2| [高密](/huoche/zhan/gaomi.htm)| 20:57| 21:03| 6分| -  
+3| [潍坊](/huoche/zhan/weifang.htm)| 21:46| 21:49| 3分| -  
+4| [青州市](/huoche/zhan/qingzhoushi.htm)| 22:21| 22:24| 3分| -  
+5| [淄博](/huoche/zhan/zibo.htm)| 22:50| 22:59| 9分| -  
+6| [济南](/huoche/zhan/jinan.htm)| 00:07| 00:33| 26分| -  
+7| [泰山](/huoche/zhan/taishan.htm)| 01:25| 01:28| 3分| -  
+8| [兖州](/huoche/zhan/yanzhou.htm)| 03:06| 03:26| 20分| -  
+9| [徐州](/huoche/zhan/xuzhou.htm)| 05:19| 05:33| 14分| -  
+10| [淮北](/huoche/zhan/huaibei.htm)| 06:35| 06:39| 4分| -  
+11| [涡阳](/huoche/zhan/guoyang.htm)| 07:33| 07:36| 3分| -  
+12| [阜阳](/huoche/zhan/fuyang.htm)| 08:42| 09:07| 25分| -  
+13| [太和北](/huoche/zhan/taihebei.htm)| 09:55| 09:58| 3分| -  
+14| [界首市](/huoche/zhan/jieshoushi.htm)| 10:19| 10:22| 3分| -  
+15| [沈丘](/huoche/zhan/shenqiu.htm)| 10:49| 10:52| 3分| -  
+16| [项城](/huoche/zhan/xiangcheng.htm)| 11:12| 11:15| 3分| -  
+17| [周口](/huoche/zhan/zhoukou.htm)| 11:42| 11:50| 8分| -  
+18| [漯河](/huoche/zhan/luohe.htm)| 12:41| 13:13| 32分| -  
+19| [驻马店](/huoche/zhan/zhumadian.htm)| 13:52| 13:55| 3分| -  
+20| [信阳](/huoche/zhan/xinyang.htm)| 14:54| 14:58| 4分| -  
+21| [广水](/huoche/zhan/guangshui.htm)| 15:45| 15:48| 3分| -  
+22| [花园](/huoche/zhan/huayuan.htm)| 16:21| 16:24| 3分| -  
+23| [孝感](/huoche/zhan/xiaogan.htm)| 16:45| 16:48| 3分| -  
+24| [汉口](/huoche/zhan/hankou.htm)| 17:34| 17:54| 20分| -  
+25| [云梦](/huoche/zhan/yunmeng.htm)| 19:05| 19:08| 3分| -  
+26| [安陆](/huoche/zhan/anlu.htm)| 19:25| 19:28| 3分| -  
+27| [随州](/huoche/zhan/suizhou.htm)| 20:04| 20:07| 3分| -  
+28| [襄阳](/huoche/zhan/xiangyang2.htm)| 21:53| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

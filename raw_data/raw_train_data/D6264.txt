@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南昌开往婺源的D6264动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D6264 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 南昌  
+发车时间 | 14:15  
+到站时间 | 17:13  
+全程时间 | 2小时58分  
+终点站 | 婺源  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南昌](/huoche/zhan/nanchang.htm)| \----| 14:15| 0分| -  
+2| [永修](/huoche/zhan/yongxiu.htm)| 14:37| 14:39| 2分| -  
+3| [共青城](/huoche/zhan/gongqingcheng.htm)| 14:50| 14:52| 2分| -  
+4| [庐山](/huoche/zhan/lushan.htm)| 15:10| 15:12| 2分| -  
+5| [九江](/huoche/zhan/jiujiang.htm)| 15:23| 15:27| 4分| -  
+6| [都昌](/huoche/zhan/duchang.htm)| 15:58| 16:00| 2分| -  
+7| [鄱阳](/huoche/zhan/poyang.htm)| 16:21| 16:23| 2分| -  
+8| [景德镇北](/huoche/zhan/jingdezhenbei.htm)| 16:41| 16:45| 4分| -  
+9| [婺源](/huoche/zhan/wuyuan2.htm)| 17:13| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

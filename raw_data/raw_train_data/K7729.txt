@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京开往德州的K7729快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7729 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 北京  
+发车时间 | 09:13  
+到站时间 | 15:38  
+全程时间 | 6小时25分  
+终点站 | 德州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京](/huoche/zhan/beijing.htm)| -| 09:13| 0分| -  
+2| [廊坊北](/huoche/zhan/langfangbei.htm)| 10:36| 10:40| 4分| -  
+3| [天津西](/huoche/zhan/tianjinxi.htm)| 11:39| 11:52| 13分| -  
+4| [杨柳青](/huoche/zhan/yangliuqing.htm)| 12:07| 12:09| 2分| -  
+5| [静海](/huoche/zhan/jinghai.htm)| 12:28| 12:31| 3分| -  
+6| [青县](/huoche/zhan/qingxian.htm)| 12:57| 13:08| 11分| -  
+7| [沧州](/huoche/zhan/cangzhou.htm)| 13:30| 13:36| 6分| -  
+8| [泊头](/huoche/zhan/botou.htm)| 14:22| 14:26| 4分| -  
+9| [吴桥](/huoche/zhan/wuqiao.htm)| 15:08| 15:11| 3分| -  
+10| [德州](/huoche/zhan/dezhou.htm)| 15:38| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

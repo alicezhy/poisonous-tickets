@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海虹桥开往洛阳龙门的G1822高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1822 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 上海虹桥  
+发车时间 | 15:40  
+到站时间 | 21:23  
+全程时间 | 5小时43分  
+终点站 | 洛阳龙门  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| -| 15:40| 0分| -  
+2| [无锡东](/huoche/zhan/wuxidong.htm)| 16:08| 16:16| 8分| -  
+3| [丹阳北](/huoche/zhan/danyangbei.htm)| 16:39| 16:41| 2分| -  
+4| [南京南](/huoche/zhan/nanjingnan.htm)| 17:06| 17:09| 3分| -  
+5| [滁州](/huoche/zhan/chuzhou.htm)| 17:27| 17:32| 5分| -  
+6| [蚌埠南](/huoche/zhan/bengbunan.htm)| 18:01| 18:08| 7分| -  
+7| [徐州东](/huoche/zhan/xuzhoudong.htm)| 18:45| 18:49| 4分| -  
+8| [永城北](/huoche/zhan/yongchengbei.htm)| 19:15| 19:17| 2分| -  
+9| [商丘](/huoche/zhan/shangqiu.htm)| 19:40| 19:42| 2分| -  
+10| [民权北](/huoche/zhan/minquanbei.htm)| 19:58| 20:00| 2分| -  
+11| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 20:40| 20:47| 7分| -  
+12| [洛阳龙门](/huoche/zhan/luoyanglongmen.htm)| 21:23| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

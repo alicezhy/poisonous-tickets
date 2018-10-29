@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从益阳开往怀化的7273普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 7273 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 益阳  
+发车时间 | 07:15  
+到站时间 | 16:35  
+全程时间 | 9小时20分  
+终点站 | 怀化  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [益阳](/huoche/zhan/yiyang.htm)| -| 07:15| 0分| -  
+3| [娄底](/huoche/zhan/loudi.htm)| 09:13| 09:31| 18分| -  
+4| [涟源](/huoche/zhan/lianyuan.htm)| 10:17| 10:20| 3分| -  
+5| [冷水江东](/huoche/zhan/lingshuijiangdong.htm)| 11:12| 11:17| 5分| -  
+6| [新化](/huoche/zhan/xinhua.htm)| 11:40| 11:43| 3分| -  
+7| [安化](/huoche/zhan/anhua.htm)| 12:37| 13:04| 27分| -  
+8| [低庄](/huoche/zhan/dizhuang.htm)| 14:05| 14:08| 3分| -  
+9| [溆浦](/huoche/zhan/xupu.htm)| 14:41| 14:43| 2分| -  
+10| [辰溪](/huoche/zhan/chenxi.htm)| 15:30| 15:33| 3分| -  
+11| [怀化](/huoche/zhan/huaihua.htm)| 16:35| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

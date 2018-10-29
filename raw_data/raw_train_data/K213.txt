@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从天津开往西安的K213快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K213 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 天津  
+发车时间 | 14:33  
+到站时间 | 10:02  
+全程时间 | 19小时29分  
+终点站 | 西安  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [天津](/huoche/zhan/tianjin.htm)| -| 14:33| 0分| -  
+2| [天津西](/huoche/zhan/tianjinxi.htm)| 14:49| 14:51| 2分| -  
+3| [杨柳青](/huoche/zhan/yangliuqing.htm)| 15:03| 15:05| 2分| -  
+4| [静海](/huoche/zhan/jinghai.htm)| 15:23| 15:25| 2分| -  
+5| [沧州](/huoche/zhan/cangzhou.htm)| 16:09| 16:12| 3分| -  
+6| [德州](/huoche/zhan/dezhou.htm)| 17:29| 17:52| 23分| -  
+7| [衡水](/huoche/zhan/hengshui.htm)| 18:41| 18:45| 4分| -  
+8| [辛集](/huoche/zhan/xinji.htm)| 19:21| 19:23| 2分| -  
+9| [石家庄北](/huoche/zhan/shijiazhuangbei.htm)| 20:25| 20:31| 6分| -  
+10| [太原](/huoche/zhan/taiyuan.htm)| 23:07| 23:21| 14分| -  
+11| [交城](/huoche/zhan/jiaocheng.htm)| 00:12| 00:14| 2分| -  
+12| [文水](/huoche/zhan/wenshui.htm)| 00:26| 00:28| 2分| -  
+13| [汾阳](/huoche/zhan/fenyang.htm)| 00:43| 00:45| 2分| -  
+14| [吕梁](/huoche/zhan/lvliang.htm)| 01:32| 01:36| 4分| -  
+15| [绥德](/huoche/zhan/suide.htm)| 03:04| 03:37| 33分| -  
+16| [延安](/huoche/zhan/yanan.htm)| 05:27| 05:35| 8分| -  
+17| [蒲城东](/huoche/zhan/puchengdong.htm)| 07:42| 07:48| 6分| -  
+18| [西安](/huoche/zhan/xian.htm)| 10:02| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

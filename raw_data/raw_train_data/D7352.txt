@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从三亚开往海口的D7352动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D7352 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 三亚  
+发车时间 | 19:45  
+到站时间 | 21:53  
+全程时间 | 2小时8分  
+终点站 | 海口  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [三亚](/huoche/zhan/sanya.htm)| \----| 19:45| 0分| -  
+2| [陵水](/huoche/zhan/lingshui.htm)| 20:06| 20:08| 2分| -  
+3| [万宁](/huoche/zhan/wangning.htm)| 20:24| 20:26| 2分| -  
+4| [琼海](/huoche/zhan/qionghai.htm)| 20:43| 20:45| 2分| -  
+5| [文昌](/huoche/zhan/wenchang.htm)| 21:01| 21:03| 2分| -  
+6| [美兰](/huoche/zhan/meilan.htm)| 21:20| 21:23| 3分| -  
+7| [海口东](/huoche/zhan/haikoudong.htm)| 21:30| 21:34| 4分| -  
+8| [海口](/huoche/zhan/haikou.htm)| 21:53| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

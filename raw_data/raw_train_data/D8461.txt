@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从桂林开往百色的D8461动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D8461 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 桂林  
+发车时间 | 17:56  
+到站时间 | 22:31  
+全程时间 | 4小时35分  
+终点站 | 百色  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [桂林](/huoche/zhan/guilin.htm)| -| 17:56| 0分| -  
+2| [鹿寨北](/huoche/zhan/luzhaibei.htm)| 18:36| 18:38| 2分| -  
+3| [柳州](/huoche/zhan/liuzhou.htm)| 19:07| 19:14| 7分| -  
+4| [来宾北](/huoche/zhan/laibinbei.htm)| 19:39| 19:41| 2分| -  
+5| [南宁东](/huoche/zhan/nanningdong.htm)| 20:24| 20:30| 6分| -  
+6| [南宁](/huoche/zhan/nanning.htm)| 20:41| 20:48| 7分| -  
+7| [隆安东](/huoche/zhan/longandong.htm)| 21:22| 21:24| 2分| -  
+8| [平果](/huoche/zhan/pingguo.htm)| 21:37| 21:41| 4分| -  
+9| [田东北](/huoche/zhan/tiandongbei.htm)| 22:03| 22:07| 4分| -  
+10| [百色](/huoche/zhan/baise.htm)| 22:31| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

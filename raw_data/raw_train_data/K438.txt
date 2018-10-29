@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从武昌开往惠州的K438快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K438 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 武昌  
+发车时间 | 15:12  
+到站时间 | 06:50  
+全程时间 | 15小时38分  
+终点站 | 惠州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [武昌](/huoche/zhan/wuchang.htm)| \----| 15:12| 0分| -  
+2| [咸宁](/huoche/zhan/xianning.htm)| 16:09| 16:12| 3分| -  
+3| [赤壁](/huoche/zhan/chibi2.htm)| 16:41| 16:44| 3分| -  
+4| [路口铺](/huoche/zhan/lukoupu.htm)| 17:30| 17:32| 2分| -  
+5| [岳阳](/huoche/zhan/yueyang.htm)| 17:55| 18:01| 6分| -  
+6| [汨罗](/huoche/zhan/miluo.htm)| 18:42| 18:45| 3分| -  
+7| [长沙](/huoche/zhan/changsha.htm)| 19:39| 19:50| 11分| -  
+8| [株洲](/huoche/zhan/zhuzhou.htm)| 20:29| 20:35| 6分| -  
+9| [衡山](/huoche/zhan/hengshan.htm)| 21:25| 21:28| 3分| -  
+10| [衡阳](/huoche/zhan/hengyang.htm)| 22:05| 22:10| 5分| -  
+11| [郴州](/huoche/zhan/chenzhou.htm)| 23:57| 00:02| 5分| -  
+12| [韶关东](/huoche/zhan/shaoguandong.htm)| 01:41| 01:55| 14分| -  
+13| [广州](/huoche/zhan/guangzhou.htm)| 04:26| 04:46| 20分| -  
+14| [东莞东](/huoche/zhan/dongguandong.htm)| 06:01| 06:07| 6分| -  
+15| [惠州](/huoche/zhan/huizhou.htm)| 06:50| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

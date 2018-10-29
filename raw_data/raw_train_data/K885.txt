@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从天津开往兰州西的K885快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K885 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 天津  
+发车时间 | 21:38  
+到站时间 | 05:42  
+全程时间 | 32小时4分  
+终点站 | 兰州西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [天津](/huoche/zhan/tianjin.htm)| \----| 21:38| 0分| -  
+2| [廊坊北](/huoche/zhan/langfangbei.htm)| 22:21| 22:24| 3分| -  
+3| [北京](/huoche/zhan/beijing.htm)| 23:21| 23:41| 20分| -  
+4| [沙岭子西](/huoche/zhan/shalingzixi.htm)| 02:54| 03:00| 6分| -  
+5| [大同](/huoche/zhan/datong.htm)| 05:48| 06:02| 14分| -  
+6| [集宁南](/huoche/zhan/jiningnan.htm)| 07:37| 07:45| 8分| -  
+7| [呼和浩特东](/huoche/zhan/huhehaotedong.htm)| 09:07| 09:27| 20分| -  
+8| [包头](/huoche/zhan/baotou.htm)| 12:09| 12:19| 10分| -  
+9| [临河](/huoche/zhan/linhe.htm)| 14:44| 14:54| 10分| -  
+10| [乌海](/huoche/zhan/wuhai.htm)| 16:23| 16:26| 3分| -  
+11| [惠农](/huoche/zhan/huinong.htm)| 17:07| 17:15| 8分| -  
+12| [石嘴山](/huoche/zhan/shizuishan.htm)| 17:48| 17:52| 4分| -  
+13| [银川](/huoche/zhan/yinchuan.htm)| 18:40| 18:51| 11分| -  
+14| [中卫](/huoche/zhan/zhongwei.htm)| 22:14| 22:26| 12分| -  
+15| [兰州](/huoche/zhan/lanzhou.htm)| 05:07| 05:30| 23分| -  
+16| [兰州西](/huoche/zhan/lanzhouxi.htm)| 05:42| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

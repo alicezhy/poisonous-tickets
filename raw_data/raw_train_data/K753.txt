@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从信阳开往上海南的K753快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K753 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 信阳  
+发车时间 | 13:30  
+到站时间 | 05:26  
+全程时间 | 15小时56分  
+终点站 | 上海南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [信阳](/huoche/zhan/xinyang.htm)| -| 13:30| 0分| -  
+2| [潢川](/huoche/zhan/huangchuan.htm)| 14:46| 14:50| 4分| -  
+3| [光山](/huoche/zhan/guangshan.htm)| 15:05| 15:08| 3分| -  
+4| [新县](/huoche/zhan/xinxian.htm)| 15:33| 15:36| 3分| -  
+5| [麻城](/huoche/zhan/macheng.htm)| 16:18| 16:24| 6分| -  
+6| [黄州](/huoche/zhan/huangzhou.htm)| 17:04| 17:07| 3分| -  
+7| [浠水](/huoche/zhan/xishui.htm)| 17:31| 17:34| 3分| -  
+8| [蕲春](/huoche/zhan/qinchun.htm)| 17:54| 17:57| 3分| -  
+9| [武穴](/huoche/zhan/wuxue.htm)| 18:25| 18:28| 3分| -  
+10| [九江](/huoche/zhan/jiujiang.htm)| 19:07| 19:40| 33分| -  
+11| [湖口](/huoche/zhan/hukou.htm)| 20:01| 20:05| 4分| -  
+12| [鄱阳](/huoche/zhan/poyang.htm)| 20:54| 20:58| 4分| -  
+13| [景德镇北](/huoche/zhan/jingdezhenbei.htm)| 21:22| 21:26| 4分| -  
+14| [婺源](/huoche/zhan/wuyuan2.htm)| 22:13| 22:16| 3分| -  
+15| [衢州](/huoche/zhan/quzhou.htm)| 23:28| 23:38| 10分| -  
+16| [义乌](/huoche/zhan/yiwu.htm)| 01:32| 01:35| 3分| -  
+17| [诸暨](/huoche/zhan/zhuji.htm)| 02:01| 02:04| 3分| -  
+18| [杭州东](/huoche/zhan/hangzhoudong.htm)| 03:14| 03:20| 6分| -  
+19| [海宁](/huoche/zhan/haining.htm)| 03:58| 04:01| 3分| -  
+20| [嘉兴](/huoche/zhan/jiaxing.htm)| 04:19| 04:23| 4分| -  
+21| [上海南](/huoche/zhan/shanghainan.htm)| 05:26| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

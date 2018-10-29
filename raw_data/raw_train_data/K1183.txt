@@ -1,0 +1,62 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从义乌开往烟台的K1183快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1183 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 义乌  
+发车时间 | 17:09  
+到站时间 | 18:38  
+全程时间 | 25小时29分  
+终点站 | 烟台  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [义乌](/huoche/zhan/yiwu.htm)| -| 17:09| 0分| -  
+2| [诸暨](/huoche/zhan/zhuji.htm)| 17:39| 17:42| 3分| -  
+3| [杭州](/huoche/zhan/hangzhou.htm)| 18:53| 19:08| 15分| -  
+4| [海宁](/huoche/zhan/haining.htm)| 19:47| 19:51| 4分| -  
+5| [嘉兴](/huoche/zhan/jiaxing.htm)| 20:09| 20:12| 3分| -  
+6| [松江](/huoche/zhan/songjiang.htm)| 20:48| 20:53| 5分| -  
+7| [上海南](/huoche/zhan/shanghainan.htm)| 21:17| 21:43| 26分| -  
+8| [苏州](/huoche/zhan/suzhou.htm)| 23:23| 23:28| 5分| -  
+9| [无锡](/huoche/zhan/wuxi.htm)| 23:59| 00:09| 10分| -  
+10| [常州](/huoche/zhan/changzhou.htm)| 00:49| 00:54| 5分| -  
+11| [南京](/huoche/zhan/nanjing.htm)| 02:19| 02:27| 8分| -  
+12| [滁州北](/huoche/zhan/chuzhoubei.htm)| 03:05| 03:09| 4分| -  
+13| [蚌埠](/huoche/zhan/bengbu.htm)| 04:33| 04:37| 4分| -  
+14| [徐州](/huoche/zhan/xuzhou.htm)| 06:33| 06:49| 16分| -  
+15| [滕州](/huoche/zhan/tengzhou.htm)| 07:59| 08:01| 2分| -  
+16| [邹城](/huoche/zhan/zoucheng.htm)| 08:29| 08:31| 2分| -  
+17| [兖州](/huoche/zhan/yanzhou.htm)| 08:46| 08:49| 3分| -  
+18| [磁窑](/huoche/zhan/ciyao.htm)| 09:23| 09:25| 2分| -  
+19| [泰山](/huoche/zhan/taishan.htm)| 09:50| 09:52| 2分| -  
+20| [济南](/huoche/zhan/jinan.htm)| 10:55| 11:12| 17分| -  
+21| [淄博](/huoche/zhan/zibo.htm)| 13:00| 13:04| 4分| -  
+22| [潍坊](/huoche/zhan/weifang.htm)| 14:17| 14:22| 5分| -  
+23| [胶州](/huoche/zhan/jiaozhou.htm)| 15:39| 15:41| 2分| -  
+24| [蓝村](/huoche/zhan/lancun.htm)| 15:57| 16:03| 6分| -  
+25| [莱阳](/huoche/zhan/laiyang.htm)| 17:00| 17:02| 2分| -  
+26| [海阳](/huoche/zhan/haiyang.htm)| 17:26| 17:28| 2分| -  
+27| [桃村](/huoche/zhan/taocun.htm)| 17:43| 17:46| 3分| -  
+28| [烟台](/huoche/zhan/yantai.htm)| 18:38| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

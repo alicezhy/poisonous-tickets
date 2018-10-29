@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从乌鲁木齐开往阿克苏的K9773快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K9773 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 乌鲁木齐  
+发车时间 | 20:41  
+到站时间 | 09:51  
+全程时间 | 13小时10分  
+终点站 | 阿克苏  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [乌鲁木齐](/huoche/zhan/wulumuqi.htm)| -| 20:41| 0分| -  
+2| [乌鲁木齐南](/huoche/zhan/wulumuqinan.htm)| 20:55| 20:58| 3分| -  
+3| [吐鲁番](/huoche/zhan/tulufan.htm)| 22:32| 23:02| 30分| -  
+4| [和硕](/huoche/zhan/heshuo.htm)| 01:45| 01:47| 2分| -  
+5| [焉耆](/huoche/zhan/yanqi.htm)| 02:13| 02:16| 3分| -  
+6| [库尔勒](/huoche/zhan/kuerle.htm)| 02:55| 03:25| 30分| -  
+7| [库车](/huoche/zhan/kuche.htm)| 06:39| 06:51| 12分| -  
+8| [新和](/huoche/zhan/xinhe.htm)| 07:25| 07:37| 12分| -  
+9| [阿克苏](/huoche/zhan/akesu.htm)| 09:51| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

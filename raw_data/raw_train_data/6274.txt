@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从乌伊岭开往佳木斯的6274普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 6274 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 乌伊岭  
+发车时间 | 05:15  
+到站时间 | 14:26  
+全程时间 | 9小时11分  
+终点站 | 佳木斯  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [乌伊岭](/huoche/zhan/wuyiling.htm)| -| 05:15| 0分| -  
+2| [汤旺河](/huoche/zhan/tangwanghe.htm)| 05:38| 05:40| 2分| -  
+3| [新青](/huoche/zhan/xinqing.htm)| 06:05| 06:07| 2分| -  
+4| [红星](/huoche/zhan/hongxing.htm)| 06:21| 06:23| 2分| -  
+5| [五营](/huoche/zhan/wuying.htm)| 07:00| 07:03| 3分| -  
+6| [红山](/huoche/zhan/hongshan2.htm)| 07:37| 07:39| 2分| -  
+7| [友好](/huoche/zhan/youhao.htm)| 08:05| 08:08| 3分| -  
+8| [双子河](/huoche/zhan/ShuangZiHe.htm)| 08:14| 08:16| 2分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

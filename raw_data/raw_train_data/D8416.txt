@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北海开往桂林的D8416动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D8416 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 北海  
+发车时间 | 18:24  
+到站时间 | 23:06  
+全程时间 | 4小时42分  
+终点站 | 桂林  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北海](/huoche/zhan/beihai.htm)| -| 18:24| 0分| -  
+2| [钦州东](/huoche/zhan/qinzhoudong.htm)| 18:59| 19:01| 2分| -  
+3| [南宁](/huoche/zhan/nanning.htm)| 19:58| 20:20| 22分| -  
+4| [南宁东](/huoche/zhan/nanningdong.htm)| 20:31| 20:38| 7分| -  
+5| [宾阳](/huoche/zhan/binyang.htm)| 21:04| 21:07| 3分| -  
+6| [来宾北](/huoche/zhan/laibinbei.htm)| 21:27| 21:29| 2分| -  
+7| [柳州](/huoche/zhan/liuzhou.htm)| 21:55| 22:01| 6分| -  
+8| [桂林](/huoche/zhan/guilin.htm)| 23:06| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

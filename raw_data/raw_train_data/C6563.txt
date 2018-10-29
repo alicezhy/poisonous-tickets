@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从青岛北开往荣成的C6563城际高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | C6563 |  
+---|---|---|---  
+车型 | 城际高铁  
+始发站 | 青岛北  
+发车时间 | 09:40  
+到站时间 | 12:31  
+全程时间 | 2小时51分  
+终点站 | 荣成  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [青岛北](/huoche/zhan/qingdaobei.htm)| -| 09:40| 0分| -  
+2| [即墨北](/huoche/zhan/jimobei.htm)| 09:56| 09:58| 2分| -  
+3| [莱西北](/huoche/zhan/laixibei.htm)| 10:18| 10:20| 2分| -  
+4| [莱阳](/huoche/zhan/laiyang.htm)| 10:32| 10:34| 2分| -  
+5| [海阳北](/huoche/zhan/haiyangbei.htm)| 10:47| 10:49| 2分| -  
+6| [桃村北](/huoche/zhan/taocunbei.htm)| 11:00| 11:02| 2分| -  
+7| [烟台南](/huoche/zhan/yantainan.htm)| 11:19| 11:21| 2分| -  
+8| [牟平](/huoche/zhan/muping.htm)| 11:33| 11:35| 2分| -  
+9| [威海北](/huoche/zhan/weihaibei.htm)| 11:51| 11:53| 2分| -  
+10| [威海](/huoche/zhan/weihai.htm)| 12:01| 12:03| 2分| -  
+11| [文登东](/huoche/zhan/wendengdong.htm)| 12:17| 12:19| 2分| -  
+12| [荣成](/huoche/zhan/rongcheng.htm)| 12:31| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

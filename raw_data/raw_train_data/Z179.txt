@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京开往乌鲁木齐的Z179直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z179 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 北京  
+发车时间 | 15:00  
+到站时间 | 06:19  
+全程时间 | 39小时19分  
+终点站 | 乌鲁木齐  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京](/huoche/zhan/beijing.htm)| -| 15:00| 0分| -  
+2| [宣化](/huoche/zhan/xuanhua.htm)| 17:49| 17:51| 2分| -  
+3| [沙岭子西](/huoche/zhan/shalingzixi.htm)| 18:10| 18:16| 6分| -  
+4| [大同](/huoche/zhan/datong.htm)| 21:01| 21:09| 8分| -  
+5| [集宁南](/huoche/zhan/jiningnan.htm)| 22:45| 22:51| 6分| -  
+6| [呼和浩特东](/huoche/zhan/huhehaotedong.htm)| 23:57| 00:04| 7分| -  
+7| [包头](/huoche/zhan/baotou.htm)| 01:39| 02:05| 26分| -  
+8| [临河](/huoche/zhan/linhe.htm)| 04:16| 04:22| 6分| -  
+9| [惠农](/huoche/zhan/huinong.htm)| 06:29| 06:33| 4分| -  
+10| [银川](/huoche/zhan/yinchuan.htm)| 07:45| 07:54| 9分| -  
+11| [中卫](/huoche/zhan/zhongwei.htm)| 09:54| 10:09| 15分| -  
+12| [武威](/huoche/zhan/wuwei.htm)| 13:35| 13:41| 6分| -  
+13| [金昌](/huoche/zhan/jinchang.htm)| 14:14| 14:20| 6分| -  
+14| [张掖](/huoche/zhan/zhangye.htm)| 15:58| 16:04| 6分| -  
+15| [嘉峪关](/huoche/zhan/jiayuguan.htm)| 18:07| 18:22| 15分| -  
+16| [柳园](/huoche/zhan/liuyuan.htm)| 21:16| 21:22| 6分| -  
+17| [哈密](/huoche/zhan/hami.htm)| 00:13| 00:32| 19分| -  
+18| [鄯善](/huoche/zhan/shanshan.htm)| 02:45| 02:59| 14分| -  
+19| [吐鲁番](/huoche/zhan/tulufan.htm)| 04:29| 04:35| 6分| -  
+20| [乌鲁木齐](/huoche/zhan/wulumuqi.htm)| 06:19| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

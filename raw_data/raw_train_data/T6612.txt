@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从金昌开往兰州的T6612特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | T6612 |  
+---|---|---|---  
+车型 | 特快火车  
+始发站 | 金昌  
+发车时间 | 17:35  
+到站时间 | 21:36  
+全程时间 | 4小时1分  
+终点站 | 兰州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [金昌](/huoche/zhan/jinchang.htm)| \----| 17:35| 0分| -  
+2| [武威](/huoche/zhan/wuwei.htm)| 18:12| 18:17| 5分| -  
+4| [古浪](/huoche/zhan/gulang.htm)| 18:56| 18:58| 2分| -  
+5| [天祝](/huoche/zhan/tianzhu2.htm)| 19:44| 19:46| 2分| -  
+6| [兰州西](/huoche/zhan/lanzhouxi.htm)| 21:22| 21:24| 2分| -  
+7| [兰州](/huoche/zhan/lanzhou.htm)| 21:36| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

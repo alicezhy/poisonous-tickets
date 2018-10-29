@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京南开往哈尔滨西的G393高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G393 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 北京南  
+发车时间 | 15:05  
+到站时间 | 22:09  
+全程时间 | 7小时4分  
+终点站 | 哈尔滨西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京南](/huoche/zhan/beijingnan.htm)| \----| 15:05| 0分| -  
+2| [天津西](/huoche/zhan/tianjinxi.htm)| 15:40| 15:43| 3分| -  
+3| [天津](/huoche/zhan/tianjin.htm)| 15:51| 15:54| 3分| -  
+4| [唐山](/huoche/zhan/tangshan.htm)| 16:26| 16:28| 2分| -  
+5| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 17:06| 17:09| 3分| -  
+6| [绥中北](/huoche/zhan/suizhongbei.htm)| 17:45| 17:46| 1分| -  
+7| [沈阳北](/huoche/zhan/shenyangbei.htm)| 19:42| 19:44| 2分| -  
+8| [铁岭西](/huoche/zhan/tielingxi.htm)| 20:02| 20:03| 1分| -  
+9| [四平东](/huoche/zhan/sipingdong.htm)| 20:34| 20:36| 2分| -  
+10| [长春西](/huoche/zhan/changchunxi.htm)| 21:03| 21:05| 2分| -  
+11| [德惠西](/huoche/zhan/dehuixi.htm)| 21:27| 21:29| 2分| -  
+12| [哈尔滨西](/huoche/zhan/haerbinxi.htm)| 22:09| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

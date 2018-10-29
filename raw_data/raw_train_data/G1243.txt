@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从长春开往济南西的G1243高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1243 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 长春  
+发车时间 | 15:35  
+到站时间 | 22:35  
+全程时间 | 7小时0分  
+终点站 | 济南西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [长春](/huoche/zhan/changchun.htm)| -| 15:35| 0分| -  
+2| [公主岭南](/huoche/zhan/gongzhulingnan.htm)| 15:59| 16:00| 1分| -  
+3| [铁岭西](/huoche/zhan/tielingxi.htm)| 16:40| 16:42| 2分| -  
+4| [沈阳北](/huoche/zhan/shenyangbei.htm)| 17:00| 17:03| 3分| -  
+5| [辽中](/huoche/zhan/liaozhong.htm)| 17:35| 17:36| 1分| -  
+6| [台安](/huoche/zhan/taian.htm)| 17:48| 17:49| 1分| -  
+7| [盘锦北](/huoche/zhan/panjinbei.htm)| 18:10| 18:11| 1分| -  
+8| [锦州南](/huoche/zhan/jinzhounan.htm)| 18:35| 18:36| 1分| -  
+9| [葫芦岛北](/huoche/zhan/huludaobei.htm)| 18:52| 18:53| 1分| -  
+10| [山海关](/huoche/zhan/shanhaiguan.htm)| 19:36| 19:38| 2分| -  
+11| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 19:52| 19:55| 3分| -  
+12| [北戴河](/huoche/zhan/beidaihe.htm)| 20:06| 20:08| 2分| -  
+13| [唐山](/huoche/zhan/tangshan.htm)| 20:39| 20:41| 2分| -  
+14| [天津西](/huoche/zhan/tianjinxi.htm)| 21:18| 21:24| 6分| -  
+15| [济南西](/huoche/zhan/jinanxi.htm)| 22:35| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

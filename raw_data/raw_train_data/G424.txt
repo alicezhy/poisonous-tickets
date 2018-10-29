@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南宁东开往石家庄的G424高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G424 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 南宁东  
+发车时间 | 09:00  
+到站时间 | 20:51  
+全程时间 | 11小时51分  
+终点站 | 石家庄  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南宁东](/huoche/zhan/nanningdong.htm)| -| 09:00| 0分| -  
+2| [柳州](/huoche/zhan/liuzhou.htm)| 10:04| 10:07| 3分| -  
+3| [鹿寨北](/huoche/zhan/luzhaibei.htm)| 10:35| 10:37| 2分| -  
+4| [永福南](/huoche/zhan/yongfunan.htm)| 10:59| 11:01| 2分| -  
+5| [桂林](/huoche/zhan/guilin.htm)| 11:23| 11:26| 3分| -  
+6| [兴安北](/huoche/zhan/xinganbei.htm)| 11:58| 12:00| 2分| -  
+7| [全州南](/huoche/zhan/quanzhounan.htm)| 12:21| 12:23| 2分| -  
+8| [东安东](/huoche/zhan/dongandong.htm)| 12:46| 12:48| 2分| -  
+9| [永州](/huoche/zhan/yongzhou.htm)| 13:05| 13:09| 4分| -  
+10| [祁东](/huoche/zhan/qidong.htm)| 13:35| 13:37| 2分| -  
+11| [衡阳东](/huoche/zhan/hengyangdong.htm)| 14:10| 14:13| 3分| -  
+12| [长沙南](/huoche/zhan/changshanan.htm)| 14:56| 15:01| 5分| -  
+13| [岳阳东](/huoche/zhan/yueyangdong.htm)| 15:34| 15:36| 2分| -  
+14| [咸宁北](/huoche/zhan/xianningbei.htm)| 16:06| 16:08| 2分| -  
+15| [武汉](/huoche/zhan/wuhan.htm)| 16:33| 16:39| 6分| -  
+16| [信阳东](/huoche/zhan/xinyangdong.htm)| 17:22| 17:24| 2分| -  
+17| [漯河西](/huoche/zhan/luohexi.htm)| 18:02| 18:04| 2分| -  
+18| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 18:38| 18:41| 3分| -  
+19| [新乡东](/huoche/zhan/xinxiangdong.htm)| 19:02| 19:08| 6分| -  
+20| [鹤壁东](/huoche/zhan/hebidong.htm)| 19:24| 19:26| 2分| -  
+21| [安阳东](/huoche/zhan/anyangdong.htm)| 19:41| 19:51| 10分| -  
+22| [邢台东](/huoche/zhan/xingtaidong.htm)| 20:21| 20:23| 2分| -  
+23| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 20:51| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

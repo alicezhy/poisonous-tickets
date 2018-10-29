@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从烟台开往菏泽的5046普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 5046 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 烟台  
+发车时间 | 17:30  
+到站时间 | 06:19  
+全程时间 | 12小时49分  
+终点站 | 菏泽  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [烟台](/huoche/zhan/yantai.htm)| \----| 17:30| 0分| -  
+2| [莱阳](/huoche/zhan/laiyang.htm)| 18:48| 18:56| 8分| -  
+3| [莱西](/huoche/zhan/laixi.htm)| 19:14| 19:23| 9分| -  
+4| [蓝村](/huoche/zhan/lancun.htm)| 20:13| 20:19| 6分| -  
+5| [胶州](/huoche/zhan/jiaozhou.htm)| 20:35| 20:40| 5分| -  
+6| [临沂](/huoche/zhan/linyi.htm)| 01:11| 01:21| 10分| -  
+7| [兖州](/huoche/zhan/yanzhou.htm)| 04:35| 04:43| 8分| -  
+8| [济宁](/huoche/zhan/jining2.htm)| 05:06| 05:08| 2分| -  
+9| [菏泽](/huoche/zhan/heze.htm)| 06:19| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

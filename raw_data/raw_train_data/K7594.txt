@@ -1,0 +1,41 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从阿尔山开往乌兰浩特的K7594快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7594 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 阿尔山  
+发车时间 | 09:25  
+到站时间 | 13:16  
+全程时间 | 3小时51分  
+终点站 | 乌兰浩特  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [阿尔山](/huoche/zhan/aershan.htm)| -| 09:25| 0分| -  
+2| [白狼](/huoche/zhan/bailang.htm)| 09:53| 09:55| 2分| -  
+3| [五叉沟](/huoche/zhan/wuchagou.htm)| 10:32| 10:39| 7分| -  
+4| [明水河](/huoche/zhan/mingshuihe.htm)| 11:13| 11:15| 2分| -  
+5| [索伦](/huoche/zhan/suolun.htm)| 11:45| 11:47| 2分| -  
+6| [大石寨](/huoche/zhan/dashizhai.htm)| 12:25| 12:33| 8分| -  
+7| [乌兰浩特](/huoche/zhan/wulanhaote.htm)| 13:16| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从西安开往银川的K1308快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1308 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 西安  
+发车时间 | 18:35  
+到站时间 | 09:08  
+全程时间 | 14小时33分  
+终点站 | 银川  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [西安](/huoche/zhan/xian.htm)| -| 18:35| 0分| -  
+2| [咸阳](/huoche/zhan/xianyang.htm)| 18:53| 18:57| 4分| -  
+3| [兴平](/huoche/zhan/xingping.htm)| 19:14| 19:16| 2分| -  
+4| [武功](/huoche/zhan/wugong.htm)| 19:35| 19:37| 2分| -  
+5| [杨陵](/huoche/zhan/yangling.htm)| 19:47| 19:50| 3分| -  
+6| [蔡家坡](/huoche/zhan/caijiapo.htm)| 20:21| 20:23| 2分| -  
+7| [宝鸡](/huoche/zhan/baoji.htm)| 21:00| 21:26| 26分| -  
+8| [陇县](/huoche/zhan/longxian.htm)| 22:59| 23:04| 5分| -  
+9| [平凉](/huoche/zhan/pingliang.htm)| 00:53| 01:01| 8分| -  
+10| [固原](/huoche/zhan/guyuan.htm)| 02:33| 02:41| 8分| -  
+11| [同心](/huoche/zhan/tongxin.htm)| 04:34| 04:39| 5分| -  
+12| [中卫](/huoche/zhan/zhongwei.htm)| 06:05| 06:25| 20分| -  
+13| [中宁](/huoche/zhan/zhongning.htm)| 07:00| 07:02| 2分| -  
+14| [青铜峡](/huoche/zhan/qingtongxia.htm)| 07:43| 07:45| 2分| -  
+15| [银川](/huoche/zhan/yinchuan.htm)| 09:08| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

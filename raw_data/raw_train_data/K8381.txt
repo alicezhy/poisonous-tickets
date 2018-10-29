@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从合肥开往黄山的K8381快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K8381 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 合肥  
+发车时间 | 08:10  
+到站时间 | 15:08  
+全程时间 | 6小时58分  
+终点站 | 黄山  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [合肥](/huoche/zhan/hefei.htm)| -| 08:10| 0分| -  
+2| [巢湖](/huoche/zhan/chaohu.htm)| 08:59| 09:03| 4分| -  
+3| [芜湖](/huoche/zhan/wuhu.htm)| 10:11| 10:17| 6分| -  
+4| [宣城](/huoche/zhan/xuancheng.htm)| 11:20| 11:27| 7分| -  
+5| [宁国](/huoche/zhan/ningguo.htm)| 12:25| 12:30| 5分| -  
+6| [绩溪县](/huoche/zhan/jixixian.htm)| 13:58| 14:10| 12分| -  
+7| [歙县](/huoche/zhan/shexian2.htm)| 14:37| 14:43| 6分| -  
+8| [黄山](/huoche/zhan/huangshan.htm)| 15:08| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

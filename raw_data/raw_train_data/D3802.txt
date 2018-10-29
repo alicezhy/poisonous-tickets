@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从广州南开往大理的D3802动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D3802 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 广州南  
+发车时间 | 06:54  
+到站时间 | 18:22  
+全程时间 | 11小时28分  
+终点站 | 大理  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [广州南](/huoche/zhan/guangzhounan.htm)| -| 06:54| 0分| -  
+2| [三水南](/huoche/zhan/sanshuinan.htm)| 07:21| 07:23| 2分| -  
+3| [肇庆东](/huoche/zhan/zhaoqingdong.htm)| 07:36| 07:38| 2分| -  
+4| [云浮东](/huoche/zhan/yunfudong.htm)| 08:03| 08:05| 2分| -  
+5| [梧州南](/huoche/zhan/wuzhounan.htm)| 08:44| 08:48| 4分| -  
+6| [贵港](/huoche/zhan/guigang.htm)| 09:49| 09:51| 2分| -  
+7| [南宁东](/huoche/zhan/nanningdong.htm)| 10:41| 10:46| 5分| -  
+8| [南宁](/huoche/zhan/nanning.htm)| 10:57| 11:01| 4分| -  
+9| [隆安东](/huoche/zhan/longandong.htm)| 11:35| 11:37| 2分| -  
+10| [平果](/huoche/zhan/pingguo.htm)| 11:50| 11:54| 4分| -  
+11| [田阳](/huoche/zhan/tianyang.htm)| 12:24| 12:26| 2分| -  
+12| [百色](/huoche/zhan/baise.htm)| 12:42| 12:46| 4分| -  
+13| [广南县](/huoche/zhan/guangnanxian.htm)| 13:51| 13:54| 3分| -  
+14| [普者黑](/huoche/zhan/puzhehei.htm)| 14:27| 14:29| 2分| -  
+15| [弥勒](/huoche/zhan/mile.htm)| 15:08| 15:10| 2分| -  
+16| [昆明南](/huoche/zhan/kunmingnan.htm)| 15:45| 15:52| 7分| -  
+17| [昆明](/huoche/zhan/kunming.htm)| 16:10| 16:14| 4分| -  
+18| [楚雄](/huoche/zhan/chuxiong.htm)| 17:13| 17:15| 2分| -  
+19| [南华](/huoche/zhan/nanhua.htm)| 17:30| 17:32| 2分| -  
+20| [大理](/huoche/zhan/dali2.htm)| 18:22| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从成都开往银川的K1616快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1616 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 成都  
+发车时间 | 15:03  
+到站时间 | 21:18  
+全程时间 | 30小时15分  
+终点站 | 银川  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [成都](/huoche/zhan/chengdu.htm)| -| 15:03| 0分| -  
+2| [绵阳](/huoche/zhan/mianyang.htm)| 16:45| 16:58| 13分| -  
+3| [江油](/huoche/zhan/jiangyou.htm)| 17:36| 17:41| 5分| -  
+4| [广元](/huoche/zhan/guangyuan.htm)| 20:29| 20:41| 12分| -  
+5| [陇南](/huoche/zhan/longnan2.htm)| 23:03| 23:09| 6分| -  
+6| [哈达铺](/huoche/zhan/hadapu.htm)| 00:35| 00:39| 4分| -  
+7| [渭源](/huoche/zhan/weiyuan.htm)| 01:55| 02:04| 9分| -  
+8| [兰州](/huoche/zhan/lanzhou.htm)| 03:40| 03:55| 15分| -  
+9| [定西](/huoche/zhan/dingxi.htm)| 05:11| 05:14| 3分| -  
+10| [陇西](/huoche/zhan/longxi.htm)| 06:07| 06:11| 4分| -  
+11| [天水](/huoche/zhan/tianshui.htm)| 08:15| 08:23| 8分| -  
+12| [张家川](/huoche/zhan/zhangjiachuan.htm)| 09:12| 09:16| 4分| -  
+13| [安口窑](/huoche/zhan/ankouyao.htm)| 10:14| 10:20| 6分| -  
+14| [平凉](/huoche/zhan/pingliang.htm)| 12:03| 12:12| 9分| -  
+15| [固原](/huoche/zhan/guyuan.htm)| 13:50| 13:53| 3分| -  
+16| [同心](/huoche/zhan/tongxin.htm)| 15:24| 15:26| 2分| -  
+17| [中卫](/huoche/zhan/zhongwei.htm)| 16:57| 17:12| 15分| -  
+19| [青铜峡](/huoche/zhan/qingtongxia.htm)| 19:44| 19:46| 2分| -  
+20| [银川](/huoche/zhan/yinchuan.htm)| 21:18| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,66 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从东营南开往乌兰浩特的K1532快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1532 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 东营南  
+发车时间 | 18:35  
+到站时间 | 17:15  
+全程时间 | 22小时40分  
+终点站 | 乌兰浩特  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [东营南](/huoche/zhan/dongyingnan.htm)| \----| 18:35| 0分| -  
+2| [利津南](/huoche/zhan/lijinnan.htm)| 19:00| 19:02| 2分| -  
+3| 19:17| 19:23| 6分| -  
+4| [阳信](/huoche/zhan/yangxin2.htm)| 19:48| 19:51| 3分| -  
+5| [商河](/huoche/zhan/shanghe.htm)| 20:34| 20:40| 6分| -  
+7| [德州](/huoche/zhan/dezhou.htm)| 21:44| 21:50| 6分| -  
+8| [吴桥](/huoche/zhan/wuqiao.htm)| 22:05| 22:07| 2分| -  
+9| [泊头](/huoche/zhan/botou.htm)| 22:38| 22:40| 2分| -  
+10| [沧州](/huoche/zhan/cangzhou.htm)| 23:04| 23:08| 4分| -  
+11| [青县](/huoche/zhan/qingxian.htm)| 23:28| 23:30| 2分| -  
+12| [静海](/huoche/zhan/jinghai.htm)| 23:56| 23:58| 2分| -  
+14| [天津](/huoche/zhan/tianjin.htm)| 01:11| 01:23| 12分| -  
+15| [唐山](/huoche/zhan/tangshan.htm)| 02:43| 02:49| 6分| -  
+17| [山海关](/huoche/zhan/shanhaiguan.htm)| 04:57| 05:03| 6分| -  
+18| [绥中](/huoche/zhan/suizhong2.htm)| 05:45| 05:48| 3分| -  
+19| [兴城](/huoche/zhan/xingcheng.htm)| 06:17| 06:19| 2分| -  
+20| [葫芦岛](/huoche/zhan/huludao.htm)| 06:36| 06:39| 3分| -  
+21| [锦州](/huoche/zhan/jinzhou.htm)| 07:18| 07:24| 6分| -  
+22| [沟帮子](/huoche/zhan/goubangzi.htm)| 08:04| 08:07| 3分| -  
+23| [大虎山](/huoche/zhan/dahushan.htm)| 08:34| 08:40| 6分| -  
+24| [新立屯](/huoche/zhan/xinlitun.htm)| 09:26| 09:29| 3分| -  
+25| [彰武](/huoche/zhan/zhangwu.htm)| 10:04| 10:08| 4分| -  
+26| [甘旗卡](/huoche/zhan/ganqika.htm)| 10:58| 11:02| 4分| -  
+27| [通辽](/huoche/zhan/tongliao.htm)| 12:03| 12:21| 18分| -  
+28| [宝龙山](/huoche/zhan/baolongshan.htm)| 13:07| 13:10| 3分| -  
+29| [太平川](/huoche/zhan/taipingchuan.htm)| 13:54| 13:59| 5分| -  
+30| [开通](/huoche/zhan/kaitong.htm)| 14:32| 14:35| 3分| -  
+31| [黑水](/huoche/zhan/heishui.htm)| 15:09| 15:11| 2分| -  
+32| [洮南](/huoche/zhan/taonan.htm)| 15:23| 15:25| 2分| -  
+33| [白城](/huoche/zhan/baicheng.htm)| 15:53| 16:10| 17分| -  
+34| [平台](/huoche/zhan/pingtai.htm)| 16:30| 16:32| 2分| -  
+35| [乌兰浩特](/huoche/zhan/wulanhaote.htm)| 17:15| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

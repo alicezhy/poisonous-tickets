@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从成都东开往长沙的K579快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K579 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 成都东  
+发车时间 | 19:00  
+到站时间 | 16:34  
+全程时间 | 21小时34分  
+终点站 | 长沙  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [成都东](/huoche/zhan/chengdudong.htm)| -| 19:00| 0分| -  
+2| [潼南](/huoche/zhan/tongnan.htm)| 20:54| 21:02| 8分| -  
+3| [合川](/huoche/zhan/hechuan.htm)| 21:35| 21:39| 4分| -  
+4| [重庆北](/huoche/zhan/chongqingbei.htm)| 22:19| 22:45| 26分| -  
+5| [涪陵](/huoche/zhan/fuling.htm)| 23:55| 23:59| 4分| -  
+6| [彭水](/huoche/zhan/pengshui.htm)| 01:31| 01:38| 7分| -  
+7| [黔江](/huoche/zhan/qianjiang.htm)| 02:29| 02:36| 7分| -  
+8| [铜仁](/huoche/zhan/tongren.htm)| 06:26| 06:32| 6分| -  
+9| [怀化](/huoche/zhan/huaihua.htm)| 07:58| 08:20| 22分| -  
+10| [辰溪](/huoche/zhan/chenxi.htm)| 09:04| 09:07| 3分| -  
+11| [溆浦](/huoche/zhan/xupu.htm)| 09:44| 09:48| 4分| -  
+12| [安化](/huoche/zhan/anhua.htm)| 10:46| 10:50| 4分| -  
+13| [新化](/huoche/zhan/xinhua.htm)| 11:24| 11:29| 5分| -  
+14| [冷水江东](/huoche/zhan/lingshuijiangdong.htm)| 11:47| 11:50| 3分| -  
+15| [娄底](/huoche/zhan/loudi.htm)| 12:50| 12:56| 6分| -  
+16| [湘乡](/huoche/zhan/xiangxiang.htm)| 13:36| 13:40| 4分| -  
+17| [湘潭](/huoche/zhan/xiangtan2.htm)| 14:11| 14:16| 5分| -  
+18| [株洲](/huoche/zhan/zhuzhou.htm)| 14:59| 15:26| 27分| -  
+19| [长沙](/huoche/zhan/changsha.htm)| 16:34| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

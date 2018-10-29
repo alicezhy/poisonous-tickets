@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从西安北开往成都东的D1931动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D1931 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 西安北  
+发车时间 | 12:14  
+到站时间 | 16:36  
+全程时间 | 4小时22分  
+终点站 | 成都东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [西安北](/huoche/zhan/xianbei.htm)| \----| 12:14| 0分| -  
+2| [阿房宫](/huoche/zhan/epanggong.htm)| 12:25| 12:27| 2分| -  
+3| [佛坪](/huoche/zhan/foping.htm)| 13:05| 13:08| 3分| -  
+4| [洋县西](/huoche/zhan/yangxianxi.htm)| 13:25| 13:27| 2分| -  
+5| [汉中](/huoche/zhan/hanzhong.htm)| 13:45| 13:50| 5分| -  
+6| [广元](/huoche/zhan/guangyuan.htm)| 14:34| 14:39| 5分| -  
+7| [江油](/huoche/zhan/jiangyou.htm)| 15:18| 15:27| 9分| -  
+8| [青莲](/huoche/zhan/qinglian.htm)| 15:36| 15:38| 2分| -  
+9| [绵阳](/huoche/zhan/mianyang.htm)| 15:50| 15:52| 2分| -  
+10| [新都东](/huoche/zhan/xindudong.htm)| 16:21| 16:23| 2分| -  
+11| [成都东](/huoche/zhan/chengdudong.htm)| 16:36| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

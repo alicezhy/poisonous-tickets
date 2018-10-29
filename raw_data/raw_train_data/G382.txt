@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从哈尔滨西开往北京南的G382高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G382 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 哈尔滨西  
+发车时间 | 16:16  
+到站时间 | 23:38  
+全程时间 | 7小时22分  
+终点站 | 北京南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [哈尔滨西](/huoche/zhan/haerbinxi.htm)| -| 16:16| 0分| -  
+2| [双城北](/huoche/zhan/shuangchengbei.htm)| 16:32| 16:34| 2分| -  
+3| [长春西](/huoche/zhan/changchunxi.htm)| 17:20| 17:22| 2分| -  
+4| [四平东](/huoche/zhan/sipingdong.htm)| 17:49| 17:50| 1分| -  
+5| [开原西](/huoche/zhan/kaiyuanxi.htm)| 18:11| 18:12| 1分| -  
+6| [沈阳北](/huoche/zhan/shenyangbei.htm)| 18:40| 18:42| 2分| -  
+7| [盘锦北](/huoche/zhan/panjinbei.htm)| 19:40| 19:42| 2分| -  
+8| [葫芦岛北](/huoche/zhan/huludaobei.htm)| 20:20| 20:22| 2分| -  
+10| [山海关](/huoche/zhan/shanhaiguan.htm)| 21:07| 21:09| 2分| -  
+11| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 21:23| 21:25| 2分| -  
+12| [滦河](/huoche/zhan/luanhe.htm)| 21:51| 21:53| 2分| -  
+13| [唐山](/huoche/zhan/tangshan.htm)| 22:10| 22:12| 2分| -  
+14| [天津](/huoche/zhan/tianjin.htm)| 22:44| 22:46| 2分| -  
+15| [天津西](/huoche/zhan/tianjinxi.htm)| 22:54| 23:00| 6分| -  
+16| [北京南](/huoche/zhan/beijingnan.htm)| 23:38| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

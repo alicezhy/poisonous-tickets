@@ -1,0 +1,70 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从红果开往昆明的7454普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 7454 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 红果  
+发车时间 | 07:30  
+到站时间 | 17:43  
+全程时间 | 10小时13分  
+终点站 | 昆明  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [红果](/huoche/zhan/hongguo.htm)| -| 07:30| 0分| -  
+2| [上西铺](/huoche/zhan/shangxipu.htm)| 07:40| 07:42| 2分| -  
+3| [鲁番](/huoche/zhan/lufan.htm)| 07:54| 07:56| 2分| -  
+4| [威箐](/huoche/zhan/weiqing.htm)| 08:11| 08:13| 2分| -  
+5| [小雨谷](/huoche/zhan/xiaoyugu.htm)| 08:25| 08:28| 3分| -  
+6| [瓦窑田](/huoche/zhan/wayaotian.htm)| 08:42| 08:49| 7分| -  
+7| [新坪田](/huoche/zhan/xinpingtian.htm)| 09:01| 09:04| 3分| -  
+8| [威舍](/huoche/zhan/weishe.htm)| 09:15| 09:45| 30分| -  
+9| [大田边](/huoche/zhan/datianbian.htm)| 09:55| 10:00| 5分| -  
+10| [革居](/huoche/zhan/geju.htm)| 10:17| 10:20| 3分| -  
+11| [岔江](/huoche/zhan/chajiang.htm)| 10:31| 10:33| 2分| -  
+12| [小得江](/huoche/zhan/xiaodejiang.htm)| 10:47| 10:49| 2分| -  
+13| [江所田](/huoche/zhan/jiangsuotian.htm)| 11:01| 11:03| 2分| -  
+14| [芦沟](/huoche/zhan/lugou.htm)| 11:14| 11:21| 7分| -  
+15| [罗平](/huoche/zhan/luoping.htm)| 11:31| 11:35| 4分| -  
+16| [羊者窝](/huoche/zhan/yangzhewo.htm)| 11:48| 11:59| 11分| -  
+17| [中寨](/huoche/zhan/zhongzhai.htm)| 12:12| 12:34| 22分| -  
+18| [新安](/huoche/zhan/xinan2.htm)| 12:46| 12:48| 2分| -  
+19| [师宗](/huoche/zhan/shizong.htm)| 12:59| 13:01| 2分| -  
+20| [长坡岭](/huoche/zhan/changpoling.htm)| 13:12| 13:27| 15分| -  
+21| [秧草地](/huoche/zhan/yangcaodi.htm)| 13:36| 13:42| 6分| -  
+22| [陆良](/huoche/zhan/luliang.htm)| 13:56| 14:01| 5分| -  
+23| [宜耐](/huoche/zhan/yinai.htm)| 14:12| 14:15| 3分| -  
+24| [西街口](/huoche/zhan/xijiekou.htm)| 14:25| 14:31| 6分| -  
+25| [茂舍祖](/huoche/zhan/maoshezu.htm)| 14:43| 14:45| 2分| -  
+26| [石林](/huoche/zhan/shilin.htm)| 14:55| 14:57| 2分| -  
+27| [石林南](/huoche/zhan/shilinnan.htm)| 15:04| 15:06| 2分| -  
+28| [班猫箐](/huoche/zhan/banmiaoqing.htm)| 15:17| 15:22| 5分| -  
+29| [宜良北](/huoche/zhan/yiliangbei.htm)| 15:34| 15:37| 3分| -  
+30| [乐善村](/huoche/zhan/leshancun.htm)| 15:49| 15:53| 4分| -  
+31| [永丰营](/huoche/zhan/yongfengying.htm)| 16:11| 16:14| 3分| -  
+32| [施家嘴](/huoche/zhan/shijiazui.htm)| 16:29| 16:32| 3分| -  
+33| [七甸](/huoche/zhan/qidian.htm)| 16:44| 16:47| 3分| -  
+34| [广南卫](/huoche/zhan/guangnanwei.htm)| 16:58| 17:01| 3分| -  
+35| [王家营西](/huoche/zhan/wangjiayingxi.htm)| 17:10| 17:12| 2分| -  
+36| [昆明](/huoche/zhan/kunming.htm)| 17:43| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从宁波开往昆明的Z287直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z287 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 宁波  
+发车时间 | 21:05  
+到站时间 | 04:08  
+全程时间 | 31小时3分  
+终点站 | 昆明  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [宁波](/huoche/zhan/ningbo.htm)| \----| 21:05| 0分| -  
+2| [余姚](/huoche/zhan/yuyao.htm)| 21:47| 21:50| 3分| -  
+3| [绍兴](/huoche/zhan/shaoxing.htm)| 22:36| 22:39| 3分| -  
+4| [义乌](/huoche/zhan/yiwu.htm)| 00:01| 00:05| 4分| -  
+5| [鹰潭](/huoche/zhan/yingtan.htm)| 03:15| 03:21| 6分| -  
+6| [萍乡](/huoche/zhan/pingxiang.htm)| 06:09| 06:14| 5分| -  
+7| [株洲](/huoche/zhan/zhuzhou.htm)| 07:02| 07:17| 15分| -  
+8| [湘潭](/huoche/zhan/xiangtan2.htm)| 07:43| 07:50| 7分| -  
+9| [娄底](/huoche/zhan/loudi.htm)| 08:56| 09:02| 6分| -  
+10| [怀化](/huoche/zhan/huaihua.htm)| 13:31| 13:42| 11分| -  
+11| [凯里](/huoche/zhan/kaili.htm)| 17:18| 17:21| 3分| -  
+12| [贵阳](/huoche/zhan/guiyang.htm)| 19:41| 20:08| 27分| -  
+13| [安顺](/huoche/zhan/anshun.htm)| 21:19| 21:24| 5分| -  
+14| [六盘水](/huoche/zhan/liupanshui.htm)| 23:37| 23:42| 5分| -  
+15| [宣威](/huoche/zhan/xuanwei.htm)| 01:15| 01:22| 7分| -  
+16| [曲靖](/huoche/zhan/qujing.htm)| 02:21| 02:28| 7分| -  
+17| [昆明](/huoche/zhan/kunming.htm)| 04:08| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

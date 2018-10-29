@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从包头开往南宁的Z335直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z335 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 包头  
+发车时间 | 08:40  
+到站时间 | 21:25  
+全程时间 | 36小时45分  
+终点站 | 南宁  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [包头](/huoche/zhan/baotou.htm)| \----| 08:40| 0分| -  
+2| [包头东](/huoche/zhan/baotoudong.htm)| 08:55| 08:59| 4分| -  
+3| [呼和浩特](/huoche/zhan/huhehaote.htm)| 10:17| 10:27| 10分| -  
+4| [集宁南](/huoche/zhan/jiningnan.htm)| 11:48| 11:54| 6分| -  
+5| [大同](/huoche/zhan/datong.htm)| 13:45| 14:00| 15分| -  
+6| [沙岭子西](/huoche/zhan/shalingzixi.htm)| 16:29| 16:39| 10分| -  
+7| [沙城](/huoche/zhan/shacheng.htm)| 17:39| 17:41| 2分| -  
+8| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 22:44| 23:01| 17分| -  
+9| [郑州](/huoche/zhan/zhengzhou.htm)| 02:27| 02:33| 6分| -  
+10| [武昌](/huoche/zhan/wuchang.htm)| 07:12| 07:21| 9分| -  
+11| [岳阳](/huoche/zhan/yueyang.htm)| 09:22| 09:28| 6分| -  
+12| [长沙](/huoche/zhan/changsha.htm)| 10:49| 10:55| 6分| -  
+13| [株洲](/huoche/zhan/zhuzhou.htm)| 11:31| 11:40| 9分| -  
+14| [衡阳](/huoche/zhan/hengyang.htm)| 13:01| 13:07| 6分| -  
+15| [永州](/huoche/zhan/yongzhou.htm)| 14:29| 14:35| 6分| -  
+16| [桂林北](/huoche/zhan/guilinbei.htm)| 16:13| 16:23| 10分| -  
+17| [柳州](/huoche/zhan/liuzhou.htm)| 17:54| 18:00| 6分| -  
+18| [南宁](/huoche/zhan/nanning.htm)| 21:25| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

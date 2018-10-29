@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从合肥开往广州东的K311快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K311 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 合肥  
+发车时间 | 13:20  
+到站时间 | 08:54  
+全程时间 | 19小时34分  
+终点站 | 广州东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [合肥](/huoche/zhan/hefei.htm)| \----| 13:20| 0分| -  
+2| [桐城](/huoche/zhan/tongcheng.htm)| 14:44| 14:47| 3分| -  
+3| [安庆西](/huoche/zhan/anqingxi.htm)| 15:19| 15:26| 7分| -  
+4| [天柱山](/huoche/zhan/tianzhushan.htm)| 15:48| 15:51| 3分| -  
+5| [太湖](/huoche/zhan/taihu.htm)| 16:19| 16:22| 3分| -  
+6| [宿松](/huoche/zhan/susong.htm)| 16:57| 17:03| 6分| -  
+7| [黄梅](/huoche/zhan/huangmei.htm)| 17:21| 17:24| 3分| -  
+8| [九江](/huoche/zhan/jiujiang.htm)| 18:23| 18:29| 6分| -  
+9| [南昌](/huoche/zhan/nanchang.htm)| 20:07| 20:27| 20分| -  
+10| [吉安](/huoche/zhan/jian6.htm)| 22:46| 22:50| 4分| -  
+11| [赣州](/huoche/zhan/ganzhou.htm)| 01:13| 01:17| 4分| -  
+12| [龙川](/huoche/zhan/longchuan.htm)| 05:13| 05:16| 3分| -  
+13| [惠州](/huoche/zhan/huizhou.htm)| 07:04| 07:09| 5分| -  
+14| [广州东](/huoche/zhan/guangzhoudong.htm)| 08:54| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

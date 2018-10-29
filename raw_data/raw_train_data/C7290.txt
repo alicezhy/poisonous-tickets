@@ -1,0 +1,38 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从深圳北开往汕尾的C7290城际高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | C7290 |  
+---|---|---|---  
+车型 | 城际高铁  
+始发站 | 深圳北  
+发车时间 | 19:25  
+到站时间 | 20:36  
+全程时间 | 1小时11分  
+终点站 | 汕尾  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [深圳北](/huoche/zhan/shenzhenbei.htm)| -| 19:25| 0分| -  
+2| [深圳坪山](/huoche/zhan/shenzhenpingshan.htm)| 19:46| 19:48| 2分| -  
+3| [鲘门](/huoche/zhan/houmen.htm)| 20:19| 20:21| 2分| -  
+4| [汕尾](/huoche/zhan/shanwei.htm)| 20:36| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

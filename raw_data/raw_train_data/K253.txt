@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海南开往荆门的K253快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K253 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 上海南  
+发车时间 | 15:37  
+到站时间 | 12:05  
+全程时间 | 20小时28分  
+终点站 | 荆门  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海南](/huoche/zhan/shanghainan.htm)| -| 15:37| 0分| -  
+2| [松江](/huoche/zhan/songjiang.htm)| 15:55| 15:58| 3分| -  
+3| [嘉兴](/huoche/zhan/jiaxing.htm)| 16:30| 16:34| 4分| -  
+4| [海宁](/huoche/zhan/haining.htm)| 16:55| 17:00| 5分| -  
+5| [杭州东](/huoche/zhan/hangzhoudong.htm)| 17:45| 17:51| 6分| -  
+6| [义乌](/huoche/zhan/yiwu.htm)| 19:24| 19:27| 3分| -  
+7| [衢州](/huoche/zhan/quzhou.htm)| 21:05| 21:08| 3分| -  
+8| [上饶](/huoche/zhan/shangrao.htm)| 22:58| 23:01| 3分| -  
+9| [鹰潭](/huoche/zhan/yingtan.htm)| 00:10| 00:21| 11分| -  
+10| [南昌](/huoche/zhan/nanchang.htm)| 01:52| 02:04| 12分| -  
+11| [九江](/huoche/zhan/jiujiang.htm)| 03:33| 03:37| 4分| -  
+12| [麻城](/huoche/zhan/macheng.htm)| 06:06| 06:30| 24分| -  
+13| [汉口](/huoche/zhan/hankou.htm)| 07:45| 08:33| 48分| -  
+14| [应城](/huoche/zhan/yingcheng.htm)| 09:36| 09:38| 2分| -  
+15| [京山](/huoche/zhan/jingshan.htm)| 10:37| 10:41| 4分| -  
+16| [钟祥](/huoche/zhan/zhongxiang.htm)| 11:24| 11:29| 5分| -  
+17| [荆门](/huoche/zhan/jingmen.htm)| 12:05| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

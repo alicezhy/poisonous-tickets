@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京西开往运城北的D2003动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D2003 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 北京西  
+发车时间 | 13:17  
+到站时间 | 19:26  
+全程时间 | 6小时9分  
+终点站 | 运城北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京西](/huoche/zhan/beijingxi.htm)| \----| 13:17| 0分| -  
+2| [保定东](/huoche/zhan/baodingdong.htm)| 14:02| 14:07| 5分| -  
+3| [定州东](/huoche/zhan/dingzhoudong.htm)| 14:27| 14:36| 9分| -  
+4| [正定机场](/huoche/zhan/zhengdingjichang.htm)| 14:51| 15:00| 9分| -  
+5| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 15:13| 15:20| 7分| -  
+6| [阳泉北](/huoche/zhan/yangquanbei.htm)| 16:00| 16:03| 3分| -  
+7| [太原南](/huoche/zhan/taiyuannan.htm)| 16:49| 16:58| 9分| -  
+8| [祁县东](/huoche/zhan/qixiandong.htm)| 17:22| 17:24| 2分| -  
+9| [介休东](/huoche/zhan/jiexiudong.htm)| 17:41| 17:43| 2分| -  
+10| [霍州东](/huoche/zhan/huozhoudong.htm)| 18:05| 18:07| 2分| -  
+11| [临汾西](/huoche/zhan/linfenxi.htm)| 18:31| 18:33| 2分| -  
+12| [侯马西](/huoche/zhan/houmaxi.htm)| 18:53| 18:55| 2分| -  
+13| [闻喜西](/huoche/zhan/wenxixi.htm)| 19:09| 19:11| 2分| -  
+14| [运城北](/huoche/zhan/yunchengbei.htm)| 19:26| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

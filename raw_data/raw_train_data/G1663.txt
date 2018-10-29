@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从龙岩开往南京南的G1663高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1663 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 龙岩  
+发车时间 | 11:49  
+到站时间 | 20:46  
+全程时间 | 8小时57分  
+终点站 | 南京南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [龙岩](/huoche/zhan/longyan.htm)| -| 11:49| 0分| -  
+2| [南靖](/huoche/zhan/nanjing2.htm)| 12:20| 12:22| 2分| -  
+3| [漳州](/huoche/zhan/zhangzhou.htm)| 12:37| 12:52| 15分| -  
+4| [厦门北](/huoche/zhan/xiamenbei.htm)| 13:12| 13:17| 5分| -  
+5| [泉州](/huoche/zhan/quanzhou2.htm)| 13:42| 13:44| 2分| -  
+6| [莆田](/huoche/zhan/putian.htm)| 14:09| 14:11| 2分| -  
+7| [福州南](/huoche/zhan/fuzhounan.htm)| 14:41| 14:48| 7分| -  
+8| [福州](/huoche/zhan/fuzhou.htm)| 15:04| 15:09| 5分| -  
+9| [南平北](/huoche/zhan/nanpingbei.htm)| 15:43| 15:45| 2分| -  
+10| [武夷山东](/huoche/zhan/wuyishandong.htm)| 16:12| 16:14| 2分| -  
+11| [上饶](/huoche/zhan/shangrao.htm)| 16:43| 16:49| 6分| -  
+12| [江山](/huoche/zhan/jiangshan.htm)| 17:13| 17:24| 11分| -  
+13| [衢州](/huoche/zhan/quzhou.htm)| 17:35| 17:37| 2分| -  
+14| [金华](/huoche/zhan/jinhua.htm)| 17:58| 18:01| 3分| -  
+15| [义乌](/huoche/zhan/yiwu.htm)| 18:17| 18:19| 2分| -  
+16| [杭州东](/huoche/zhan/hangzhoudong.htm)| 18:55| 19:05| 10分| -  
+17| [湖州](/huoche/zhan/huzhou.htm)| 19:26| 19:32| 6分| -  
+18| [宜兴](/huoche/zhan/yixing.htm)| 19:49| 19:51| 2分| -  
+19| [溧阳](/huoche/zhan/liyang.htm)| 20:03| 20:09| 6分| -  
+20| [溧水](/huoche/zhan/lishui2.htm)| 20:25| 20:30| 5分| -  
+21| [南京南](/huoche/zhan/nanjingnan.htm)| 20:46| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

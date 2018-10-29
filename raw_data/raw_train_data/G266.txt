@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从六安开往北京南的G266高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G266 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 六安  
+发车时间 | 08:10  
+到站时间 | 13:58  
+全程时间 | 5小时48分  
+终点站 | 北京南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [六安](/huoche/zhan/liuan.htm)| \----| 08:10| 0分| -  
+2| [合肥](/huoche/zhan/hefei.htm)| 08:49| 09:07| 18分| -  
+3| [淮南东](/huoche/zhan/huainandong.htm)| 09:33| 09:35| 2分| -  
+4| [蚌埠南](/huoche/zhan/bengbunan.htm)| 09:52| 09:55| 3分| -  
+5| [宿州东](/huoche/zhan/suzhoudong.htm)| 10:17| 10:26| 9分| -  
+6| [徐州东](/huoche/zhan/xuzhoudong.htm)| 10:46| 10:48| 2分| -  
+7| [济南西](/huoche/zhan/jinanxi.htm)| 11:52| 11:54| 2分| -  
+8| [德州东](/huoche/zhan/dezhoudong.htm)| 12:18| 12:23| 5分| -  
+9| [沧州西](/huoche/zhan/cangzhouxi.htm)| 12:48| 12:50| 2分| -  
+10| [天津南](/huoche/zhan/tianjinnan.htm)| 13:12| 13:17| 5分| -  
+11| [廊坊](/huoche/zhan/langfang.htm)| 13:35| 13:37| 2分| -  
+12| [北京南](/huoche/zhan/beijingnan.htm)| 13:58| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

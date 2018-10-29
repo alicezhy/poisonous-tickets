@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从深圳东开往临河的Z182直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z182 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 深圳东  
+发车时间 | 11:08  
+到站时间 | 00:41  
+全程时间 | 37小时33分  
+终点站 | 临河  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [深圳东](/huoche/zhan/shenzhendong.htm)| \----| 11:08| 0分| -  
+2| [东莞东](/huoche/zhan/dongguandong.htm)| 11:40| 11:46| 6分| -  
+3| [惠州](/huoche/zhan/huizhou.htm)| 12:28| 12:33| 5分| -  
+4| [龙川](/huoche/zhan/longchuan.htm)| 14:16| 14:22| 6分| -  
+5| [赣州](/huoche/zhan/ganzhou.htm)| 16:50| 16:53| 3分| -  
+6| [泰和](/huoche/zhan/taihe.htm)| 18:25| 18:36| 11分| -  
+7| [吉安](/huoche/zhan/jian6.htm)| 18:59| 19:03| 4分| -  
+8| [南昌](/huoche/zhan/nanchang.htm)| 21:19| 21:40| 21分| -  
+9| [九江](/huoche/zhan/jiujiang.htm)| 23:10| 23:14| 4分| -  
+10| [麻城](/huoche/zhan/macheng.htm)| 01:14| 01:21| 7分| -  
+11| [阜阳](/huoche/zhan/fuyang.htm)| 03:20| 03:45| 25分| -  
+12| [菏泽](/huoche/zhan/heze.htm)| 06:04| 06:08| 4分| -  
+13| [聊城](/huoche/zhan/liaocheng.htm)| 07:15| 07:21| 6分| -  
+14| [衡水](/huoche/zhan/hengshui.htm)| 08:40| 08:45| 5分| -  
+15| [沙岭子西](/huoche/zhan/shalingzixi.htm)| 14:32| 14:38| 6分| -  
+17| [大同](/huoche/zhan/datong.htm)| 17:23| 17:33| 10分| -  
+18| [集宁南](/huoche/zhan/jiningnan.htm)| 19:10| 19:16| 6分| -  
+20| [呼和浩特东](/huoche/zhan/huhehaotedong.htm)| 20:23| 20:44| 21分| -  
+21| [包头东](/huoche/zhan/baotoudong.htm)| 22:05| 22:09| 4分| -  
+22| [包头](/huoche/zhan/baotou.htm)| 22:26| 22:34| 8分| -  
+23| [临河](/huoche/zhan/linhe.htm)| 00:41| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从宁波开往重庆北的D656动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D656 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 宁波  
+发车时间 | 06:45  
+到站时间 | 20:36  
+全程时间 | 13小时51分  
+终点站 | 重庆北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [宁波](/huoche/zhan/ningbo.htm)| -| 06:45| 0分| -  
+2| [余姚北](/huoche/zhan/yuyaobei.htm)| 07:05| 07:07| 2分| -  
+3| [绍兴东](/huoche/zhan/shaoxingdong.htm)| 07:19| 07:21| 2分| -  
+4| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 07:32| 07:46| 14分| -  
+5| [杭州东](/huoche/zhan/hangzhoudong.htm)| 08:06| 08:10| 4分| -  
+6| [德清](/huoche/zhan/deqing.htm)| 08:23| 08:29| 6分| -  
+7| [湖州](/huoche/zhan/huzhou.htm)| 08:42| 08:44| 2分| -  
+8| [宜兴](/huoche/zhan/yixing.htm)| 09:02| 09:04| 2分| -  
+9| [溧阳](/huoche/zhan/liyang.htm)| 09:15| 09:17| 2分| -  
+10| [句容西](/huoche/zhan/jurongxi.htm)| 09:39| 09:46| 7分| -  
+11| [南京南](/huoche/zhan/nanjingnan.htm)| 09:59| 10:12| 13分| -  
+12| [全椒](/huoche/zhan/quanjiao.htm)| 10:32| 10:39| 7分| -  
+13| [合肥南](/huoche/zhan/hefeinan.htm)| 11:15| 11:24| 9分| -  
+14| [六安](/huoche/zhan/liuan.htm)| 11:48| 11:50| 2分| -  
+15| [汉口](/huoche/zhan/hankou.htm)| 13:23| 13:35| 12分| -  
+16| [汉川](/huoche/zhan/hanchun.htm)| 13:58| 14:19| 21分| -  
+17| [潜江](/huoche/zhan/qianjiang2.htm)| 14:51| 15:04| 13分| -  
+18| [宜昌东](/huoche/zhan/yichangdong.htm)| 16:01| 16:11| 10分| -  
+19| [恩施](/huoche/zhan/enshi.htm)| 17:56| 18:04| 8分| -  
+20| [利川](/huoche/zhan/lichuan.htm)| 18:39| 18:41| 2分| -  
+21| [石柱县](/huoche/zhan/shizhuxian.htm)| 19:20| 19:22| 2分| -  
+22| [丰都](/huoche/zhan/fengdu.htm)| 19:42| 19:44| 2分| -  
+23| [重庆北](/huoche/zhan/chongqingbei.htm)| 20:36| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

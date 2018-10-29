@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南京南开往成都东的D2373动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D2373 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 南京南  
+发车时间 | 07:16  
+到站时间 | 19:17  
+全程时间 | 12小时1分  
+终点站 | 成都东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南京南](/huoche/zhan/nanjingnan.htm)| \----| 07:16| 0分| -  
+2| [合肥南](/huoche/zhan/hefeinan.htm)| 08:08| 08:14| 6分| -  
+3| [六安](/huoche/zhan/liuan.htm)| 08:38| 08:40| 2分| -  
+4| [麻城北](/huoche/zhan/machengbei.htm)| 09:26| 09:28| 2分| -  
+5| [红安西](/huoche/zhan/honganxi.htm)| 09:42| 09:44| 2分| -  
+6| [汉口](/huoche/zhan/hankou.htm)| 10:14| 10:19| 5分| -  
+7| [汉川](/huoche/zhan/hanchun.htm)| 10:42| 10:44| 2分| -  
+8| [荆州](/huoche/zhan/jingzhou2.htm)| 11:38| 11:40| 2分| -  
+9| [宜昌东](/huoche/zhan/yichangdong.htm)| 12:14| 12:19| 5分| -  
+10| [巴东](/huoche/zhan/badong.htm)| 13:13| 13:15| 2分| -  
+11| [恩施](/huoche/zhan/enshi.htm)| 14:09| 14:13| 4分| -  
+12| [利川](/huoche/zhan/lichuan.htm)| 14:48| 14:50| 2分| -  
+13| [涪陵北](/huoche/zhan/fulingbei.htm)| 16:01| 16:03| 2分| -  
+14| [重庆北](/huoche/zhan/chongqingbei.htm)| 16:41| 16:52| 11分| -  
+15| [合川](/huoche/zhan/hechuan.htm)| 17:17| 17:19| 2分| -  
+16| [潼南](/huoche/zhan/tongnan.htm)| 17:43| 17:46| 3分| -  
+17| [遂宁](/huoche/zhan/suining.htm)| 18:15| 18:20| 5分| -  
+18| [成都东](/huoche/zhan/chengdudong.htm)| 19:17| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

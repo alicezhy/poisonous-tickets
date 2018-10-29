@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从深圳东开往湛江的K1233快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1233 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 深圳东  
+发车时间 | 20:05  
+到站时间 | 07:30  
+全程时间 | 11小时25分  
+终点站 | 湛江  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [深圳东](/huoche/zhan/shenzhendong.htm)| \----| 20:05| 0分| -  
+3| [广州](/huoche/zhan/guangzhou.htm)| 21:38| 22:01| 23分| -  
+4| [佛山](/huoche/zhan/foshan.htm)| 22:25| 22:31| 6分| -  
+5| [肇庆](/huoche/zhan/zhaoqing.htm)| 23:42| 23:50| 8分| -  
+6| [茂名西](/huoche/zhan/maomingxi.htm)| 03:54| 04:17| 23分| -  
+7| [化州](/huoche/zhan/huazhou.htm)| 04:39| 04:51| 12分| -  
+8| [廉江](/huoche/zhan/lianjiang2.htm)| 06:28| 06:31| 3分| -  
+9| [遂溪](/huoche/zhan/suixi2.htm)| 06:51| 06:54| 3分| -  
+10| [湛江](/huoche/zhan/zhanjiang2.htm)| 07:30| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

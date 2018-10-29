@@ -1,0 +1,61 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从大连开往黑河的2209普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 2209 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 大连  
+发车时间 | 14:30  
+到站时间 | 13:40  
+全程时间 | 23小时10分  
+终点站 | 黑河  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [大连](/huoche/zhan/dalian.htm)| -| 14:30| 0分| -  
+2| [金州](/huoche/zhan/jinzhou3.htm)| 14:56| 14:59| 3分| -  
+3| [瓦房店](/huoche/zhan/wafangdian.htm)| 15:47| 15:50| 3分| -  
+4| [许家屯](/huoche/zhan/xujiatun.htm)| 16:28| 16:30| 2分| -  
+5| [盖州](/huoche/zhan/gaizhou.htm)| 17:01| 17:03| 2分| -  
+6| [大石桥](/huoche/zhan/dashiqiao.htm)| 17:27| 17:30| 3分| -  
+7| [海城](/huoche/zhan/haicheng.htm)| 17:55| 17:57| 2分| -  
+8| [鞍山](/huoche/zhan/anshan.htm)| 18:23| 18:26| 3分| -  
+9| [辽阳](/huoche/zhan/liaoyang.htm)| 18:45| 18:48| 3分| -  
+10| [苏家屯](/huoche/zhan/sujiatun.htm)| 19:21| 19:23| 2分| -  
+11| [沈阳](/huoche/zhan/shenyang3.htm)| 19:42| 19:50| 8分| -  
+12| [铁岭](/huoche/zhan/tieling.htm)| 20:35| 20:38| 3分| -  
+13| [开原](/huoche/zhan/kaiyuan.htm)| 21:00| 21:03| 3分| -  
+14| [昌图](/huoche/zhan/changtu.htm)| 21:24| 21:27| 3分| -  
+15| [四平](/huoche/zhan/siping.htm)| 22:08| 22:11| 3分| -  
+16| [长春](/huoche/zhan/changchun.htm)| 23:24| 23:33| 9分| -  
+18| [哈尔滨东](/huoche/zhan/haerbindong.htm)| 02:46| 03:15| 29分| -  
+19| [绥化](/huoche/zhan/suihua.htm)| 04:34| 04:41| 7分| -  
+21| [绥棱](/huoche/zhan/suiling.htm)| 05:47| 05:49| 2分| -  
+22| [东边井](/huoche/zhan/dongbianjing.htm)| 06:05| 06:11| 6分| -  
+23| [海伦](/huoche/zhan/hailun.htm)| 06:22| 06:24| 2分| -  
+24| [通北](/huoche/zhan/tongbei.htm)| 07:02| 07:04| 2分| -  
+25| [北安](/huoche/zhan/beian.htm)| 08:05| 08:25| 20分| -  
+26| [五大连池](/huoche/zhan/wudalianchi.htm)| 09:18| 09:20| 2分| -  
+27| [龙镇](/huoche/zhan/longzhen.htm)| 09:37| 09:40| 3分| -  
+28| [孙吴](/huoche/zhan/sunwu.htm)| 11:34| 11:44| 10分| -  
+29| [黑河](/huoche/zhan/heihe.htm)| 13:40| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

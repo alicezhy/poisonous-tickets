@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从深圳开往成都东的K487快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K487 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 深圳  
+发车时间 | 11:05  
+到站时间 | 17:18  
+全程时间 | 30小时13分  
+终点站 | 成都东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [深圳](/huoche/zhan/shenzhen.htm)| -| 11:05| 0分| -  
+2| [东莞](/huoche/zhan/dongguan2.htm)| 11:58| 12:01| 3分| -  
+3| [广州](/huoche/zhan/guangzhou.htm)| 12:55| 13:15| 20分| -  
+4| [韶关东](/huoche/zhan/shaoguandong.htm)| 15:35| 15:44| 9分| -  
+6| [郴州](/huoche/zhan/chenzhou.htm)| 17:23| 17:29| 6分| -  
+7| [衡阳](/huoche/zhan/hengyang.htm)| 19:14| 19:22| 8分| -  
+8| [株洲](/huoche/zhan/zhuzhou.htm)| 20:47| 20:57| 10分| -  
+9| [湘潭](/huoche/zhan/xiangtan2.htm)| 21:22| 21:27| 5分| -  
+10| [娄底](/huoche/zhan/loudi.htm)| 22:34| 22:40| 6分| -  
+11| [怀化](/huoche/zhan/huaihua.htm)| 02:37| 02:54| 17分| -  
+13| [贵阳](/huoche/zhan/guiyang.htm)| 08:58| 09:32| 34分| -  
+15| [重庆西](/huoche/zhan/chongqingxi.htm)| 13:38| 14:15| 37分| -  
+17| [成都东](/huoche/zhan/chengdudong.htm)| 17:18| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

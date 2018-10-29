@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南宁开往上海南的T26特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | T26 |  
+---|---|---|---  
+车型 | 特快火车  
+始发站 | 南宁  
+发车时间 | 14:56  
+到站时间 | 15:07  
+全程时间 | 24小时11分  
+终点站 | 上海南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南宁](/huoche/zhan/nanning.htm)| -| 14:56| 0分| -  
+2| [南宁东](/huoche/zhan/nanningdong.htm)| 15:09| 15:16| 7分| -  
+3| [柳州](/huoche/zhan/liuzhou.htm)| 17:24| 17:33| 9分| -  
+4| [桂林北](/huoche/zhan/guilinbei.htm)| 19:30| 19:41| 11分| -  
+5| [兴安北](/huoche/zhan/xinganbei.htm)| 20:14| 20:17| 3分| -  
+6| [全州南](/huoche/zhan/quanzhounan.htm)| 20:46| 20:49| 3分| -  
+7| [东安东](/huoche/zhan/dongandong.htm)| 21:27| 21:31| 4分| -  
+8| [永州](/huoche/zhan/yongzhou.htm)| 21:54| 22:00| 6分| -  
+9| [祁东](/huoche/zhan/qidong.htm)| 22:35| 22:43| 8分| -  
+10| [衡阳](/huoche/zhan/hengyang.htm)| 23:34| 23:52| 18分| -  
+12| [鹰潭](/huoche/zhan/yingtan.htm)| 06:20| 06:43| 23分| -  
+13| [贵溪](/huoche/zhan/guixi.htm)| 06:59| 07:03| 4分| -  
+14| [上饶](/huoche/zhan/shangrao.htm)| 07:51| 07:55| 4分| -  
+15| [衢州](/huoche/zhan/quzhou.htm)| 09:37| 09:40| 3分| -  
+16| [义乌](/huoche/zhan/yiwu.htm)| 11:12| 11:15| 3分| -  
+17| [杭州东](/huoche/zhan/hangzhoudong.htm)| 12:43| 12:49| 6分| -  
+18| [海宁](/huoche/zhan/haining.htm)| 13:24| 13:27| 3分| -  
+19| [嘉兴](/huoche/zhan/jiaxing.htm)| 13:48| 13:51| 3分| -  
+20| [上海南](/huoche/zhan/shanghainan.htm)| 15:07| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

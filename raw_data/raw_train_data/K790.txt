@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南昌开往西安的K790快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K790 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 南昌  
+发车时间 | 21:02  
+到站时间 | 14:08  
+全程时间 | 17小时6分  
+终点站 | 西安  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南昌](/huoche/zhan/nanchang.htm)| -| 21:02| 0分| -  
+2| [九江](/huoche/zhan/jiujiang.htm)| 22:19| 22:25| 6分| -  
+3| [麻城](/huoche/zhan/macheng.htm)| 01:39| 01:49| 10分| -  
+4| [潢川](/huoche/zhan/huangchuan.htm)| 03:03| 03:07| 4分| -  
+6| [镇平](/huoche/zhan/zhenping.htm)| 07:49| 07:54| 5分| -  
+7| [内乡](/huoche/zhan/naxiang.htm)| 08:16| 08:21| 5分| -  
+8| [西峡](/huoche/zhan/xixia2.htm)| 08:49| 08:54| 5分| -  
+9| [商南](/huoche/zhan/shangnan.htm)| 09:51| 09:56| 5分| -  
+10| [丹凤](/huoche/zhan/danfeng.htm)| 10:40| 10:45| 5分| -  
+11| [商洛](/huoche/zhan/shangluo.htm)| 11:16| 11:22| 6分| -  
+12| [西安](/huoche/zhan/xian.htm)| 14:08| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

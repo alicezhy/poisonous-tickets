@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海开往黄山的K8419快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K8419 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 上海  
+发车时间 | 20:16  
+到站时间 | 07:11  
+全程时间 | 10小时55分  
+终点站 | 黄山  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海](/huoche/zhan/shanghai.htm)| \----| 20:16| 0分| -  
+2| [苏州](/huoche/zhan/suzhou.htm)| 21:10| 21:14| 4分| -  
+3| [常州](/huoche/zhan/changzhou.htm)| 22:14| 22:17| 3分| -  
+4| [南京](/huoche/zhan/nanjing.htm)| 23:56| 00:07| 11分| -  
+5| [芜湖](/huoche/zhan/wuhu.htm)| 02:21| 02:27| 6分| -  
+6| [宣城](/huoche/zhan/xuancheng.htm)| 03:32| 03:37| 5分| -  
+7| [宁国](/huoche/zhan/ningguo.htm)| 04:14| 04:18| 4分| -  
+8| [绩溪县](/huoche/zhan/jixixian.htm)| 06:03| 06:09| 6分| -  
+9| [歙县](/huoche/zhan/shexian2.htm)| 06:36| 06:39| 3分| -  
+10| [黄山](/huoche/zhan/huangshan.htm)| 07:11| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

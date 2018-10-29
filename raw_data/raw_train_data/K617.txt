@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京西开往呼和浩特的K617快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K617 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 北京西  
+发车时间 | 10:24  
+到站时间 | 22:08  
+全程时间 | 11小时44分  
+终点站 | 呼和浩特  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京西](/huoche/zhan/beijingxi.htm)| \----| 10:24| 0分| -  
+2| [三家店](/huoche/zhan/sanjiadian.htm)| 11:14| 11:16| 2分| -  
+3| [沙城](/huoche/zhan/shacheng.htm)| 12:50| 12:52| 2分| -  
+4| [下花园](/huoche/zhan/xiahuayuan.htm)| 13:14| 13:26| 12分| -  
+5| [宣化](/huoche/zhan/xuanhua.htm)| 14:21| 14:23| 2分| -  
+6| [沙岭子西](/huoche/zhan/shalingzixi.htm)| 14:42| 14:48| 6分| -  
+7| [柴沟堡](/huoche/zhan/chaigoubao.htm)| 15:34| 15:37| 3分| -  
+8| [阳高](/huoche/zhan/yanggao.htm)| 16:52| 16:55| 3分| -  
+9| [大同](/huoche/zhan/datong.htm)| 17:48| 18:07| 19分| -  
+10| [丰镇](/huoche/zhan/fengzhen.htm)| 18:43| 18:47| 4分| -  
+11| [土贵乌拉](/huoche/zhan/tuguiwula.htm)| 19:27| 19:29| 2分| -  
+12| [集宁南](/huoche/zhan/jiningnan.htm)| 19:57| 20:09| 12分| -  
+13| [卓资东](/huoche/zhan/zhuozidong.htm)| 20:40| 20:50| 10分| -  
+14| [呼和浩特东](/huoche/zhan/huhehaotedong.htm)| 21:44| 21:54| 10分| -  
+15| [呼和浩特](/huoche/zhan/huhehaote.htm)| 22:08| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

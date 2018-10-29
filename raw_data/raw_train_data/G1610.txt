@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从广州南开往福州的G1610高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1610 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 广州南  
+发车时间 | 14:55  
+到站时间 | 21:05  
+全程时间 | 6小时10分  
+终点站 | 福州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [广州南](/huoche/zhan/guangzhounan.htm)| -| 14:55| 0分| -  
+2| [虎门](/huoche/zhan/humen.htm)| 15:12| 15:18| 6分| -  
+3| [深圳北](/huoche/zhan/shenzhenbei.htm)| 15:35| 15:44| 9分| -  
+4| [惠州南](/huoche/zhan/huizhounan.htm)| 16:11| 16:13| 2分| -  
+5| [葵潭](/huoche/zhan/kuitan.htm)| 17:09| 17:11| 2分| -  
+6| [潮阳](/huoche/zhan/chaoyang2.htm)| 17:38| 17:40| 2分| -  
+7| [潮汕](/huoche/zhan/chaoshan.htm)| 17:57| 18:01| 4分| -  
+8| [漳州](/huoche/zhan/zhangzhou.htm)| 18:59| 19:01| 2分| -  
+9| [厦门北](/huoche/zhan/xiamenbei.htm)| 19:21| 19:26| 5分| -  
+10| [泉州](/huoche/zhan/quanzhou2.htm)| 19:51| 19:55| 4分| -  
+11| [莆田](/huoche/zhan/putian.htm)| 20:20| 20:22| 2分| -  
+12| [福州](/huoche/zhan/fuzhou.htm)| 21:05| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

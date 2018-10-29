@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从西安北开往昆明南的G2852高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G2852 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 西安北  
+发车时间 | 09:43  
+到站时间 | 20:11  
+全程时间 | 10小时28分  
+终点站 | 昆明南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [西安北](/huoche/zhan/xianbei.htm)| -| 09:43| 0分| -  
+2| [阿房宫](/huoche/zhan/epanggong.htm)| 09:54| 09:56| 2分| -  
+3| [鄠邑](/huoche/zhan/huyi.htm)| 10:06| 10:09| 3分| -  
+4| [汉中](/huoche/zhan/hanzhong.htm)| 11:09| 11:12| 3分| -  
+5| [广元](/huoche/zhan/guangyuan.htm)| 11:58| 12:02| 4分| -  
+6| [阆中](/huoche/zhan/langzhong.htm)| 12:50| 12:54| 4分| -  
+7| [南部](/huoche/zhan/nanbu.htm)| 13:07| 13:11| 4分| -  
+8| [南充北](/huoche/zhan/nanchongbei.htm)| 13:40| 13:46| 6分| -  
+9| [合川](/huoche/zhan/hechuan.htm)| 14:34| 14:38| 4分| -  
+10| [重庆西](/huoche/zhan/chongqingxi.htm)| 15:06| 15:36| 30分| -  
+11| [遵义](/huoche/zhan/zunyi.htm)| 16:54| 16:56| 2分| -  
+12| [贵阳北](/huoche/zhan/guiyangbei.htm)| 17:43| 17:49| 6分| -  
+13| [安顺西](/huoche/zhan/anshunxi.htm)| 18:19| 18:21| 2分| -  
+14| [盘州](/huoche/zhan/panzhou.htm)| 19:08| 19:10| 2分| -  
+15| [曲靖北](/huoche/zhan/qujingbei.htm)| 19:34| 19:36| 2分| -  
+16| [昆明南](/huoche/zhan/kunmingnan.htm)| 20:11| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

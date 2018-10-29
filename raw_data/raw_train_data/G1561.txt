@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从商丘开往北京西的G1561高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1561 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 商丘  
+发车时间 | 07:13  
+到站时间 | 12:19  
+全程时间 | 5小时6分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [商丘](/huoche/zhan/shangqiu.htm)| -| 07:13| 0分| -  
+2| [民权北](/huoche/zhan/minquanbei.htm)| 07:28| 07:30| 2分| -  
+3| [兰考南](/huoche/zhan/lankaonan.htm)| 07:43| 07:45| 2分| -  
+4| [开封北](/huoche/zhan/kaifengbei.htm)| 08:01| 08:03| 2分| -  
+5| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 08:24| 08:44| 20分| -  
+6| [新乡东](/huoche/zhan/xinxiangdong.htm)| 09:05| 09:12| 7分| -  
+7| [鹤壁东](/huoche/zhan/hebidong.htm)| 09:28| 09:35| 7分| -  
+8| [安阳东](/huoche/zhan/anyangdong.htm)| 09:50| 09:52| 2分| -  
+9| [邢台东](/huoche/zhan/xingtaidong.htm)| 10:21| 10:26| 5分| -  
+10| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 10:53| 10:57| 4分| -  
+11| [定州东](/huoche/zhan/dingzhoudong.htm)| 11:20| 11:22| 2分| -  
+12| [北京西](/huoche/zhan/beijingxi.htm)| 12:19| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

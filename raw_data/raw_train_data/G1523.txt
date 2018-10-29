@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从武汉开往贵阳北的G1523高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1523 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 武汉  
+发车时间 | 16:07  
+到站时间 | 21:19  
+全程时间 | 5小时12分  
+终点站 | 贵阳北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [武汉](/huoche/zhan/wuhan.htm)| \----| 16:07| 0分| -  
+2| [赤壁北](/huoche/zhan/chibibei.htm)| 16:42| 16:44| 2分| -  
+3| [长沙南](/huoche/zhan/changshanan.htm)| 17:34| 17:37| 3分| -  
+4| [娄底南](/huoche/zhan/loudinan.htm)| 18:12| 18:14| 2分| -  
+5| [邵阳北](/huoche/zhan/shaoyangbei.htm)| 18:30| 18:32| 2分| -  
+6| [溆浦南](/huoche/zhan/xupunan.htm)| 18:57| 18:59| 2分| -  
+7| [怀化南](/huoche/zhan/huaihuanan.htm)| 19:20| 19:23| 3分| -  
+8| [新晃西](/huoche/zhan/xinhuangxi.htm)| 19:47| 19:49| 2分| -  
+9| [铜仁南](/huoche/zhan/tongrennan.htm)| 19:58| 20:00| 2分| -  
+10| [凯里南](/huoche/zhan/kailinan.htm)| 20:36| 20:41| 5分| -  
+11| [贵阳北](/huoche/zhan/guiyangbei.htm)| 21:19| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

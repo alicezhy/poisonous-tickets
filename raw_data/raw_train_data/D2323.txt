@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从福州南开往深圳北的D2323动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D2323 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 福州南  
+发车时间 | 09:36  
+到站时间 | 14:58  
+全程时间 | 5小时22分  
+终点站 | 深圳北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [福州南](/huoche/zhan/fuzhounan.htm)| -| 09:36| 0分| -  
+2| [仙游](/huoche/zhan/xianyou.htm)| 10:13| 10:15| 2分| -  
+3| [泉州](/huoche/zhan/quanzhou2.htm)| 10:33| 10:46| 13分| -  
+4| [厦门北](/huoche/zhan/xiamenbei.htm)| 11:11| 11:15| 4分| -  
+7| [诏安](/huoche/zhan/zhaoan.htm)| 12:08| 12:10| 2分| -  
+8| [饶平](/huoche/zhan/raoping.htm)| 12:20| 12:22| 2分| -  
+9| [潮汕](/huoche/zhan/chaoshan.htm)| 12:39| 12:42| 3分| -  
+10| [普宁](/huoche/zhan/puning.htm)| 13:07| 13:09| 2分| -  
+12| [汕尾](/huoche/zhan/shanwei.htm)| 13:44| 13:46| 2分| -  
+13| [惠州南](/huoche/zhan/huizhounan.htm)| 14:22| 14:24| 2分| -  
+15| [深圳北](/huoche/zhan/shenzhenbei.htm)| 14:58| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

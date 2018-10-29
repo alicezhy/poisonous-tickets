@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京西开往广州南的G67高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G67 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 北京西  
+发车时间 | 12:13  
+到站时间 | 22:18  
+全程时间 | 10小时5分  
+终点站 | 广州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京西](/huoche/zhan/beijingxi.htm)| \----| 12:13| 0分| -  
+2| [保定东](/huoche/zhan/baodingdong.htm)| 12:54| 12:56| 2分| -  
+3| [正定机场](/huoche/zhan/zhengdingjichang.htm)| 13:23| 13:25| 2分| -  
+4| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 13:39| 13:41| 2分| -  
+5| [邢台东](/huoche/zhan/xingtaidong.htm)| 14:09| 14:18| 9分| -  
+6| [邯郸东](/huoche/zhan/handandong.htm)| 14:34| 14:47| 13分| -  
+7| [新乡东](/huoche/zhan/xinxiangdong.htm)| 15:25| 15:27| 2分| -  
+8| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 15:48| 15:51| 3分| -  
+9| [许昌东](/huoche/zhan/xuchangdong.htm)| 16:13| 16:15| 2分| -  
+10| [漯河西](/huoche/zhan/luohexi.htm)| 16:31| 16:33| 2分| -  
+11| [信阳东](/huoche/zhan/xinyangdong.htm)| 17:11| 17:15| 4分| -  
+12| [武汉](/huoche/zhan/wuhan.htm)| 18:00| 18:03| 3分| -  
+13| [岳阳东](/huoche/zhan/yueyangdong.htm)| 18:53| 18:55| 2分| -  
+14| [长沙南](/huoche/zhan/changshanan.htm)| 19:29| 19:34| 5分| -  
+15| [衡山西](/huoche/zhan/hengshanxi.htm)| 20:03| 20:05| 2分| -  
+16| [郴州西](/huoche/zhan/chenzhouxi.htm)| 20:46| 20:48| 2分| -  
+17| [英德西](/huoche/zhan/yingdexi.htm)| 21:34| 21:36| 2分| -  
+18| [广州南](/huoche/zhan/guangzhounan.htm)| 22:18| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

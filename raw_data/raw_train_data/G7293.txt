@@ -1,0 +1,45 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海开往淮北的G7293高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7293 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 上海  
+发车时间 | 17:43  
+到站时间 | 21:55  
+全程时间 | 4小时12分  
+终点站 | 淮北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海](/huoche/zhan/shanghai.htm)| \----| 17:43| 0分| -  
+2| [苏州北](/huoche/zhan/suzhoubei.htm)| 18:13| 18:20| 7分| -  
+3| [无锡东](/huoche/zhan/wuxidong.htm)| 18:30| 18:32| 2分| -  
+4| [常州北](/huoche/zhan/changzhoubei.htm)| 18:49| 18:51| 2分| -  
+5| [南京南](/huoche/zhan/nanjingnan.htm)| 19:23| 19:27| 4分| -  
+6| [滁州](/huoche/zhan/chuzhou.htm)| 19:45| 19:47| 2分| -  
+7| [蚌埠南](/huoche/zhan/bengbunan.htm)| 20:15| 20:17| 2分| -  
+8| [宿州东](/huoche/zhan/suzhoudong.htm)| 20:40| 20:42| 2分| -  
+9| [徐州东](/huoche/zhan/xuzhoudong.htm)| 21:01| 21:11| 10分| -  
+10| [萧县北](/huoche/zhan/xiaoxianbei.htm)| 21:29| 21:31| 2分| -  
+11| [淮北](/huoche/zhan/huaibei.htm)| 21:55| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

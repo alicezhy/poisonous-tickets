@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从北京西开往三亚的Z201直达特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Z201 |  
+---|---|---|---  
+车型 | 直达特快火车  
+始发站 | 北京西  
+发车时间 | 17:54  
+到站时间 | 08:12  
+全程时间 | 38小时18分  
+终点站 | 三亚  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [北京西](/huoche/zhan/beijingxi.htm)| -| 17:54| 0分| -  
+2| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 20:18| 20:24| 6分| -  
+3| [郑州](/huoche/zhan/zhengzhou.htm)| 23:47| 23:53| 6分| -  
+4| [武昌](/huoche/zhan/wuchang.htm)| 04:32| 04:38| 6分| -  
+5| [岳阳](/huoche/zhan/yueyang.htm)| 06:36| 06:39| 3分| -  
+6| [长沙](/huoche/zhan/changsha.htm)| 08:00| 08:07| 7分| -  
+7| [郴州](/huoche/zhan/chenzhou.htm)| 11:36| 11:40| 4分| -  
+8| [韶关东](/huoche/zhan/shaoguandong.htm)| 13:17| 13:21| 4分| -  
+9| [广州](/huoche/zhan/guangzhou.htm)| 15:43| 16:03| 20分| -  
+10| [佛山](/huoche/zhan/foshan.htm)| 16:26| 16:32| 6分| -  
+11| [肇庆](/huoche/zhan/zhaoqing.htm)| 17:37| 17:43| 6分| -  
+12| [茂名](/huoche/zhan/maoming2.htm)| 21:08| 21:20| 12分| -  
+13| [湛江西](/huoche/zhan/zhanjiangxi.htm)| 22:09| 22:15| 6分| -  
+14| [徐闻](/huoche/zhan/xuwen.htm)| 00:18| 00:25| 7分| -  
+15| [海口](/huoche/zhan/haikou.htm)| 03:50| 04:50| 60分| -  
+16| [东方](/huoche/zhan/dongfang.htm)| 06:27| 06:32| 5分| -  
+17| [三亚](/huoche/zhan/sanya.htm)| 08:12| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

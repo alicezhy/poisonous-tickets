@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从乌兰浩特开往北京的K1190快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1190 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 乌兰浩特  
+发车时间 | 20:10  
+到站时间 | 14:59  
+全程时间 | 18小时49分  
+终点站 | 北京  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [乌兰浩特](/huoche/zhan/wulanhaote.htm)| -| 20:10| 0分| -  
+2| [葛根庙](/huoche/zhan/gegenmiao.htm)| 20:31| 20:33| 2分| -  
+3| [白城](/huoche/zhan/baicheng.htm)| 21:15| 21:35| 20分| -  
+4| [洮南](/huoche/zhan/taonan.htm)| 22:00| 22:03| 3分| -  
+5| [黑水](/huoche/zhan/heishui.htm)| 22:18| 22:20| 2分| -  
+6| [开通](/huoche/zhan/kaitong.htm)| 22:59| 23:01| 2分| -  
+7| [太平川](/huoche/zhan/taipingchuan.htm)| 23:38| 23:40| 2分| -  
+8| [通辽](/huoche/zhan/tongliao.htm)| 01:03| 01:24| 21分| -  
+9| [奈曼](/huoche/zhan/naiman.htm)| 03:10| 03:13| 3分| -  
+10| [赤峰](/huoche/zhan/chifeng.htm)| 05:14| 05:22| 8分| -  
+11| [纪家沟](/huoche/zhan/jijiagou.htm)| 07:22| 07:25| 3分| -  
+12| [四合永](/huoche/zhan/siheyong.htm)| 07:59| 08:01| 2分| -  
+13| [隆化](/huoche/zhan/longhua2.htm)| 08:59| 09:12| 13分| -  
+14| [滦平](/huoche/zhan/luanping.htm)| 10:24| 10:26| 2分| -  
+16| [顺义](/huoche/zhan/shunyi.htm)| 14:01| 14:03| 2分| -  
+17| [通州西](/huoche/zhan/tongzhouxi.htm)| 14:31| 14:36| 5分| -  
+18| [北京](/huoche/zhan/beijing.htm)| 14:59| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

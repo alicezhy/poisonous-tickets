@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从郑州开往宁波的T328特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | T328 |  
+---|---|---|---  
+车型 | 特快火车  
+始发站 | 郑州  
+发车时间 | 18:41  
+到站时间 | 11:47  
+全程时间 | 17小时6分  
+终点站 | 宁波  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [郑州](/huoche/zhan/zhengzhou.htm)| \----| 18:41| 0分| -  
+2| [开封](/huoche/zhan/kaifeng.htm)| 19:27| 19:30| 3分| -  
+3| [兰考](/huoche/zhan/lankao.htm)| 19:58| 20:02| 4分| -  
+4| [商丘](/huoche/zhan/shangqiu.htm)| 21:01| 21:06| 5分| -  
+5| [阜阳](/huoche/zhan/fuyang.htm)| 23:01| 23:16| 15分| -  
+6| [合肥](/huoche/zhan/hefei.htm)| 02:06| 02:25| 19分| -  
+7| [芜湖](/huoche/zhan/wuhu.htm)| 04:20| 04:26| 6分| -  
+8| [宣城](/huoche/zhan/xuancheng.htm)| 05:20| 05:23| 3分| -  
+9| [广德](/huoche/zhan/guangde.htm)| 06:01| 06:04| 3分| -  
+10| [长兴南](/huoche/zhan/changxingnan.htm)| 06:36| 06:40| 4分| -  
+11| [德清西](/huoche/zhan/deqingxi.htm)| 07:16| 07:19| 3分| -  
+12| [杭州](/huoche/zhan/hangzhou.htm)| 08:05| 08:16| 11分| -  
+13| [绍兴](/huoche/zhan/shaoxing.htm)| 09:12| 09:15| 3分| -  
+14| [上虞](/huoche/zhan/shangyu.htm)| 09:38| 09:41| 3分| -  
+15| [余姚](/huoche/zhan/yuyao.htm)| 10:10| 10:13| 3分| -  
+16| [宁波](/huoche/zhan/ningbo.htm)| 11:47| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

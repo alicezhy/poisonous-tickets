@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从兰州西开往广州南的G843高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G843 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 兰州西  
+发车时间 | 10:33  
+到站时间 | 23:00  
+全程时间 | 12小时27分  
+终点站 | 广州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [兰州西](/huoche/zhan/lanzhouxi.htm)| \----| 10:33| 0分| -  
+2| [秦安](/huoche/zhan/qinan.htm)| 11:39| 11:41| 2分| -  
+3| [天水南](/huoche/zhan/tianshuinan.htm)| 11:56| 11:59| 3分| -  
+4| [宝鸡南](/huoche/zhan/baojinan.htm)| 12:39| 12:42| 3分| -  
+5| [杨陵南](/huoche/zhan/yanglingnan.htm)| 13:06| 13:08| 2分| -  
+7| [西安北](/huoche/zhan/xianbei.htm)| 13:37| 13:50| 13分| -  
+8| [华山北](/huoche/zhan/huashanbei.htm)| 14:20| 14:29| 9分| -  
+9| [洛阳龙门](/huoche/zhan/luoyanglongmen.htm)| 15:21| 15:23| 2分| -  
+10| [巩义南](/huoche/zhan/gongyinan.htm)| 15:37| 15:39| 2分| -  
+11| [郑州](/huoche/zhan/zhengzhou.htm)| 16:09| 16:17| 8分| -  
+12| [漯河西](/huoche/zhan/luohexi.htm)| 17:02| 17:04| 2分| -  
+13| [驻马店西](/huoche/zhan/zhumadianxi.htm)| 17:22| 17:24| 2分| -  
+14| [信阳东](/huoche/zhan/xinyangdong.htm)| 17:50| 17:52| 2分| -  
+15| [武汉](/huoche/zhan/wuhan.htm)| 18:35| 18:44| 9分| -  
+16| [岳阳东](/huoche/zhan/yueyangdong.htm)| 19:35| 19:37| 2分| -  
+17| [长沙南](/huoche/zhan/changshanan.htm)| 20:12| 20:16| 4分| -  
+18| [衡阳东](/huoche/zhan/hengyangdong.htm)| 20:53| 20:55| 2分| -  
+19| [郴州西](/huoche/zhan/chenzhouxi.htm)| 21:28| 21:34| 6分| -  
+20| [广州南](/huoche/zhan/guangzhounan.htm)| 23:00| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

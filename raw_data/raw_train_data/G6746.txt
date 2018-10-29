@@ -1,0 +1,39 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从邢台东开往北京西的G6746高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G6746 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 邢台东  
+发车时间 | 07:52  
+到站时间 | 09:51  
+全程时间 | 1小时59分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [邢台东](/huoche/zhan/xingtaidong.htm)| -| 07:52| 0分| -  
+2| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 08:19| 08:22| 3分| -  
+3| [定州东](/huoche/zhan/dingzhoudong.htm)| 08:45| 08:48| 3分| -  
+4| [涿州东](/huoche/zhan/zhuozhoudong.htm)| 09:21| 09:24| 3分| -  
+5| [北京西](/huoche/zhan/beijingxi.htm)| 09:51| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,58 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从银川开往青岛的K1288快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1288 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 银川  
+发车时间 | 18:28  
+到站时间 | 16:28  
+全程时间 | 22小时0分  
+终点站 | 青岛  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [银川](/huoche/zhan/yinchuan.htm)| -| 18:28| 0分| -  
+2| [灵武](/huoche/zhan/lingwu.htm)| 19:06| 19:11| 5分| -  
+3| [定边](/huoche/zhan/dingbian2.htm)| 20:45| 20:57| 12分| -  
+4| [靖边](/huoche/zhan/jingbian.htm)| 22:09| 22:15| 6分| -  
+5| [子洲](/huoche/zhan/zizhou.htm)| 23:27| 23:30| 3分| -  
+6| [绥德](/huoche/zhan/suide.htm)| 23:49| 23:53| 4分| -  
+8| [吕梁](/huoche/zhan/lvliang.htm)| 00:58| 01:05| 7分| -  
+9| [汾阳](/huoche/zhan/fenyang.htm)| 01:58| 02:01| 3分| -  
+10| [文水](/huoche/zhan/wenshui.htm)| 02:14| 02:17| 3分| -  
+11| [交城](/huoche/zhan/jiaocheng.htm)| 02:30| 02:36| 6分| -  
+12| [太原](/huoche/zhan/taiyuan.htm)| 03:33| 04:18| 45分| -  
+13| [石家庄北](/huoche/zhan/shijiazhuangbei.htm)| 06:14| 06:22| 8分| -  
+14| [藁城](/huoche/zhan/gaocheng.htm)| 06:51| 06:53| 2分| -  
+15| [晋州](/huoche/zhan/jinzhou4.htm)| 07:07| 07:09| 2分| -  
+17| [衡水](/huoche/zhan/hengshui.htm)| 08:00| 08:06| 6分| -  
+18| [德州](/huoche/zhan/dezhou.htm)| 09:01| 09:03| 2分| -  
+19| [平原](/huoche/zhan/pingyuan.htm)| 09:26| 09:29| 3分| -  
+20| [晏城](/huoche/zhan/yancheng.htm)| 10:36| 10:41| 5分| -  
+21| [济南东](/huoche/zhan/jinandong.htm)| 11:20| 11:36| 16分| -  
+22| [淄博](/huoche/zhan/zibo.htm)| 12:47| 12:52| 5分| -  
+23| [潍坊](/huoche/zhan/weifang.htm)| 13:56| 14:08| 12分| -  
+24| [胶州](/huoche/zhan/jiaozhou.htm)| 15:20| 15:22| 2分| -  
+25| [蓝村](/huoche/zhan/lancun.htm)| 15:38| 15:40| 2分| -  
+26| [青岛](/huoche/zhan/qingdao.htm)| 16:28| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

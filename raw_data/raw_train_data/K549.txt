@@ -1,0 +1,51 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从大连开往齐齐哈尔的K549快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K549 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 大连  
+发车时间 | 17:03  
+到站时间 | 07:47  
+全程时间 | 14小时44分  
+终点站 | 齐齐哈尔  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [大连](/huoche/zhan/dalian.htm)| -| 17:03| 0分| -  
+2| [金州](/huoche/zhan/jinzhou3.htm)| 17:29| 17:32| 3分| -  
+3| [普兰店](/huoche/zhan/pulandian.htm)| 18:04| 18:07| 3分| -  
+4| [瓦房店](/huoche/zhan/wafangdian.htm)| 18:27| 18:30| 3分| -  
+5| [熊岳城](/huoche/zhan/xiongyuecheng.htm)| 19:19| 19:22| 3分| -  
+6| [大石桥](/huoche/zhan/dashiqiao.htm)| 20:07| 20:11| 4分| -  
+7| [鞍山](/huoche/zhan/anshan.htm)| 21:00| 21:04| 4分| -  
+8| [辽阳](/huoche/zhan/liaoyang.htm)| 21:23| 21:26| 3分| -  
+9| [沈阳北](/huoche/zhan/shenyangbei.htm)| 22:20| 22:32| 12分| -  
+10| [四平](/huoche/zhan/siping.htm)| 00:23| 00:29| 6分| -  
+11| [洮南](/huoche/zhan/taonan.htm)| 04:00| 04:03| 3分| -  
+12| [白城](/huoche/zhan/baicheng.htm)| 04:31| 04:42| 11分| -  
+13| [镇赉](/huoche/zhan/zhenlai.htm)| 05:09| 05:11| 2分| -  
+14| [泰来](/huoche/zhan/tailai.htm)| 05:57| 06:01| 4分| -  
+15| [江桥](/huoche/zhan/jiangqiao.htm)| 06:37| 06:40| 3分| -  
+16| [大兴](/huoche/zhan/daxing.htm)| 06:53| 06:55| 2分| -  
+17| [齐齐哈尔](/huoche/zhan/qiqihaer.htm)| 07:47| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

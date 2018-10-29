@@ -1,0 +1,57 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从青岛开往兰州的K1027快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K1027 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 青岛  
+发车时间 | 10:08  
+到站时间 | 15:48  
+全程时间 | 29小时40分  
+终点站 | 兰州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [青岛](/huoche/zhan/qingdao.htm)| \----| 10:08| 0分| -  
+2| [蓝村](/huoche/zhan/lancun.htm)| 11:13| 11:16| 3分| -  
+3| [胶州](/huoche/zhan/jiaozhou.htm)| 11:32| 11:35| 3分| -  
+5| [潍坊](/huoche/zhan/weifang.htm)| 12:43| 12:47| 4分| -  
+7| [淄博](/huoche/zhan/zibo.htm)| 13:51| 13:57| 6分| -  
+9| [济南](/huoche/zhan/jinan.htm)| 15:22| 15:37| 15分| -  
+11| [泰山](/huoche/zhan/taishan.htm)| 16:29| 16:42| 13分| -  
+12| [兖州](/huoche/zhan/yanzhou.htm)| 17:40| 17:43| 3分| -  
+14| [滕州](/huoche/zhan/tengzhou.htm)| 18:21| 18:25| 4分| -  
+15| [枣庄西](/huoche/zhan/zaozhuangxi.htm)| 18:47| 18:49| 2分| -  
+16| [徐州](/huoche/zhan/xuzhou.htm)| 19:52| 20:10| 18分| -  
+17| [砀山](/huoche/zhan/dangshan.htm)| 21:11| 21:15| 4分| -  
+24| [开封](/huoche/zhan/kaifeng.htm)| 23:23| 23:27| 4分| -  
+25| [郑州](/huoche/zhan/zhengzhou.htm)| 00:15| 00:27| 12分| -  
+26| [洛阳](/huoche/zhan/luoyang.htm)| 01:59| 02:05| 6分| -  
+28| [渭南](/huoche/zhan/weinan.htm)| 06:20| 06:41| 21分| -  
+29| [西安](/huoche/zhan/xian.htm)| 07:37| 07:47| 10分| -  
+33| [宝鸡](/huoche/zhan/baoji.htm)| 09:42| 09:48| 6分| -  
+34| [天水](/huoche/zhan/tianshui.htm)| 11:27| 11:32| 5分| -  
+35| [甘谷](/huoche/zhan/gangu.htm)| 12:14| 12:26| 12分| -  
+37| [陇西](/huoche/zhan/longxi.htm)| 13:15| 13:19| 4分| -  
+38| [定西](/huoche/zhan/dingxi.htm)| 14:15| 14:18| 3分| -  
+39| [兰州](/huoche/zhan/lanzhou.htm)| 15:48| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

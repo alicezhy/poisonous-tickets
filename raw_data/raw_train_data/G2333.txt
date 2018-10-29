@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从宁波开往贵阳北的G2333高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G2333 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 宁波  
+发车时间 | 07:50  
+到站时间 | 17:38  
+全程时间 | 9小时48分  
+终点站 | 贵阳北  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [宁波](/huoche/zhan/ningbo.htm)| \----| 07:50| 0分| -  
+2| [余姚北](/huoche/zhan/yuyaobei.htm)| 08:10| 08:12| 2分| -  
+3| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 08:30| 08:32| 2分| -  
+4| [杭州东](/huoche/zhan/hangzhoudong.htm)| 08:50| 09:14| 24分| -  
+5| [金华](/huoche/zhan/jinhua.htm)| 09:58| 10:00| 2分| -  
+6| [衢州](/huoche/zhan/quzhou.htm)| 10:21| 10:23| 2分| -  
+7| [江山](/huoche/zhan/jiangshan.htm)| 10:35| 10:38| 3分| -  
+8| [上饶](/huoche/zhan/shangrao.htm)| 10:58| 11:01| 3分| -  
+9| [鹰潭北](/huoche/zhan/yingtanbei.htm)| 11:27| 11:29| 2分| -  
+10| [南昌西](/huoche/zhan/nanchangxi.htm)| 12:04| 12:07| 3分| -  
+11| [宜春](/huoche/zhan/yichun.htm)| 12:49| 12:52| 3分| -  
+12| [萍乡北](/huoche/zhan/pingxiangbei2.htm)| 13:09| 13:12| 3分| -  
+13| [醴陵东](/huoche/zhan/lilingdong.htm)| 13:24| 13:30| 6分| -  
+14| [长沙南](/huoche/zhan/changshanan.htm)| 13:55| 14:00| 5分| -  
+15| [湘潭北](/huoche/zhan/xiangtanbei.htm)| 14:14| 14:16| 2分| -  
+16| [新化南](/huoche/zhan/xinhuanan.htm)| 15:01| 15:03| 2分| -  
+17| [怀化南](/huoche/zhan/huaihuanan.htm)| 15:36| 15:40| 4分| -  
+18| [新晃西](/huoche/zhan/xinhuangxi.htm)| 16:04| 16:11| 7分| -  
+19| [三穗](/huoche/zhan/sansui.htm)| 16:30| 16:32| 2分| -  
+20| [凯里南](/huoche/zhan/kailinan.htm)| 16:57| 16:59| 2分| -  
+21| [贵阳北](/huoche/zhan/guiyangbei.htm)| 17:38| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

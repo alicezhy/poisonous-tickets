@@ -1,0 +1,49 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从秦皇岛开往邯郸东的G6275高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G6275 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 秦皇岛  
+发车时间 | 15:03  
+到站时间 | 19:55  
+全程时间 | 4小时52分  
+终点站 | 邯郸东  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| -| 15:03| 0分| -  
+2| [北戴河](/huoche/zhan/beidaihe.htm)| 15:14| 15:16| 2分| -  
+3| [滦河](/huoche/zhan/luanhe.htm)| 15:34| 15:36| 2分| -  
+4| [唐山](/huoche/zhan/tangshan.htm)| 15:54| 16:03| 9分| -  
+5| [滨海北](/huoche/zhan/binhaibei.htm)| 16:19| 16:21| 2分| -  
+6| [天津](/huoche/zhan/tianjin.htm)| 16:42| 16:46| 4分| -  
+7| [天津西](/huoche/zhan/tianjinxi.htm)| 16:54| 16:58| 4分| -  
+8| [胜芳](/huoche/zhan/shengfang.htm)| 17:15| 17:17| 2分| -  
+9| [霸州西](/huoche/zhan/bazhouxi.htm)| 17:33| 17:36| 3分| -  
+10| [白沟](/huoche/zhan/baigou.htm)| 17:48| 17:50| 2分| -  
+11| [白洋淀](/huoche/zhan/baiyangdian.htm)| 18:00| 18:02| 2分| -  
+12| [保定东](/huoche/zhan/baodingdong.htm)| 18:22| 18:24| 2分| -  
+13| [定州东](/huoche/zhan/dingzhoudong.htm)| 18:42| 18:49| 7分| -  
+14| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 19:12| 19:17| 5分| -  
+15| [邯郸东](/huoche/zhan/handandong.htm)| 19:55| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

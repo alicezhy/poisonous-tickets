@@ -1,0 +1,41 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从新会开往广州南的C7242城际高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | C7242 |  
+---|---|---|---  
+车型 | 城际高铁  
+始发站 | 新会  
+发车时间 | 15:55  
+到站时间 | 16:55  
+全程时间 | 1小时0分  
+终点站 | 广州南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [新会](/huoche/zhan/xinhui.htm)| -| 15:55| 0分| -  
+2| [江门东](/huoche/zhan/jiangmendong.htm)| 16:01| 16:03| 2分| -  
+3| [古镇](/huoche/zhan/guzhen.htm)| 16:10| 16:11| 1分| -  
+4| [小榄](/huoche/zhan/xiaolan.htm)| 16:18| 16:20| 2分| -  
+5| [容桂](/huoche/zhan/ronggui.htm)| 16:27| 16:34| 7分| -  
+6| [顺德](/huoche/zhan/shunde.htm)| 16:43| 16:45| 2分| -  
+7| [广州南](/huoche/zhan/guangzhounan.htm)| 16:55| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

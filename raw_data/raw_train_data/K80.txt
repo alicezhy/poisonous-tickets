@@ -1,0 +1,55 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从昆明开往上海南的K80快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K80 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 昆明  
+发车时间 | 19:10  
+到站时间 | 05:16  
+全程时间 | 34小时6分  
+终点站 | 上海南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [昆明](/huoche/zhan/kunming.htm)| \----| 19:10| 0分| -  
+2| [曲靖](/huoche/zhan/qujing.htm)| 20:44| 20:50| 6分| -  
+3| [宣威](/huoche/zhan/xuanwei.htm)| 21:51| 21:57| 6分| -  
+4| [六盘水](/huoche/zhan/liupanshui.htm)| 23:24| 23:36| 12分| -  
+5| [安顺](/huoche/zhan/anshun.htm)| 01:29| 01:34| 5分| -  
+6| [贵阳](/huoche/zhan/guiyang.htm)| 02:48| 03:04| 16分| -  
+8| [怀化](/huoche/zhan/huaihua.htm)| 09:24| 09:32| 8分| -  
+9| [涟源](/huoche/zhan/lianyuan.htm)| 12:48| 12:51| 3分| -  
+10| [娄底](/huoche/zhan/loudi.htm)| 13:30| 13:36| 6分| -  
+11| [株洲](/huoche/zhan/zhuzhou.htm)| 15:29| 15:46| 17分| -  
+12| [萍乡](/huoche/zhan/pingxiang.htm)| 16:37| 16:42| 5分| -  
+13| [宜春](/huoche/zhan/yichun.htm)| 17:25| 17:28| 3分| -  
+14| [分宜](/huoche/zhan/fenyi.htm)| 17:46| 17:49| 3分| -  
+15| [新余](/huoche/zhan/xinyu.htm)| 18:09| 18:13| 4分| -  
+17| [鹰潭](/huoche/zhan/yingtan.htm)| 20:41| 20:47| 6分| -  
+18| [上饶](/huoche/zhan/shangrao.htm)| 21:57| 22:01| 4分| -  
+19| [衢州](/huoche/zhan/quzhou.htm)| 23:41| 23:44| 3分| -  
+21| [杭州东](/huoche/zhan/hangzhoudong.htm)| 02:49| 02:55| 6分| -  
+22| [海宁](/huoche/zhan/haining.htm)| 03:34| 03:39| 5分| -  
+23| [嘉兴](/huoche/zhan/jiaxing.htm)| 03:57| 04:02| 5分| -  
+24| [上海南](/huoche/zhan/shanghainan.htm)| 05:16| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

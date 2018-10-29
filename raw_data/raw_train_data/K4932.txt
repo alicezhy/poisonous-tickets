@@ -1,0 +1,41 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从兰州开往平凉的K4932快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K4932 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 兰州  
+发车时间 | 10:20  
+到站时间 | 17:24  
+全程时间 | 7小时4分  
+终点站 | 平凉  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [兰州](/huoche/zhan/lanzhou.htm)| \----| 10:20| 0分| -  
+2| [定西](/huoche/zhan/dingxi.htm)| 11:36| 11:39| 3分| -  
+3| [陇西](/huoche/zhan/longxi.htm)| 12:32| 12:36| 4分| -  
+4| [天水](/huoche/zhan/tianshui.htm)| 14:39| 14:47| 8分| -  
+5| [清水县](/huoche/zhan/qingshuixian.htm)| 15:15| 15:17| 2分| -  
+6| [安口窑](/huoche/zhan/ankouyao.htm)| 16:34| 16:36| 2分| -  
+7| [平凉](/huoche/zhan/pingliang.htm)| 17:24| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

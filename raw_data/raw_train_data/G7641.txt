@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从南京南开往苍南的G7641高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7641 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 南京南  
+发车时间 | 07:13  
+到站时间 | 11:44  
+全程时间 | 4小时31分  
+终点站 | 苍南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [南京南](/huoche/zhan/nanjingnan.htm)| -| 07:13| 0分| -  
+2| [溧水](/huoche/zhan/lishui2.htm)| 07:29| 07:31| 2分| -  
+3| [宜兴](/huoche/zhan/yixing.htm)| 07:53| 07:55| 2分| -  
+4| [湖州](/huoche/zhan/huzhou.htm)| 08:11| 08:16| 5分| -  
+5| [德清](/huoche/zhan/deqing.htm)| 08:29| 08:31| 2分| -  
+6| [杭州东](/huoche/zhan/hangzhoudong.htm)| 08:44| 08:55| 11分| -  
+7| [诸暨](/huoche/zhan/zhuji.htm)| 09:20| 09:26| 6分| -  
+8| [金华南](/huoche/zhan/jinhuanan.htm)| 09:52| 09:54| 2分| -  
+9| [丽水](/huoche/zhan/lishui.htm)| 10:30| 10:32| 2分| -  
+10| [青田](/huoche/zhan/qingtian.htm)| 10:52| 10:54| 2分| -  
+11| [温州南](/huoche/zhan/wenzhounan.htm)| 11:12| 11:14| 2分| -  
+12| [瑞安](/huoche/zhan/ruian.htm)| 11:26| 11:28| 2分| -  
+13| [苍南](/huoche/zhan/cangnan.htm)| 11:44| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

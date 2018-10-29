@@ -1,0 +1,50 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从沈阳开往白河的K7397快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K7397 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 沈阳  
+发车时间 | 09:11  
+到站时间 | 22:29  
+全程时间 | 13小时18分  
+终点站 | 白河  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [沈阳](/huoche/zhan/shenyang3.htm)| \----| 09:11| 0分| -  
+2| [抚顺北](/huoche/zhan/fushunbei.htm)| 10:01| 10:11| 10分| -  
+3| [章党](/huoche/zhan/zhangdang.htm)| 10:27| 10:29| 2分| -  
+4| [南杂木](/huoche/zhan/nanzamu.htm)| 10:58| 11:00| 2分| -  
+5| [清原](/huoche/zhan/qingyuan.htm)| 11:50| 11:52| 2分| -  
+6| [山城镇](/huoche/zhan/shanchengzhen.htm)| 12:39| 12:41| 2分| -  
+7| [梅河口](/huoche/zhan/meihekou.htm)| 13:04| 13:28| 24分| -  
+8| [柳河](/huoche/zhan/liuhe2.htm)| 14:00| 14:03| 3分| -  
+9| [五道沟](/huoche/zhan/wudaogou.htm)| 14:33| 14:42| 9分| -  
+10| [三源浦](/huoche/zhan/sanyuanpu.htm)| 14:58| 15:02| 4分| -  
+11| [通化](/huoche/zhan/tonghua.htm)| 16:10| 16:27| 17分| -  
+12| [白山市](/huoche/zhan/baishanshi.htm)| 17:30| 17:38| 8分| -  
+13| [江源](/huoche/zhan/jiangyuan.htm)| 17:59| 18:01| 2分| -  
+14| [湾沟](/huoche/zhan/wangou.htm)| 18:41| 18:44| 3分| -  
+15| [松树镇](/huoche/zhan/songshuzhen.htm)| 19:15| 19:19| 4分| -  
+16| [氡泉](/huoche/zhan/氡Quan.htm)| 19:45| 19:47| 2分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

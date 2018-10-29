@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从牡丹江开往北京的T298特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | T298 |  
+---|---|---|---  
+车型 | 特快火车  
+始发站 | 牡丹江  
+发车时间 | 15:55  
+到站时间 | 10:50  
+全程时间 | 18小时55分  
+终点站 | 北京  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [牡丹江](/huoche/zhan/mudanjiang.htm)| \----| 15:55| 0分| -  
+2| [山市](/huoche/zhan/shanshi.htm)| 16:35| 16:37| 2分| -  
+3| [横道河子](/huoche/zhan/hengdaohezi.htm)| 17:02| 17:04| 2分| -  
+4| [亚布力](/huoche/zhan/yabuli.htm)| 17:48| 17:50| 2分| -  
+5| [苇河](/huoche/zhan/weihe.htm)| 18:06| 18:09| 3分| -  
+6| [尚志](/huoche/zhan/shangzhi.htm)| 18:44| 18:48| 4分| -  
+7| [哈尔滨东](/huoche/zhan/haerbindong.htm)| 20:42| 21:04| 22分| -  
+8| [长春](/huoche/zhan/changchun.htm)| 23:59| 00:06| 7分| -  
+9| [沈阳北](/huoche/zhan/shenyangbei.htm)| 02:45| 02:55| 10分| -  
+10| [山海关](/huoche/zhan/shanhaiguan.htm)| 07:04| 07:10| 6分| -  
+11| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 07:32| 07:38| 6分| -  
+12| [北戴河](/huoche/zhan/beidaihe.htm)| 07:57| 08:00| 3分| -  
+13| [唐山北](/huoche/zhan/tangshanbei.htm)| 09:14| 09:19| 5分| -  
+14| [北京](/huoche/zhan/beijing.htm)| 10:50| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

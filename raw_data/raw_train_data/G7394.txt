@@ -1,0 +1,46 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海虹桥开往南京南的G7394高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7394 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 上海虹桥  
+发车时间 | 18:18  
+到站时间 | 21:43  
+全程时间 | 3小时25分  
+终点站 | 南京南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| \----| 18:18| 0分| -  
+2| [松江南](/huoche/zhan/songjiangnan.htm)| 18:32| 18:41| 9分| -  
+3| [嘉善南](/huoche/zhan/jiashannan.htm)| 18:55| 18:57| 2分| -  
+4| [桐乡](/huoche/zhan/tongxiang.htm)| 19:12| 19:14| 2分| -  
+5| [杭州](/huoche/zhan/hangzhou.htm)| 19:39| 19:55| 16分| -  
+6| [德清](/huoche/zhan/deqing.htm)| 20:14| 20:16| 2分| -  
+7| [湖州](/huoche/zhan/huzhou.htm)| 20:29| 20:31| 2分| -  
+8| [长兴](/huoche/zhan/changxing.htm)| 20:40| 20:42| 2分| -  
+9| [宜兴](/huoche/zhan/yixing.htm)| 20:55| 20:57| 2分| -  
+10| [溧阳](/huoche/zhan/liyang.htm)| 21:08| 21:10| 2分| -  
+11| [溧水](/huoche/zhan/lishui2.htm)| 21:26| 21:28| 2分| -  
+12| [南京南](/huoche/zhan/nanjingnan.htm)| 21:43| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

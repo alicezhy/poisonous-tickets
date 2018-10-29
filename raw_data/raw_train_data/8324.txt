@@ -1,0 +1,40 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从信阳开往固始的8324普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 8324 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 信阳  
+发车时间 | 08:00  
+到站时间 | 11:11  
+全程时间 | 3小时11分  
+终点站 | 固始  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [信阳](/huoche/zhan/xinyang.htm)| -| 08:00| 0分| -  
+2| [罗山](/huoche/zhan/luoshan.htm)| 08:47| 08:49| 2分| -  
+3| [息县](/huoche/zhan/xixian2.htm)| 09:14| 09:16| 2分| -  
+4| [潢川](/huoche/zhan/huangchuan.htm)| 09:54| 10:09| 15分| -  
+5| [商城](/huoche/zhan/shangcheng.htm)| 10:47| 10:49| 2分| -  
+6| [固始](/huoche/zhan/gushi.htm)| 11:11| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

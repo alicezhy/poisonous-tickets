@@ -1,0 +1,52 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从上海虹桥开往太原南的G1952高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1952 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 上海虹桥  
+发车时间 | 08:10  
+到站时间 | 17:28  
+全程时间 | 9小时18分  
+终点站 | 太原南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| -| 08:10| 0分| -  
+2| [苏州北](/huoche/zhan/suzhoubei.htm)| 08:33| 08:35| 2分| -  
+3| [无锡东](/huoche/zhan/wuxidong.htm)| 08:45| 08:47| 2分| -  
+4| [镇江南](/huoche/zhan/zhenjiangnan.htm)| 09:17| 09:19| 2分| -  
+5| [南京南](/huoche/zhan/nanjingnan.htm)| 09:38| 09:40| 2分| -  
+6| [滁州](/huoche/zhan/chuzhou.htm)| 09:58| 10:07| 9分| -  
+7| [定远](/huoche/zhan/dingyuan.htm)| 10:25| 10:32| 7分| -  
+8| [徐州东](/huoche/zhan/xuzhoudong.htm)| 11:22| 11:24| 2分| -  
+9| [商丘](/huoche/zhan/shangqiu.htm)| 12:09| 12:12| 3分| -  
+10| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 13:02| 13:22| 20分| -  
+11| [新乡东](/huoche/zhan/xinxiangdong.htm)| 13:42| 13:44| 2分| -  
+12| [鹤壁东](/huoche/zhan/hebidong.htm)| 14:00| 14:02| 2分| -  
+13| [安阳东](/huoche/zhan/anyangdong.htm)| 14:17| 14:19| 2分| -  
+14| [邯郸东](/huoche/zhan/handandong.htm)| 14:36| 14:38| 2分| -  
+15| [高邑西](/huoche/zhan/gaoyixi.htm)| 15:07| 15:13| 6分| -  
+16| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 15:28| 15:56| 28分| -  
+17| [阳泉北](/huoche/zhan/yangquanbei.htm)| 16:38| 16:41| 3分| -  
+18| [太原南](/huoche/zhan/taiyuannan.htm)| 17:28| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

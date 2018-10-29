@@ -1,0 +1,58 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从重庆西开往上海虹桥的G1976高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G1976 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 重庆西  
+发车时间 | 09:10  
+到站时间 | 22:25  
+全程时间 | 13小时15分  
+终点站 | 上海虹桥  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [重庆西](/huoche/zhan/chongqingxi.htm)| -| 09:10| 0分| -  
+2| [永川东](/huoche/zhan/yongchuandong.htm)| 09:33| 09:35| 2分| -  
+3| [内江北](/huoche/zhan/neijiangbei.htm)| 09:59| 10:01| 2分| -  
+4| [成都东](/huoche/zhan/chengdudong.htm)| 10:42| 10:57| 15分| -  
+5| [德阳](/huoche/zhan/deyang.htm)| 11:20| 11:22| 2分| -  
+6| [绵阳](/huoche/zhan/mianyang.htm)| 11:39| 11:41| 2分| -  
+7| [江油](/huoche/zhan/jiangyou.htm)| 11:58| 12:00| 2分| -  
+8| [广元](/huoche/zhan/guangyuan.htm)| 12:40| 12:44| 4分| -  
+9| [汉中](/huoche/zhan/hanzhong.htm)| 13:27| 13:37| 10分| -  
+10| [西安北](/huoche/zhan/xianbei.htm)| 14:52| 14:57| 5分| -  
+11| [渭南北](/huoche/zhan/weinanbei.htm)| 15:14| 15:16| 2分| -  
+12| [华山北](/huoche/zhan/huashanbei.htm)| 15:35| 15:45| 10分| -  
+13| [洛阳龙门](/huoche/zhan/luoyanglongmen.htm)| 16:37| 16:39| 2分| -  
+14| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 17:17| 17:20| 3分| -  
+15| [民权北](/huoche/zhan/minquanbei.htm)| 17:59| 18:02| 3分| -  
+16| [永城北](/huoche/zhan/yongchengbei.htm)| 18:42| 18:44| 2分| -  
+17| [徐州东](/huoche/zhan/xuzhoudong.htm)| 19:11| 19:20| 9分| -  
+18| [宿州东](/huoche/zhan/suzhoudong.htm)| 19:39| 19:41| 2分| -  
+19| [蚌埠南](/huoche/zhan/bengbunan.htm)| 20:04| 20:13| 9分| -  
+20| [南京南](/huoche/zhan/nanjingnan.htm)| 20:55| 20:57| 2分| -  
+21| [镇江南](/huoche/zhan/zhenjiangnan.htm)| 21:16| 21:18| 2分| -  
+22| [无锡东](/huoche/zhan/wuxidong.htm)| 21:48| 21:50| 2分| -  
+23| [苏州北](/huoche/zhan/suzhoubei.htm)| 22:00| 22:02| 2分| -  
+24| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 22:25| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从徐州东开往苍南的G7599高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7599 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 徐州东  
+发车时间 | 07:43  
+到站时间 | 15:23  
+全程时间 | 7小时40分  
+终点站 | 苍南  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [徐州东](/huoche/zhan/xuzhoudong.htm)| -| 07:43| 0分| -  
+2| [宿州东](/huoche/zhan/suzhoudong.htm)| 08:01| 08:03| 2分| -  
+3| [蚌埠南](/huoche/zhan/bengbunan.htm)| 08:26| 08:28| 2分| -  
+4| [定远](/huoche/zhan/dingyuan.htm)| 08:44| 08:46| 2分| -  
+5| [滁州](/huoche/zhan/chuzhou.htm)| 09:04| 09:06| 2分| -  
+6| [南京南](/huoche/zhan/nanjingnan.htm)| 09:24| 09:32| 8分| -  
+7| [镇江南](/huoche/zhan/zhenjiangnan.htm)| 09:51| 09:57| 6分| -  
+8| [常州北](/huoche/zhan/changzhoubei.htm)| 10:14| 10:16| 2分| -  
+9| [无锡东](/huoche/zhan/wuxidong.htm)| 10:33| 10:35| 2分| -  
+10| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 11:04| 11:10| 6分| -  
+11| [嘉兴南](/huoche/zhan/jiaxingnan.htm)| 11:37| 11:39| 2分| -  
+12| [杭州东](/huoche/zhan/hangzhoudong.htm)| 12:03| 12:05| 2分| -  
+13| [绍兴北](/huoche/zhan/shaoxingbei.htm)| 12:24| 12:26| 2分| -  
+14| [余姚北](/huoche/zhan/yuyaobei.htm)| 12:44| 12:46| 2分| -  
+15| [宁波](/huoche/zhan/ningbo.htm)| 13:05| 13:12| 7分| -  
+16| [临海](/huoche/zhan/linhai.htm)| 13:58| 14:00| 2分| -  
+17| [台州](/huoche/zhan/taizhou2.htm)| 14:12| 14:14| 2分| -  
+18| [温州南](/huoche/zhan/wenzhounan.htm)| 14:57| 14:59| 2分| -  
+19| [苍南](/huoche/zhan/cangnan.htm)| 15:23| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

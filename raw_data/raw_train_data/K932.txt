@@ -1,0 +1,47 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从广州东开往襄阳的K932快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K932 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 广州东  
+发车时间 | 15:08  
+到站时间 | 09:55  
+全程时间 | 18小时47分  
+终点站 | 襄阳  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [广州东](/huoche/zhan/guangzhoudong.htm)| \----| 15:08| 0分| -  
+2| [韶关东](/huoche/zhan/shaoguandong.htm)| 17:34| 17:40| 6分| -  
+3| [郴州](/huoche/zhan/chenzhou.htm)| 19:22| 19:32| 10分| -  
+4| [衡阳](/huoche/zhan/hengyang.htm)| 21:17| 21:25| 8分| -  
+5| [长沙](/huoche/zhan/changsha.htm)| 23:45| 00:05| 20分| -  
+6| [益阳](/huoche/zhan/yiyang.htm)| 01:11| 01:17| 6分| -  
+7| [常德](/huoche/zhan/changde.htm)| 02:17| 02:23| 6分| -  
+8| [石门县北](/huoche/zhan/shimenxianbei.htm)| 03:22| 03:42| 20分| -  
+9| [松滋](/huoche/zhan/songzi.htm)| 05:07| 05:10| 3分| -  
+10| [宜昌东](/huoche/zhan/yichangdong.htm)| 06:24| 07:00| 36分| -  
+11| [当阳](/huoche/zhan/dangyang.htm)| 07:42| 07:44| 2分| -  
+12| [荆门](/huoche/zhan/jingmen.htm)| 08:21| 08:24| 3分| -  
+13| [襄阳](/huoche/zhan/xiangyang2.htm)| 09:55| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

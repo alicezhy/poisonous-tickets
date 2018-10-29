@@ -1,0 +1,64 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从通辽开往上海的4310普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 4310 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 通辽  
+发车时间 | 12:28  
+到站时间 | 18:15  
+全程时间 | 29小时47分  
+终点站 | 上海  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [通辽](/huoche/zhan/tongliao.htm)| \----| 12:28| 0分| -  
+2| [甘旗卡](/huoche/zhan/ganqika.htm)| 13:18| 13:21| 3分| -  
+3| [彰武](/huoche/zhan/zhangwu.htm)| 14:06| 14:10| 4分| -  
+4| [新立屯](/huoche/zhan/xinlitun.htm)| 14:47| 14:52| 5分| -  
+5| [阜新南](/huoche/zhan/fuxinnan.htm)| 15:54| 16:45| 51分| -  
+6| [清河门](/huoche/zhan/qinghemen.htm)| 17:16| 17:19| 3分| -  
+7| [义县](/huoche/zhan/yixian.htm)| 17:50| 17:53| 3分| -  
+9| [锦州](/huoche/zhan/jinzhou.htm)| 18:41| 19:04| 23分| -  
+10| [葫芦岛](/huoche/zhan/huludao.htm)| 19:37| 19:39| 2分| -  
+11| [兴城](/huoche/zhan/xingcheng.htm)| 19:55| 19:57| 2分| -  
+12| [绥中](/huoche/zhan/suizhong2.htm)| 20:28| 20:30| 2分| -  
+13| [山海关](/huoche/zhan/shanhaiguan.htm)| 21:17| 21:23| 6分| -  
+15| [滦县](/huoche/zhan/luanxian.htm)| 22:37| 22:53| 16分| -  
+16| [唐山](/huoche/zhan/tangshan.htm)| 23:44| 00:07| 23分| -  
+17| [天津](/huoche/zhan/tianjin.htm)| 01:31| 01:38| 7分| -  
+19| [沧州](/huoche/zhan/cangzhou.htm)| 02:58| 03:03| 5分| -  
+20| [德州](/huoche/zhan/dezhou.htm)| 04:19| 04:21| 2分| -  
+21| [济南](/huoche/zhan/jinan.htm)| 05:50| 06:01| 11分| -  
+22| [泰山](/huoche/zhan/taishan.htm)| 06:54| 06:56| 2分| -  
+23| [兖州](/huoche/zhan/yanzhou.htm)| 07:54| 07:56| 2分| -  
+24| [滕州](/huoche/zhan/tengzhou.htm)| 08:34| 08:38| 4分| -  
+25| [徐州](/huoche/zhan/xuzhou.htm)| 09:56| 10:05| 9分| -  
+26| [宿州](/huoche/zhan/suzhou2.htm)| 10:52| 11:01| 9分| -  
+27| [蚌埠](/huoche/zhan/bengbu.htm)| 12:00| 12:03| 3分| -  
+28| [滁州北](/huoche/zhan/chuzhoubei.htm)| 13:21| 13:24| 3分| -  
+29| [南京](/huoche/zhan/nanjing.htm)| 14:08| 14:17| 9分| -  
+30| [丹阳](/huoche/zhan/danyang.htm)| 15:14| 15:17| 3分| -  
+31| [常州](/huoche/zhan/changzhou.htm)| 15:46| 15:49| 3分| -  
+33| [苏州](/huoche/zhan/suzhou.htm)| 16:49| 16:53| 4分| -  
+34| [上海](/huoche/zhan/shanghai.htm)| 18:15| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

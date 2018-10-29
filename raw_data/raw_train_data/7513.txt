@@ -1,0 +1,65 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从长庆桥开往银川的7513普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | 7513 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 长庆桥  
+发车时间 | 08:59  
+到站时间 | 22:06  
+全程时间 | 13小时7分  
+终点站 | 银川  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [长庆桥](/huoche/zhan/changqingqiao.htm)| -| 08:59| 0分| -  
+2| [泾川](/huoche/zhan/jingchuan.htm)| 09:39| 09:40| 1分| -  
+3| [平凉南](/huoche/zhan/pingliangnan.htm)| 10:35| 10:36| 1分| -  
+4| [平凉](/huoche/zhan/pingliang.htm)| 10:51| 10:57| 6分| -  
+5| [新李](/huoche/zhan/xinli.htm)| 11:11| 11:12| 1分| -  
+6| [三关口](/huoche/zhan/sanguankou.htm)| 11:41| 11:43| 2分| -  
+7| [六盘山](/huoche/zhan/liupanshan.htm)| 12:01| 12:02| 1分| -  
+8| [彭阳](/huoche/zhan/pengyang.htm)| 12:17| 12:18| 1分| -  
+9| [固原](/huoche/zhan/guyuan.htm)| 12:48| 12:50| 2分| -  
+10| [沈家河](/huoche/zhan/shenjiahe.htm)| 13:00| 13:01| 1分| -  
+11| [二营](/huoche/zhan/erying.htm)| 13:12| 13:13| 1分| -  
+12| [三营](/huoche/zhan/sanying.htm)| 13:27| 13:29| 2分| -  
+13| [褚家湾](/huoche/zhan/zhujiawan.htm)| 13:40| 13:41| 1分| -  
+14| [七营](/huoche/zhan/qiying.htm)| 13:55| 13:57| 2分| -  
+15| [韩府湾](/huoche/zhan/hanfuwan.htm)| 14:09| 14:11| 2分| -  
+16| [李旺](/huoche/zhan/liwang.htm)| 14:22| 14:24| 2分| -  
+17| [土桥子](/huoche/zhan/tuqiaozi.htm)| 14:35| 14:37| 2分| -  
+18| [王团庄](/huoche/zhan/wangtuanzhuang.htm)| 14:48| 15:29| 41分| -  
+19| [同心](/huoche/zhan/tongxin.htm)| 15:40| 15:49| 9分| -  
+20| [石坝](/huoche/zhan/shiba.htm)| 16:00| 16:01| 1分| -  
+21| [艾家村](/huoche/zhan/aijiacun.htm)| 16:12| 16:13| 1分| -  
+22| [长农](/huoche/zhan/changnong.htm)| 16:24| 16:25| 1分| -  
+23| [中宁南](/huoche/zhan/zhongningnan.htm)| 16:36| 16:37| 1分| -  
+24| [大战场](/huoche/zhan/dazhanchang.htm)| 16:48| 16:51| 3分| -  
+25| [宣和](/huoche/zhan/xuanhe.htm)| 17:02| 17:03| 1分| -  
+26| [中卫](/huoche/zhan/zhongwei.htm)| 17:32| 17:51| 19分| -  
+28| [中宁](/huoche/zhan/zhongning.htm)| 18:40| 18:46| 6分| -  
+29| [青铜峡](/huoche/zhan/qingtongxia.htm)| 20:24| 20:29| 5分| -  
+30| [大坝](/huoche/zhan/daba3.htm)| 20:51| 20:53| 2分| -  
+31| [黄羊滩](/huoche/zhan/huangyangtan.htm)| 21:34| 21:35| 1分| -  
+32| [银川](/huoche/zhan/yinchuan.htm)| 22:06| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

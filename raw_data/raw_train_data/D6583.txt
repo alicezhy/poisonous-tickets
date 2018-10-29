@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从赣州开往厦门的D6583动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D6583 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 赣州  
+发车时间 | 12:09  
+到站时间 | 15:46  
+全程时间 | 3小时37分  
+终点站 | 厦门  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [赣州](/huoche/zhan/ganzhou.htm)| \----| 12:09| 0分| -  
+2| [于都](/huoche/zhan/yudu.htm)| 12:36| 12:38| 2分| -  
+4| [瑞金](/huoche/zhan/ruijin.htm)| 13:05| 13:07| 2分| -  
+5| [长汀南](/huoche/zhan/changtingnan.htm)| 13:23| 13:25| 2分| -  
+6| [冠豸山](/huoche/zhan/guanzhishan.htm)| 13:43| 13:45| 2分| -  
+7| [古田会址](/huoche/zhan/gutianhuizhi.htm)| 14:02| 14:04| 2分| -  
+8| [龙岩](/huoche/zhan/longyan.htm)| 14:19| 14:23| 4分| -  
+9| [南靖](/huoche/zhan/nanjing2.htm)| 14:55| 14:57| 2分| -  
+10| [漳州](/huoche/zhan/zhangzhou.htm)| 15:12| 15:14| 2分| -  
+11| [厦门](/huoche/zhan/xiamen.htm)| 15:46| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

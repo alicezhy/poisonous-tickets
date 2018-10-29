@@ -1,0 +1,44 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从西安北开往北京西的G658高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G658 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 西安北  
+发车时间 | 12:44  
+到站时间 | 18:26  
+全程时间 | 5小时42分  
+终点站 | 北京西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [西安北](/huoche/zhan/xianbei.htm)| \----| 12:44| 0分| -  
+2| [渭南北](/huoche/zhan/weinanbei.htm)| 13:01| 13:03| 2分| -  
+3| [渑池南](/huoche/zhan/mianchinan.htm)| 13:56| 13:58| 2分| -  
+4| [洛阳龙门](/huoche/zhan/luoyanglongmen.htm)| 14:16| 14:18| 2分| -  
+5| [郑州东](/huoche/zhan/zhengzhoudong.htm)| 14:56| 15:09| 13分| -  
+6| [安阳东](/huoche/zhan/anyangdong.htm)| 15:50| 16:06| 16分| -  
+7| [邯郸东](/huoche/zhan/handandong.htm)| 16:23| 16:25| 2分| -  
+8| [石家庄](/huoche/zhan/shijiazhuang2.htm)| 17:04| 17:08| 4分| -  
+9| [保定东](/huoche/zhan/baodingdong.htm)| 17:43| 17:45| 2分| -  
+10| [北京西](/huoche/zhan/beijingxi.htm)| 18:26| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

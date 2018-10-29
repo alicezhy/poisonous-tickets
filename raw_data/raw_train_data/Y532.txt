@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从石家庄北开往沙岭子西的Y532普客火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | Y532 |  
+---|---|---|---  
+车型 | 普客火车  
+始发站 | 石家庄北  
+发车时间 | 06:16  
+到站时间 | 19:50  
+全程时间 | 13小时34分  
+终点站 | 沙岭子西  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [石家庄北](/huoche/zhan/shijiazhuangbei.htm)| -| 06:16| 0分| -  
+2| [辛集](/huoche/zhan/xinji.htm)| 07:07| 07:11| 4分| -  
+3| [衡水](/huoche/zhan/hengshui.htm)| 07:47| 07:51| 4分| -  
+4| [德州](/huoche/zhan/dezhou.htm)| 08:46| 09:16| 30分| -  
+5| [吴桥](/huoche/zhan/wuqiao.htm)| 09:32| 09:46| 14分| -  
+6| [东光](/huoche/zhan/dongguang.htm)| 10:07| 10:11| 4分| -  
+7| [泊头](/huoche/zhan/botou.htm)| 10:25| 10:28| 3分| -  
+8| [沧州](/huoche/zhan/cangzhou.htm)| 10:52| 10:58| 6分| -  
+9| [青县](/huoche/zhan/qingxian.htm)| 11:18| 11:31| 13分| -  
+10| [静海](/huoche/zhan/jinghai.htm)| 11:59| 12:02| 3分| -  
+11| [天津西](/huoche/zhan/tianjinxi.htm)| 12:41| 12:47| 6分| -  
+12| [杨村](/huoche/zhan/yangcun.htm)| 13:12| 13:14| 2分| -  
+13| [廊坊北](/huoche/zhan/langfangbei.htm)| 13:41| 13:44| 3分| -  
+14| [北京西](/huoche/zhan/beijingxi.htm)| 14:34| 14:53| 19分| -  
+15| [三家店](/huoche/zhan/sanjiadian.htm)| 15:32| 15:45| 13分| -  
+16| [官厅西](/huoche/zhan/guantingxi.htm)| 16:59| 17:47| 48分| -  
+17| [沙城](/huoche/zhan/shacheng.htm)| 18:12| 18:14| 2分| -  
+18| [下花园](/huoche/zhan/xiahuayuan.htm)| 18:41| 18:55| 14分| -  
+19| [宣化](/huoche/zhan/xuanhua.htm)| 19:21| 19:28| 7分| -  
+20| [沙岭子西](/huoche/zhan/shalingzixi.htm)| 19:50| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

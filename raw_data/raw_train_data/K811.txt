@@ -1,0 +1,54 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从广州开往达州的K811快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K811 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 广州  
+发车时间 | 13:57  
+到站时间 | 16:18  
+全程时间 | 26小时21分  
+终点站 | 达州  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [广州](/huoche/zhan/guangzhou.htm)| \----| 13:57| 0分| -  
+2| [广州北](/huoche/zhan/guangzhoubei.htm)| 14:19| 14:21| 2分| -  
+3| [韶关东](/huoche/zhan/shaoguandong.htm)| 16:21| 16:27| 6分| -  
+5| [郴州](/huoche/zhan/chenzhou.htm)| 18:06| 18:12| 6分| -  
+6| [衡阳](/huoche/zhan/hengyang.htm)| 19:57| 20:03| 6分| -  
+7| [株洲](/huoche/zhan/zhuzhou.htm)| 21:28| 21:40| 12分| -  
+8| [湘潭](/huoche/zhan/xiangtan2.htm)| 22:05| 22:08| 3分| -  
+9| [娄底](/huoche/zhan/loudi.htm)| 23:20| 23:25| 5分| -  
+10| [新化](/huoche/zhan/xinhua.htm)| 00:36| 00:41| 5分| -  
+11| [怀化](/huoche/zhan/huaihua.htm)| 03:43| 03:55| 12分| -  
+12| [铜仁](/huoche/zhan/tongren.htm)| 05:27| 05:33| 6分| -  
+13| [秀山](/huoche/zhan/xiushan.htm)| 07:07| 07:14| 7分| -  
+14| [酉阳](/huoche/zhan/youyang.htm)| 07:56| 07:59| 3分| -  
+16| [彭水](/huoche/zhan/pengshui.htm)| 09:53| 10:01| 8分| -  
+18| [涪陵](/huoche/zhan/fuling.htm)| 11:23| 11:28| 5分| -  
+19| [重庆北](/huoche/zhan/chongqingbei.htm)| 12:50| 13:21| 31分| -  
+21| [华蓥](/huoche/zhan/huaning.htm)| 14:26| 14:31| 5分| -  
+22| [广安](/huoche/zhan/guangan.htm)| 14:46| 14:51| 5分| -  
+23| [渠县](/huoche/zhan/quxian.htm)| 15:19| 15:25| 6分| -  
+24| [达州](/huoche/zhan/dazhou.htm)| 16:18| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

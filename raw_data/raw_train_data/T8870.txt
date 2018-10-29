@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从攀枝花开往江油的T8870特快火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | T8870 |  
+---|---|---|---  
+车型 | 特快火车  
+始发站 | 攀枝花  
+发车时间 | 16:29  
+到站时间 | 09:29  
+全程时间 | 17小时0分  
+终点站 | 江油  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [攀枝花](/huoche/zhan/panzhihua.htm)| -| 16:29| 0分| -  
+2| [米易](/huoche/zhan/miyi.htm)| 17:18| 17:34| 16分| -  
+3| [西昌](/huoche/zhan/xichang.htm)| 19:29| 19:38| 9分| -  
+4| [冕宁](/huoche/zhan/mianning.htm)| 20:16| 20:19| 3分| -  
+5| [普雄](/huoche/zhan/puxiong.htm)| 22:40| 22:54| 14分| -  
+6| [成都](/huoche/zhan/chengdu.htm)| 06:26| 07:10| 44分| -  
+8| [绵阳](/huoche/zhan/mianyang.htm)| 08:46| 08:52| 6分| -  
+9| [江油](/huoche/zhan/jiangyou.htm)| 09:29| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

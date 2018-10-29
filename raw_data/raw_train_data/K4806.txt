@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从杭州开往灵宝的K4806快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K4806 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 杭州  
+发车时间 | 12:15  
+到站时间 | 13:18  
+全程时间 | 25小时3分  
+终点站 | 灵宝  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [杭州](/huoche/zhan/hangzhou.htm)| -| 12:15| 0分| -  
+2| [嘉兴](/huoche/zhan/jiaxing.htm)| 13:09| 13:13| 4分| -  
+3| [嘉善](/huoche/zhan/jiashan.htm)| 13:26| 13:30| 4分| -  
+4| [上海](/huoche/zhan/shanghai.htm)| 15:31| 16:09| 38分| -  
+5| [苏州](/huoche/zhan/suzhou.htm)| 17:23| 17:28| 5分| -  
+6| [无锡](/huoche/zhan/wuxi.htm)| 17:59| 18:03| 4分| -  
+7| [丹阳](/huoche/zhan/danyang.htm)| 20:04| 20:58| 54分| -  
+8| [镇江](/huoche/zhan/zhenjiang.htm)| 21:18| 21:31| 13分| -  
+9| [南京](/huoche/zhan/nanjing.htm)| 22:32| 22:42| 10分| -  
+10| [蚌埠](/huoche/zhan/bengbu.htm)| 01:33| 01:41| 8分| -  
+11| [徐州](/huoche/zhan/xuzhou.htm)| 03:55| 04:07| 12分| -  
+12| [商丘](/huoche/zhan/shangqiu.htm)| 05:54| 05:59| 5分| -  
+13| [兰考](/huoche/zhan/lankao.htm)| 06:55| 06:59| 4分| -  
+14| [开封](/huoche/zhan/kaifeng.htm)| 07:30| 07:35| 5分| -  
+15| [郑州](/huoche/zhan/zhengzhou.htm)| 08:21| 08:42| 21分| -  
+16| [洛阳](/huoche/zhan/luoyang.htm)| 10:13| 10:21| 8分| -  
+17| [三门峡](/huoche/zhan/sanmenxia2.htm)| 11:59| 12:03| 4分| -  
+18| [三门峡西](/huoche/zhan/sanmenxiaxi.htm)| 12:25| 12:50| 25分| -  
+19| [灵宝](/huoche/zhan/lingbao.htm)| 13:18| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

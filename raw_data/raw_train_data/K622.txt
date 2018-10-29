@@ -1,0 +1,53 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从西宁开往武昌的K622快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K622 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 西宁  
+发车时间 | 13:00  
+到站时间 | 16:15  
+全程时间 | 27小时15分  
+终点站 | 武昌  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [西宁](/huoche/zhan/xining.htm)| -| 13:00| 0分| -  
+2| [乐都](/huoche/zhan/ledu.htm)| 13:50| 13:56| 6分| -  
+3| [海石湾](/huoche/zhan/haishiwan.htm)| 14:27| 14:33| 6分| -  
+4| [兰州](/huoche/zhan/lanzhou.htm)| 15:59| 16:15| 16分| -  
+5| [定西](/huoche/zhan/dingxi.htm)| 17:31| 17:34| 3分| -  
+6| [陇西](/huoche/zhan/longxi.htm)| 18:27| 18:30| 3分| -  
+7| [天水](/huoche/zhan/tianshui.htm)| 20:34| 20:40| 6分| -  
+8| [宝鸡](/huoche/zhan/baoji.htm)| 23:18| 23:36| 18分| -  
+9| [西安](/huoche/zhan/xian.htm)| 01:23| 01:33| 10分| -  
+10| [商南](/huoche/zhan/shangnan.htm)| 05:32| 05:42| 10分| -  
+11| [西峡](/huoche/zhan/xixia2.htm)| 06:29| 06:33| 4分| -  
+12| [内乡](/huoche/zhan/naxiang.htm)| 07:01| 07:05| 4分| -  
+13| [镇平](/huoche/zhan/zhenping.htm)| 07:27| 07:31| 4分| -  
+14| [襄阳东](/huoche/zhan/xiangyangdong.htm)| 10:45| 10:57| 12分| -  
+15| [枣阳](/huoche/zhan/zaoyang.htm)| 11:33| 11:36| 3分| -  
+16| [随州](/huoche/zhan/suizhou.htm)| 12:26| 12:30| 4分| -  
+17| [安陆](/huoche/zhan/anlu.htm)| 13:06| 13:10| 4分| -  
+18| [云梦](/huoche/zhan/yunmeng.htm)| 13:27| 13:32| 5分| -  
+19| [武昌](/huoche/zhan/wuchang.htm)| 16:15| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

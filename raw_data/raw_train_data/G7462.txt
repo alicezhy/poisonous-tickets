@@ -1,0 +1,43 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从温州南开往上海虹桥的G7462高铁时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | G7462 |  
+---|---|---|---  
+车型 | 高铁  
+始发站 | 温州南  
+发车时间 | 19:49  
+到站时间 | 23:05  
+全程时间 | 3小时16分  
+终点站 | 上海虹桥  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [温州南](/huoche/zhan/wenzhounan.htm)| \----| 19:49| 0分| -  
+2| [青田](/huoche/zhan/qingtian.htm)| 20:08| 20:10| 2分| -  
+3| [丽水](/huoche/zhan/lishui.htm)| 20:29| 20:31| 2分| -  
+4| [缙云西](/huoche/zhan/jinyunxi.htm)| 20:44| 20:46| 2分| -  
+5| [永康南](/huoche/zhan/yongkangnan.htm)| 20:57| 20:59| 2分| -  
+6| [金华南](/huoche/zhan/jinhuanan.htm)| 21:17| 21:19| 2分| -  
+7| [义乌](/huoche/zhan/yiwu.htm)| 21:37| 21:39| 2分| -  
+8| [杭州东](/huoche/zhan/hangzhoudong.htm)| 22:12| 22:20| 8分| -  
+9| [上海虹桥](/huoche/zhan/shanghaihongqiao.htm)| 23:05| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

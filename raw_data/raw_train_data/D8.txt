@@ -1,0 +1,42 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从沈阳北开往北京的D8动车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | D8 |  
+---|---|---|---  
+车型 | 动车  
+始发站 | 沈阳北  
+发车时间 | 08:07  
+到站时间 | 13:16  
+全程时间 | 5小时9分  
+终点站 | 北京  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [沈阳北](/huoche/zhan/shenyangbei.htm)| -| 08:07| 0分| -  
+2| [盘锦北](/huoche/zhan/panjinbei.htm)| 09:05| 09:06| 1分| -  
+3| [锦州南](/huoche/zhan/jinzhounan.htm)| 09:30| 09:31| 1分| -  
+4| [葫芦岛北](/huoche/zhan/huludaobei.htm)| 09:47| 09:48| 1分| -  
+5| [山海关](/huoche/zhan/shanhaiguan.htm)| 10:34| 10:35| 1分| -  
+6| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 10:51| 10:54| 3分| -  
+7| [北戴河](/huoche/zhan/beidaihe.htm)| 11:10| 11:13| 3分| -  
+8| [北京](/huoche/zhan/beijing.htm)| 13:16| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+

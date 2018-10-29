@@ -1,0 +1,48 @@
+[![](/jt2345.gif)](http://www.jt2345.com/)
+
+* [车次列表](/huoche/checi/)
+* [车站列表](/huoche/zhan/)
+* [站站列表](/huoche/zhanzhan/)
+* [火车票代售点](/huoche/spd/)
+
+从太原开往秦皇岛的K520快速火车时刻表
+
+火  
+车  
+时  
+刻  
+表 | 车次 | K520 |  
+---|---|---|---  
+车型 | 快速火车  
+始发站 | 太原  
+发车时间 | 18:25  
+到站时间 | 09:39  
+全程时间 | 15小时14分  
+终点站 | 秦皇岛  
+总里程 |  
+更新时间 | 2018年10月05日  
+**站次** | **车站** | **到达时间** | **开车时间** | **停留时间** | **里程**  
+---|---|---|---|---|---  
+1| [太原](/huoche/zhan/taiyuan.htm)| \----| 18:25| 0分| -  
+2| [阳泉北](/huoche/zhan/yangquanbei.htm)| 19:58| 20:11| 13分| -  
+3| [石家庄北](/huoche/zhan/shijiazhuangbei.htm)| 21:16| 22:04| 48分| -  
+4| [晋州](/huoche/zhan/jinzhou4.htm)| 22:43| 22:56| 13分| -  
+5| [辛集](/huoche/zhan/xinji.htm)| 23:11| 23:13| 2分| -  
+6| [衡水](/huoche/zhan/hengshui.htm)| 23:50| 00:08| 18分| -  
+7| [德州](/huoche/zhan/dezhou.htm)| 00:58| 01:26| 28分| -  
+8| [沧州](/huoche/zhan/cangzhou.htm)| 02:42| 02:46| 4分| -  
+9| [天津](/huoche/zhan/tianjin.htm)| 04:30| 04:49| 19分| -  
+10| [唐山](/huoche/zhan/tangshan.htm)| 06:09| 06:13| 4分| -  
+11| [滦县](/huoche/zhan/luanxian.htm)| 07:38| 07:40| 2分| -  
+12| [昌黎](/huoche/zhan/changli.htm)| 08:49| 08:58| 9分| -  
+13| [北戴河](/huoche/zhan/beidaihe.htm)| 09:18| 09:21| 3分| -  
+14| [秦皇岛](/huoche/zhan/qinhuangdao.htm)| 09:39| -| 0分| -  
+[车站查询](/huoche/Zhan/)  
+---  
+[车次查询](/huoche/Checi/) | [站站查询](/huoche/ZhanZhan/) 出发站: 到达站:  
+  
+Copyright©2018 www.JT2345.com [交通2345](http://www.jt2345.com/) All Rights
+Reserved  ![](/2864050.gif)  
+本站数据仅供参考,如有变动,以火车站售票处信息为准  
+  
+
