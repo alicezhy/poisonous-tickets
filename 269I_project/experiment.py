@@ -38,11 +38,13 @@ class Request_generator:
 
 
 # Main function of Experiment
-def counduct_experiment(railway_system, num_requests, verbose=False):
+def counduct_online_experiment(railway_system, num_requests, verbose=False):
 	request_generator = Request_generator(railway_system)
+	all_requests = [] # Store all the requests for analysis purpose (e.g. run them off-line)
 	for count in range(num_requests):
 		# Generate a request
 		x, y = request_generator.generate_request_single_mode()
+		all_requests.append((x, y))
 		# Look at all choices - a list of (train, price)
 		all_choices = railway_system.get_ticket_availability(x, y)
 		if len(all_choices) == 0:
@@ -73,7 +75,40 @@ def counduct_experiment(railway_system, num_requests, verbose=False):
 				print ("Request #%d: ticket from %s to %s; result Rejected." % \
 					(count, name_start, name_end))
 	efficiency, fairness = railway_system.calculate_efficiency_and_fairness()
-	return efficiency, fairness, railway_system.request_records
+	return efficiency, fairness, railway_system.request_records, all_requests
+
+
+# Main function of benchmark experiments
+def conduct_benchmark(railway_system, all_requests, online=True, long_first=True):
+	def request_length(pair):
+		return pair[1] - pair[0]
+	if not online:
+		all_requests.sort(key = request_length, reverse = long_first)
+	for request in all_requests:
+		x = request[0]
+		y = request[1]
+		all_choices = railway_system.get_ticket_availability(x, y)
+		if len(all_choices) == 0:
+			result, price = railway_system.respond_to_request(None, x, y)
+		else:
+			# Randomly shuffle the choices (to enforce the randomness of tie-breaker)
+			random.shuffle(all_choices)
+			# Pick a ticket according to how many stops in between
+			min_stops = 1e10
+			best_train = None
+			for c in all_choices:
+				num_stops = railway_system.get_num_stops_between_stations(train = c[0], start_station = x, end_station = y)
+				if num_stops < min_stops:
+					min_stops = num_stops
+					best_train = c[0]
+			result, price = railway_system.respond_to_request(best_train, x, y)
+			if result:
+				for pair in all_choices:
+					if pair[0] == best_train:
+						assert (pair[1] == price)
+	efficiency, _ = railway_system.calculate_efficiency_and_fairness()
+	return efficiency
+
 
 if __name__ == "__main__":
 	# Parse all arguments
@@ -95,10 +130,25 @@ if __name__ == "__main__":
 
 	# Load the railway system and counselor
 	counselor = __import__(counselor_name).counselor
-	railway_system = Railway_system(train_data_dir, capacity_per_train, power_type, mode, counselor)
 
-	# conduct experiment
+	# conduct online experiment by picking trains based on prices (probablistic)
+	railway_system = Railway_system(train_data_dir, capacity_per_train, power_type, mode, counselor)
 	num_trains = len(railway_system.trains_name)
 	num_requests = int(round(num_requests_coef * capacity_per_train * num_trains))
-	efficiency, fairness, requests_recod = counduct_experiment(railway_system, num_requests, True)
-	print ("Strategy: %s; efficiency = %.3lf, fairness = %.3lf" % (counselor_name, efficiency, fairness))
+	efficiency, fairness, requests_recod, all_requests = counduct_online_experiment(railway_system, num_requests, True)
+	print ("Online Strategy: %s; efficiency = %.3lf, fairness = %.3lf" % (counselor_name, efficiency, fairness))
+
+	# conduct online experiment by FCFS + picking the train with minimum stops in between (in ties, pick a random one)
+	# Use the same requests as generated before
+	railway_system = Railway_system(train_data_dir, capacity_per_train, power_type, mode, counselor)
+	efficiency = conduct_benchmark(railway_system, all_requests[:], online = True)
+	print ("Online Strategy with min-stops: efficiency = %.3lf" % efficiency)
+
+	# conduct offline experiment
+	# In offline experiment, we don't really care about fairness (there's no fairness), but we want to maximize efficiency
+	railway_system = Railway_system(train_data_dir, capacity_per_train, power_type, mode, counselor)
+	efficiency = conduct_benchmark(railway_system, all_requests[:], online = False, long_first = True)
+	print ("Offline Strategy with long-trips first: efficiency = %.3lf" % efficiency)
+	railway_system = Railway_system(train_data_dir, capacity_per_train, power_type, mode, counselor)
+	efficiency = conduct_benchmark(railway_system, all_requests[:], online = False, long_first = False)
+	print ("Offline Strategy with short-trips first: efficiency = %.3lf" % efficiency)

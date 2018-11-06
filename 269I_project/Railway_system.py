@@ -83,6 +83,9 @@ class Railway_system:
 			if self.trains_info[train][i, 0] == station: return i
 		return None
 
+	def get_num_stops_between_stations(self, train, start_station, end_station):
+		return self.find_train_station_index(train, end_station) - self.find_train_station_index(train, start_station)
+
 	# Regardless of the capacity, check whether there's some train that has a ticket from start_station to end_station. The principle is that, if there's no train at all, this request is void and we re-generate; otherwise this request is legal and we reject it because of no capacity.
 	# NOT IN USE
 	def check_pair_connectivity(self, start_station, end_station):
