@@ -1,0 +1,14 @@
+Problem - How vulnerable is the railroad system towards multiple external shocks?
+
+Quantitative metric - Given all the trains, assume that we could destroy at most K primitive railroad blocks, how many trains, at most, will be affected?
+
+Assumptions - 
+	1. All trains (which will likely to skip many stops), between consecutive stops, will always follow the shortest distance path
+	2. Since we don't have information about the length of each railroad, assume that for each block, the distance is proportional to the shortest time taken to pass this block (and the two ends are both stops)
+
+Algorithms - 
+	1. For each edge, calculate the set of trains affected. Randomly sample ~10000 times (of K random edges), pick the maximum set.
+	2. (Inspired by Influence Maximization) For each edge, calculate the set of trains affected. Randomly sample starting set, and iterate K times, each time pick the railroad with maximum marginal gain.
+	3. (Inspired by K-means algorithm)
+	4. (Inspired by Weighted Min-K-cut) For each edge, calculate how many trains are affected, use that as the weight of edge. Calculate the weighted-min-K-cut; for each component, pick one edge that affect the most, assuming that all components are very independent.
+	5. (Edge-shrinking, Inspired by the degree distribution of railroad map) Calculate the "importance" of each edge by the number of trains passing it. Shrink all the neighboring edges with equal (or similar) "importance", and the degree of the middle point is 2. This graph should be much smaller. 
